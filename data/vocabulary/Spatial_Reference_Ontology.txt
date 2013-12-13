@@ -1,0 +1,119 @@
+inferior
+related
+upper/lower axis
+lower
+has_axis
+upper/lower compartment boundary
+upper
+upper-lower gradient
+posterior region
+lateral margin
+proximal margin
+posterior
+exact
+anterior
+opposite_to
+postero-dorsal margin
+has_position
+postero-ventral margin
+posterior surface
+posterior margin
+anatomical gradient
+apical-basal gradient
+develops_from
+deep-superficial gradient
+is_a
+proximal-distal gradient
+part_of
+dorsal-ventral gradient
+anterior-posterior gradient
+ventral
+antero-ventral margin
+ventral surface
+ventro-lateral margin
+ventral region
+ventral margin
+ventro-lateral region
+dorsal
+horizontal section
+anatomical axis
+anterior/posterior axis
+dorsal/ventral axis
+left/right axis
+proximal/distal axis
+apical/basal axis
+deep/superficial axis
+superficial
+deep/superficial compartment boundary
+deep
+superior
+dorsal region
+medial margin
+right
+basal surface
+ipsilateral
+ipsilateral surface
+ipsilateral region
+lateral region
+orthogonal_to
+anatomical compartment boundary
+anterior/posterior compartment boundary
+dorsal/ventral compartment boundary
+apical/basal compartment boundary
+proximal/distal compartment boundary
+left
+dorso-lateral margin
+proximal
+proximal region
+proximal surface
+distal margin
+anterior compartment
+compartment boundary
+basal region
+parasagittal section
+basal
+apical
+basal margin
+posterior compartment
+upper region
+midsaggital section
+anatomical axis direction
+medial
+central
+distal
+lateral
+contralateral
+anatomical margin
+dorsal margin
+anterior margin
+apical margin
+antero-dorsal margin
+anterior region
+anterior surface
+dorsal compartment
+dorsal surface
+anatomical section
+alt_id
+transverse section
+sagittal section
+lower region
+medial surface
+contralateral region
+superficial region
+deep region
+distal surface
+contralateral surface
+apical surface
+apical region
+anatomical compartment
+ventral compartment
+distal region
+synonym
+anatomical region
+central region
+dorso-lateral region
+medial region
+lateral surface
+anatomical surface
+narrow
+broad

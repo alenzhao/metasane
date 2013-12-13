@@ -1,0 +1,2323 @@
+dorsal component
+superior
+parietal pericardium
+blastocoelic cavity
+future spinal cord
+first polar body
+gland
+zona pellucida
+parenchyma
+associated mesenchyme
+vitelline vein
+endodermal epithelium
+foramen rotundum
+hindgut
+mesoderm
+nephric duct
+caecum
+accessory pancreatic duct
+lung
+limb
+pubic cartilage condensation
+endoderm
+mesentery
+second polar body
+sternebral bone pre-cartilage condensation
+cardiovascular system
+duodenum
+vitelline artery
+germinal epithelium
+endodermal epithelium
+endoderm
+notochordal plate
+middle sacral vein
+pancreas primordium
+primordial germ cells
+skeletal muscle
+caudal part
+ganglion
+reproductive system
+endoderm
+allantoenteric diverticulum
+pulmonary veins
+integumental system
+principal vein of lower limb
+pelvic part
+associated mesenchyme
+skeleton
+endodermal epithelium
+sternum
+cavities and their linings
+cavity
+lumen
+umbilical vein
+arm
+clavicle bone primordium
+marginal vein of lower limb
+vascular component
+pericardio-peritoneal canal
+cardiogenic plate
+mesonephros
+anal pit
+coronary sinus
+superior vena cava
+female
+associated mesenchyme
+future spinal cord
+pelvic girdle
+flexor pre-muscle mass
+mesothelium
+embryo
+amniotic cavity
+intraembryonic coelom
+mouth-foregut junction
+neural fold
+notochordal process
+supracardinal vein
+mesentery
+parenchyma
+pectoral girdle and thoracic body wall
+mesenteric vein
+blood island
+meninges
+sphenoid bone cartilage condensation
+right
+umbilical vein
+midgut
+left lung rudiment
+rest of endoderm
+endodermal epithelium
+axial skeleton
+ventral component
+acetabular region
+cavity
+liver
+caudate lobe
+hepatic sinusoids
+hepatic sinusoids
+gall bladder
+gall bladder primordium
+hepatic sinusoids
+omental bursa
+superior recess
+parietal
+mesothelium
+inferior recess
+head mesenchyme
+facio-acoustic neural crest
+glossopharyngeal neural crest
+prechordal plate
+paraxial mesenchyme
+somite 01
+rhombencephalic neural crest
+sclerotome
+mesencephalic neural crest
+terminal -vomeronasal
+somite 02
+dermamyotome
+somite
+somite 03
+dermatome
+dermamyotome
+sclerotome
+myotome
+trigeminal neural crest
+dermamyotome
+mesenchyme derived from neural crest
+myotome
+unsegmented mesenchyme
+myotome
+otic neural crest
+mesenchyme derived from head mesenchyme
+occipital neural crest
+dermatome
+optic neural crest
+interdigital region between digits 3 and 4
+umbilical artery
+right
+lesser omentum
+mesentery
+dorsal mesentery
+petrous part
+ductus venosus
+zona pellucida
+forearm
+epithelium
+ulna cartilage condensation
+mesenchyme
+radius cartilage condensation
+radius pre-cartilage condensation
+endocardial tissue
+epithelium
+ganglion
+superior ganglion
+glossopharyngeal IX ganglion
+vestibulocochlear VIII ganglion
+glossopharyngeal IX preganglion
+facio-acoustic VII-VIII complex
+cranial
+cochlear component
+cochlear component
+vagal X ganglion
+facio-acoustic pVII VIII preganglion complex
+trigeminal V preganglion
+inferior
+inferior
+vestibulocochlear VIII ganglion
+facial VII ganglion
+vagal X preganglion
+vestibular component
+facio-acoustic VII-VIII preganglion complex
+trigeminal V ganglion
+2-16 cell stage
+gastrosplenic ligament
+rest of hindgut
+associated mesenchyme
+endodermal epithelium
+cloaca
+allantois
+parenchyma
+skeletal muscle
+sterno-mastoid pre-muscle mass
+temporalis
+hyoid pre-muscle mass
+masseter
+chondrocranium
+iliac pre-cartilage condensation
+vertebral cartilage condensation
+ventral component
+primitive pelvis of ureter
+upper limb bud
+iliac cartilage condensation
+metanephros
+mesoderm
+primary yolk sac cavity
+floor plate
+urogenital sinus
+yolk sac
+dorsal pancreatic duct
+lower limb
+is_a
+synonym
+broad
+platysma
+branchial arch
+branchial membrane
+branchial pouch
+mesenchyme derived from head mesoderm
+endoderm
+ectoderm
+ectoderm
+endoderm
+branchial membrane
+mesenchyme derived from neural crest
+mesenchyme derived from neural crest
+cervical sinus
+mesenchyme derived from head mesoderm
+branchial groove
+mesenchyme
+branchial groove
+endoderm
+ectoderm
+ectoderm
+3rd arch
+mesenchyme derived from head mesoderm
+mesenchyme derived from head mesenchyme
+ectoderm
+4th arch
+cervical sinus primordium
+mesenchyme derived from neural crest
+mesenchyme
+endoderm
+ectoderm
+2nd arch
+mesenchyme
+branchial groove
+cervical sinus primordium
+branchial pouch
+endoderm
+future rhombencephalon
+pro-rhombomere c
+neural fold
+floor plate
+floor plate
+neural crest
+pro-rhombomere d
+neural fold
+floor plate
+pro-rhombomere a
+neural fold
+primitive allantois
+endothelium
+foramen caecum
+endocardial tissue
+ischial pre-cartilage condensation
+laryngo-tracheal groove
+endothelium
+tracheal diverticulum
+associated mesenchyme
+hyoid cartilage
+common atrial chamber
+myocardium
+iliac artery
+external
+ischial cartilage condensation
+hyoid artery
+ultimobranchial body
+associated mesenchyme
+endodermal epithelium
+primitive subclavian artery
+metacarpus pre-cartilage condensation
+associated mesenchyme
+future mesencephalon
+neural fold
+mesenchyme
+viscerocranium
+optic foramen
+facial bones primordia
+orbitosphenoid cartilage
+dorsal pancreatic duct
+superior mesenteric vein
+related
+upper arm
+humerus cartilage condensation
+mesenchyme
+interdigital region between digits 4 and 5
+epithelium
+mesenchyme
+mesenchyme
+femur pre-cartilage condensation
+dorsal root ganglion
+dorsal mesentery
+laryngeal pre-cartilage condensation
+vestibular swellings
+cricoid pre-cartilage condensation
+arytenoid pre-cartilage condensation
+pleural component
+parietal
+mesothelium
+visceral
+spinal artery
+associated mesenchyme
+lymphatic system
+cisterna chyli
+mesenteric sac
+1st arch artery
+nerve trunk
+phrenic
+segmental bronchus
+basisphenoid cartilage condenstion
+lobar bronchus
+nephric duct
+lumen
+transverospinalis
+right
+associated mesenchyme
+thyroid
+right lobe
+lobe
+left lobe
+foramen caecum
+inferior parathyroid
+ultimobranchial body
+associated mesenchyme
+superior parathyroid
+associated mesenchyme
+isthmus
+caudal lobe
+lobar bronchus
+segmental bronchi
+epithelium
+endothelium
+right lung rudiment
+associated mesenchyme
+endothelium
+ophthalmic artery
+rest of midgut
+endodermal epithelium
+dorsal mesentery
+ventral mesentery
+mesentery
+epithelium
+aortic component
+temporal bone
+future dermis
+endocardial tissue
+outflow
+ductus arteriosus
+aortic component
+ascending aorta
+pulmonary trunk
+aortic sac
+pulmonary component
+alt_id
+cardinal vein
+iliac anastomosis
+posterior
+common
+bronchiole
+outflow tract
+cardiac jelly
+myocardium
+endocardial tissue
+primitive aortic arch
+foregut
+hyoid bone
+associated mesenchyme
+endoderm
+epiploic foramen of Winslow
+future oesophageal region
+thyroid
+endodermal epithelium
+genioglossus
+associated mesenchyme
+endodermal epithelium
+skeletal muscle
+oesophagus
+associated mesenchyme
+mesentery
+hypopharyngeal eminence
+associated mesenchyme
+endodermal epithelium
+endodermal epithelium
+ventral mesogastrium
+splenic primordium
+associated mesenchyme
+fundus
+mesentery
+thymus primordium
+associated mesenchyme
+dorsal mesogastrium
+endodermal epithelium
+pyloric region
+rest of foregut
+endodermal epithelium
+dorsal meso-oesophagus
+median
+associated mesenchyme
+gland
+endodermal epithelium
+rest of stomach
+stomach
+associated mesenchyme
+gland
+intrinsic muscle
+extrinsic muscle
+associated mesenchyme
+associated mesenchyme
+endoderm
+tongue
+pharynx
+associated mesenchyme
+associated mesenchyme
+endodermal epithelium
+endodermal epithelium
+lateral
+endodermal epithelium
+lingual swelling
+superior parathyroid
+falciform ligament
+future tongue
+thymus
+biceps
+anterior spinal artery
+transverospinalis pre-muscle mass
+primitive trachea
+associated mesenchyme
+tail bud
+mesenchyme
+cerebral artery
+anterior cerebral artery
+future posterior cerebral artery
+future anterior communicating artery
+middle cerebral artery
+genital tubercle
+rectum
+develops_from
+basioccipital pre-cartilage condensation
+future yolk sac stalk
+associated mesenchyme
+vitelline vein
+left
+serratus anterior
+mesenchyme
+epithelium
+internal carotid artery
+stapedial
+ilio-psoas
+germinal epithelium
+parenchyma
+ductus arteriosus
+male
+paramesonephric ducts
+genital tubercle
+labial swelling
+penis
+triceps
+branchial arch artery
+2nd arch artery
+4th arch artery
+6th arch artery
+clitoris
+interventricular groove
+notochord
+brachial plexus
+median nerve
+ulna nerve
+radial nerve
+neural fold
+neural crest
+primitive node
+outflow tract
+pulmonary component
+cardiac jelly
+endocardial tissue
+myocardium
+aortico-pulmonary spiral septum
+digit 4
+epithelium
+pubic pre-cartilage condensation
+future inferior vena cava
+pre-hepatic part
+right
+post-hepatic part
+urogenital membrane
+hip
+epithelium
+mesenchyme
+hip joint primordium
+right
+non-tubular part
+axial muscle
+skeletal muscle
+external
+erector spinae
+intercostal
+erector spinae pre-muscle mass
+internal
+right
+dorsal mesentery
+muscular part
+myocardium
+secondary yolk sac cavity
+segmental bronchi
+mammary gland
+epithelium
+dorsal mesentery
+jugular foramen
+cavity
+superior mesenteric artery
+parenchyma
+external jugular
+narrow
+mesenchyme
+phalanx pre-cartilage condensation
+ventral pancreatic duct
+associated mesenchyme
+left
+vitelline arterial plexus
+left
+ureteric bud
+arytenoid pre-cartilage condensation
+myocardium
+nephric duct
+lumen
+epithelium
+myocardium
+primitive atlas
+vascular element
+lung
+cranial lobe
+hilus
+left lung
+left lung rudiment
+associated mesenchyme
+cranial lobe
+lobar bronchus
+lobar bronchus
+hilus
+endothelium
+associated mesenchyme
+vascular element
+hilus
+segmental bronchus
+segmental bronchus
+right lung
+caudal lobe
+segmental bronchus
+cranial lobe
+endothelium
+associated mesenchyme
+vascular element
+associated mesenchyme
+caudal lobe
+endothelium
+vault of skull
+temporal bone
+parietal bone primordium
+interparietal
+frontal bone primordium
+hepato-cardiac vein
+left
+right
+common carotid artery
+epithelium
+extensor leg muscle group
+suprarenal vein
+principal vein of upper limb
+mesonephros
+associated mesenchyme
+non-tubular part
+interventricular septum
+endocardial lining
+cavity
+skin
+basal layer
+periderm
+primitive groove
+primitive streak
+primitive pit
+node
+endoderm
+definitive endoderm
+endothelium
+vesical part
+degenerating mesonephros
+phallic part
+urogenital sinus
+carpal region
+mesenchyme
+epithelium
+epithelium
+parenchyma
+associated mesenchyme
+vertebral cartilage condensation
+primitive internal jugular vein
+visceral
+atrio-ventricular canal
+left
+right
+ventricle
+cardiac mesenchyme
+right part
+future interventricular septum
+mesentery
+ventral mesentery
+genital tubercle
+cardiac jelly
+future cloacal membrane
+respiratory tract
+lower
+myocardium
+primitive heart tube
+endocardial tissue
+common atrial chamber
+primitive ventricle
+cardiac jelly
+endocardial tissue
+bulbus cordis
+cardiac jelly
+rostral half
+endocardial tissue
+cardiac jelly
+knee
+brachiocephalic vein
+quadriceps
+ventral bud
+mesenchyme
+sacral region
+vertebral cartilage condensation
+interdigital region between digits 2 and 3
+superior mesenteric artery
+laryngo-tracheal groove
+upper limb
+carpus pre-cartilage condensation
+digit 5
+metacarpus pre-cartilage condensation
+mesenchyme
+phalanx pre-cartilage condensation
+arm
+epithelium
+carpus cartilage condensation
+phalanx pre-cartilage condensation
+metacarpus cartilage condensation
+mesenchyme
+epithelium
+epithelium
+elbow
+digit 2
+epithelium
+metacarpus cartilage condensation
+handplate
+mesenchyme
+interdigital region between digits 1 and 2
+mesenchyme
+digit 1
+mesenchyme
+digit 3
+epithelium
+trachea
+pre-cartilage rings
+epithelium
+associated mesenchyme
+primitive ophthalmic artery
+lumbosacral plexus
+obturator nerve
+femoral nerve
+chorionic cavity
+nerve plexus
+vertebral artery
+associated mesenchyme
+leg
+upper leg
+lower leg
+peritoneal component
+mesothelium
+mesothelium
+greater sac
+parietal
+greater omentum
+parietal
+mesothelium
+pulmonary artery
+marginal vein of upper limb
+future ductus venosus
+parietal
+internal jugular vein
+vitelline artery
+left
+right
+respiratory system
+upper
+thyroid cartilage
+lower
+nasopharynx
+respiratory tract
+vestibular swelling
+arytenoid swellings
+associated mesenchyme
+laryngeal cartilages
+main bronchus
+epithelium
+cricoid pre-cartilage condensation
+pronephros
+leg
+flexor leg muscle group
+sartorius
+gastrocnemius
+skeletal muscle
+primitive axis
+arterial system
+common
+right
+external carotid
+mesenteric artery
+suprarenal artery
+median sacral artery
+remnant of mandibular artery
+renal artery
+future basilar artery
+internal carotid artery
+inferior mesenteric artery
+left
+primitive common carotid artery
+ductus arteriosus
+aortic arch
+renal artery
+internal thoracic artery
+primitive maxillary artery
+thyroid artery
+maxillary artery
+mesonephric artery
+common hepatic artery
+mandibular artery
+basilar artery
+dorsal aorta
+carotid artery
+gastroduodenal branch
+cystic branch
+subclavian artery
+hepatic plate
+scapula pre-cartilage condensation
+human
+mesoderm
+bulbus cordis
+ectoderm
+future prosencephalon
+cranium
+first polar body
+head
+urogenital system
+pericardial component
+central nervous system
+exoccipital pre-cartilage condensation
+tail
+yolk sac stalk
+chorion
+renal vein
+bulbo-ventricular groove
+manubrium sterni pre-cartilage condensation
+body
+venous system
+associated mesenchyme
+labial swelling
+left
+umbilical artery
+skeletal muscular system
+one-cell stage
+atlas
+gonadal component
+coccygeal region
+mesenchyme
+dorsal component
+nephric cord
+vertebral pre-cartilage condensation
+left
+peripheral nervous system
+endothelium
+primitive pericardium
+left
+right
+cranial
+second polar body
+heart
+neural plate
+gonadal
+nervous system
+vertebraeC3-C7
+limb
+cervical region
+visceral organ
+yolk sac diverticulum
+extensor pre-muscle mass
+neural plate
+loop
+epiblast
+future brain
+blood
+caudal neuropore
+organ system
+gonadal vein
+gut
+arterial system
+axis
+right
+ectoderm
+nerve
+urachus
+primary head vein
+associated mesenchyme
+ovary
+cytotrophoblast
+mesenchyme
+mesenchyme
+venous system
+acetabular region
+renal or urinary system
+brain
+cavities
+dorsal pancreatic duct
+dorsal meso-duodenum
+mesoderm
+venous vitelline plexus
+brachialis
+alimentary system
+primordial germ cells
+endocardial cushion tissue
+dorsal bud
+gland
+germinal epithelium
+extraembryonic component
+mesenchyme
+neural ectoderm
+cloacal membrane
+anal region
+parenchyma
+digital region
+metanephrogenic mesenchyme
+primordial germ cells
+scapula cartilage condensation
+mesentery
+endoderm
+future respiratory system
+pancreas
+handplate
+vitelline
+gonad primordium
+yolk sac stalk
+neural fold
+inferior mesenteric vein
+spinal
+notochord
+foregut-midgut junction
+associated mesenchyme
+epithelium
+mesenchyme
+metacarpus pre-cartilage condensation
+part_of
+phalanx pre-cartilage condensation
+lens fibres
+posterior
+floor plate
+incus pre-cartilage condensation
+sclerotome
+primitive endoderm
+roof plate
+endothelium
+somite 29
+dermamyotome
+sclerotome
+allantoic diverticulum
+cerebellum primordium
+floor plate
+thoracic
+floor plate
+associated mesenchyme
+somite 13
+dermamyotome
+sclerotome
+metacarpus cartilage condensation
+tibia pre-cartilage condensation
+mesenchyme derived from head mesoderm
+cricoid pre-cartilage condensation
+diencephalic part of interventricular foramen
+cranial component
+roof plate
+lateral wall
+marginal layer
+ventricular layer
+mantle layer
+alar columns
+basal columns
+tubule
+superior ganglion
+external ear
+surface epithelium
+auditory hillocks
+mesenchymal condensation
+endothelium
+mesenchyme
+external auditory meatus
+pinna
+1st branchial membrane
+epithelium
+surface epithelium
+iliac sac
+future diaphragm
+pleuropericardial folds
+dome
+pleuroperitoneal canal
+biliary bud
+intrahepatic part
+extrahepatic part
+internal jugular
+dermamyotome
+cardiac jelly
+oral region
+maxilla
+epithelium
+mesenchyme
+mesenchyme
+epithelium
+primary palate
+epithelium
+mandible
+stomatodaeum
+Meckel&apos;s cartilage
+Meckel&apos;s cartilage pre-cartilage condensation
+philtrum
+salivary gland
+epithelium
+rest of ectoderm
+epithelium
+Rathkes pouch
+future pars intermedia
+gland
+submandibular gland primordium
+epithelium
+incisor
+tooth
+mesenchyme
+pituitary
+mesenchyme
+tooth
+epithelium
+mesenchyme
+future lip
+mandibular process
+molar
+incisor
+molar
+mesenchyme
+premaxilla
+lower jaw
+epithelium
+oronasal cavity
+sublingual gland primordium
+mesenchyme
+skeleton
+epithelium
+premaxilla
+future pars anterior
+skeleton
+pituitary
+maxillary process
+future pars tuberalis
+mesenchyme
+future lip
+mesenchyme
+upper jaw
+mesenchyme
+oral cavity
+mesenchyme
+epithelium
+gland
+mesenchyme
+bucconasal membrane
+parotid gland primordium
+mesenchyme
+tunica vasculosa lentis
+mesenchyme
+cerebellar artery
+future anterior inferior cerebellar artery
+future posterior inferior cerebellar artery
+future superior cerebellar artery
+sinus venosus
+right horn
+left horn
+amniotic duct
+amnion
+ectoderm
+mesoderm
+mesenchyme
+phalanx pre-cartilage condensation
+metacarpus cartilage condensation
+ventral mesentery
+iliac
+external
+internal
+associated mesenchyme
+intersubcardinal venous anastomosis
+hyoid
+roof plate
+floor plate
+primary meninx
+skeletal muscle
+subscapularis
+rhomboid
+infraspinatus
+pectoralis major
+supraspinatus
+latissimus dorsi
+rhomboid pre-muscle mass
+deltoid pre-muscle
+deltoid pre-muscle mass
+latissimus dorsi pre-muscle mass
+levator scapulae
+pectoral pre-muscle mass
+teres major pre-muscle mass
+thryoglossal duct
+nasolacrimal duct
+neural crest
+cardiac jelly
+myocardium
+atrium
+auricular region
+endocardial lining
+left part
+common atrial chamber
+future auricular region
+cardiac mesenchyme
+endocardial tissue
+endocardial lining
+interatrial septum
+endocardial tissue
+myocardium
+myocardium
+cardiac jelly
+septum primum
+myocardium
+endocardial tissue
+cervical sinus
+hindbrain
+future sigmoid sinus
+primitive marginal sinus
+primitive transverse sinus
+tentorial sinus
+telencephalic
+sigmoid sinus
+venous dural
+marginal sinus
+sinus
+primitive straight sinus
+primitive superior sagittal sinus
+epithelium
+epithelium
+olfactory
+respiratory
+primordial germ cells
+rhombomere 06
+roof plate
+neural crest
+floor plate
+lateral wall
+exact
+early primitive heart tube
+endocardial tube
+cardiac jelly
+mesencephalon
+roof plate
+lateral wall
+pia mater
+meninges
+intrahepatic part
+right hepatic duct
+left hepatic duct
+endodermal epithelium
+vestibular component
+future brain
+future mesencephalon
+neural crest
+roof plate
+rhombencephalon
+prosencephalic vesicle
+rhombomere 04
+future prosencephalon
+rhombomere 07
+roof plate
+rhombomere 02
+roof plate
+lateral wall
+floor plate
+roof plate
+neural crest
+floor plate
+rhombomere 05
+lateral wall
+roof plate
+meninges
+future central tendon
+mesothelial lining
+pleuroperitoneal folds
+pleuropericardial canals
+mesothelial lining
+future crura
+footplate
+epithelium
+mesenchyme
+metacarpus pre-cartilage condensation
+mesenchyme
+mesenchyme
+interdigital region between digits 2 and 3
+epithelium
+epithelium
+interdigital region between digits 1 and 2
+mesenchyme
+interdigital region between digits 4 and 5
+epithelium
+mesenchyme
+metacarpus pre-cartilage condensation
+phalanx pre-cartilage condensation
+epithelium
+metacarpus pre-cartilage condensation
+epithelium
+tarsus pre-cartilage condensation
+phalanx pre-cartilage condensation
+mesenchyme
+digit 5
+mesenchyme
+epithelium
+apical ectodermal ridge
+tarsus cartilage condensation
+epithelium
+digit 3
+mesenchyme
+epithelium
+digit 1
+digit 4
+mesenchyme
+phalanx pre-cartilage condensation
+epithelium
+interdigital region between digits 3 and 4
+phalanx pre-cartilage condensation
+digit 2
+intersegmental artery
+floor plate
+endoderm
+cranial
+accessory XI
+ansa cervicalis
+trigeminal V
+chorda tympani branch
+cochlear component
+oculomotor III
+vestibular component
+mandibular division
+optic II
+abducens VI
+olfactory I
+facial VII
+glossophayngeal IX
+maxillary division
+vestibulocochlear VIII
+ophthalmic division
+trochlear IV
+vagal X
+spinal component
+glossopharyngeal IX
+hypoglossal XII
+floor plate
+endoderm
+right part
+myocardium
+myocardium
+myocardium
+endocardial lining
+future auricular region
+cardiac mesenchyme
+cardiac jelly
+right venous valve
+valve of inferior vena cava
+endocardial tissue
+endocardial tissue
+valve
+endocardial lining
+auricular region
+left venous valve
+external pre-muscle mass
+roof plate
+bulbar ridge
+mesenchyme
+future tentorium cerebelli
+future dura mater
+future subarachnoid space
+future arachnoid layer
+ventricular layer
+mesencephalic vesicle
+dermatome
+parenchyma
+surface ectoderm
+hepatic diverticulum
+anterior abdominal wall
+internal oblique
+rectus abdominis
+transversus abdominis
+external oblique pre-muscle mass
+external oblique
+skeletal muscle
+bronchiole
+ethmoid bone primordium
+ventricular layer
+arm
+upper arm
+epithelium
+radius-ulna pre-cartilage condensation
+humerus pre-cartilage condensation
+mesenchyme
+epithelium
+epithelium
+mesenchyme
+mesenchyme
+forearm
+elbow
+marginal layer
+foramen ovale
+trophectoderm
+cytotrophoblast
+polar trophectoderm
+syncytiotrophoblast
+cytotrophoblast
+mural trophectoderm
+syncytiotrophoblast
+subclavian vein
+brain
+marginal layer
+optic recess
+lateral wall
+lateral wall
+rhombomere 03
+mantle layer
+mantle layer
+marginal layer
+roof plate
+cerebellum primordium
+future subarachnoid space
+cerebellum primordium
+ventricular layer
+lateral wall
+roof plate
+floor plate
+marginal layer
+alar plate
+meninges
+mantle layer
+future metencephalon
+future arachnoid layer
+rhombomere 07
+marginal layer
+future arachnoid layer
+3rd ventricle
+ventricular layer
+floor plate
+future myelencephalon
+cerebellum primordium
+ventricular layer
+ventricular layer
+median eminence
+roof plate
+olfactory cortex
+mesencephalon
+marginal layer
+hindbrain
+floor plate
+alar plate
+lateral wall
+marginal layer
+marginal layer
+3rd ventricle
+future metencephalon
+rhombomere 04
+telencephalon
+forebrain
+future thalamus
+marginal layer
+lateral wall
+floor plate
+roof plate
+neural crest
+roof plate
+marginal layer
+lateral wall
+rhombomere 08
+pro-rhombomere c
+neural crest
+roof plate
+roof plate
+diencephalon
+roof plate
+rostral neuropore
+floor plate
+rhombomere 01
+neural crest
+lateral wall
+optic recess
+lateral wall
+rhombomere 03
+lateral wall
+roof plate
+floor plate
+lateral wall
+neural fold
+4th ventricle
+roof plate
+lateral wall
+floor plate
+neural crest
+prosencephalon
+embryonic lamina terminalis
+roof plate
+neural crest
+marginal layer
+3rd ventricle
+future rhombencephalon
+floor plate
+neural crest
+pro-rhombomere a
+neural crest
+lateral wall
+roof plate
+pro-rhombomere d
+floor plate
+neural crest
+rhombomere 05
+floor plate
+pia mater
+neural crest
+rostral neuropore
+neural crest
+lateral wall
+neural crest
+roof plate
+floor plate
+mesencephalic vesicle
+marginal layer
+lateral wall
+lateral wall
+rhombomere 04
+rhombomere 07
+roof plate
+roof plate
+roof plate
+rhombomere 02
+neural crest
+future diencephalon
+floor plate
+optic recess
+floor plate
+floor plate
+lateral wall
+marginal layer
+lateral wall
+roof plate
+floor plate
+4th ventricle
+neural crest
+lateral wall
+neural crest
+lateral wall
+roof plate
+rhombomere 06
+rhombomere 03
+roof plate
+pro-rhombomere b
+floor plate
+neural fold
+floor plate
+roof plate
+marginal layer
+3rd ventricle
+neural crest
+lateral wall
+floor plate
+choroid invagination
+shoulder
+epithelium
+mesenchyme
+hepatic sinusoids
+dorsal pancreatic duct
+associated mesenchyme
+trunk mesenchyme
+dermamyotome
+dermamyotome
+dermamyotome
+sclerotome
+dermamyotome
+dermamyotome
+somite 12
+dermamyotome
+somite 26
+somite 24
+mesenchyme derived from somatopleure
+somite 27
+somite 21
+sclerotome
+dermamyotome
+sclerotome
+sclerotome
+lateral mesenchyme derived from mesenchyme
+dermamyotome
+sclerotome
+sclerotome
+splanchnopleure
+somatopleure
+hepatic component
+mesenchyme derived from neural crest
+somite 37
+somite 18
+dermamyotome
+somite 16
+sclerotome
+sclerotome
+dermamyotome
+somite 38
+dermamyotome
+sclerotome
+lateral plate mesenchyme
+paraxial mesenchyme
+cardiogenic
+mesenchyme derived from somatopleure
+dermamyotome
+somite 31
+somite 32
+dermamyotome
+dermamyotome
+sclerotome
+somite 33
+somite 14
+dermamyotome
+somite 35
+sclerotome
+lateral migration pathway
+dermamyotome
+somite 15
+somite 07
+dermamyotome
+sclerotome
+somite 10
+sclerotome
+dermamyotome
+somite 36
+sclerotome
+sclerotome
+sclerotome
+dermamyotome
+somite 08
+somite
+sclerotome
+sclerotome
+sclerotome
+sclerotome
+dermamyotome
+unsegmented mesenchyme
+dermamyotome
+dermamyotome
+dermamyotome
+spinal neural crest
+sclerotome
+primordial germ cells
+dermamyotome
+sclerotome
+somite 30
+sclerotome
+mesenchyme derived from splanchnopleure
+somite 39
+somite 17
+somite 19
+somite 28
+dermamyotome
+ventricular layer
+lateral wall
+sulcus limitans
+floor plate
+diencephalon
+lateral ventricle
+floor plate
+roof plate
+rhombencephalon
+marginal layer
+ventricular layer
+rhombomere 07
+rhombomere 01
+lateral wall
+roof plate
+lateral wall
+roof plate
+ventricular layer
+olfactory lobe
+future corpus striatum
+rhombomere 05
+mantle layer
+optic recess
+roof plate
+infundibular recess of 3rd ventricle
+lateral wall
+roof plate
+pia mater
+marginal layer
+marginal layer
+neurohypophysis
+basal plate
+diencephalon
+floor plate
+future pars tuberalis
+future myelencephalon
+lateral wall
+epithalamus
+marginal layer
+mantle layer
+mantle layer
+lateral wall
+lamina terminalis
+roof plate
+neural crest
+ventricular layer
+mantle layer
+mantle layer
+roof plate
+marginal layer
+marginal layer
+marginal layer
+lateral wall
+roof plate
+roof plate
+marginal layer
+metencephalon
+medulla oblongata
+marginal layer
+lateral wall
+ventricular layer
+marginal layer
+marginal layer
+lateral wall
+hypothalamus
+future subarachnoid space
+marginal layer
+sulcus limitans
+sulcus limitans
+future dura mater
+floor plate
+ventricular layer
+ventricular layer
+adenohypophysis primordium
+roof plate
+epiphysis
+rhombomere 08
+meninges
+mantle layer
+primary meninx
+cerebral aqueduct
+embryonic lamina terminalis
+floor plate
+marginal layer
+ventricular layer
+mantle layer
+lateral wall
+lateral wall
+primary meninx
+ventricular layer
+rhombomere 03
+future pars intermedia
+rhombomere 02
+ventricular layer
+roof plate
+roof plate
+telencephalic vesicle
+neural crest
+rhombomere 01
+floor plate
+future telencephalon
+endodermal epithelium
+knee
+epithelium
+mesenchyme
+future vertebral artery
+ectoderm
+surface ectoderm
+pia mater
+malleus pre-cartilage condensation
+ventral pancreatic duct
+pelvic girdle
+skeletal muscle
+gluteal muscle mass
+obturator internis
+endodermal epithelium
+amnioblasts
+circle of Willis
+caudal half
+endocardial tissue
+endocardial tissue
+myocardium
+myocardium
+autonomic
+ganglion
+sublingual
+vagal X nerve trunk
+paravertebral ganglia
+superior mesenteric ganglion
+ciliary
+nerve trunk
+submaxillary
+nerve
+superior cervical ganglion
+inferior cervical ganglion
+otic
+sphenopalatine
+sympathetic
+recurrent laryngeal branch
+ganglion
+prevertebral ganglia
+inferior mesenteric ganglion
+future sphenopalatine
+parasympathetic
+primordial ganglia
+coeliac ganglion
+urorectal septum
+endodermal epithelium
+ulna pre-cartilage condensation
+mesentery
+dorsal mesocardium
+transverse pericardial sinus
+pancreatic duct
+tunica albuginea
+parenchyma
+extraembryonic endoderm
+bladder
+fundus
+urachus
+testis
+germinal epithelium
+primordial germ cells
+mesenchyme
+testis cords
+primitive sex cords
+posterior epithelium
+allantois
+associated mesenchyme
+serratus anterior pre-muscle mass
+mesenchyme
+blood islands and plexus
+blood island
+primordial germ cells
+associated mesenchyme
+branchial pouch
+endoderm
+dorsal
+ventral
+stapes pre-cartilage condensation
+external
+jugular sac
+parenchyma
+ectoderm
+biliary bud
+intrahepatic part
+extrahepatic part
+connecting stalk
+angiogenic cell strands
+intermediate mesenchyme
+somite 23
+somite 05
+dermamyotome
+somite 11
+non-hepatic component
+sclerotome
+body-wall mesenchyme
+sclerotome
+sclerotome
+dermamyotome
+dermamyotome
+dermamyotome
+somite 06
+dermamyotome
+dermamyotome
+sclerotome
+sclerotome
+mesenchyme derived from splanchnopleure
+sclerotome
+medial migration pathway
+sclerotome
+somite 25
+somite 09
+dermamyotome
+sclerotome
+somite 20
+dermamyotome
+somite 34
+septum transversum
+somite 22
+sclerotome
+elbow joint primordium
+primitive prevertebral ganglia
+ventricular layer
+hilus
+shoulder
+epithelium
+shoulder joint primordium
+mesenchyme
+common cardinal vein derivative
+lobar bronchus
+reticulum
+basioccipital cartilage condensation
+syncytiotrophoblast
+facial VII ganglion
+floor plate
+spinal cord
+meninges
+mantle layer
+conus medullaris
+marginal layer
+future subarachnoid space
+marginal layer
+ventricular layer
+neural lumen
+pia mater
+alar column
+ventricular layer
+floor plate
+future dural mater
+roof plate
+neural tube
+sulcus limitans
+basal column
+lateral wall
+future arachnoid layer
+sulcus limitans
+lateral wall
+filum terminale
+inner cell mass
+epiblast
+primitive endoderm
+lateral wall
+marginal layer
+ventricular layer
+pia mater
+metanephric mesenchyme
+endodermal epithelium
+associated mesenchyme
+tracheal diverticulum
+associated mesenchyme
+endothelium
+sclerotome
+associated mesenchyme
+3rd arch artery
+roof plate
+cardiac jelly
+sulcus limitans
+inferior parathyroid
+associated mesenchyme
+endodermal epithelium
+floor plate
+ventricular layer
+peroneus
+mesencephalic vesicle
+pituitary
+neural crest
+mantle layer
+mantle layer
+marginal layer
+rhombomere 08
+alar plate
+rhombomere 06
+floor plate
+marginal layer
+future dura mater
+lateral wall
+meninges
+basal plate
+marginal layer
+meninges
+roof plate
+future subarachnoid space
+future arachnoid layer
+mantle layer
+floor plate
+infundibulum
+basal plate
+rhombomere 04
+telencephalon medium
+ventricular layer
+marginal layer
+remnant of Rathkes pouch
+telencephalic part of intervent
+sulcus limitans
+pineal gland
+roof plate
+ventricular layer
+floor plate
+mantle layer
+ventricular layer
+lateral wall
+floor plate
+floor plate
+ventricular layer
+ventricular layer
+marginal layer
+lateral wall
+lateral wall
+roof plate
+neural crest
+marginal layer
+midbrain
+rhombomere 01
+4th ventricle
+neural crest
+roof plate
+floor plate
+mantle layer
+floor plate
+basal plate
+lateral wall
+lateral wall
+telencephalic part of interventricular foramen
+floor plate
+mantle layer
+ventricular layer
+floor plate
+mantle layer
+ventricular layer
+rhombomere 02
+neural crest
+mantle layer
+meninges
+pars nervosa
+floor plate
+ventricular layer
+marginal layer
+future telencephalon
+mantle layer
+telencephalic vesicle
+lateral ventricles
+future subarachnoid space
+mantle layer
+roof plate
+ventricular layer
+marginal layer
+pia mater
+pia mater
+mantle layer
+ventricular layer
+alar plate
+floor plate
+future falx cerebri
+lateral wall
+sulcus limitans
+lamina terminalis
+ventricular layer
+ventricular layer
+mesoderm
+blood vessels
+fibula pre-cartilage condensation
+epithelium
+sensory organ
+tensor tympani muscle
+associated mesenchyme
+extrinsic ocular muscle
+surface ectoderm
+optic nerve
+mesenchyme
+neural retinal epithelium
+medial nasal process
+stapedius muscle
+outer layer
+associated mesenchyme
+frontal process
+epithelium
+process
+anterior epithelium
+nasolacrimal groove
+epithelium
+epithelium
+associated mesenchyme
+surface ectoderm
+epithelium
+other part
+primary choana
+labyrinth
+eyelid
+optic vesicle
+surface ectoderm
+associated mesenchyme
+extrinsic ocular pre-muscle mass
+anterior chamber
+mesenchyme
+inner ear
+mesenchyme
+fissure
+surface epithelium
+neural ectoderm
+epithelium
+capsule
+endolymphatic appendage
+associated mesenchyme
+skeletal muscle
+inner layer
+lens
+choroid fissure
+mesenchyme
+perioptic mesenchyme
+substantia propia
+upper
+middle ear
+anterior epithelium
+intraretinal space
+pigmented retinal epithelium
+naris
+mesenchyme
+ectoderm
+nasolacrimal duct
+associated mesenchyme
+frontonasal process
+otic pit
+olfactory pit
+optic chiasm
+associated mesenchyme
+tubotympanic recess
+epithelium
+mesenchyme
+optic disc
+optic stalk
+mesenchyme
+otic placode
+aqueous humour
+capsule
+otocyst
+epithelium
+cochlear
+hyaloid vascular plexus
+equatorial epithelium
+neural crest
+lower
+vestibular component
+saccule
+cavity
+endolymphatic appendage
+primitive cornea
+tensor tympani muscle
+nasal cavity
+choana
+surface epithelium
+cochlear duct
+equatorial epithelium
+inner canthus
+primary vitreous humour
+left
+intercostal artery
+mesenchyme
+epithelium
+vertebral pre-cartilage condensation
+floor plate
+thoracic region
+vertebral cartilage condensation
+rib cartilage condensation
+vertebral pre-cartilage condensation
+rib pre-cartilage condensation
+costal pre-cartilage condensation
+pars anterior
+primordial germ cells
+oral epithelium
+endothelium
+left part
+endocardial lining
+cardiac jelly
+endocardial tissue
+myocardium
+cardiac mesenchyme
+endolymphatic sac
+associated mesenchyme
+epithelium
+rhombomere 06
+floor plate
+marginal layer
+ventricular layer
+lateral wall
+roof plate
+mantle layer
+pectoralis minor
+otic capsule
+cavity
+lens placode
+epithelium
+optic pit
+mesenchyme
+metacarpus pre-cartilage condensation
+phalanx pre-cartilage condensation
+metacarpus cartilage condensation
+pharyngeal region
+associated mesenchyme
+endodermal epithelium
+endoderm
+metanephros
+medullary tubules
+stem cells
+primitive pelvis of ureter
+ureteric bud
+primitive ureter
+medullary stroma
+primitive nephrons
+metanephric mesenchyme
+induced blastemal cells
+drainage component
+excretory component
+ureter
+primitive collecting ducts
+induced blastemal cells
+cortex
+primitive ureter
+associated mesenchyme
+nephric vesicles
+cardiac jelly
+posterior communicating artery
+1st arch
+mesenchyme derived from head mesoderm
+mesenchyme derived from head mesoderm
+ectoderm
+endoderm
+mesenchyme derived from head mesenchyme
+endoderm
+ectoderm
+mesenchyme derived from head mesenchyme
+mesenchyme derived from neural crest
+maxillary component
+endoderm
+ectoderm
+branchial groove
+ectoderm
+maxillary-mandibular groove
+mandibular component
+branchial pouch
+mesenchyme
+mesenchyme derived from neural crest
+mesenchyme
+neural fold
+meninges
+basal plate
+gland
+pia mater
+alar plate
+floor plate
+future arachnoid layer
+future forebrain
+pars tuberalis
+pia mater
+mantle layer
+lateral wall
+marginal layer
+marginal layer
+roof plate
+pars intermedia
+ventricular layer
+marginal layer
+4th ventricle
+lateral wall
+ventricular layer
+rhombomere 05
+future tentorium cerebelli
+cerebral cortex
+future dura mater
+floor plate
+marginal layer
+lateral wall
+floor plate
+lateral wall
+marginal layer
+lateral wall
+ventricular layer
+mantle layer
+ventricular layer
+lobar bronchus
+rhombencephalic vesicle
+nasal epithelium
+associated mesenchyme
+buccopharyngeal membrane
+ectoderm
+endoderm
+endothelium
+epithelium
+associated mesenchyme
+endoderm
+associated mesenchyme
+neural crest
+associated mesenchyme
+squamous part primordium
+anterior
+utricle
+associated mesenchyme
+epithelium
+crus commune
+epithelium
+epithelium
+associated mesenchyme
+lateral semicircular canal
+posterior semicircular canal
+epithelium
+epithelium
+associated mesenchyme
+superior semicircular canal
+ventral mesentery
+middle cervical ganglion
+segmental spinal nerve
+myocardium
+subcardinal vein
+right lung rudiment
+lobar bronchus
+epithelium
+endothelium
+accessory lobe
+segmental bronchi
+associated mesenchyme
+bronchiole
+associated mesenchyme
+epithelium
+segmental bronchi
+associated mesenchyme
+cranial lobe
+lobar bronchus
+segmental bronchi
+epithelium
+bronchiole
+lobar bronchus
+caudal lobe
+vascular element
+mesenchyme
+neural crest
+pectoral girdle and thoracic body wall
+trapezius pre-muscle mass
+teres major
+nose
+associated mesenchyme
+epithelium
+epithelium
+neural crest
+ossicle
+eye
+lens fibres
+bucconasal membrane
+intraretinal space
+epithelium
+intermaxillary process
+retina
+vomeronasal organ
+epithelium
+hyaloid cavity
+associated mesenchyme
+ear
+optic eminence
+lens pit
+lateral nasal process
+surface ectoderm
+epithelium
+epithelium
+nasal septum
+posterior
+associated mesenchyme
+cornea
+lateral canthus
+lens vesicle
+optic cup
+cricoid cartilage
+pericardium
+visceral pericardium
+parietal pericardium
+remnant of posterior
+mesenchyme
+knee joint primordium
+pro-rhombomere b
+neural fold
+somite 04
+myotome
+dermatome
+hepatic sinusoids
+lumbar region
+vertebral pre-cartilage condensation
+vertebral cartilage condensation
+endocardial tissue
+cloacal membrane
+innominate
+lower limb bud
+mesenchyme
+epithelium
+upper leg
+epithelium
+hip
+mesenchyme
+epithelium
+mesenchyme
+footplate
+mesenchyme
+lower leg
+leg
+epithelium
+femur pre-cartilage condensation
+nerve
+hamstring
+accessory lobe
+lobar bronchus
+associated mesenchyme
+endothelium
+segmental bronchus
+vitelline venous plexus
+portal vein
+right
+non-neural ectoderm
+vertebral pre-cartilage condensation
+orbital fissure
+superior
+tubule
+primitive sex cords
+endocardial lining
+membraneous part
+liver and biliary system
+hepatic duct
+future common hepatic duct
+right lobe
+cystic duct
+parenchyma
+parenchyma
+quadrate lobe
+extrahepatic part
+common bile duct
+left lobe
+primitive bare area
+ventricular layer
+epithelium
+future dura mater
+future pulmonary component
+parenchyma
+epithelium
+myelencephalon
+lateral wall
+basal plate
+marginal layer
+mantle layer
+roof plate
+marginal layer
+mantle layer
+floor plate
+alar plate
+ventricular layer
+ventricular layer
+hyaloid vessels
+marginal layer
+endodermal epithelium
+cardiac jelly
+ectoderm
+thyroid primordium
+endoderm
+associated mesenchyme
+duodenum
+endodermal epithelium
+dorsal meso-duodenum
+rostral part
+mesentery
+associated mesenchyme
+lateral wall
+valve
+chordae tendinae
+tricuspid valve
+bicuspid
+papillary muscles
+atrioventricular valves
+leaflets
+pulmonary valve
+aortic valve
+semi-lunar valves
+myocardium
+Meckel&apos;s cartilage pre-cartilage condensation
+pelvic splanchnic
+neural tube
+ventricular layer
+marginal layer
+neural lumen
+roof plate
+lateral wall
+floor plate
+ventricular layer
+left
+palatal shelf
+mesenchyme
+epithelium
+levator scapulae pre-muscle mass
+mesentery
+dorsal mesentery
+neural crest
+septum secundum
+foramen
+primary meninx
+future arachnoid layer
+future dura mater
+future subarachnoid space
+meninges
+pia mater
+supra-occipital pre-cartilage condensation
+sciatic nerve
+cavity
+vagal neural crest
+lateral wall
+marginal layer
+mesothelium
+parietal
+associated mesenchyme
+olfactory placode
+future aortic component
+common
+lateral wall
+floor plate
+thryoglossal duct
+primitive bare area
+alar plate
+marginal layer
+cerebellum primordium
+ventricular layer
+future appendix
+sclerotome
+floor plate
+epithelium

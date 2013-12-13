@@ -1,0 +1,9 @@
+related
+part_of
+exact
+alt_id
+synonym
+develops_from
+is_a
+narrow
+broad

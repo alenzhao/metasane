@@ -1,0 +1,1173 @@
+metal centre structure
+tritium method
+related
+tritium planigraphy
+part_of
+develops_from
+is_a
+HNCAHA experiment
+phenylthiohydantoin-amino acid detection
+PTH-amino acid detection by AMS
+PTH-amino acid detection by HPLC
+isothermal titration calorimetry
+achiral-chiral liquid chromatography-tandem mass spectrometry
+1H-17O nuclear-quadrupole double-resonance spectroscopy
+1H-1H nuclear Overhauser effect spectroscopy
+15N/15N edited 1H-1H NOESY
+3D NOESY-[1H,15N,1H]-ZQ-TROSY
+fast atom bombardment mass spectrometry
+covalent structure
+protein disulfide bond structure
+primary structure
+covalent bond by order
+polar covalent bond
+covalent bond by polarity
+RNA sequence
+aromatic structure
+delta bond
+double bond
+DNA sequence
+amino acid sequence
+cyclic structure
+protein active site residues
+sigma bond
+aromatic bond
+quadruple bond
+covalent bond by orbital
+single bond
+covalent bond
+nucleotide sequence
+pi bond
+non-polar covalent bond
+triple bond
+HCACON experiment
+reaction property
+Gibbs free energy change
+thermodynamic reaction property
+redox potential change
+kinetic reaction property
+Gibbs free energy of activation
+redox reaction property
+13C REDOR
+13C-2D theta-REDOR
+2H-13C REDOR
+19F-13C REDOR
+13C-2H REAPDOR
+13C-15N REDOR
+antimony-123 method
+antimony-123 magnetic resonance spectroscopy
+right-handed alpha-helix
+nickel XAS
+nickel K-edge XAS
+photoelectron emission spectroscopy
+total yield spectroscopy
+resonance enhanced photoelectron spectroscopy
+ultraviolet photoelectron spectroscopy
+partial yield spectroscopy
+constant final state spectroscopy
+surface extended X-ray absorption fine structure
+X-ray photoelectron spectroscopy
+angle resolved synchrotron radiation photoelectron spectroscopy
+gamma-ray photoelectron spectroscopy
+angle resolved X-ray photoelectron spectroscopy
+energy distribution spectroscopy
+synchrotron radiation photoelectron spectroscopy
+constant initial state spectroscopy
+angle resolved ultraviolet photoelectron spectroscopy
+nuclear spin angular momentum
+microchip capillary electrophoresis with amperometric detection
+microchip CE with amperometric detection by BDD electrode
+copper-63 nuclear quadrupole resonance spectroscopy
+soaking in heavy atom compound solution
+coupling constant measurement
+exclusive COSY experiment
+direct scalar coupling constant measurement
+scalar coupling constant measurement
+quantitative J correlation
+quadrupolar coupling constant measurement
+electron energy loss spectroscopy
+sodium-23 method
+13C-23Na REAPDOR
+sodium-23 magnetic resonance spectroscopy
+23Na-51V TRAPDOR
+time-resolved infrared spectroscopy
+time-resolved step-scan FT-IR spectroscopy
+three IR pulse stimulated echo spectroscopy
+two-pulse IR correlation spectroscopy
+two-dimensional infrared spectroscopy
+triple resonance spectroscopy
+gradient HNCO experiment
+CBCACOHA-TOCSY
+gradient CBCACOHA experiment
+constant-time HNCO experiment
+HNCA experiment
+H(CA)CO-CBHB experiment
+H(CA)CO-TOCSY
+constant-time HCCH-COSY
+P,H-COSY-H,C-HMQC experiment
+(H,N,H) 3D NMR
+HN(CO)CA experiment
+constant-time HN(CA)CO experiment
+(N,H,H) 3D NMR
+HCCH-COSY
+HN(CA)NNH experiment
+HC(C)NH-TOCSY
+HBHA(CBCACO)NH experiment
+(N,N,H) 3D NMR
+HBHA(CBCA)NH experiment
+H(CCO)NH-TOCSY
+HCN experiment
+(H,C,P) 3D NMR
+HBHA(CO)NH experiment
+HCA(CO)N experiment
+HN(CA)HA-GLY experiment
+(N,C,H) 3D NMR
+HCACO experiment
+constant-time HCACO experiment
+constant-time HNCA experiment
+HNCO experiment
+HCN-CCH-TOCSY experiment
+(H,C,N) 3D NMR
+HN(CA)HA experiment
+HA(CA)NNH experiment
+C TOCSY-REVINEPT
+HCCH-TOCSY
+HC(CO)NH-TOCSY
+3D [13C]-ct-[15N,1H]-TROSY-HNCA
+(C,N,H) 3D NMR
+HA[CAN]HN experiment
+HA[CAN]HN experiment
+HN(CA)NNH experiment
+HN(COCA)HA experiment
+3D [15N,1H]-TROSY-HNCACB
+CBCACOHA experiment
+[15N,1H]-TROSY-HNCA
+HNCACB experiment
+H(N)CACO experiment
+CBCANH experiment
+constant-time HN(CO)CA experiment
+[15N,1H]-TROSY-HNCO
+constant-time HA[CAN]HN experiment
+constant-time HCA(CO)N experiment
+multiple-quantum HCN-CCH-TOCSY experiment
+HN(CA)CO experiment
+(C,C,H) 3D NMR
+H(CA)CO-COSY
+HCP-CCH-TOCSY experiment
+P,H-TOCSY-H,C-HMQC experiment
+CBCA(CO)NH experiment
+(H,C,H) 3D NMR
+gradient HCCH-TOCSY
+flame atomic absorption spectroscopy
+size exclusion chromatography-flame atomic absorption spectrometry
+flame atomic fluorescence spectroscopy
+cell membrane viscosity
+diffraction data collection
+amino acid composition
+infrared spectroscopy by spectral region
+mid-infrared spectroscopy
+far-infrared spectroscopy
+mid-infrared imaging
+near-infrared imaging
+near-infrared spectroscopy
+diffraction method
+neutron diffraction method
+X-ray diffraction method
+diffraction data analysis
+electron diffraction method
+rubidium-87 method
+rubidium-87 nuclear quadrupole resonance spectroscopy
+infrared reflection spectroscopy
+attenuated total reflectance Fourier transform infrared spectrometry
+infrared ellipsometric spectroscopy
+diffuse reflectance infrared spectroscopy
+reflection-absorption infrared spectroscopy
+diffuse reflectance infrared spectroscopy by Fourier transform
+1H-13C heteronuclear correlated spectroscopy
+optical microscopy
+vibrational spectroscopic imaging
+laser scanning fluorescence microscopy
+multiphoton laser scanning fluorescence microscopy
+FRET microscopy
+single-photon laser scanning fluorescence microscopy
+infrared imaging
+scanning near-field optical microscopy
+two-photon laser scanning fluorescence microscopy
+fluorescence microscopy
+Raman imaging
+antimony-121 Mossbauer spectroscopy
+polyacrylamide gel electrophoresis
+two-dimensional polyacrylamide gel electrophoresis
+SDS polyacrylamide gel electrophoresis
+gradient SDS polyacrylamide gel electrophoresis
+1H-15N dipolar coupling/15N chemical shift with magic-angle sample spinning
+analytical centrifugation
+sedimentation equilibrium experiment
+sedimentation velocity experiment
+scanning ion microscopy
+one-dimensional NMR
+insensitive nuclei enhanced by polarization transfer
+J-modulated spin-echo
+diffusion ordered spectroscopy
+nuclear Overhauser effect difference spectroscopy
+distortionless enhancement by polarization transfer
+DPFGSE-NOESY
+attached proton test
+pulsed field gradient NMR
+DPFGSE-TOCSY
+19F PGSE
+gradient 13C/13C 1H-1H NOESY
+1H PGSE
+7Li PGSE
+13C PGSE
+pulsed gradient spin-echo NMR
+double pulsed field gradient spin-echo excitation
+2H PGSE
+potentiometric titration
+differential potentiometric titration
+redox potential
+BY
+cell wall structure
+vanadium K-edge XAS
+13C-13C double quantum correlation
+2H decoupled 1H,13C NMR
+boron-doped diamond electrode method
+CEEC by BDD electrode
+boron-doped diamond thin-film electrode method
+voltammetric method
+Tast polarography
+polarography
+linear sweep voltammetry
+square-wave polarography
+cyclic voltammetry
+hydrodynamic voltammetry
+protein film voltammetry
+normal pulse polarography
+capillary electrophoresis with voltammetric detection
+triangular wave voltammetry
+fast-scan cyclic voltammetry of protein film on pyrolytic graphite edge electrode
+fast-scan cyclic voltammetry
+alternating current polarography
+continuous scan cyclic voltammetry
+double potential step chronoamperometry
+single drop sweep polarography
+alternating voltage chronopotentiometry
+differential pulse polarography
+coherent synchrotron radiation method
+molecular hydration
+molecular shape
+linear dichroism
+magnetic linear dichroism
+boron-11 method
+boron-11 magnetic resonance spectroscopy
+quadrupole ion trap mass spectrometry
+dielectrometric titration
+3D COSY-NOESY
+amino-terminal residue labelling
+method by isotope
+multinuclear [13C,17O,57Fe] 1D NMR
+xenon-129 Mossbauer spectroscopy
+tellurium-125 magnetic resonance spectroscopy
+molybdenum-95 magnetic resonance spectroscopy
+13C/13C edited 1H-1H NOESY
+single quantum [13C,1H]-TROSY
+13C-1H HMQC
+xenon-129 method
+aluminium-27 method
+nitrogen-15 magnetic resonance spectroscopy
+Edman-AMS sequencing
+iron-52 method
+lithium-6 method
+iron-57 method
+iodine-127 method
+europium-151 method
+1H-75As nuclear-quadrupole double-resonance spectroscopy
+13C/15N edited 1H-1H NOESY
+aluminium-27 nuclear quadrupole resonance spectroscopy
+constant-time HMQC-HN experiment
+deuterium method
+molybdenum-95 method
+selenium-77 magnetic resonance spectroscopy
+cadmium-113 method
+solid-state 29Si MAS NMR
+lithium-6 magnetic resonance spectroscopy
+fluorine-19 magnetic resonance spectroscopy
+1H-35Cl nuclear-quadrupole double-resonance spectroscopy
+31P-15N REDOR
+19F-29Si theta-REDOR
+carbon-14 method
+1H-31P heteronuclear correlated spectroscopy
+vanadium-51 magnetic resonance spectroscopy
+helium-3 magnetic resonance spectroscopy
+phosphorus-31 magnetic resonance spectroscopy
+potassium-39 magnetic resonance spectroscopy
+laser-polarized gaseous 129Xe NMR
+2H decoupled NMR
+tin-119 method
+lanthanum-139 magnetic resonance spectroscopy
+(C,C) 2D NMR
+[57Fe,13C] double resonance
+(H,C,C,H) 4D NMR
+19F REDOR
+single quantum [15N,1H]-TROSY
+13C-27Al TRAPDOR
+13C-13C correlated spectroscopy
+89Y CP/MAS
+gold-197 magnetic resonance spectroscopy
+oxygen-17 magnetic resonance spectroscopy
+antimony-121 magnetic resonance spectroscopy
+13C-14N REAPDOR
+113Cd 1D NMR
+constant-time [13C,1H]-TROSY
+lanthanum-139 nuclear quadrupole resonance spectroscopy
+carbon-13 magnetic resonance spectroscopy
+31P-19F REDOR
+chlorine-35 method
+arsenic-75 nuclear quadrupole resonance spectroscopy
+4D HCCH-TOCSY
+chlorine-35 nuclear quadrupole resonance spectroscopy
+57Fe 1D NMR
+xenon-129 magnetic resonance spectroscopy
+(C,H,C,H) 4D NMR
+iodine-127 Mossbauer spectroscopy
+silicon-29 magnetic resonance spectroscopy
+constant-time HMQC-HA experiment
+gold-197 method
+laser-polarized solid 129Xe NMR
+6Li-1H HOESY
+copper-65 method
+yttrium-89 method
+29Si CP/MAS
+113Cd-113Cd DQF-COSY
+helium-3 method
+zero quantum [15N,1H]-TROSY
+yttrium-89 NMR
+silver-109 magnetic resonance spectroscopy
+113Cd-113Cd correlated spectroscopy
+beryllium-9 magnetic resonance spectroscopy
+13C-TOCSY-HSQC
+cadmium-111 method
+nitrogen-14 method
+europium-151 Mossbauer spectroscopy
+fluorine-19 method
+laser-polarized gaseous 3He NMR
+1H-27Al TRAPDOR
+19F-1H HOESY
+13C-15N multiple bond correlation spectroscopy
+13C 1D NMR
+vanadium-51 method
+15N-1H HMQC
+aluminium-27 magnetic resonance spectroscopy
+1H-109Ag HMQC
+tellurium-125 method
+silicon-29 method
+copper-65 electron paramagnetic resonance spectroscopy
+HCANNH experiment
+silver-109 method
+iron-55 method
+iron-59 method
+copper-63 electron paramagnetic resonance spectroscopy
+gold-197 Mossbauer spectroscopy
+(N,C) 2D NMR
+nitrogen-14 magnetic resonance spectroscopy
+iodine-127 nuclear quadrupole resonance spectroscopy
+14N ESEEM
+lithium-7 magnetic resonance spectroscopy
+gradient-enhanced jump-return spin-echo 15N-1H HMQC
+copper-63 magnetic resonance spectroscopy
+31P-13C REDOR
+copper-63 method
+17O ENDOR
+HN(CO)CAHA experiment
+iodine-129 method
+1H-113Cd correlated spectroscopy
+triple resonance TROSY in uniformly 2H,13C,15N labelled protein
+95Mo ENDOR
+potassium-39 method
+tin-119 magnetic resonance spectroscopy
+iron-57 Mossbauer spectroscopy
+29Si REDOR
+(H,N,N,H) 4D NMR
+1H-31P CP/MAS
+lanthanum-139 method
+beryllium-9 method
+HN(COCA)NH
+antimony-121 method
+109Ag CP/MAS
+(C,C,N,H) 4D NMR
+arsenic-75 method
+57Fe ENDOR
+31P REDOR
+19F-29Si REDOR
+iodine-129 Mossbauer spectroscopy
+lithium-7 method
+nitrogen-15 method
+phosphorus-31 method
+(C,H,N,H) 4D NMR
+deuterium magnetic resonance spectroscopy
+(N,N) 2D NMR
+HCC(CO)NNH experiment
+(H,C,N,H) 4D NMR
+carbon-13 method
+tellurium-125 Mossbauer spectroscopy
+copper-65 nuclear quadrupole resonance spectroscopy
+iron-57 magnetic resonance spectroscopy
+molybdenum-99 method
+17O 1D NMR
+oxygen-17 method
+nitrogen-14 nuclear quadrupole resonance spectroscopy
+cadmium-113 magnetic resonance spectroscopy
+iodine-127 magnetic resonance spectroscopy
+selenium-77 method
+tin-119 Mossbauer spectroscopy
+cadmium-111 magnetic resonance spectroscopy
+proton-induced X-ray emission spectroscopy
+Western blotting
+liquid chromatography-inductively coupled plasma mass spectrometry
+Edman degradation
+2-mercaptodecylhydroquinone-modified gold electrode method
+copper K-edge XAS
+site-directed mutagenesis
+time-resolved resonance Raman spectroscopy
+picosecond time-resolved resonance Raman spectroscopy
+laser flash photolysis
+nanosecond laser flash photolysis
+diffuse reflectance laser flash photolysis
+supramolecular structure
+phospholipid monolayer structure
+membrane protein topology
+phospholipid bilayer structure
+apolipoprotein structure
+phospholipid micelle structure
+cell membrane structure
+virus particle structure
+lipoprotein structure
+virus particle surface topography
+phospholipid supramolecular structure
+exclusion chromatography
+LCCC-LEAC
+size-exclusion chromatography
+liquid exclusion-adsorption chromatography
+ion-exclusion chromatography
+NMR by dimensionality
+heteronuclear correlation spectroscopy
+3D HMQC-NOESY
+proton-detected heteronuclear correlated spectroscopy
+3D NOESY-TOCSY
+zero quantum TROSY
+13C-1H HMBC
+3D TOCSY-HSQC
+heteronuclear single quantum correlation spectroscopy
+1H-113Cd HMQC
+two-dimensional NMR
+three-dimensional NMR
+2D TOCSY-HSQC
+3D NOESY-HMQC
+(H,H) 2D NMR
+rotational nuclear Overhauser effect spectroscopy
+relay-COSY
+3D TOCSY-NOESY
+phase sensitive COSY
+heteronuclear multiple bond correlation spectroscopy
+3D HMQC-COSY
+3D NOESY-COSY
+15N-15N correlated spectroscopy
+15N-1H HMBC
+X-detected heteronuclear 2D NMR
+3D NOESY-HSQC
+heteronuclear 2D NMR
+double 2D NMR experiment
+1H-1H correlated spectroscopy
+3D HMQC-TOCSY
+total correlated spectroscopy
+correlated spectroscopy
+double quantum filtered COSY
+homonuclear 2D NMR
+H-detected heteronuclear 2D NMR
+heteronuclear multiple quantum correlation spectroscopy
+single quantum TROSY
+2D NOESY-HSQC
+gradient selected TOCSY
+total correlated spectroscopy
+correlated long range coupling
+four-dimensional NMR
+transient spectroscopy
+flash photolysis
+enzyme-dependent fluorescence recovery after photobleaching
+fluorescence recovery after photobleaching
+chromatography with flame ionization detection
+gas chromatography with flame ionization detection
+controlled potential coulometry
+tandem IMAC/IAC of His-tagged protein
+capacitively coupled plasma method
+electric field method
+oxygen-17 nuclear quadrupole resonance spectroscopy
+electrophoresis
+non-aqueous capillary electrophoresis with mass spectrometry
+nuclear-quadrupole double-resonance spectroscopy
+ion trap mass spectrometry
+aqueous capillary electrophoresis
+quadrupole mass spectrometry
+isoelectric focusing
+Zeeman-perturbated NQR
+capillary electrophoresis with electrochemical detection
+capillary electrophoresis with biosensor detection
+gel electrophoresis
+nuclear quadrupole resonance spectroscopy
+NQR by nucleus type
+capillary electrophoresis with potentiometric detection
+capillary electrophoresis with amperometric detection
+immunoelectrophoresis
+electroblotting method
+capillary electrophoresis with conductometric detection
+potassium-39 nuclear quadrupole resonance spectroscopy
+pulsed field gel electrophoresis
+capillary gel electrophoresis
+free solution capillary electrophoresis
+electric field mass spectroscopy
+proton transfer reaction ion trap mass spectrometry
+microchip capillary electrophoresis with electrochemical detection
+quadrupole time-of-flight mass spectrometry
+Northern blotting
+microchip capillary electrophoresis
+capillary electrophoresis with laser-induced fluorescence detection
+Southern blotting
+non-aqueous capillary electrophoresis
+Stark spectroscopy
+capillary electrophoresis by detection
+rotating-frame NQR imaging
+capillary electrophoresis
+electron crystallography
+two-dimensional liquid chromatography
+two-dimensional liquid chromatography-tandem mass spectrometry
+protein-poly(diallyldimethylammonium) film method
+nuclear property
+atomic number
+nuclear magnetic moment
+nuclear shape
+nuclear size
+nuclear mass
+solution NMR
+microwave-induced plasma atomic emission spectrometry
+chemical bond
+hydrogen bond
+secondary chemical bond
+ionic bond
+primary chemical bond
+metallic bond
+Van der Waals bond
+peptide mass fingerprinting
+immunochromatography
+immunoaffinity chromatography
+method by radiation type
+two-pulse ESEEM
+energy-dispersive X-ray absorption spectroscopy
+phase cycling NMR
+fluorescence anisotropy measurement
+electron probe microanalysis
+infrared photoacoustic spectroscopy
+iron K-edge XAS
+NMR by nucleus type
+infrared spectroscopy by radiation behaviour
+manganese XAS
+X-ray scattering
+extended electron energy loss fine structure
+X-ray spectroscopy
+sulfur K-edge XAS
+sulfur K-edge EXAFS
+high resolution electron energy loss spectroscopy
+gas-phase NMR
+infrared spectroscopy by instrument
+molybdenum L-edge XAS
+rotational resonance width experiment
+selenium K-edge XAS
+particle-induced X-ray emission spectroscopy
+Fourier transform Raman spectroscopy
+ultraviolet/visible spectroscopy
+energy-dispersive spectroscopy
+Mossbauer spectroscopy
+nucleic acid photoaffinity labelling
+electron impact spectroscopy
+spin marker method
+general TRIPLE
+dipole-dipole coupling
+valence band X-ray emission spectroscopy
+radio-frequency spectroscopy
+13C CP/MAS
+pulse spallation neutron source method
+1H-2H CP/MAS
+coherent anti-Stokes Raman spectroscopy
+electron-induced photon emission spectroscopy
+laser Raman spectroscopy
+RNA photoaffinity labelling
+energy-dispersive EXAFS
+heteronuclear distance measurement
+copper XAS
+3D TOCSY-NOESY
+photoreactive group-phosphate backbone linkage
+X-ray magnetic circular dichroism
+vanadium K X-ray absorption near-edge spectroscopy
+EPR-monitored redox titration
+electron radiation method
+dynamic nuclear polarization
+field-step ELDOR
+Hahn spin-echo sequence
+homonuclear distance measurement
+pulse EPR
+manganese K-edge XAS
+optical spectroscopy
+zinc XAS
+13C-13C rotational resonance NMR
+neutron scattering
+DNA photoaffinity labelling
+special TRIPLE
+near edge X-ray absorption fine structure
+dispersive infrared spectroscopy
+X-ray method
+inversion recovery
+rotational resonance tickling experiment
+1H-15N dipolar coupling/15N chemical shift PISEMA
+liquid chromatography nuclear magnetic resonance
+NEXAFS microscopy
+X-ray fluorescence spectroscopy
+NMR by coupling type
+three-pulse ESEEM
+vanadium XAS
+polarized light method
+13C chemical shift/1H-13C dipolar coupling/15N chemical shift PISEMA
+extended X-ray absorption fine structure
+electromagnetic radiation method
+transfer-echo double-resonance NMR
+surface enhanced resonance Raman spectroscopy
+time-resolved fluorescence anisotropy measurement
+1H ENDOR
+ionization spectroscopy
+transfer of populations in double resonance NMR
+continuous-wave EPR
+spin-spin relaxation time measurement
+selenium XAS
+spin-spin coupling NMR
+time-resolved non-resonance Raman spectroscopy
+photoaffinity labelling
+optical method
+laser-polarized gas NMR
+electron spin echo envelope modulation spectroscopy
+1H13C dipolar coupling/13C chemical shift PISEMA
+photochemical method
+combined electron and nuclear magnetic resonance spectroscopy
+spin relaxation method
+magnesium XAS
+molybdenum XAS
+pulse ELDOR
+magnetic circular dichroism spectroscopy
+circular dichroism spectroscopy
+iron XAS
+electron-electron double resonance spectroscopy
+nuclear Overhauser effect method
+step-scan FT-IR spectroscopy
+WEFT-NOESY
+nuclear magnetic resonance spectroscopy
+continuous spallation neutron source method
+15N REDOR
+spallation neutron source method
+13C-13C rotational resonance width experiment
+pulse ENDOR
+progressive saturation
+electron paramagnetic resonance spectroscopy
+sulfur XAS
+magnetic vibrational circular dichroism
+protein photoaffinity labelling
+fission reactor neutron source method
+metal K-edge XAS
+small-angle neutron scattering
+multiple-pulse NMR
+Rayleigh scattering
+cross-polarization magic-angle-spinning NMR
+liquid chromatography/NMR spectrometry/mass spectrometry
+molybdenum K-edge XAS
+3D PISEMA
+continuous-wave ENDOR
+zinc K-edge XAS
+electron scattering
+2D TEDOR
+electron scattering spectroscopy
+X-ray emission spectroscopy
+infrared emission spectroscopy
+heteronuclear Overhauser effect spectroscopy
+vibrational circular dichroism spectroscopy
+solid-state magic-angle-spinning NMR
+gamma-ray spectroscopy
+surface enhanced non-resonance Raman spectroscopy
+infrared spectroscopy
+spectroscopy by radiation type
+polarization inversion spin exchange at the magic angle
+wide-angle X-ray scattering
+time-resolved energy-dispersive XAS
+tungsten L-edge XAS
+3D TEDOR
+paramagnetic signals enhancement NMR
+infrared transmission spectroscopy
+copper L-edge XAS
+rotational-echo adiabatic-passage double-resonance NMR
+small-angle light scattering
+wide-angle neutron scattering
+electron transmission spectroscopy
+polarimetry
+X-ray absorption spectroscopy
+fast Fourier transform infrared spectroscopy
+magnesium K-edge XAS
+Fourier transform infrared spectroscopy
+UV-Vis circular dichroism spectroscopy
+circularly polarized light method
+non-resonance Raman spectroscopy
+PASE-NOE
+time-resolved XAS
+metal L-edge XAS
+inverse photoemission spectroscopy
+neutron radiation method
+1H chemical shift/1H-15N dipolar coupling/15N chemical shift PISEMA
+small-angle X-ray scattering
+time-resolved EXAFS
+electron spectroscopy
+light scattering
+infrared absorption spectroscopy
+plane polarized light method
+solid-state NMR
+X-ray absorption near edge structure
+proton magnetic resonance spectroscopy
+2D PISEMA
+photoreactive nucleobase substitution
+electromagnetic spectroscopy
+dipole-dipole relaxation method
+PASE-NOESY
+magnetic UV-Vis circular dichroism spectroscopy
+resonance Raman spectroscopy
+rotational resonance NMR
+selenium K X-ray absorption near-edge spectroscopy
+electron-induced X-ray emission spectroscopy
+Raman spectroscopy
+electron-nuclear triple resonance spectroscopy
+time-resolved Raman spectroscopy
+photon scattering
+rotational-echo double-resonance NMR
+spin-lattice relaxation time measurement
+ligand K-edge XAS
+microwave spectroscopy
+relaxation time measurement
+X-ray absorption spectroscopy by atom type
+electron-nuclear double resonance spectroscopy
+electron probe X-ray microanalysis
+surface enhanced Raman spectroscopy
+NMR by object state
+tungsten XAS
+transverse relaxation optimized spectroscopy
+momentum-resolved Bremsstrahlung spectroscopy
+Carr-Purcell-Meiboom-Gill sequence
+chemical shift measurement
+NMR parameter measurement
+amperometry
+single molecule fluorescence spectroscopy
+protein film method
+protein-didodecyldimethylammonium bromide film method
+protein-dihexadecylphosphate-poly(diallyldimethylammonium) film method
+protein-dihexadecylphosphate film method
+protein-polyion-surfactant film method
+protein-poly(vinyl sulfonate) film method
+protein-poly(ester sulfonic acid) film method
+protein-composite film method
+didodecyldimethylammonium bromide-modified EPG electrode method
+protein-chitosan film method
+protein-polyion film method
+protein-dimyristoyl phosphatidylcholine method
+protein-surfactant film method
+protein-clay-surfactant film method
+tandem mass spectrometry
+accelerator mass spectrometry
+macromolecular structure
+protein secondary structure
+glycoprotein structure
+polyproline II helix
+disulfide bond structure
+protein quaternary structure
+DNA structure
+secondary structure
+right-handed helix
+polyproline helix
+protein domain structure
+pi-helix
+left-handed alpha-helix
+parallel beta-sheet
+alpha-helix
+left-handed helix
+antiparallel beta-sheet
+RNA structure
+tertiary structure
+protein tertiary structure
+nucleic acid structure
+protein structure
+reverse turn
+polysaccharide structure
+helical structure
+nucleic acid tertiary structure
+3-10-helix
+protein active site structure
+prosthetic group structure
+glycoprotein tertiary structure
+extended structure
+polyproline I helix
+nucleic acid secondary structure
+protein accessible surface
+quaternary structure
+amperometric method
+chronocoulometry
+controlled potential electrogravimetry
+electrography
+amperometric titration
+chronoamperometry
+electrogravimetry
+high-performance anion-exchange chromatography with pulsed amperometric detection
+DNA UV melting
+virus particle shape
+phosphorescence spectroscopy
+absorption spectroscopy
+molecular electronic absorption spectroscopy
+atomic fluorescence spectroscopy
+atomic absorption spectroscopy
+optical rotatory dispersion spectroscopy
+reflection-absorption spectroscopy
+photoacoustic spectroscopy
+electronic absorption spectroscopy
+magnetic optical rotatory dispersion spectroscopy
+graphite furnace atomic absorption spectrometry
+laser desorption-atmospheric pressure chemical ionization-mass spectrometry
+scanning surface potential microscopy
+high frequency conductometric titration
+differential centrifugation
+glassy carbon electrode method
+multi-wall carbon nanotubes-modified glassy carbon electrode method
+bare glassy carbon electrode method
+didodecyldimethylammonium bromide-modified GC electrode method
+rotational spectroscopy
+molecular charge
+disulfide bond assignment
+X-ray crystallography
+centrifugation
+low speed centrifugation
+preparative centrifugation
+isopycnic centrifugation
+rate zonal centrifugation
+ultracentrifugation
+general physico-chemical property
+structure
+heat capacity
+conformation
+atomic mass
+molecular mass
+size
+molecular size
+shape
+molecular heat capacity
+electronic mass
+molar heat capacity
+molecular structure
+mass
+atomic electronic spectroscopy
+atomic emission spectroscopy
+flame atomic emission spectroscopy
+flame atomic spectroscopy
+Fourier transform method
+Fourier transform-ion cyclotron resonance mass spectrometry
+gas chromatography with microwave-induced plasma and atomic-emission detection
+two-dimensional gas chromatography
+optical activity
+microscopy
+SIMS microscopy
+scanning tunneling microscopy
+atomic force microscopy
+contact AFM
+magnetic resonance force microscopy
+electron microscopy
+scanning electron microscopy
+non-contact AFM
+cryo-electron microscopy
+scanning probe microscopy
+ion microscopy
+electric force microscopy
+magnetic force microscopy
+transmission electron microscopy
+lateral force microscopy
+synchrotron radiation method
+mass spectrometry by mass analyser
+biomolecular interaction analysis mass spectrometry
+magnetic sector mass spectrometry
+magnetic field mass spectrometry
+time-of-flight mass spectrometry
+time-of-flight secondary ion mass spectrometry
+MALDI-TOF mass spectrometry
+phasing method
+multiple isomorphous replacement with anomalous scattering
+single isomorphous replacement
+isomorphous replacement
+multiple isomorphous replacement
+multiple MAD
+direct phasing method
+multiple wavelength anomalous diffraction
+single isomorphous replacement with anomalous scattering
+single wavelength anomalous diffraction
+molecular replacement
+Shake-and-Bake method
+spectroelectrochemical method
+liquid chromatography at the critical condition
+enhanced-fluidity liquid chromatography at the critical condition
+gold electrode method
+bare gold electrode method
+alkanethiol-modified gold electrode method
+bis(4-pyridyl)-disulphide-modified gold electrode method
+elution chromatography by mobile phase composition
+gradient elution chromatography
+isocratic elution chromatography
+stepwise elution chromatography
+fluorescence correlation spectroscopy
+high-pressure fluorescence correlation spectroscopy
+confocal fluorescence correlation spectroscopy
+displacement chromatography
+entire polypeptide sequencing
+disulfide bond cleavage
+limited proteolysis
+peptide mapping
+peptide fragment sequencing
+limited trypsinolysis
+low pressure electrical discharge method
+thermodynamic method
+UV melting
+differential scanning calorimetry
+RNA UV melting
+chemical ionization mass spectrometry
+atmospheric pressure chemical ionization mass spectrometry
+proton transfer reaction mass spectrometry
+heavy atom derivative preparation
+heavy atom labelling of recombinant proteins
+co-crystallization with heavy atom compound
+chemical method
+DNA sequencing
+chemiluminescence spectroscopy
+Maxam-Gilbert sequencing
+gas chromatography-mass spectrometry
+dideoxynucleotide DNA sequencing
+protein mapping method
+sonic spray ionization mass spectrometry
+atmospheric pressure photoionization mass spectrometry
+Maxam-Gilbert DNA sequencing
+surface plasmon resonance mass spectrometry
+plasma desorption ionization mass spectrometry
+nucleic acid mapping method
+sequencing method
+inductively coupled plasma mass spectrometry
+nucleic acid sequencing method
+protein sequencing method
+nucleic acid sequencing using polymerase
+matrix-assisted laser desorption/ionization mass spectrometry
+photoionization mass spectrometry
+mass spectrometry
+Maxam-Gilbert RNA sequencing
+protein vapor-phase hydrolysis
+protein acid hydrolysis
+macromolecule mapping method
+protein base hydrolysis
+spark ionization mass spectroscopy
+chemiluminescence method
+capillary gas chromatography-mass spectrometry
+transcriptional sequencing
+field ionization mass spectrometry
+amino-terminal sequencing
+thermal ionization mass spectrometry
+laser ionization mass spectrometry
+dideoxynucleotide sequencing
+RNA sequencing
+positive thermal ionization mass spectrometry
+negative thermal ionization mass spectrometry
+electron ionization mass spectrometry
+liquid secondary ion mass spectrometry
+carboxy-terminal sequencing
+secondary ion mass spectrometry
+liquid chromatography-mass spectrometry
+field desorption mass spectrometry
+amino acid composition identification
+isotope-dilution ICP-MS
+atmospheric pressure ionization mass spectrometry
+protein hydrolysis
+ion spray ionization mass spectrometry
+protein vapor-phase acid hydrolysis
+mass spectrometry by ionization method
+RNA sequencing using RNA-dependent RNA polymerase
+stopped-flow electrospray ionization mass spectrometry
+electrospray ionization mass spectroscopy
+electrothermal vaporization-inductively coupled plasma-mass spectrometry
+isotope dilution thermal ionization mass spectrometry
+system property
+virus particle size
+atomic property
+molecular property
+cell membrane thickness
+electronic property
+virus particle property
+cellular size
+paramagnetic centre property
+cell membrane property
+electronic spin angular momentum
+redox system property
+cell membrane potential
+cell membrane permeability
+cellular volume
+overall angular momentum
+cellular charge
+cell wall property
+supramolecular property
+electron spin state
+redox state
+cellular shape
+electronic angular momentum
+cellular property
+electronic orbital angular momentum
+elastic scattering
+spectroscopy by object
+crystal spectroscopy
+molecular spectroscopy by energy state
+electronic spectroscopy
+time-resolved fluorescence spectroscopy
+luminescence spectroscopy by excitation mode
+luminescence spectroscopy by excited state
+vibrational spectroscopy
+steady state fluorescence spectroscopy
+photoluminescencence spectroscopy
+luminescence spectroscopy
+fluorescence spectroscopy
+molecular electronic spectroscopy
+molecular spectroscopy
+atomic spectroscopy
+delayed fluorescence spectroscopy
+flame molecular spectroscopy
+thermoluminescence spectroscopy
+chemical flame method
+flame spectroscopy
+controlled-current potentiometry
+spectroscopy
+scattering spectroscopy
+near infrared surface plasmon resonance spectroscopy
+surface plasmon resonance spectroscopy
+time-resolved spectroscopy
+spectroscopy by radiation behaviour
+surface plasmon resonance biomolecular interaction analysis
+attenuated total reflectance spectroscopy
+diffuse reflectance spectroscopy
+reflection spectroscopy
+flame emission spectroscopy
+emission spectroscopy
+chromatography with electrochemical detection
+high-performance anion-exchange chromatography with conductivity detection
+chromatography by mobile phase state
+two-dimensional liquid chromatography x gas chromatography
+two-dimensional chromatography
+gas-solid chromatography
+liquid-solid chromatography
+liquid-liquid chromatography
+liquid chromatography
+gas chromatography
+gas-liquid chromatography
+high-pressure liquid chromatography
+supercritical-fluid chromatography
+capillary gas chromatography
+phosphorescence method
+partition chromatography
+magnetic susceptibility measurement
+elution chromatography
+reversed-phase chromatography
+normal-phase chromatography
+plasma method
+microwave plasma method
+microwave-induced plasma method
+radiofrequency plasma method
+inductively coupled plasma method
+IMAC of His-tagged protein
+separation method
+chromatography
+ion-exchange chromatography
+affinity chromatography
+separation by molecular size
+magnetophoresis
+high-performance anion-exchange chromatography
+chromatography by separation mechanism
+adsorption chromatography
+chromatography by detection
+cation-exchange chromatography
+frontal chromatography
+immobilized metal affinity chromatography
+anion-exchange chromatography
+chronopotentiometry
+electroanalytical method by electrode type
+edge-plane pyrolytic graphite electrode method
+bare EPG electrode method
+film electrode method
+biosensor method
+biophysical chemistry
+fluorescence method
+thermoluminescence method
+radiation scattering method
+dielectrometry
+fluorescence resonance energy transfer
+immunological method
+radiation based method
+physical method
+scattering by radiation type
+radiation emission method
+inelastic scattering
+non-coherent radiation source method
+small-angle scattering
+free electron laser method
+high frequency conductometry
+luminescence method by excitation mode
+physico-chemical method
+biological method
+potentiometry
+method by radiation behaviour
+arc method
+spark method
+cryocrystallography
+potentiometric method
+coulometric titration
+radiation absorption method
+pulsed laser method
+differential potentiometry
+fission reactor source method
+luminescence method
+wide-angle scattering
+photoluminescencence method
+conductometric titration
+laser method
+crystallization
+electroanalytical method
+potentiometric coulometric titration
+conductometry
+neutron crystallography
+molar property
+coherent radiation source method
+compound property
+magnetic field method
+isotope labelling method
+luminescence method by excited state
+crystallography
+scattering by radiation behaviour
+preparative method
+method by radiation source
+isotope method
+physico-chemical property by object
+crystallography by diffraction method
+controlled-current potentiometric titration
+conductometric method
+physico-chemical property
+magnetic resonance spectroscopy
+exact
+alt_id
+narrow
+synonym
+broad

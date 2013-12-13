@@ -1,0 +1,93 @@
+broad
+Forensic or Paleo-genomics
+MNase-Seq
+unspecified
+Population Genomics
+CTS
+Other
+exact
+GENOMIC
+454 GS 20
+Forward
+related
+454 GS
+EST
+SRA-ENA-CV
+AMPLICON
+part_of
+LS454
+is_a
+develops_from
+CF-S
+CF-T
+Adapter
+read class
+Primer
+FINISHING
+WGS
+unspecified
+POOLCLONE
+FL-cDNA
+Technical Read
+GS FLX
+RANDOM
+other
+Helicos Heliscope
+Solexa 1G Genome Analyzer
+platform
+BarCode
+ILLUMINA
+Whole Genome Sequencing
+OTHER
+Other
+library source
+MF
+AB SOLiD System 2.0
+VIRAL RNA
+454 GS FLX
+MNase
+CF-M
+library selection
+Illumina Genome Analyzer
+HMPR
+library layout
+unspecified
+CLONE
+Linker
+Synthetic Genomics
+Metagenomics
+WCS
+GS 20
+RT-PCR
+OTHER
+unspecified
+Transcriptome Analysis
+HELICOS
+PCR
+Gene Regulation Study
+Reverse
+Cancer Genomics
+Epigenetics
+single
+cDNA
+Application Read
+CLONEEND
+read type
+MSLL
+CF-H
+Resequencing
+RANDOM PCR
+ABI_SOLID
+ChIP-Seq
+SYNTHETIC
+library strategy
+study type
+AB SOLiD System
+paired
+BARCODE
+NON GENOMIC
+ChIP
+Illumina Genome Analyzer II
+alt_id
+narrow
+synonym

@@ -1,0 +1,2790 @@
+Proteasome degradation of SnoN_ub by proteasome
+Decarboxylation in the cytosol
+nucleoside triphosphatase reaction
+Phosphorylation of BLNK by Syk
+Hydroxylation in the unidentified cellular location
+Autophosphorylation in unidentified cellular location
+Phosphorylation of Ig alpha:beta by Src family
+Decarboxylation in the unidentified cellular location
+Phosphorylation of Lck by non-receptor kinase and inactive conformational change
+Autophosphorylation of insulin receptor
+Isoprenylation
+Phosphorylation of caspase9 by AKT
+Dephosphorylation of HDAC5/7 by protein phosphatase
+Phosphorylation of Fyn by non-receptor kinase and inactive conformational change
+Phosphorylation of FRS2 by FGFR_p
+Phosphorylation of PIP2 by PI3K
+Phosphorylation outside the mitochondria membrane
+GDP-GTP exchange of Rap1 by Epac1
+Phosphorylation of Sprouty1 by FGFR1
+Palmitoylation of hedgehog
+GDP-GTP exchange of Rac by Vav
+CoA ligation in unidentified cellular location
+Phosphorylation of Bad by PKA
+Hydrolysis of ATP to cAMP by adenylate cyclase
+Cleavage and activation of Relish by Dredd  [Drosophila]
+Phosphorylation of ZAP-70 by autophosphorylated Lck
+Ubiquitination of CD3_p by c-Cbl
+Oxidation/Reduction in unidentified cellular location
+GDP-GTP exchange of G alpha o
+Dephosphorylation of Insulin receptor by PTP
+Phosphorylation of cofilin by LIM-kinase
+Neddylation
+Phosphorylation in the inner space of the nuclear
+Dephosphorylation of Fyn_p (autophosphorylated) by PTP
+Myristoylation of tBID by NMT1
+GDP-GTP exchange of Cdc42 by RhoGEF
+Phosphorylation of MAPKKK by MAPKKKK
+Phosphorylation of 14-3-3 by JNK_p
+Phosphorylation of transcriptional regulator by JNK_p
+Autophosphorylation of JAK1 and JAK3
+Phosphorylation of Itch by JNK_p
+Phosphorylation of Smad1 by BMP receptor I_p
+Ubiquitination in cytosol
+Ubiquitination of Notch by Su(dx)/Itch
+Autocleavage of hedgehog
+Amidation
+Phosphorylation of PI by PI4K
+Dephosphorylation of Src (phosphorylated in the C-terminal site) by PTP1D and active conformational change
+Palmitoylation in unidentified cellular location
+Dephosphorylation of Lck_p (autophosphorylated) by PTP
+Hydrolysis of GTP by G alpha t-GTP and RGS
+Ubiquitination of beta-catenin by SCF ubiquitin ligase complex
+Phosphorylation of MKK4 by MEKK4
+Geranylgeranylation in unidentified cellular location
+Ubiquitination of cytokine receptor by SOCS3
+Phosphorylation of Relish by IKK  [Drosophila]
+Phosphorylation of PLC by non-receptor tyrosine kinase
+lipid cleavage
+Phosphorylation of MLC by MLCK
+GDP-GTP exchange of Rap1 by C3G
+Hydrolysis of GTP by small GTPase
+Phosphorylation of cytokine receptor by Jak
+Defarnesylation
+Phosphorylation of transcriptional regulator by MAPK_p
+Cleavage of Ci
+Phosphorylation of MEK1/2(MKK1/2) by B-Raf
+Phosphorylation of STAT4 by JAK2_p and TYK2_p
+Phosphorylation of Src family by Ctk and inactive conformational change
+Phosphorylation of STAT1 by JAK1_p and TYK2_p
+Oxidation/Reduction
+Ubiquitination of Notch (NIC) by SCF ubiquitin ligase complex including sel-10
+Hydrolysis of PIP2 by PLC beta to generate DAG and IP3
+Demethylation
+Deubiquitination
+Phosphorylation of IKK complex by TAK1
+Hydrolysis of PIP2 by PLC gamma1 to generate DAG and IP3
+Phosphorylation of Raf by PKC
+Dephosphorylation Cdk 2 by Cdc25A
+Positive regulation of (phosphorylation of AKT(PKB) in AKT(PKB) activation signaling
+Binding of Bad_p and 14-3-3
+Binding of TRADD and RIP
+Negative regulation of Growth hormone signaling pathway (JAK2 STAT5)
+Negative regulation of (Phosphorylation of Vav by Syk)
+Regulation of PKC activation signaling
+JAK degradation signaling
+Binding of SOCS3 and cytokine receptor
+Negative regulation of JNK signaling (Angiotensin induced)
+Negative regulation of EPO signaling pathway
+Nuclear import of ISGF3
+Translation of IL2
+Binding of LIF receptor and JAK1 and JAK2
+Gene expression by STAT dimer
+IL6 signaling pathway (JAK1, JAK2, STAT3)
+Syk activation signaling
+Regulation of CD4 T cell receptor signaling (through Ras and Erk cascade)
+Binding of IFN alpha receptor and STAT3
+Binding of NF-kappaB and I-kappaB
+Dimerization of STAT1 and STAT3
+PKC activation signaling
+Lck inactivation signaling (through Csk)
+B cell receptor signaling (through Ras and ERK cascade)
+Binding of Ig alpha and Syk
+Binding of phosphatidylserine and cPKC and active conformational change of PKC
+CD4 T cell receptor signaling (through Vav, Rac and JNK cascade)
+Dissociation of phosphatidylserine and PKC
+Raf activation signaling (through RasGRP)
+IKK activation signaling (through PKC beta and CARMA1:BCL10:MALT1)
+Dissociation of IL-2 receptor and STAT5
+Binding of Csk and PEP
+IL10 signaling (JAK1, TYK2, STAT3)
+Binding of calcium ion and calmodulin
+Dimerization of STAT4
+Binding of calcineurin and FK506
+Binding of IFN gammaand IFN gamma receptor and conformational change of receptors
+Binding of STAT6 homodimer and promoter
+Binding of IL-10 receptor and STAT3
+Trimerization of TNFR1
+Binding of Ras-GTP and PI3K
+Binding of FAK and Grb2
+Negative regulation of (phosphorylation of Lck) Lck activation signaling (autophosphorylation and PTP)
+Flower development
+Hemicellulose biosynthesis
+Lignin biosynthesis (gymnosperm)
+Cell division within the vascular cambium
+Post-embryonic morphogenesis
+Cell division within the secondary xylem
+Lignin biosynthesis (angiosperm)
+MEBM (medium)
+AKT(PKB)-caspase signaling
+Binding of Estrogen receptor and SWI/SNF
+Binding of activated IRAK and TRAF6
+Valine, leucine and isoleucine degradation
+Inactivation of tBid by Bcl-2
+Y-27632 medication
+Positive regulation of (phosphorylation of Bad) in AKT(PKB)-Bad signaling
+Bax activation signaling
+Activation of Bax by tBid
+Translocation of Bax from the cytosol to the mitochondria membrane
+Oligomerization of Bax
+Nuclear export of mRNA (Sprouty2)
+HDAC nuclear export signaling
+Nuclear export of 14-3-3:HDAC7:Crm1
+Binding of 14-3-3 and HDAC7
+Binding of 14-3-3 and HDAC5/7
+Negative regulation of HDAC nuclear export signaling
+Binding of 14-3-3 and HDAC5
+Nuclear export of 14-3-3:HDAC5:Crm1
+Dissociation of HDAC5/7 and MEF2
+Nuclear export of 14-3-3:HDAC5/7:Crm1
+Positive regulation of HDAC nuclear export signaling
+Dissociation of HDAC5 and MEF2
+Regulation of HDAC nuclear export signaling
+Dissociation of HDAC7 and MEF2
+TGF beta super family signaling pathway
+Positive regulation of BMP signaling pathway
+BMP signaling pathway
+TGF beta super family signaling pathway (through p38 cascade)
+Gene expression of smad7 by R-smad:smad4
+Binding of BMP receptor I and XIAP
+Negative regulation of BMP signaling pathway
+Binding of BMP receptor I and Smad6
+BMP2 signaling pathway(through Smad)
+Negative regulation of TGF beta super family signaling pathway (through p38 cascade)
+Positive regulation of (transcription by R-smad:smad4 ) in TGF beta super family signaling pathway
+TGF beta signaling pathway (through TAK1)
+TGF beta receptor I degradation signaling
+Binding of R-smad:smad4 complex Coactivator and responsive element
+Binding of BMP2:BMP receptor I and BMP receptor II
+Gene expression of p27 by Smad complex
+Gene expression of smad6/7 by R-smad:smad4
+Complex formation of smad7 and smurf2
+TGF beta super family signaling (through p16)
+Complex formation of Smad1 and Smad4
+Nuclear export of mRNA (p16)
+Positive regulation of BMP2 signaling pathway (through TAK1)
+Positive regulation of TGF beta super family signaling pathway
+Nuclear export of mRNA (smad6/7)
+Negative regulation of (transcription by R-smad:smad4) in TGF beta super family signaling pathway
+Nuclear import of R-smad:smad4
+TGF beta super family signaling (through p15)
+Binding of BMP receptor II and BAMBI
+Negative regulation of (nuclear import of R-smad:smad4) in TGF beta super family signaling pathway
+Nuclear export of mRNA (p27)
+Negative feedback regulation pathway of TGF beta superfamily signaling by (Smad3 sumoylation by PIAS)
+BMP2 signaling pathway(through TAK1)
+TGF beta signaling pathway
+Gene expression of p16 by Smad complex
+Binding of (smad7:smurf1) and TGF beta receptor complex
+Translation of p15
+Binding of Smad6 and TAK1
+Binding of STAT3:p300:Smad1:Smad4 complex and GFAP promoter
+Binding of p27 and Cdk 2
+Phosphorylation of Src by Csk and inactive conformational change
+Phosphorylation of IL-6 receptor by JAK1 and JAK2
+Phosphorylation of IL-7 receptor by JAK1 and JAK3
+Binding of p15 and Cdk 4/6
+SnoN degradation signaling
+Negative feedback regulation pathway of TGF beta superfamily signaling by (TGF receptor degradation by smurf)
+Binding of Smad complex and BRE
+TGF beta super family signaling (through p21)
+Positive regulation of TGF beta signaling pathway
+Negative feedback regulation pathway of TGF beta superfamily signaling
+Dissociation of (smad7:smurf2) and TGF beta receptor I_Ub
+Binding of BMP receptor I and Smad7
+Binding of R-smad:smad4 complex, Corepressor, Deacetylase and responsive element
+Complex formation of R-smad and Smad4
+TGF beta super family signaling (through p27)
+Nuclear import of p38_p
+Negative feedback regulation pathway of TGF beta superfamily signaling by (binding of smad6/7 and TGF beta receptor I)
+Binding of TAB1 and TAK1
+Negative regulation of BMP2 signaling pathway (through Smad)
+Binding of smad6/7 and TGF beta receptor I
+Translation of p27
+Binding of TGF beta:TGF beta receptor II and TGF beta receptor I
+Binding of (smad7:smurf1/2) and R-smad
+Regulation of TGF beta super family signaling pathway (through p38 cascade)
+Dissociation of (smad7:smurf1) and TGF beta receptor complex_Ub
+TGF beta super family signaling pathway (through JNK cascade)
+Negative regulation of TGF beta signaling pathway
+Binding of TGF beta receptor I and XIAP
+Positive regulation of (transcription by R-smad:smad4 ) in TGF beta super family signaling pathway by (smad4 sumoylation by PIAS1)
+Regulation of BMP signaling pathway
+Regulation of TGF beta signaling pathway
+Translation of smad6/7
+Nuclear export of mRNA (p21)
+R-smad degradation signaling
+Binding of p16 and Cdk 4/6
+Binding of p21 and Cdk 2
+Binding of smad7 and TGF beta receptor I
+Binding of smad2, smurf2 and SnoN
+Binding of Smad1_p:Smad4 and OAZ
+Binding of TGF beta and TGF beta superfamily receptor
+Complex formation of TGF beta superfamily receptor
+Translation of p21
+Gene expression of PIASy (induced by TGF-beta)
+Regulation of BMP2 signaling pathway (through Smad)
+TGF beta receptor complex degradation signaling
+Nuclear export of mRNA (smad7)
+Binding of (smad7:smurf2) and TGF beta type I receptor
+Negative regulation of TGF beta super family signaling pathway
+Gene expression of p21 by Smad complex
+Positive regulation of BMP2 signaling pathway (through Smad)
+Nuclear import of Smad1:Smad4
+Regulation of BMP2 signaling pathway (through TAK1)
+p38 cascade
+Negative feedback regulation pathway of TGF beta superfamily signaling by (R-smad degradation through smurf1/2)
+Nuclear export of mRNA (p15)
+Response to stress
+Binding of Tollip and IRAK1
+Dissociation of CSL and corepressor
+Cyclohexemide medication
+Amniocyte medium
+Binding of Rap1 and B-Raf
+Dissociation in mitochondria
+Dissociation in the mitochondria membrane
+Dissociation outside the mitochondria membrane
+Dissociation in the inner space of the mitochondria
+Dissociation of tBID and Bcl-2
+Dissociation of IRS and insulin receptor
+Negative regulation of G alpha q GDP-GTP exchange signaling
+Negative regulation of (GDP-GTP exchange of G alpha q)
+Regulation of T cell receptor signaling pathway
+Negative regulation of T cell receptor signaling pathway
+Negative regulation of BMP2 signaling pathway (through TAK1)
+Binding of Smad1_p and Smad6
+Positive regulation of T cell receptor signaling pathway
+Positive regulation of CD4 T cell receptor signaling (through PLC gamma, calcineurin and NF-AT)
+Binding of Androgen and Androgen receptor
+Binding of Notch1 and Delta1
+Caprolactam degradation
+Nuclear import of beta catenin
+Embryonic morphogenesis
+Neural tube closure
+Morphogenesis of embryonic epithelium
+Neural plate morphogenesis
+Embryonic epithelial tube formation
+Neural tube formation
+Binding of TRAF2 and MAPKKK
+Binding of TRAF2 and NIK
+Positive regulation of heterotrimeric GPCR signaling pathway
+Positive regulation of endothelin receptor signaling
+Positive regulation of heterotrimeric GPCR signaling pathway (through G alpha i)
+Positive regulation of heterotrimeric GPCR signaling pathway (through G alpha s, cholera toxin, adenylate cyclase and cAMP)
+Positive regulation of heterotrimeric GPCR signaling pathway (through G alpha q and PLC beta)
+Positive regulation of heterotrimeric GPCR signaling pathway (through photon, rhodopsin, G alpha t and PDE)
+Positive regulation of heteromeric GPCR signaling pathway (through G alpha i and pertussis toxin)
+Insulin receptor signaling pathway
+Insulin receptor signaling pathway (through AKT-Bad signaling)
+Insulin receptor signaling pathway (through ERK cascade)
+Binding of IRS and PI3K
+Binding of insulin receptor and Shc
+Influx of hydrogen ion into the lumen of the endosome by proton pump
+Insulin receptor recycling
+Internalisation of the insulin receptor
+Translocation of insulin receptor from the endosome to plasma membrane
+Gene expression of p15 by Smad complex
+Binding of XIAP and TAB1
+Binding of TGF beta and TGF-beta receptor II
+Positive regulation of TGF beta super family signaling pathway (through p38 cascade)
+Binding of insulin and insulin receptor
+Dissociation of Shc and insulin receptor
+Binding of IRS and insulin receptor
+RSK-Bad signaling
+Positive regulation of insulin receptor signaling pathway
+Negative regulation of insulin signaling pathway
+Regulation of insulin receptor signaling pathway
+Dissociation of insulin and insulin receptor
+Translocation of LRP6 from ER to plasma membrane
+Translation of Mkp3
+Alkaloid biosynthesis
+alt_id
+Rhythmic behavior
+Circadian rhythm
+Binding of GNBP3 and beta1-3 glucan  [Drosophila]
+Activation of DIF [Drosophila]
+MDCK medium
+Negative regulation of Wnt signaling pathway
+Complex formation of Axin, APC, GSK-3 and Beta catenin
+Internalization of LRP6
+Binding of Idax and DSH
+Beta catenin degradation signaling
+Negative feedback regulation of Wnt signaling pathway (through beta-TrCP)
+Binding of Dkk and Wnt receptor
+Binding of SFRP and Wnt receptor
+Binding of ICAT and beta-catenin
+Binding of WIF and Wnt receptor
+Complex formation of Axin, APC, GSK-3, CK1a and Beta catenin
+Binding of Wnt and WIF
+Binding of Dkk2, Arrow/LRP5/6 and Kremen2
+Binding of Dkk1, LRP6 and Kremen2
+Internalization of Arrow/LRP5/6
+Complex formation of smad7 and smurf1
+Dissociation of (smad7:smurf1/2) and R-smad_Ub
+Activation of TAK1 by TAB1
+Translation of smad7
+Regulation of TGF beta super family signaling pathway
+Translation of p16
+Binding of BMP2 and BMP receptor I
+Binding of Naked and DSH
+Nuclear export of TCF
+Binding of Wnt and SFRP
+Binding of Chibby and beta-catenin
+Gene expression of beta-TrCP
+Negative feedback regulation of Wnt signaling pathway
+TCF phosphorylation signaling
+Binding of Wise and Arrow/LRP5/6
+Binding of Dkk, Arrow/LRP5/6 and Kremen
+Binding of APC and beta catenin
+Binding of beta catenin and beta-TrCP
+Trimerization of Fas
+Translocation of LRP6 from ER to Golgi
+Negative regulation of small GTPase mediated signaling
+Negative regulation of Ras mediated signaling
+Small GTPase hydrolysis signaling
+Binding of small GTPase-GTP and GAP
+Rac-GTP hydrolysis signaling
+Binding of small Ras-GTP and GAP
+Dissociation of Ras-GDP and target protein
+Ras-GTP hydrolysis signaling
+Dissociation of Rac-GDP and target protein
+Binding of Notch and Delta
+Fluorene degradation
+Glycosphingolipid biosynthesis-ganglioseries
+199 medium
+Translocation of LRP6 from ER to cytosol
+TNFR1 signaling pathway (through caspase cascade)
+Inactivation of Bcl-2 by PUMA
+Permeabilization of mitochondria and Translocation of cytochrome c/SMAC from mitochondria to cytosol
+Apoptosome formation
+Inactivation of Bcl-2 by Bim
+Regulation of CD4 T cell receptor signaling (through PLC gamma, calcineurin and NF-AT)
+Negative regulation of CD4 T cell receptor signaling (through PLC gamma, calcineurin and NF-AT)
+Binding of FADD and pro-caspase10
+Bcl-2/Bcl-xL inactivation signaling
+Caspase8/10 activation signaling
+Binding of Cyt c:Apaf1 and procaspase9
+Positive regulation of PKA activation signaling
+Negative regulation of Caspase cascade (through mitochondria)
+Bad inactivation signaling
+Caspase9 activation signaling
+Inactivation of Bcl-xl by Bim
+Regulation of Caspase cascade (through mitochondria)
+Homodimerization of Caspase8
+Nuclear import of CAD
+Positive regulation of Caspase cascade (through mitochondria)
+Positive regulation of Bad activation signaling
+Inactivation of Bcl-xl by PUMA
+Binding of SMAC and XIAP:Caspase9
+Binding of Caspase3/7/9 and IAP
+Homodimerization of Caspase9
+Positive regulation of Caspase cascade (not through mitochondria)
+Caspase8 activation signaling
+Binding of SMAC and XIAP:Caspase3
+Inactivation of Bcl-xl by Bad
+Binding of CAD and ICAD
+Homodimerization of Caspase10
+Caspase3/6/7 activation signaling (through mitochondria)
+Regulation of Bad activation signaling
+PKA activation signaling
+Permeabilization of mitochondria and Translocation of OMI from mitochondria to cytosol
+Inactivation of Bcl-2 family by pro-apoptotic factor
+Binding of Cyt c and Apaf1
+SMAC mediated signaling
+Binding of SMAC and IAP
+PKA-Bad signaling
+Translocation of Bad from the cytosol to the mitochondria membrane
+Caspase3/6/7 homodimer formation
+Binding of Bad and Bcl-2/Bcl-xL
+Binding of c-AMP and PKA regulatory subunits and active conformational change
+Permeabilization of mitochondria and Translocation of SMAC from mitochondria to cytosol
+Bad activation signaling
+Translocation of tBID from the cytosol to the mitochondria membrane
+Dissociation of Caspase3 and SMAC:XIAP
+Permeabilization of mitochondria and Translocation of Cyt c from mitochondria to cytosol
+Dissociation of Caspase7 and SMAC:XIAP
+Negative regulation of Caspase cascade (not through mitochondria)
+Binding of SMAC and XIAP:Caspase7
+Binding of G alpha s-GTP and adenylate cyclase type V
+Relocation of free tBID to cytosol
+Negative regulation of Bad activation signaling
+Inactivation of Bcl-xl by tBid
+Negative regulation of PKA activation signaling
+Caspase3 activation signaling (not through mitochondria)
+Regulation of PKA activation signaling
+Caspase3/6/7 activation signaling (not through mitochondria)
+Adenylate cyclase activation signaling
+Dissociation of TRADD:TRAF2:RIP complex and TNF:TNFR1
+Binding of Cyt c and Bcl-2/Bcl-xL
+Caspase10 activation signaling
+Caspase3 activation signaling (through mitochondria)
+Regulation of Caspase cascade (not through mitochondria)
+Binding of G alpha s-GTP and adenylate cyclase
+Caspase3 homodimer formation
+CAD signaling
+Cytochrome c mediated signaling
+Caspase cascade (through mitochondria)
+BID activation signaling
+Binding of TRADD and FADD
+Dissociation of Caspase9 and SMAC:XIAP
+Binding of G alpha s-GTP-ADPrib and adenylate cyclase
+Caspase cascade (not through mitochondria)
+Binding of FADD and pro-caspase8
+Inactivation of Bcl-2 by NOXA
+Dissociation of Caspase and SMAC:IAP
+Negative regulation of osteoblast differentiation
+Positive regulation of EGF signaling pathway
+Positive regulation of Caspase cascade
+Secretory pathway of hedgehog
+Translocation of hedgehog from ER to plasma membrane
+TNFR2 signaling pathway
+Binding of TNFR2 and TRAF1
+Activation of MEKK1 by RIP
+Binding of TNFR2 and TRAF2
+Trimerization of TNFR2
+Activation of RIP by TRAF2
+Binding of TNF homotrimer and TNFR2
+TNFR2 signaling pathway (through IKK-NF-kappaB cascade)
+Activation of NIK by RIP
+Tube development
+Tube morphogenesis
+HL60 medium
+Energy Metabolism
+Photosynthesis
+Reductive carboxylate cycle (CO2 fixation)
+Carbon fixation
+Nitrogen metabolism
+Methane metabolism
+Oxidative phosphorylation
+Sulfur metabolism
+D-Alanine metabolism
+Negative regulation of Fyn activation signaling
+G1 phase
+Binding of Mdm2 and MdmX
+Negative feedback regulation of p53 signaling pathway by MDM2
+p53 signaling pathway (through p21)
+Translation of Mdm2
+Positive regulation of p53 degradation signaling
+Regulation of p53 degradation signaling
+Regulation of p53 signaling pathway
+Binding of Mdm2 and p19ARF
+Negative regulation of p53 signaling pathway
+Binding of Mdm2 and p14ARF
+Gene expression of p21 by p53
+Activation of ATM by DNA damage
+Positive regulation of p53 signaling pathway
+Negative regulation of p53 degradation signaling
+Binding of Mdm2 and ARF
+Gene expression of Mdm2 by p53
+p53 degradation signaling
+Nuclear export of mRNA (MDM2)
+Binding of BLNK and Vav
+Gene expression by AP-1
+Nuclear export of mRNA (cytokine)
+Gene expression of cytokine by AP-1
+PUMA activation signaling
+Translocation of PUMA from cytosol to the mitochondria membrane
+Heterotrimeric GPCR signaling pathway (through G alpha q and PLC beta)
+Binding of Group I mGlu receptor and G alpha q
+G alpha q-GTP hydrolysis signaling
+Heterotrimeric GPCR signaling pathway (through glutamate, G alpha q and PLC beta)
+Dissociation of G alpha q-GTP and G beta:G gamma
+Heterotrimeric GPCR signaling pathway (through Angiotensin and G alpha q)
+Regulation of G alpha q GDP-GTP exchange signaling
+Binding of G alpha q-GTP and PLC beta
+Binding of Angiotensin II and AT1R
+Regulation of G alpha q-GTP hydrolysis signaling
+Binding of G alpha q-GDP and G beta:G gamma
+Negative regulation of heterotrimeric GPCR signaling pathway (through G alpha q and PLC beta)
+Negative regulation of G alpha q-GTP hydrolysis signaling
+Dissociation of AT1-R, G alpha s-GTP and G beta:G gamma
+Negative regulation of (Hydrolysis of GTP by G alpha q-GTP and RGS)
+Binding of G alpha q-GTP and RGS
+Dissociation of G alpha q-GDP and PLC beta
+PLC beta signaling
+Binding of GPCR and G alpha q
+Positive regulation of G alpha q-GTP hydrolysis signaling
+Binding of AT1R and G alpha q
+Binding of Glutamate and Group I mGlu receptor
+Binding of G beta gamma and effector
+Regulation of heterotrimeric GPCR signaling pathway (through G alpha q and PLC beta)
+G alpha q GDP-GTP exchange signaling
+Dissociation of Group I mGlu receptor, G alpha q-GTP and G beta:G gamma
+Negative regulation of (Binding of GPCR ligand and GPCR)
+PDGF signaling pathway (through Grb2, Sos, Ras and Erk cascade)
+Binding of PDGF and PDGF receptor
+Regulation of PDGF signaling pathway (through Grb2, Sos, Ras and Erk cascade)
+Binding of PDGF receptor and Shc
+Carbohydrate Metabolism
+Dissociation in ER
+Translocation from extracellular to cytosol
+Binding of PGRP-LC and IMD  [Drosophila]
+Binding of TRAF6:TAK1:TAB1:TAB2 complex and ubiquitin ligase
+Cell growth and/or maintenance
+fMLP signaling pathway
+Signal transduction pathway
+Regulation of IGF signaling pathway
+Behavior
+Negative regulation of Toll-like receptor pathway (through LPS, TLR4, MyD88, IRAK-1, TAK1 and IKK-NF-kappaB cascade)
+Ral mediated signaling
+AKT(PKB)-FKHRL1 signaling
+Binding of Grb2 and FRS2_p
+M phase
+Channel opening/closing
+Binding of Estrogen receptor and corepressor
+Activation of p21 by Contact pressure
+Translocation from endosome to plasma membrane
+Inactivation of GSK3beta by DSH_p
+Regulation of Toll-like receptor pathway
+Negative regulation of B cell receptor signaling
+PI3K activation signaling
+Translocation from ER to Golgi
+Binding of Estrogen receptor and MTA-1
+Binding of Transcription factor complex and p300
+Binding of ECSIT and MEKK1
+N-Glycan biosynthesis
+Nervous system development
+Nuclear import of Cdk 4/6_Tp:cyclin D
+Circulation
+G2 phase
+Regulation of caloric restriction - cell survival signaling
+Binding of p19 and Cdk 4/6
+Ketone bodies metabolism
+Binding of Ci and Slmb
+Dissociation in the nuclear membrane
+Binding of Fas and FADD
+Negative regulation of Androgen receptor signaling pathway by PIAS-mediated repression of Androgen receptor
+DNA fragmentation during apoptosis
+Negative regulation of Ras-Raf-MAPK signaling by spred (Drosophila)
+Nuclear export of mRNA (PUMA)
+Binding of Ras and PI3K
+Activation of PI5K by Rho
+T cell receptor signaling pathway
+Nuclear export of mRNA
+Binding of PLC beta and PIP3
+Gene expression of PUMA by p53
+Negative regulation of Src family activation signaling
+IL1 signaling pathway
+suppressive interaction
+Myoblast differentiation
+Binding of Dorsal and NF-kappaB binding sequence  [Drosophila]
+Binding of PPAR and nuclear receptor
+Gene expression by transcriptional regulator
+Regulation of Wnt signaling pathway
+Changes in polarization state of the membrane
+Binding of MyD88 and IRAK
+Binding of FGFR1_p and FRS2
+Positive regulation of Toll receptor signaling
+additive interaction
+Morphogenesis
+Binding of PPAR and RXR
+Binding of PDGF receptor and Grb2
+Positive regulation of PDGF signaling pathway (through Grb2, Sos, Ras and Erk cascade)
+Negative regulation of PDGF signaling pathway (through Grb2, Sos, Ras and Erk cascade)
+Dimerization of PDGF receptor
+Dissociation in the inner space of the nuclear
+Dissociation of Groucho and TCF
+Biological event
+Glutamate receptor signaling pathway
+Binding of Hedgehog and Ptc
+FGF8 signaling pathway(Mouse)
+Biosynthesis of siderophore group nonribosomal peptides
+Receptor internalization
+Binding of Crk and Dock180
+Cyanoamino acid metabolism
+Disulfide binding
+Translocation from cytosol to extracellular
+Activation of p27 by Contact pressure
+Translocation of Dlp/Dally from Golgi to plasma membrane
+Src inactivation signaling
+Binding of KDR_p and PLC gamma
+Positive regulation of Jagged mediated Notch signaling pathway
+Positive regulation of Ras-Raf-MAPK signaling by spred (Drosophila)
+Nuclear import of DIF  [Drosophila]
+Binding in the inner space of the mitochondria
+Binding of D1-like receptor and G alpha s
+Binding of Estrogen receptor and transcriptional factor
+Binding of IL-1R complex and Tollip
+Translocation from Golgi to plasma membrane
+Positive regulation of RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral, RalBP1 and Rac-GTP hydrolysis signaling)
+Spinal Dysraphism
+Binding of NF-kappaB (p65) and PPAR
+Nuclear import of Cdk 2_Tp:cyclin E
+Activation of PP2A by PKA
+Activation in plasma membrane
+Binding outside the nuclear membrane
+Steroid receptor signaling pathway
+Binding of G alpha i-GDP and G beta:G gamma
+Interaction in cytosol
+Heterotrimeric GPCR signaling pathway (through G alpha s)
+Negative regulation of Caspase cascade
+Mesodermal cell fate determination
+Penicillins and cephalosporins biosynthesis
+Dissociation of G alpha i-GDP and adenylate cyclase
+Binding of PIP2 and cofilin
+Regulation of heterotrimeric GPCR signaling pathway (through G alpha s)
+Binding in Golgi
+Activation of TAK1 by IMD  [Drosophila]
+Binding of dFADD and Dredd  [Drosophila]
+Binding of ETS_p and responsive element
+Internalization of TGF beta receptor
+Nuclear import of Notch (NIC) from the plasma membrane
+Negative regulation of Fas signaling pathway
+Binding of G alpha t-GTP and effector
+Long-Term Potentiation
+PDGF signaling pathway (through Grb2, Sos, Ras, PI3K, AKT and IKK-NF-kappaB cascade)
+Activation of MEKK3 by RIP1
+Receptor recycling
+Binding of Androgen receptor and HDAC
+Regulation of G alpha t GDP-GTP exchange signaling
+Negative regulation of endothelin receptor signaling
+Binding of G alpha i-GTP and adenylate cyclase
+Activation of Spaetzle by serine protease  [Drosophila]
+Cell communication
+Translocation of calcium and sodium ion from extracellular to cytosol (through NMDA receptor)
+Binding of Wnt, Frizzled and Arrow/LRP5/6
+Cell adhesion
+Negative regulation of (G alpha s GDP-GTP exchange signaling)
+Cytosolic cation ion concentration decline (through cGMP activated cation ion channel)
+Binding of GPCR ligand and GPCR
+Gene expression of Sef
+Translocation of Androgen from extracellular to cytosol
+Binding of PGRP-SA and GNBP1  [Drosophila]
+Fatty acid metabolism
+Binding of Androgen receptor and responsive element
+Binding of G alpha 11-GTP and effector
+Binding of Notch1 and Fringe
+Wnt signaling pathway (Xenopus)
+Negative regulation of G alpha i GDP-GTP exchange signaling
+Binding of endothelin and endothelin receptor
+Activation in extracellular
+Binding
+Binding of Cdk 2 and cyclin E
+Regulation of G1-S-phase transition pathway
+Binding of melatonin and melatonin receptor
+Nuclear import of HDAC5/7
+Binding of Smo, Cos2:Fu:Ci and Su(fu)
+Negative regulation of G2-M-phase transition pathway
+G alpha i GDP-GTP exchange signaling
+Inactivation in mitochondria membrane
+Binding of MyD88 and IRAK4
+Multicellular organismal process
+HDAC nuclear import/export signaling
+Ion transport through ion channel
+Complex formation of PI3K, Eps8, Abi1 and Sos1
+Negative regulation of integrin signaling pathway (through PI3K)
+Binding of beta-catenin, TCF and Smad4
+Fyn activation signaling
+Metabolism of Cofactors and Vitamins
+Binding of GRB2 and Sprouty2
+Translocation from mitochondria membrane to cytosol
+Activation of MEKK1 by Ras-GTP
+Translocation of Bim from the cytosol to the mitochondria membrane
+Gene expression of GADD45 by p53
+HGF signaling pathway
+Lipid Metabolism
+Clustering  in plasma membrane
+Negative regulation of Src activation signaling
+Binding of RTK and PLC gamma
+Activation of ERM by PIP2
+Flavonoid biosynthesis
+Change in material concentration
+Binding of Estrogen and Estrogen receptor alpha
+Translocation of TRAF-6 to cytosol
+Gene expression of Sprouty2
+Binding of PIP2 and vinculin
+Translocation of Arrow/LRP5/6 from ER to cytosol
+Binding of LPS and TLR4:MD-2:CD14
+Activation of PKC by DAG
+Dissociation of Axin, APC, GKS3beta, CK1alpha and beta-catenin
+Regulation of PLC signaling
+Positive regulation of S phase
+Binding of PSH and NEC
+Binding of HDAC5 and MEF2
+Negative feedback regulation of Ras-Raf-MAPK signaling by spred (Drosophila)
+Cyclin E degradation signaling
+PDGF signaling pathway
+genetic interaction
+Binding of G alpha i-GTP and effector
+Binding in the mitochondria membrane
+Positive regulation of Notch signaling pathway
+Nuclear import of Androgen
+Nucleotide sugars metabolism
+Binding in nuclear membrane
+Binding of FasL and Fas
+Binding of Brg1 and beta-catenin:TCF complex
+Wnt signaling pathway
+Heterotrimeric GPCR signaling pathway (through melatonin, G alpha o and PLCbeta)
+AKT(PKB)-GSK3beta signaling
+Binding of TLR4:MD-2:CD14 and MyD88
+RalGDS activation signaling (through Grb2 and Sos)
+Regulation of Notch signaling pathway
+Binding of Estrogen and Estrogen receptor beta
+Calcium ion dependent protein activation signaling
+Nuclear import of Dorsal  [Drosophila]
+Negative regulation of G alpha GDP-GTP exchange signaling
+High-mannose type N-glycan biosynthesis
+Dissociation in unidentified cellular location
+Binding of G alpha s-GTP and RGS
+Positive regulation of Wnt signaling pathway
+Negative regulation of G1-S-phase transition pathway by contact pressure (through p27)
+TNFR signaling pathway
+Binding of KDR_p and PI3K
+Regulation of Fyn activation signaling
+Aminophosphonate metabolism
+Binding of INK4 family and Cdk 4/6 [Human]
+Binding of G alpha-GTP and RGS
+Regulation of heterotrimeric GPCR signaling pathway (through G alpha s, cholera toxin, adenylate cyclase and cAMP)
+Regulation of Androgen receptor signaling pathway
+Binding of Cdk 4/6 and cyclin D
+Nuclear import of Relish  [Drosophila]
+Channel opening/closing in the plasma membrane
+S phase pathway
+Activation in cytosol
+Permeabilization of mitochondria and Translocation of Aif from mitochondria to cytosol
+Regulation of G alpha i GDP-GTP exchange signaling
+Immune response
+Integrin signaling pathway (through PI3K, Vav and Rac)
+Biotin metabolism
+Binding of PIP2 and actinin
+epistatic interaction
+Lymphocyte differentiation
+Binding of PLC and PIP3
+Cytosolic calcium ion concentration elevation
+Negative regulation of transcription in endothelin signaling by histone acetylation
+Binding outside the ER membrane
+TPO signaling pathway
+Translocation of sodium ion from extracellular to cytosol (through AMPA receptor)
+Negative regulation of gene expression
+Negative regulation of (Hydrolysis of GTP by G alpha s-GTP and RGS) (through Adenylate cyclase activation signaling)
+p53 signaling pathway (through GADD45)
+Nucleotide Metabolism
+Positive regulation of Toll-like receptor pathway
+Regulation of Fas signaling pathway
+Dissociation in cytosol
+Development
+Gene expression of Sprouty1
+Tissue regeneration
+Gene expression by beta-catenin TCF and Smad4
+PPAR signaling
+Wound healing
+Binding of FGFR_p and FRS2
+Regulation of Src activation signaling (through autophosphorylation and PTP)
+Binding of dTRAF2 and Ref(2):DaPKC  [Drosophila]
+G alpha t GDP-GTP exchange signaling
+Caspase Cascade
+Translocation from ER to plasma membrane
+single nonmonotonic interaction
+Caloric restriction
+Actin filament depolymerization
+Binding of Glutamate and AMPA receptor
+Translocation of Arrow/LRP5/6 from ER to plasma membrane
+Regulation of Src family activation signaling
+C5-Branched dibasic acid metabolism
+Heterotrimeric GPCR signaling pathway (through G alpha o)
+Nuclear export of mRNA (GADD45)
+Skeletal muscle hypertrophy
+Regulation of small GTPase mediated signaling
+Activation of PAK by Rac
+Binding of PGRP-LC and PGN  [Drosophila]
+Cell growth
+Dimerization of EGFR
+Dissociation of magnesium ion and NMDA receptor
+Binding of TRK_p and PLC gamma
+Binding of Notch and ligand
+Organ development
+Heterotrimeric GPCR signaling pathway (through photon, rhodopsin, G alpha t and cGMP PDE)
+Dissociation of Adenosine A2A receptor, G alpha s-GTP and G beta:G gamma
+Lysine degradation
+Ci processing signaling
+Visual perception
+Binding of DR4/5 and FADD
+Muscle cell differentiation
+Binding of G alpha t-GTP and cGMP PDE
+Activation of p160ROCK by Rho
+Binding of Mint and CSL
+Binding of TRAF6 and TAB1:TAB2:TAK1
+Organelle organization and biogenesis
+Protein nuclear import/export signaling
+Gene expression of BAX by p53
+Binding of p18 and Cdk 4/6
+Binding in cytosol
+Positive regulation of cell cycle regulation
+Cytosolic cation ion concentration decline
+Heterotrimeric GPCR signaling pathway (through G alpha t)
+Notch secretory pathway
+Negative regulation of heterotrimeric GPCR signaling pathway (through G alpha s, cholera toxin, adenylate cyclase and cAMP)
+Nuclear import of Aif
+Epithelial to mesenchymal transdifferentiation
+TNFR1 signaling pathway
+Binding of CSL and responsive element
+Neurological process
+Binding of Dock180 and Rac
+Cyclin D degradation signaling
+Src activation signaling
+Regulation of Jagged mediated Notch signaling pathway
+Activation of c-Raf1 by PKC alpha
+Binding of Ras-GTP and RalGDS
+DNA replication
+Negative regulation of Src family activation signaling (autophosphorylation and PTP)
+Translocation from cytosol to Golgi
+Negative regulation of PDGF signaling pathway (through Grb2, Sos, Ras, PI3K, AKT and IKK-NF-kappaB cascade)
+Lamellipodium biogenesis
+Gene expression of Mkp3
+FGF signaling pathway
+G alpha i-GTP hydrolysis signaling
+Negative regulation of NF-kappaB signaling (cytoplasmic sequestering)
+Binding of Gab1 and PLC gamma
+Rac activation signaling (through PI3K)
+Activation of Deltex [Mammalian]
+Src family inactivation signaling
+Binding of G alpha 12/13-GTP and Rho GEF
+Tryptophan biosynthesis
+Binding in extracellular
+colocalization
+Activation of Spaetzle by PSH  [Drosophila]
+Binding of G alpha z-GTP and Rap1GAP
+Dissociation in plasma membrane
+Interaction in the inner space of the nuclear
+Binding in inner space of nucleus
+Binding of Met_p and Gab1
+Binding of Androgen receptor and PIASy
+Negative regulation pathway
+G2-M-phase transition pathway
+Dissociation of Axin, APC, GSK3beta and beta-catenin
+Activation of PSH by GNBP3  [Drosophila]
+Translocation from ER to cytosol
+Translocation of Estrogen from extracellular to cytosol
+Apoptosis (Inhibition of cell survival)
+Positive regulation of Fyn activation signaling
+Raf activation signaling (through PKC)
+Actomyosin structure organization and biogenesis
+DIF signaling  [Drosophila]
+Rac/Cdc42-PAK-MLCK signaling
+Positive regulation of Src activation signaling (through autophosphorylation and PTP)
+Seed development
+Positive regulation of Steroid receptor signaling pathway
+Activation in unidentified cellular location
+Response to external stimulus
+Negative regulation of (Binding of G alpha i-GTP and adenylate cyclase)
+Adipocyte differentiation
+Negative regulation of PPAR signaling
+MAPKKK cascade
+Gene expression by beta-catenin TCF complex
+Binding of Arrow/LRP5/6 and Axin
+Galactose metabolism
+Binding of Dnr-1 and Dredd  [Drosophila]
+Binding of MyD88 and IRAK1
+Actin cytoskeleton organization and biogenesis
+Binding in nucleus
+Interaction in nucleus
+G alpha GDP-GTP exchange signaling
+IL1 signaling (through IKK-NF-kappaB cascade)
+Activation of RalGDS by Ras-GTP
+Depolarization state of photoreceptor cell membrane
+Glycan Biosynthesis and Metabolism
+Bmf activation signaling
+Binding of Estrogen receptor and responsive element
+Endothelin receptor signaling
+Binding of G alpha z-GTP and effector
+Transcription factor complex formation with Estrogen receptor
+Pantothenate and CoA biosynthesis
+Integrin signaling pathway
+Positive regulation of Src family activation signaling (autophosphorylation and PTP)
+double nonmonotonic interaction
+Dissociation
+Activation of ASK1 by DAXX
+Binding of Toll and dMyD88:Tube  [Drosophila]
+Sphingolipid metabolism
+FGF8 signaling pathway(Xenopus)
+RalGDS-Ral-PLD1 signaling
+Inhibition of Adipocyte differentiation
+Binding of IRAK1_p and TRAF6
+Retinol metabolism
+Binding of ligand and PPAR
+Positive regulation of B cell receptor signaling
+Binding of DR4/5 and APO-2L
+Binding of fatty acid and PPAR
+Binding of GRB2 and Sprouty1_p
+Heterotrimeric GPCR signaling pathway (through PACAP, G alpha s and adenylate cyclase, cAMP and PKA)
+Rac mediated signaling
+Negative regulation of Toll receptor signaling
+Positive regulation of Lck activation signaling
+Binding of DIF:Relish and NF-kappaB binding sequence  [Drosophila]
+Metabolism of Other Amino Acids
+Lateral inhibition
+Binding of Met_p and Grb2
+Positive regulation of integrin signaling pathway
+Activation of B-Raf by Rap1
+Translation of NOXA
+Binding in mitochondria
+Src inactivation signaling (through PTP)
+Positive regulation of Toll-like receptor pathway (through LPS, TLR4, MyD88, IRAK-1, TAK1 and IKK- NF-kappaB cascade)
+Binding of GPCR and G alpha s
+Negative regulation of cell cycle regulation
+Translation of BAK
+Binding of Gab1 and Crk
+Binding of G alpha s-GTP and effector
+Estrogen receptor signaling pathway
+Binding of E2F and DP-1
+Negative regulation of Estrogen receptor signaling pathway
+Fas signaling pathway
+Gene expression of 14-3-3 by p53
+Binding of Notch and Serrate/Jagged
+Translocation of Notch (NIC) from plasma membrane to cytosol
+Disease
+Diterpenoid biosynthesis
+Adenylate cyclase inactivation signaling
+Dimerization of Toll by Spaetzle  [Drosophila]
+Binding of G alpha and G beta:G gamma
+Dissociation in extracellular
+Phosphorylation of Ci by CK1
+Purine metabolism
+Binding Fas and DAXX
+Binding of ERK1/2_p and Mkp3
+Translation
+Translation of GADD45
+Gene expression of NOXA by p53
+Regulation of Src family activation signaling (autophosphorylation and PTP)
+Negative regulation of heterotrimeric GPCR signaling pathway (through G alpha s)
+Regulation of B cell receptor signaling
+DR4/5 signaling pathway
+Binding of PGRP-SA:GNBP1 and PGN  [Drosophila]
+Ventral mesoderm specification
+Hyper polarization state of photoreceptor cell membrane
+Embryonic development
+Nuclear import of dTRAF2:Ref(2)P:DaPKC  [Drosophila]
+FGF8:FGFR1 dimerization
+Negative regulation of (Activation of PSH by GNBP3)
+Nuclear import of MAPK (through MAPKKK cascade)
+Binding of G alpha s-GDP and G beta:G gamma
+Binding of Estrogen and Estrogen receptor
+Neural Tube Defect
+Cell survival (Inhibition of apoptosis)
+Growth
+Binding of Ral-GTP and RalBP1
+Dissociation of G alpha s-GDP and adenylate cyclase
+Nuclear import
+Bak activation signaling
+Negative regulation of (GDP-GTP exchange of Rap1 by Epac1)
+Binding of Estrogen receptor and SMRT
+Actin polymerization and/or depolymerization
+VEGF signaling pathway
+PLC signaling
+1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane degradation
+Dimerization of Met
+Binding of Dsh and Axin
+Jagged mediated Notch signaling pathway
+Dissociation of Cactus_p and Dorsal:DIF  [Drosophila]
+Nuclear import of Notch (NIC) from the cytosol
+Binding of Notch (NIC) and coactivator
+Positive regulation of gene expression
+Binding of G alpha i-GTP and Rap1GAPII
+Rod dark adaptation signaling
+Dissociation of cGMP and cGMP activated cation ion channel and the channel closing
+Androgen receptor signaling pathway
+Complex formation of Estrogen receptor
+Dissociation of G alpha o-GTP and G beta:G gamma
+Fas signaling pathway (through caspase cascade)
+Translocation of calcium ion from the cytosol to the extracellular
+Binding of Estrogen receptor and cyclin D1
+Binding of beta-catenin and TCF
+Translation of BID
+Rho-p160-myosin phosphatase signaling
+Binding in ER
+Binding of TCF/LEF and responsive element
+Fructose and mannose metabolism
+Binding of Met_p and Shc
+Translocation of LRP6 from Golgi to plasma membrane
+Binding of PPAR and transcriptional factor
+Binding of PGRP-SD and PGN  [Drosophila]
+Positive regulation of Androgen receptor signaling pathway
+Binding of BMP2 and BMP receptor
+Activation in mitochondria membrane
+B cell receptor signaling pathway
+IL-1 signaling (through JNK cascade)
+Negative regulation of G1-S-phase transition pathway by contact pressure (through p21)
+Activation of DIF:Dorsal [Drosophila]
+Translocation of Bax from mitochondria membrane to cytosol
+Binding of GPCR and G alpha i
+Heterotrimeric GPCR signaling pathway (through G alpha i)
+Raf activation signaling (through RKIP)
+Heterotrimeric GPCR signaling pathway (through G alpha q)
+Activation of MEKK3 by RIP
+Binding of G alpha o-GTP and effector
+Positive regulation of RTK signaling pathway
+Clustering
+Translocation of Wnt from ER to extracellular space
+Binding of Smo and Cos2:Fu:Ci
+G1-S-phase transition pathway
+asynthetic interaction
+Dissociation of 14-3-3 and HDAC5/7
+Folate metabolism
+Negative regulation of (GDP-GTP exchange of G alpha s)
+Binding of Androgen receptor and Hsp90
+Complex formation of Axin, APC, GSK-3, Beta catenin and PP2A
+Cell differentiation
+Negative regulation of Steroid receptor signaling pathway
+Nuclear import of HDAC5
+Binding of Transcription factor complex and HDAC
+Binding of AKT and GSK3beta
+Pentose and glucuronate interconversions
+Activation of NLK by TAK1
+Negative regulation of translation
+1,2-Dichloroethane degradation
+Cell-cell signaling
+Binding in unidentified cellular location
+Binding of KDR_p and VRAP
+Notch signaling pathway
+Smooth muscle cell differentiation
+Biphenyl degradation
+Dissociation of 14-3-3 and HDAC5
+PI3K activation signaling (through IRS)
+Novobiocin biosynthesis
+Activation of APR-1
+Binding of PIP2 and ERM
+Activation of Bak by tBid
+Nuclear export
+Binding of Wnt and HSPG
+Translation of apoptotic factor
+Activation of NF-kappaB by Rac-GTP
+Negative regulation of B cell receptor signaling (through CD72 and SHP-1)
+Rap1 inactivation signaling
+G alpha s-GTP hydrolysis signaling
+Binding of Su(fu) and Ci
+Translocation of Arrow/LRP5/6 from Golgi to plasma membrane
+Cation ion transport from extracellular to cytosol  through cation channel
+Activation of PKC delta by DAG
+Nuclear export of mRNA (Sprouty1)
+Binding of Adenosine and Adenosine A2A receptor
+Nuclear import of Androgen receptor:Hsp90
+Negative regulation of of myoblast differentiation
+Binding of Notch and Serrate
+Diarrhea
+Nuclear import of CiR
+Regulation of RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral, RalBP1 and Rac-GTP hydrolysis signaling)
+Activation of MAPKKKK by Rap1
+p53 signaling pathway
+Activation of protein kinase by Pelle
+Cyclic nucleotide-gated cannel activation signaling
+Drosophila IMD pathway [Drosophila]
+Activation of TAK1
+Proteasome mediated protein degradation signaling
+Binding of IMD and dFADD  [Drosophila]
+Transcription by Androgen receptor
+Binding of Notch (ICN) and Numb
+Toll-like receptor signaling pathway (through LPS, TLR4, MyD88, IRAK-1, TAK1 and IKK-NF-kappaB cascade)
+Regulation pathway
+Tumorigenesis
+Dissociation in the inner space of the ER
+Nuclear export of mRNA (NOXA)
+Channel opening/closing in the ER membrane
+Translocation from mitochondria to cytosol
+Activation of Dorsal [Drosophila]
+Programmed cell death
+Activation of SGG-1
+Inactivation in unidentified cellular location
+1,4-Dichlorobenzene degradation
+Recruitment to the raft
+Cell division
+Positive regulation of G alpha s-GTP hydrolysis signaling
+Clinical presentation
+Hydrolysis of ATP to cAMP by adenylate cyclase type V
+Phosphorylation of MKK4 by TAK1
+Hydrolysis of GTP by Rap1GAP
+Proteasome degradation of Cactus_p
+Transacetylation
+Phosphorylation of MAPK by MEK
+Hydrolysis in nucleus
+SUMOylation
+Ubiquitination
+Phosphorylation of STAT1 by JAK2_p
+DNA fragmentation by CAD
+Phosphorylation of c-Jun by JNK_p
+Hydrolysis of Notch by Presenilin
+Proteasome degradation of I-kappaB
+Phosphorylation of Elk-1 by ERK_p
+Dephosphorylation of DARPP-32_p by PP2A
+Ubiquitination of c-FLIP by Itch_p
+Phosphorylation of STAT by MAPK
+Palmitoylation in cytosol
+Proteasome degradation of cyclin E
+Phosphorylation of DSH by CK
+Autophosphorylation of RTK
+Ubiquitination of SnoN by smurf2
+Phosphorylation of IKK complex by RIP
+Isomerization in cytosol
+Hydrolysis in Golgi
+Phosphorylation of L-type Ca2+ channel by PKA
+Phosphorylation of TCF by NLK1
+Phosphorylation of beta catenin by GSK3beta
+Phosphorylation of PLC gamma 2 by Syk
+Phosphorylation of TPO receptor by JAK2
+Phosphorylation of NMDA glutamate receptor by PKA
+Phosphorylation of ATF-2 by p38
+Ubiquitination of TGF beta receptor I by smurf2
+Dephosphorylation in plasma membrane
+Dephosphorylation of Src (phosphorylated in the C-terminal site) by SHP-1 and active conformational change
+Cleavage
+Phosphorylation of I-kappaB_p by IKK complex_p [mammals]
+Hydrolysis of Procaspase9 to Caspase9
+Phosphorylation of RKIP by aPKC
+enzymatic reaction
+Phosphorylation of dTRAF2 by Pelle_p  [Drosophila]
+Ubiquitination in unidentified cellular location
+Ubiquitination of TRAF6 by TRAF6
+Phosphorylation of STAT by JAK_p
+Deacetylation in cytosol
+Hydrolysis of cytosolic protein by caspase3/6/7
+Peroxidation of 4-Coumaryl alcohol to Lignin (grasses)
+Phosphorylation of LIM-kinase by p160ROCK
+Phosphorylation of DLC2 by MAPK8
+Hydrolysis of cGMP to GMP by cGMP PDE
+DNA fragmentation by EndoG
+Phosphorylation of Ig alpha by Lyn
+Hydrolysis
+Phosphorylation of DmIKK by TAK1  [Drosophila]
+Sumoylation of STAT1 by PIAS
+Hydrolysis in unidentified cellular location
+Autophosphorylation of JAK1
+Hydrolysis of pro-caspase8
+CoA ligation of 5-Hydroxyferulate by 4CL
+Autophosphorylation of EGFR
+DNA cleavage
+Phosphorylation of Shc by RTK
+Phosphorylation of Arrow/LRP5/6
+Dephosphorylation
+Isomerization
+GDP-GTP exchange of G alpha s
+Phosphorylation of RKIP by cPKC
+Hydrolysis of precursor Notch by convertase
+Deglycosylation
+Oxidation
+Phosphorylation of AKT by PDK1
+Hydrolysis in cytosol
+Autophosphorylation of Pelle  [Drosophila]
+Myristoylation in unidentified cellular location
+Dephosphorylation of ZAP-70_p by SHIP-1
+Phosphorylation of PAG/Cbp by (autophosphorylated) Fyn
+Phosphorylation of PLC gamma 2 by Btk
+Phosphorylation of Vav by PI3K
+Isomerization in unidentified cellular location
+Phosphorylation of IL-12 receptor by JAK2 and TYK2
+Positive regulation of EPO signaling pathway
+Negative regulation of B cell receptor signaling (through IKK-NF-kappaB cascade)
+Nuclear export of mRNA (SOCS1)
+Dephosphorylation of Jak by PTP
+Binding of IL-4 receptor and JAK1 and JAK3
+Binding of Nck and PAK
+Dimerization of STAT1 and STAT2
+Binding of TNF homotrimer and TNFR1
+Binding of BLNK, BTK, PLC gamma, Vav and PIP3
+Binding of talin and F actin
+Binding of STAT5 homodimer and GAS element
+Binding of IL-2 receptor and STAT5
+Complex formation of integrin complex, caveolin, Fyn and Shc
+PKC theta activation signaling
+Binding of IL-4 receptor and STAT6
+Regulation of CD4 T cell receptor signaling (through PLC gamma, PKC and IKK-NF-kappaB cascade)
+Binding of RasGRP and DAG
+Binding of PIP3 and PDK1
+Negative regulation of JAK STAT pathway
+IL7 signaling (JAK1, JAK3, STAT5)
+Nuclear import of calcineurin
+Binding of STAT dimer and responsive element
+Negative regulation of (Phosphorylation of LAT by ZAP-70)
+Binding of LIF receptor and STAT3
+Negative regulation of (binding of DAG and cPKC) in cPKC activation signaling
+Complex formation of B cell coreceptor
+Dimerization of STAT1
+Activation of IKK beta by PKC theta
+Regulation of PLC gamma signaling
+Binding of Ig beta and Syk
+Regulation of B cell receptor signaling (through IKK-NF-kappaB cascade)
+Negative regulation of (Phosphorylation of STAT) in JAK STAT pathway
+JNK cascade
+Dephosphorylation of STAT dimer by PTP
+Binding of IL3 receptor and JAK2
+Nuclear export of mRNA (IL2)
+Binding of IL-12 and IL-12 receptor and conformational change of receptors
+GDP-GTP exchange of Ras by RasGRP
+Phosphorylation of IL-3 receptor by JAK2
+GDP-GTP exchange of Rac by Dock180
+SUMOylation in cytosol and/or nucleus
+Proteasome degradation of CD3 by 26S proteasome
+Cholesterol modification of hedgehog
+Phosphorylation of ERK by MEK1/2(MKK1/2)_p
+Phosphorylation of NIK by TAK1
+Phosphorylation of MAPKKK by PAK
+Phosphorylation of MEK1/2(MKK1/2) by MAPKKK
+Phosphorylation of IKK complex by NIK
+Phosphorylation of MKK by MEKK1
+Glycosylation in cytosol
+Phosphorylation in nucleus
+Oxidation of 4-coumarate
+Dephosphorylation of beta-catenin by PP2A
+Phosphorylation of RB by Cdk 2
+Reduction in cytosol
+Phosphorylation of ERK1/2 by MEK1/2(MKK1/2)_p
+Phosphorylation of R-smad:smad4 by MAPK
+Proteasome degradation in plasma membrane
+Autophosphorylation of JAK1 and TYK2
+Autophosphorylation of FAK
+Phosphorylation of MKK3/6 by MAPKKK
+Phosphorylation of STAT3 dimer by serine kinase
+Phosphorylation of MKK3/6 by TAK1
+Autophosphorylation of FGFR
+Phosphorylation of Ig alpha:beta by Blk
+Autophosphorylation of JAK2 and TYK2
+Transference
+Phosphorylation of Sprouty2 by FGFR1
+Reduction in unidentified cellular location
+Dephosphorylation of Fyn_p (phosphorylated in the C-terminal site) by PTP and active conformational change
+Phosphorylation of beta-catenin by GSK-3
+Phosphorylation of Ig alpha:beta by Fyn
+Phosphorylation of Vav by Syk
+Dephosphorylation of HDAC7 by protein phosphatase
+Autophosphorylation in cytosol
+Glycosylation of Dlp/Dally by Tout-velu
+GDP-GTP exchange
+Hydroxylation in the cytosol
+Glycosylation of HSPG by Exostosin
+Proteasome degradation of cytokine receptor by 26S proteasome
+Phosphorylation of TAB2 and TAK1
+Phosphorylation of STAT1 by JAK1_p and JAK2_p
+mRNA cleavage
+Phosphorylation of STAT5 by JAK1_p and JAK3_p
+Phosphorylation of IKK complex by MEKK3
+GDP-GTP exchange in plasma membrane
+Deformylation
+Phosphorylation of ERK by FAK
+Phosphorylation of Vav by ZAP-70
+Hydrolysis of PIP2 by PLC gamma to generate DAG and IP3
+Phosphorylation of Ig alpha:beta by non-receptor tyrosine kinase
+Phosphorylation of smad1 by MAPK
+CoA ligation of caffeic acid by 4CL
+Phosphorylation of CD3 zeta by non-receptor tyrosine kinase
+Phosphorylation of p53 by ATM
+Proteasome degradation of Syk by 26S proteasome
+Autophosphorylation of Fyn and active conformational change
+Hydrolysis of GTP by G alpha i-GTP and RGS
+Demyristoylation
+Phosphorylation of IFN gamma receptor by JAK1 and JAK2
+atpase reaction
+Ubiquitination of I-kappaB
+lipid addition
+Phosphorylation of MLCK by ERK
+GDP-GTP exchange of Rac by Sos1
+Deacetylation in unidentified cellular location
+Phosphorylation in cytosol and/or nucleus
+Sumoylation of trans-activator by PIAS
+Decarboxylation
+Dephosphorylation in cytosol and/or  nucleus
+Complex formation of RhoG, Elmo and Dock180
+Binding of ligand and RTK
+Binding of FGF and FGFR
+Binding of HGF and Met
+Binding of EGF and EGFR
+Binding of NGF and TRK
+Binding of FGF8 and FGFR1
+Binding of VEGF and KDR
+Translocation from cytosol to cell wall
+Translocation of sinapyl alcohol to cell wall
+Translocation of 4-Coumaryl alcohol to cell wall
+Dissociation of cytokine receptor and STAT
+Nuclear export of mRNA (SOCS3)
+Complex formation of integrin-dependent membrane-skeletal protein
+Regulation of PKC theta activation signaling
+Positive regulation of (Transcription of SOCS by STAT dimer) in JAK STAT pathway
+Binding of PAG/Cbp_p and Csk
+B cell receptor signaling (through IKK-NF-kappaB cascade)
+Activation of MLCK by ERK_p
+Raf activation signaling (through Grb2 and Sos)
+TNFR1 signaling pathway (through JNK cascade)
+AKT(PKB) activation signaling
+Negative regulation of (negative regulation of AKT(PKB) activation signaling)
+Negative regulation of calcineurin activation signaling
+Dissociation of calcium ion and PKC
+Binding of calcium calmodulin and calcineurin
+Negative regulation of AKT(PKB) activation signaling
+Positive regulation of JNK signaling (Angiotensin induced)
+Binding of CD28 and PI3K
+IFN alpha signaling pathway (JAK1, TYK2, STAT1, STAT3)
+Negative regulation of IKK-NF-kappaB signaling
+Binding of Ig alpha and BLNK
+Dissociation of IL-10 receptor and STAT3
+Positive regulation of CD4 T cell receptor signaling (through PLC gamma, PKC and IKK-NF-kappaB cascade)
+Negative regulation of (binding of calcium ion and cPKC) in cPKC activation signaling
+AKT(PKB)-Bad signaling
+IL4 signaling pathway (JAK1, JAK3, STAT6)
+Binding of IL-6 and IL-6 receptor and conformational change of receptors
+PKC delta activation signaling
+Dissociation of EPO receptor and STAT3
+Binding of GH and GH receptor and conformational change of receptors
+Dimerization of STAT3
+Dissociation of TPO receptor and STAT3
+Activation of IKK complex by PKC beta
+Negative feedback regulation of JAK STAT pathway by  (cytokine receptor degradation signaling)
+Binding of tensin and F actin
+Binding of EPO and EPO receptor complex and conformational change of receptors
+Binding of TRAF2 and ASK1
+Lck activation signaling (through autophosphorylation and PTP)
+Binding of DAG and PKC delta and active conformational change of PKCdelta
+Positive regulation of PKC theta activation signaling
+Dephosphorylation of NF-AT by calcineurin
+Depalmitoylation
+Ubiquitination of p53 by ubiquitin ligase
+Hydrolysis of phosphatidic acid by PLD1
+Dephosphorylation in unidentified cellular location
+Deacetylation of DNA repair factor Ku70 by SIRT1
+GDP-GTP exchange of Ral by RalGDS
+Autophosphorylation of Lck and active conformational change
+Transference in cytosol
+Hydrolysis of BID by caspase8
+Phosphorylation of JNK by MKK4/7_p
+GDP-GTP exchange in cytosol
+Phosphorylation of IRAK1 by IRAK4
+Dephosphorylation of NMDA glutamate receptor by PP1
+Hydrolysis of GTP by Rac
+Dephosphorylation of HDAC5 by protein phosphatase
+Dephosphorylation of Src family  (phosphorylated in the C-terminal site) by PTP and active conformational change
+Phosphorylation of Shc by insulin receptor
+Phosphorylation of DLC1 by MAPK8
+Phosphorylation of PLC gamma by Btk
+Phosphorylation of MEK1/2(MKK1/2) by Raf1
+Autophosphorylation of Src and active conformational change
+Ubiquitination of TRAF6
+Phosphorylation in unidentified cellular location
+Phosphorylation of GSK3beta by AKT
+Hydrolysis of pro-caspase10
+Cholesterol modification in ER
+Ubiquitination of Cyclin D
+Phosphorylation of SHC by TRK_p
+SUMOylation in nucleus
+Autophosphorylation of JAK3
+Phosphorylation of p38 by MKK3/6_p
+Autophosphorylation of TRK
+Dephosphorylation of Src family  (autophosphorylated) by PTP
+Ubiquitination of Lck by c-Cbl
+Phosphorylation of HDAC5 by CaMK
+Proteasome degradation of cyclin D
+Phosphorylation of MKK by TAK1
+GDP-GTP exchange of RhoA by RhoGEF
+Phosphorylation of LAT by ZAP-70_p
+Phosphorylation of FRS2 by FGFR1_p
+Phosphorylation of STAT3 by JAK2_p
+GDP-GTP exchange of G alpha t
+Translocation of Coniferyl alcohol to cell wall
+Transcription
+Transcription of NOXA by E2F-1
+Transcription by beta-catenin TCF complex (Xenopus)
+Transcription of PUMA by p53
+Transcription of dpp gene
+Transcription by Estrogen receptor
+Transcription of IL-2
+Transcription of GADD45 by p53
+Transcription of Xtwn gene
+Transcription of Ubx gene
+Transcription of end-1 gene
+Transcription of cytokine by AP-1
+Transcription of cyclin D1 gene
+Negative regulation of transcription in JAK STAT pathway by (STAT sumoylation by PIAS)
+Transcription by beta-catenin TCF complex and Smad4
+Transcription of Hh target gene
+Transcription by E2F
+Binding of trans-activator and co-repressor
+Transcription of Mkp3 gene
+Transcription of p15 by Smad complex
+Transcription by beta-catenin TCF complex and Smad4 (Xenopus)
+Transcription of BAX by p53
+Transcription by beta-catenin TCF complex (C. elegans)
+Transcription by E2F-1
+Transcription by Smad complex
+Transcription of p27 by Smad complex
+Transcription by beta-catenin TCF complex (Drosophila)
+Transcription by MEF2
+Transcription of Sprouty1 gene
+Transcription of IL-2 by NF-kappaB
+Transcription of HES gene
+Transcription of Sprouty2 gene
+Transcription of p16 by Smad complex
+Transcription by STAT dimer
+Transcription of smad6/7 by R-smad:smad4
+Transcription of apoptotic factor by p53
+Transcription of IL2 by AP-1
+Transcription of SOCS3 by STAT dimer
+Transcription of FGF8 target gene
+Transcription of PUMA by E2F-1
+Transcription of smad7 by R-smad:smad4
+Transcription of Engrailed gene
+Transcription of p21 by p53
+Transcription by p53
+Nuclear import of STAT dimer
+Binding of SOCS1 and JAK
+Nuclear import of NF-AT
+Activation of PKC theta by Rac
+Binding of IL-3 receptor and STAT5
+Translation of SOCS1
+Binding of integrin complex and FAK
+Negative regulation of (Phosphorylation of ZAP-70 by Lck_PY)
+Positive regulation of AKT(PKB)-Bad signaling
+Negative regulation of PKC theta activation signaling
+Binding of IL-2 receptor and JAK1 and JAK3
+Binding of EPO receptor and PI3K
+Binding of phosphatidylserine and PKC theta and active conformational change of PKC
+Negative regulation of (Fyn activation signaling)
+Binding of CIS and JAK
+Binding of cytokine receptor and Grb2
+Positive regulation of AKT(PKB) activation signaling
+Gene expression of IL2 by AP-1
+Binding of calcineurin and CSK
+Positive regulation of PLC gamma signaling (through LAT)
+Binding of Grb2 and Sos
+Complex formation of integrin complex and caveolin
+Binding of PLC gamma2, BAM32 and PIP3
+Binding of Sos and Ras
+Binding of LAT_p and PLC gamma1
+Nuclear import of STAT5 homodimer
+Positive regulation of CD4 T cell receptor signaling (through Ras and Erk cascade)
+Cytosolic calcium ion concentration elevation (through IP3 receptor)
+Binding of BLNK and PLC gamma
+Dissociation of calcium ion and cPKC
+Binding of cytokine receptor and STAT
+Negative regulation of (binding of calcium ion and PKC) in PKC activation signaling
+Nuclear import of ERK1/2_p
+Lck inactivation signaling (through PTP)
+Positive regulation of JAK STAT pathway
+Binding of STAT dimer and GAS
+Positive regulation of Growth hormone  signaling pathway (JAK2 STAT5)
+Negative regulation of (Phosphorylation of cytokine receptor) in JAK STAT pathway
+Phosphorylation of SHC by PDGF Receptor_p
+Sumoylation of Smad3 by PIASy
+Phosphorylation in plasma membrane
+Oxidation in unidentified cellular location
+Phosphorylation of PLC gamma by TRK_p
+Phosphorylation of Ig alpha:beta by Lyn
+Phosphorylation of EGFR by PKC
+Autophosphorylation of FGFR1
+Phosphorylation of IL-10 receptor by JAK1 and TYK2
+Phosphorylation of STAT2 by JAK1_p and TYK2_p
+Phosphorylation of STAT dimer by serine kinase
+Phosphorylation of transcriptional regulator by p38_p
+Phosphorylation of JNK1 by MKK4_p
+Phosphorylation of HSP27 by MAPKAPK2/3_p
+Phosphorylation of MKK4 by MEKK1
+Degeranylation
+Phosphorylation of Bad by RSK
+Ligation
+Cleavage of Spaetzle by serine protease  [Drosophila]
+CoA ligation
+DNA fragmentation by Aif
+Phosphorylation of HDAC5/7 by CaMK
+Lyase process in cytosol
+Oxidation of ferulate
+Autocleavage
+Phosphorylation of CARMA1 by PKC beta
+Proteasome degradation of Lck by 26S proteasome
+Phosphorylation of R-smad by TGF beta receptor I
+Autophosphorylation of Jak
+Autophosphorylation of PDGF receptor
+Formylation
+Proteasome degradation of TGF beta receptor complex by proteasome
+Proteasome degradation of R-smad by proteasome
+Hydrolysis of GTP by G alpha q-GTP and RGS
+Ubiquitination of Cyclin E
+GDP-GTP exchange of G alpha q
+Hydrolysis of GTP by G alpha s-GTP and RGS
+Hydrolysis in the inner space of the nuclear
+Phosphorylation of MAPKK by MAPKKK
+Phosphorylation of FKHRL1 by AKT
+Transcription of Siamois gene
+Transcription of BID by p53
+Transcription of CIS by STAT dimer
+Transcription by beta-catenin TCF complex
+Transcription of NOXA by p53
+Transcription of Sef gene
+Transcription by NF-AT
+Transcription by CSL:Notch (NIC)
+Negative regulation of translation by PIAS
+Transcription by AP-1
+Transcription of ptc gene
+Transcription of SOCS1 by STAT dimer
+Transcription of SOCS by STAT dimer
+Transcription of c-fos by Elk-1
+Transcription of BAK by p53
+Transcription by beta-catenin TCF complex (Mammals)
+Transcription by R-smad:smad4
+Regulation of transcription
+Transcription of p21 by Smad complex
+Transcription by beta-catenin TCF complex and Smad4 (Mammals)
+Transcription of MDM2 by p53
+Negative regulation of transcription
+Positive regulation of transcription
+ZAP-70 and CD3 degradation signaling
+Positive regulation of G alpha GDP-GTP exchange signaling
+Positive regulation of G alpha i GDP-GTP exchange signaling
+Positive regulation of G alpha s GDP-GTP exchange signaling
+Positive regulation of G alpha t GDP-GTP exchange signaling
+Positive regulation of G alpha q GDP-GTP exchange signaling
+Binding of wingless and Dally
+Actin filament polymerization
+Dormancy
+Endodormancy
+Cambium dormancy
+G1-S-phase transition process [Plant]
+Bud dormancy
+Binding of Cdk A and cyclin D
+Dissociation of E2F and RB_p
+Induction of (Para) dormancy
+Paradormancy
+Seed dormancy
+Binding of TCR-CD3 complex and Lck
+Binding of TPO and TPO receptor and conformational change of receptors
+Binding of Btk and PIP3
+Binding of IL-2 and IL-2 receptor and conformational change of receptors
+Complex formation of integrin complex, caveolin-1, Fyn and Shc
+Positive regulation of CD4 T cell receptor signaling (through Ras Vav, Rac and JNK cascade)
+Dissociation of phosphatidylserine and cPKC
+Negative regulation of CD4 T cell receptor signaling (through Ras Vav, Rac and JNK cascade)
+Binding of vinculin and F actin
+Binding of alpha-actinin and F actin
+Negative feedback regulation of JAK STAT pathway by  (binding of CIS and JAK)
+Activation of IKK complex by PKCs
+Binding of extracellular matrix protein and integrin complex
+Binding of  phosphatidylserine and PKC and active conformational change of PKC
+Binding of MALT1 and TRAF6
+Binding of EPO receptor and STAT5
+Negative feedback regulation of JAK STAT pathway
+Binding of antigen and BCR complex
+Dissociation of DAG and PKC theta
+Regulation of (negative regulation of AKT(PKB) activation signaling)
+Dissociation of DAG and cPKC
+Dephosphorylation of GH R_p by SHP-2
+Binding of alpha-actinin and zyxin
+Nuclear import of STAT4 homodimer
+Dissociation of Cactus_p and DIF  [Drosophila]
+Binding of MHC II and antigen
+CD4 T cell receptor signaling (through Ras and ERK cascade)
+Negative feedback regulation of JAK STAT pathway by (binding of CIS and cytokine receptor)
+Binding of CD3 zeta and ZAP-70
+Activation of IKK complex by PKC theta
+Complex formation of BCR receptor complex and coreceptor
+Regulation of Growth hormone signaling pathway (JAK2 STAT5)
+Nuclear import of STAT1 homodimer
+Dephosphorylation of STAT6 by SHP-1
+Binding of DAG and PKC and active conformational change of PKC
+Binding of FAK and paxillin
+Binding of PLC gamma1 and PIP3
+Binding of p130Cas and Crk
+Binding of Gads and SLP-76
+Negative regulation of (phosphorylation of PIP2) in AKT(PKB) activation signaling
+Wnt secretory pathway
+Binding of CD28 and CD80/CD86
+Binding of Ci, Fu and Cos2
+Changes in polarization state of postsynaptic cell membrane
+Depolarization state of the postsynaptic cell
+part_of
+is_a
+develops_from
+Permeabilization of mitochondria
+Binding of DAG and cPKC and active conformational change of cPKC
+ATP synthesis
+related
+Nuclear export of mRNA (BAX)
+Ubiquitination of p53 by Mdm2
+Hydrolysis of ICAD by Caspase3/7
+Ubiquitination of ZAP-70 by c-Cbl
+Isoprenylation in cytosol
+Phosphorylation of PI3K by JAK3_p
+Autophosphorylation of Met
+Autophosphorylation in plasma membrane
+Phosphorylation of MAPKKK by non-receptor serine/threonine kinase
+Dephosphorylation of Lck_p (phosphorylated in the C-terminal phosphorylation site) by CD45 and active conformational change
+ADP-ribosylation of G alpha s by cholera toxin
+Dephosphorylation in nucleus
+Phosphorylation of Ig beta by Lyn
+Glycosylation of Notch by Fringe
+Hydrolysis in plasma membrane
+O-methyltransferase of caffeoyl-CoA by CCR
+Dephosphorylation of PIP3 by PTEN
+nonenzymatic reaction
+ADP ribosylation in cytosol
+Phosphorylation of PIP by PI5K
+Farnesylation in unidentified cellular location
+Phosphorylation of ZAP-70 by non-receptor tyrosine kinase
+ADP ribosylation
+Autocleavage in ER
+CoA ligation of ferulate by 4CL
+Dephosphorylation of Src (phosphorylated in the C-terminal site) by PTP alpha and active conformational change
+Dephosphorylation in the inner space or the nuclear
+Phosphorylation of PI3K by JAK2_p
+Dephosphorylation in cytosol
+Phosphorylation of TCF by NLK
+Dephosphorylation of PPAR by phosphatase
+Phosphorylation of SHC by EGFR_p
+Ubiquitination of NEMO by TRAF6
+GDP-GTP exchange of Ras by Sos
+Proteasome degradation of I-kappaB by 26S proteasome
+CoA ligation in cytosol
+Phosphorylation of MAPKAPK2/3 by p38_p
+ADP ribosylation of G alpha i by pertussis toxin
+Phosphorylation of Lck by Csk and inactive conformational change
+Hydrolysis of GTP by RapGAP
+Transglutamination
+Deacetylation in nucleus
+Ubiquitination of R-smad_Ub by smurf1/2
+Dissociation of E2F-1 and RB_p
+Ecodormancy
+Nuclear import of Cdk A_Tp:cyclin D
+Release of (eco) dormancy
+Calcium ion transport from ER to cytosol through calcium  ion channel
+Dissociation of 14-3-3_p and Bax
+Binding of Groucho and TCF
+Inactivation of Bcl-2 by Bad
+Fyn activation signaling (through autophosphorylation and PTP)
+Negative regulation of (Autophosphorylation of Fyn) in Fyn activation signaling
+Negative regulation of Fyn activation signaling (through autophosphorylation and PTP)
+Fyn inactivation signaling (through Csk)
+Positive regulation of Fyn activation signaling (autophosphorylation and PTP)
+Negative regulation of (dephosphorylation of Fyn) in Fyn activation signaling
+Fyn inactivation signaling (through PTP)
+Regulation of Fyn activation signaling (through autophosphorylation and PTP)
+Dissociation of LIF receptor and STAT3
+Binding of Gab1 and SHP-2
+Positive regulation of IGF signaling pathway
+NOXA activation signaling
+Translocation of NOXA from the cytosol to the mitochondria membrane
+Sucrose treatment
+Cell proliferation
+IL12 signaling pathway (JAK2, TYK2, STAT4)
+Binding of BLNK and BtK
+Binding of integrin alpha and caveolin-1
+Binding of IL-7 R and PI3K
+Dephosphorylation of cytokine receptor by SHP-1
+Dissociation of IL-12 receptor and STAT4
+Nuclear import of JNK1_p
+I-kappaB degradation signaling
+Translation of CIS
+Recruitment of CARMA1 and BCL10 to the lipid raft of the synapse by PKC theta
+Binding of LIF and LIF receptor and conformational change of receptors
+Negative regulation of (Phosphorylation of Vav by ZAP-70)
+Binding of AKT and Hsp90
+Calcineurin activation signaling
+Regulation of cPKC activation signaling
+Nuclear import of STAT3 homodimer
+Nuclear transport of AP-1
+Binding of calcium ion and calcineurin
+Binding of LAT and Grb2
+Binding of DAG and nPKC and active conformational change of nPKC
+Dephosphorylation of cytokine receptor by PTP
+Binding of IFN gamma receptor and JAK1 and JAK2
+Binding of BLNK and Grb2
+Binding of STAT3 homodimer and SIE element
+Binding of cytokine and cytokine receptors and conformational change of receptors
+Complex formation of IgM and Ig alpha:beta
+Negative regulation of JAK STAT pathway by (STAT sumoylation by PIAS1/3)
+Binding of STAT1:STAT2 heterodimer and IRF9
+Grb2-Sos-Ras-PI3K signaling
+Binding of STAT1 and STAT2_p
+Binding of CARMA1 and BCL10
+IFN alpha signaling pathway (JAK1, TYK2, STAT1, STAT2)
+Binding of IP3 and IP3R and IP3R opening
+Negative regulation of (binding of phosphatidylserine and cPKC) in cPKC activation signaling
+B cell receptor signaling (through PLC gamma, calcineurin and NF-AT)
+Activation of Raf1 by Ras-GTP
+Cytokine receptor degradation signaling
+CD4 T cell receptor signaling (through PLC gamma, calcineurin and NF-AT)
+Positive regulation of TPO signaling pathway (through JAK STAT pathway)
+Binding of FAK and PI3K
+Regulation of AKT(PKB) activation signaling
+Positive regulation of B cell receptor signaling (through IKK-NF-kappaB cascade)
+Dephosphorylation of STAT5 by SHP-1
+Translation of SOCS
+Binding of DAG, calcium ion and cPKC and active conformational change of cPKC
+Binding of AP-1 and responsive element
+Binding of TNFR1, TRADD, TRAF2 and RIP
+IFN alpha signaling pathway (JAK1, TYK2, STAT1)
+Integrin signaling pathway (through PI3K-AKT (PKB)-Bad signaling)
+Binding of antigen, TCR-CD3 complex and CD4
+Binding of IL-7 receptor and STAT5
+Binding of caveolin-1 and Fyn
+Dissociation of IL-3 receptor and STAT5
+Negative regulation of PKC activation signaling
+Negative regulation of (Lck activation signaling)
+Binding of BCL10 and MALT1
+Binding of LAT_p and Grads
+IFN alpha signaling pathway (JAK1, TYK2, STAT3)
+Binding of TPO receptor and STAT3
+Binding of PIP3 and AKT
+Binding of TCR-CD3 complex and Fyn
+Binding of Estrogen receptor and NCoR
+Binding of PGRP-LC and LPS  [Drosophila]
+Abscisic acid stimulus
+Ubiquitination of TGF beta receptor complex by smurf1
+Positive regulation of Delta mediated Notch signaling pathway
+Binding of Notch and Fringe
+conditional synthetic lethal temperature-sensitivity
+Gene expression by NF-kappaB
+Expression of drosomycin by Dorsal  [Drosophila]
+Transcription of diptericin by Relish  [Drosophila]
+Gene expression of c-FLIP by NF-kappaB
+Binding of NF-kappaB and responsive element
+Expression of attacin by Relish  [Drosophila]
+Expression of antimicrobial peptide by Relish  [Drosophila]
+Expression of diptericin by Relish  [Drosophila]
+Expression of antimicrobial peptide by DIF  [Drosophila]
+Transcription by NF-kappaB
+Expression of cecropin by DIF  [Drosophila]
+Expression of diptericin by DIF  [Drosophila]
+Expression of cecropin by Relish [Drosophila]
+Gene expression of cytokine by NF-kappaB
+Expression of antimicrobial peptide by DIF:Dorsal  [Drosophila]
+Transcription of diptericin by DIF  [Drosophila]
+Gene expression of anti-apoptotic gene by NF-kappaB
+Transcription of antimicrobial peptide by DIF  [Drosophila]
+Expression of drosomycin by Relish  [Drosophila]
+Transcription of antimicrobial peptide by DIF:Dorsal  [Drosophila]
+Translation of Defensin [Drosophila]
+Expression of drosomycin by DIF  [Drosophila]
+Transcription of antimicrobial peptide [Drosophila]
+Expression of drosocin by Relish  [Drosophila]
+Translation of diptericin [Drosophila]
+Translation of drosomycin  [Drosophila]
+Expression of defensin by DIF:Relish  [Drosophila]
+Transcription of drosomycin by Relish  [Drosophila]
+Transcription of cecropin by Relish  [Drosophila]
+Expression of antimicrobial peptide by Dorsal  [Drosophila]
+Transcription of antimicrobial peptide by Relish  [Drosophila]
+Transcription of antimicrobial peptide by Dorsal  [Drosophila]
+Translation of c-FLIP
+Dephosphorylation of Src (phosphorylated in the C-terminal site) by PTP lambda and active conformational change
+Phosphorylation of Fyn by Csk and inactive conformational change
+Phosphorylation of IKK beta by TAK1
+Oxidation in cytosol
+Phosphorylation of myosin phosphatase by p160ROCK
+Isoprenylation in unidentified cellular location
+Desumoylation
+Farnesylation in cytosol
+Ubiquitination of I-kappaB_p
+CoA ligation inside plasma membrane
+Phosphorylation of Src family  by non-receptor kinase and inactive conformational change
+Phosphorylation of PPAR by kinase
+Geranylgeranylation in cytosol
+Phosphorylation of Notch (NIC)
+Phosphorylation of DARPP-32 by PKA
+Phosphorylation of CARMA1 by PKC theta
+Phosphorylation of MKK4/7 by ASK1
+GDP-GTP exchange of G alpha i
+Phosphorylation of SLP-76 by ZAP-70_p
+Proteasome degradation of p53
+Proteasome degradation in unidentified cellular location
+Phosphorylation of STAT3 by JAK1_p and JAK2_p
+Phosphorylation of I-kappaB_p by IKK complex_p
+Phosphorylation of CD3 zeta by Fyn (autophosphorylated)
+Sumoylation of STAT1/3/4 by PIASx/y
+Deacetylation of histone by HDAC5/7
+Phosphorylation of IRS by insulin receptor
+Deacetylation of histone by HDAC7
+Phosphorylation of BMPR1 by BMPR2
+Phosphorylation of Cdc2 (Cdk1) by Wee1
+ADP ribosylation in plasma membrane
+Dephosphorylation of L-type Ca2+ channel_p by PP1
+Phosphorylation of STAT5 by JAK2_p
+Phosphorylation of IL-4 receptor by JAK1 and JAK3
+Ubiquitination in nucleus
+O-methyl-transfer of caffeic acid by OMT
+Phosphorylation of STAT6 by JAK1_p and JAK3_p
+Myristoylation in cytosol
+Binding of DAG and PKC theta and active conformational change of PKC theta
+Dissociation of IL-7 receptor and STAT5
+Lymphocyte proliferation
+Integrin signaling pathway (through ERK cascade)
+Gene expression of CIS by STAT dimer
+Binding of IL-10 and IL-10 receptor and conformational change of receptors
+Binding of IFN alpha receptor and JAK1 and TYK2
+Binding of DAG, calcium ion and PKC and active conformational change of PKC
+Binding of IL-6 receptor and JAK1 and JAK2
+Clustering of integrins
+Negative regulation of AKT(PKB)-Bad signaling
+Dissociation of NF-kappaB and I-kappaB [mammals]
+Binding of FAK and Src family
+Lck degradation signaling
+Gene expression of SOCS by STAT dimer
+Positive regulation of IKK-NF-kappaB signaling
+Binding of STAT4 homodimer and GAS element
+Lyn activation signaling
+Translation of SOCS3
+Binding of ISGF3 and ISRE
+Binding of GH receptor and JAK2
+Binding of IL-12 receptor and JAK2 and TYK2
+Regulation of Lck activation signaling (autophosphorylation and PTP)
+EPO signaling pathway
+Syk degradation signaling
+Binding of cytokine receptor and JAK
+Dissociation of DAG and PKC
+Dimerization of STAT
+Positive regulation of PKC activation signaling
+Binding of integrin complex and talin
+Dimerization of STAT5
+Nuclear import of JNK_p
+Oligomerization of TRAF6
+Negative feedback regulation of JAK STAT pathway by  (JAK degradation signaling)
+IL3 signaling pathway (JAK1, JAK2, STAT5)
+Binding of FAK and p130Cas
+Negative regulation of (Phosphorylation of JAK) in JAK STAT pathway
+Binding of BAM32 and PIP3
+Regulation of JNK signaling (Angiotensin induced)
+Dissociation of NF-kappaB and I-kappaB
+Activation of NF-kappaB by Src family
+Binding of integrin complex and Ilk
+IFN gamma signaling pathway (JAK1, JAK2, STAT1)
+Nuclear import of NF-kappaB
+Negative regulation of cPKC activation signaling
+Binding of extracellular matrix and Integrin complex
+Binding of BLNK and PLC gamma2
+Negative regulation of (dephosphorylation of Lck) Lck activation signaling (autophosphorylation and PTP)
+JNK signaling (Angiotensin induced)
+Dissociation of EPO receptor and STAT5
+Nuclear import of STAT1:STAT3 heterodimer
+Dissociation of GH receptor and STAT5
+Regulation of TPO signaling pathway (through JAK STAT pathway)
+Binding of calcium ion and PKC and active conformational change of PKC
+Regulation of AKT(PKB)-Bad signaling
+Binding of STAT3 homodimer and GAS element
+Dephosphorylation of AKT(PKB) by PP2A
+LIF signaling pathway
+cPKC activation signaling
+Regulation of CD4 T cell receptor signaling (through Ras Vav, Rac and JNK cascade)
+Binding of PLC gamma2 and PIP3
+Dephosphorylation of STAT5 by SHP-2
+Binding of SLP-76 and Nck
+TPO signaling pathway (JAK2, STAT3)
+Binding of TNFR1 trimer and TRADD
+Positive regulation of cPKC activation signaling
+Regulation of calcineurin activation signaling
+Negative regulation of CD4 T cell receptor signaling (through Ras and Erk cascade)
+IKK-NF-kappaB cascade
+Nuclear import of ERK_p
+Binding of GH receptor and STAT5
+Nuclear export of mRNA (CIS)
+Translocation of Bad_p from mitochondria membrane to cytosol
+Dimerization of TRADD:TRAF2:RIP complex
+Translation of cytokine
+Inorganic chemical treatment
+Hydrogen peroxide treatment
+Rap1 activation signaling
+Activation of Epac by cAMP
+Rap1 activation signaling (through cAMP and Epac)
+Transcription of drosocin by Relish  [Drosophila]
+Transcription of cecropin by DIF  [Drosophila]
+Nuclear export of mRNA (c-FLIP)
+Translation of antimicrobial protein
+Transcription of attacin by Relish  [Drosophila]
+Transcription of c-FLIP gene
+Transcription of drosomycin by DIF  [Drosophila]
+Translation of cecropin [Drosophila]
+Transcription of defensin by DIF:Relish  [Drosophila]
+Translation of attacin [Drosophila]
+Transcription of drosomycin by Dorsal  [Drosophila]
+Translation of drosocin [Drosophila]
+Metabolic reaction
+Proteasome degradation of c-FLIP
+Phosphorylation of IL-2 receptor by JAK1 and JAK3
+Hydrolysis of GTP by G alpha-GTP
+Phosphorylation of DARPP-32 by CDK5
+Proteasome degradation of IRAK1_p
+Hydrolysis of Procaspase3 to Caspase3 by Caspase9
+Dephosphorylation of Bad_p by calcineurin
+Phosphorylation of Cdk A by CAK
+Phosphorylation of Shc by Fyn
+Phosphorylation of MKK4/7 by MAPKKK
+Hydroxylation
+Phosphorylation of RB by Cdk A_Tp
+Phosphorylation of Src by PKA
+Phosphorylation of STAT3 by JAK1_p and TYK2_p
+Hydrolysis of BID by granzyme B
+Phosphorylation of PLC gamma by Syk
+Palmitoylation in ER
+Phosphorylation of EPO receptor by JAK2
+Phosphorylation of CREB by PKA
+Phosphorylation of IFN alpha receptor by JAK1 and TYK2
+Ubiquitination of Syk by c-Cbl
+Transmethylation in unidentified cellular location
+gtpase reaction
+Hydrolysis of PIP2 by PLC to generate DAG and IP3
+Autophosphorylation of KDR
+Phosphorylation of PI3K by JAK1_p
+Phosphorylation of Ig alpha:beta by Syk
+Autophosphorylation of TYK2
+Proteasome degradation in cytosol
+SUMOylation in unidentified cellular location
+Dephosphorylation Cdk 2 by Cdc25C
+Phosphorylation of Gab1 by FRS
+Deacetylation
+Processing of MEKK1
+Phosphorylation of MEKK1 by NIK
+Phosphorylation of MAPK by MAPKK
+Hydrolysis of Procaspase3 by caspase8
+Phosphorylation of TGF-b receptor I by TGF beta receptor II
+Elongation
+Phosphorylation of IKK complex by MEKK1
+Hydrolysis of GTP by Ras
+Phosphorylation of Cactus  [Drosophila]
+Phosphorylation of GH receptor by JAK2
+Dephosphorylation of Src (phosphorylated in the C-terminal site) by PTP and active conformational change
+Phosphorylation of Vav by non-receptor tyrosine kinase
+Phosphorylation of p38 by MKK_p
+Deacetylation of histone by HDAC5
+GDP-GTP exchange of Rac1 by RhoGEF
+Phosphorylation of p130Cas by Src family
+Phosphorylation of Src by non-receptor kinase and inactive conformational change
+Glycosylation
+Phosphorylation of HDAC7 by CaMKI
+GDP-GTP exchange in unidentified cellular location
+Farnesylation
+Phosphorylation of CD3 zeta by Lck (autophosphorylated)
+Autophosphorylation
+Proteasome degradation of beta catenin by 26S proteasome
+Phosphorylation of Shc by Met_p
+Phosphorylation of CD28 by Fyn
+Proteasome degradation
+Phosphorylation in cytosol
+Cleavage in cytosol
+Autophosphorylation of TAK1
+Dephosphorylation of FAK by PTEN
+Dephosphorylation of Src (autophosphorylated) by PTP
+Binding of SLP-76 and Vav
+CD28 signaling
+Negative regulation of (Dimerization of STAT) in JAK STAT pathway
+CD4 T cell receptor signaling (through PLC gamma, PKC and IKK-NF-kappaB cascade)
+Binding of TRADD and TRAF2
+Dimerization of STAT6
+Binding of TCR-CD3 complex and non-receptor tyrosine kinase
+Gene expression of SOCS1 by STAT dimer
+Binding of Fyn and Shc
+Negative regulation of (phosphorylation of AKT(PKB)) in AKT(PKB) activation signaling
+Negative regulation of CD4 T cell receptor signaling (through PLC gamma, PKC and IKK-NF-kappaB cascade)
+Binding of STAT1:STAT3 heterodimer and DNA element
+Negative regulation of Lck activation signaling (autophosphorylation and PTP)
+Binding of EPO receptor and STAT3
+Negative regulation of (binding of DAG and PKC) in PKC activation signaling
+PLC gamma signaling
+Negative regulation of (binding of phosphatidylserine and PKC theta) in PKC theta activation signaling
+Binding of CD4 and Lck
+Binding of STAT3 and p300 and Smad1
+Complex formation of TCR-CD3
+Negative regulation of (binding of DAG and PKC theta) in PKC theta activation signaling
+Negative regulation of (Phosphorylation of PIP2 by PI3K)
+Ubiquitination of JAK by SOCS1
+Binding of vinculin and talin
+Binding of IL-12 receptor and STAT4
+Activation of TAK1 by ubiquitinated TRAF6
+Binding of Integrin complex and tensin
+Binding of PLC gamma and PIP3
+Binding of IL-7 and IL-7 receptor and conformational change of receptors
+Complex formation of BCR
+Regulation of JAK STAT pathway
+Trimerization of MALT1:MAGUK:BCL10
+Positive regulation of calcineurin activation signaling
+Binding of IFN alpha and IFN alpha receptor and conformational change of receptors
+IKK activation signaling (through PKC theta and CARMA1:BCL10:MALT1)
+Binding of IL1 and IL1R complex
+Proteasome degradation of JAK by 26S proteasome
+Nuclear import of STAT6 homodimer
+Phosphorylation of Cbl by Src
+Binding of Epac1 and cAMP
+Rap1 activation signaling (through cAMP, PKA, Cbl and C3G)
+Binding of Crk and C3G
+Binding of Epac1 and Rap1
+Binding of Crk and Cbl
+Binding outside the mitochondria membrane
+G alpha t-GTP hydrolysis signaling
+Negative regulation of (Hydrolysis of GTP by G alpha t-GTP and RGS)
+Dissociation of G alpha t-GDP and cGMP PDE
+Binding of G alpha t-GTP and RGS
+Regulation of G alpha t-GTP hydrolysis signaling
+Positive regulation of G alpha t-GTP hydrolysis signaling
+Negative regulation of G alpha t-GTP hydrolysis signaling
+BSC-1 medium
+Pentose phosphate pathway
+Positive regulation of heterotrimeric GPCR signaling pathway (through G alpha s)
+Binding of Src and Estrogen receptor:MNAR
+Nuclear export of mRNA (BAK)
+Nuclear import of EndoG
+Stabilization and accumulation of cytoplasmic beta-catenin
+DR3 signaling pathway
+Translocation of Notch from the Golgi to plasma membrane
+Biosynthesis of type II polyketide products
+Post embryonic development
+Cellulose biosynthesis
+Flower morphogenesis
+Flower formation
+Lignin biosynthesis (grasses)
+Wood development
+Lignin biosynthesis
+Cell wall organization and biosynthesis
+Phenylalanine biosynthesis
+Bud development
+Transmethylation
+Phosphorylation of Akt by protein kinase
+Geranylgeranylation
+Phosphorylation of JNK by MKK4(SEK1)_p
+Cleavage in extracellular
+Dephosphorylation of Src (phosphorylated in the C-terminal site) by PTP1B and active conformational change
+Hydroxylation of trans-cinnamate by C4H
+Phosphorylation of PLC gamma1 by Itk
+Hydrolysis of Procaspase7 to Caspase7by Caspase9
+Phosphorylation of Cdc2 (Cdk1) by Cdk7
+CoA ligation of 4-coumarate by 4CL
+Autophosphorylation of JAK1 and JAK2
+Phosphorylation of p38 by KDR_p
+SUMOylation in cytosol
+Hydrolysis of Procaspase3/6/7 by caspase8/10
+Phosphorylation
+Phosphorylation of CD28 by Lck
+Proteasome degradation of ZAP-70 by 26 proteasome
+Phosphorylation of Bcl-2
+Phosphorylation of CD28 by Src family
+Phosphorylation of MKK4(SEK1) by PKC theta
+Phosphorylation of ETS by ERK1/2_p
+Peroxidation of coniferyl alcohol to Lignin (gymnosperm, angiosperm and grasses)
+Phosphorylation of ZAP-70 by autophosphorylated Fyn
+Lyase process in unidentified cellular location
+Phosphorylation of c-Jun by JNK1_p
+Phosphorylation of NLK1 by TAK1
+Phosphorylation of FAK by Src family
+Phosphorylation of MLCK by PAK
+Phosphorylation of AKT by IlK
+Phosphorylation of Raf by PKC delta
+Transmethylation in cytosol
+Hydrolysis of Caspase3/6/7 by Caspase9
+Phosphotransfer
+Phosphorylation of MEK1/2(MKK1/2) by Raf
+Dephosphorylation of Lck_p (phosphorylated in the C-terminal phosphorylation site) by PTP and active conformational change
+Proteasome degradation of TGF beta receptor I by proteasome
+Dephosphorylation of Lck_p (autophosphorylated) by PEP
+GDP-GTP exchange of G alpha
+Cholesterol modification
+Phosphorylation of JNK by MKK_p
+Phosphorylation of LIF receptor by JAK1 and JAK2
+Phosphorylation of 4EBP by mTOR
+Phosphorylation of RKIP by PKC
+Phosphorylation of transcriptional regulator by ERK_p
+Reduction
+Palmitoylation
+Myristoylation
+Peroxidation of sinapyl alcohol to Lignin (angiosperm and grasses)
+Phosphorylation of IKK complex by MAPKKK
+Phosphorylation of Bad by AKT_p
+Phosphorylation of beta-catenin by CK1a
+Ubiquitination of IRAK1_p
+Proteasome degradation of Notch (NIC) by 26S proteasome
+Autophosphorylation of JAK2
+Hydrolysis of Notch by ADAM
+Autophosphorylation of Src family and active conformational change
+Transference in unidentified cellular location
+Phosphorylation of paxillin by Src family
+Cleavage of Spaetzle by PSH  [Drosophila]
+Deneddylation
+Protein cleavage
+Phosphorylation of Cdk2 by Cdk7
+Oxidation/Reduction in cytosol
+Lyase process
+Phosphorylation of RB by Cdk 4/6
+Palmitoylation of Wnt by Porcupine
+Sumoylation of STAT1/3/4 by PIAS1/3
+Phosphorylation of PLC gamma by non-receptor tyrosine kinase
+Hydrolysis of GTP by Rap1GAPII
+JAK STAT pathway
+Binding of IL3 and IL3R complex
+Binding of SLP-76 and Itk
+Dissociation of IFN gamma receptor and STAT1
+Activation of Raf by Ras-GTP
+Regulation of EPO signaling pathway
+Binding of IFN alpha receptor and STAT2
+Binding of IL4 and IL4R complex
+Binding of IL-7 receptor and JAK1 and JAK3
+Binding of IL-10 receptor and JAK1 and TYK2
+Binding of CIS and Cytokine receptor
+Binding of CD19 and PI3K
+Growth hormone signaling pathway (JAK2, STAT5)
+Binding of TPO receptor and JAK2
+Dissociation of IL-4 receptor and STAT6
+Negative regulation of (dephosphorylation of AKT(PKB) in negative regulation of AKT(PKB) activation signaling)
+Negative regulation of PLC gamma signaling (through LAT)
+Regulation of IKK-NF-kappaB signaling
+Gene expression of SOCS3 by STAT dimer
+ERK cascade
+Dephosphorylation of JAK by SHP-1
+Dissociation of IFN alpha receptor and STAT1
+Nuclear export of mRNA (SOCS)
+Oligomerization of MALT1
+IL2 signaling (JAK1, JAK3, STAT5)
+Binding of IFN alpha receptor and STAT1
+Dissociation of IFN alpha receptor and STAT3
+Binding of LAT_p and PLC gamma
+Binding of GAF and GAS element
+Dissociation of phosphatidylserine and PKC theta
+Negative regulation of TPO signaling pathway (through JAK STAT pathway)
+Binding of Shc_p and Grb2
+Negative regulation of (binding of phosphatidylserine and PKC) in PKC activation signaling
+Positive regulation of Lck activation signaling (autophosphorylation and PTP)
+Binding of IL7 and IL7R
+Binding of calcium ion and cPKC and active conformational change of cPKC
+Binding of IFN gamma receptor and STAT1
+Dissociation of IL-6 receptor and STAT3
+Binding of IL-6 receptor and STAT3
+Translocation
+Binding of Adenosine A2A receptor and G alpha s
+Lck inactivation signaling
+Activation of c-Raf1 by PKC beta
+Regulation of PPAR signaling
+Cellular event
+Wnt signaling pathway (Drosophila)
+Binding of Frizzled and DSH
+RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral, RalBP1 and Rac-GTP hydrolysis signaling)
+Regulation of G alpha GDP-GTP exchange signaling
+Binding of Estrogen receptor and MNAR
+Glycerophospholipid metabolism
+Regulation of integrin signaling pathway
+Vasoconstriction
+Heterotrimeric GPCR signaling pathway (through Dopamine and G alpha s)
+Activation of PAK by Cdc42
+Binding of cGMP and cGMP activated cation ion channel and the channel opening
+Membrane ruffling
+HDAC nuclear import signaling
+Tryptophan metabolism
+Cytoplasm organization and biogenesis
+Pathway
+Cell-to-cell movement
+Unknown activation
+Activation of serine protease  [Drosophila]
+Toll-like receptor signaling pathway
+Histidine metabolism
+Gene expression
+gamma-Hexachlorocyclohexane degradation
+Binding of G beta gamma and PI3K gamma
+Dissociation of IRAK1_p and TRAF6
+Tetracycline biosynthesis
+Cell migration
+Removement of survival factor
+Human hematopoietic cell medium
+KGM-2 (medium)
+A549 medium
+Lymphocyte medium
+Mesenchymal cell medium
+Photoperiod treatment
+DRB medication
+Transcription inhibitor medication
+Alpha MEM (medium)
+HEp2 medium
+Fibroblast medium
+Puromycin medication
+DG44 medium
+Temperature treatment
+MEGM (medium)
+Binding of G beta gamma and sodium ion channel
+Binding of small GTPase-GTP and target protein
+suppression knockout
+suppression
+synonym
+synthetic growth effect
+Negative feedback regulation of p53 degradation signaling
+suppression overexpression
+Negative regulation of (Binding of GPCR and G alpha i)
+Binding of G alpha i-GTP and PLC beta
+GDP-GTP exchange of small GTPase by GEF
+Expression of cecropin by Relish
+Binding of G beta gamma and calcium ion channel
+suppression expression alteration
+synthetic phenotype
+conditional synthetic lethal
+suppression underexpression
+exact
+Binding of tyrosine-phosphorylated protein and PLC
+Binding of TRK and Shc
+N-Glycan degradation
+Activation of Smo
+G alpha s GDP-GTP exchange signaling
+Homodimerization of Estrogen receptor
+AKT(PKB)-mTOR signaling
+Translation of PUMA
+Gene expression of apoptotic factor by p53
+Regulation of PDGF signaling pathway
+Dissociation of G alpha s-GTP and G beta:G gamma
+Cell cycle
+Src inactivation signaling (through non-receptor kinase)
+Binding of Estrogen receptor alpha and p85
+Morphogenesis of an epithelium
+Binding of NF-kappaB and specific modules
+Binding of Notch (NIC) and transcription factor
+Negative feedback regulation of FGF8 signaling by Sef
+Regulation of Caspase cascade
+Regulation of EGF signaling pathway
+Positive regulation of RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral and PLD)
+Toll-like receptor signaling pathway (p38 cascade)
+Trimerization of DR4/5
+Negative regulation of (Hydrolysis of GTP by G alpha s-GTP and RGS) (through G alpha s GDP-GTP exchange signaling)
+CaMKII activation signaling
+Biosynthesis of Polyketides and Nonribosomal Peptides
+Transdifferentiation
+Binding of Wnt and Frizzled
+Translocation from cytosol into lumen of endosome
+Regulation of Toll-like receptor pathway (through LPS, TLR4, MyD88, IRAK-1, TAK1 and IKK-NF-kappaB cascade)
+Rac activation signaling
+Negative regulation of (GDP-GTP exchange of G alpha)
+Xenobiotics Biodegradation and Metabolism
+Monoterpenoid biosynthesis
+Regulation of Lck activation signaling
+Regulation of Steroid receptor signaling
+Binding of Gab1 and Grb2
+Dissociation of G alpha-GTP and G beta:G gamma
+Prostaglandin and leukotriene metabolism
+Binding of PACAP and PACAP receptor
+Src activation signaling (through autophosphorylation and PTP)
+Binding of HDAC5/7 and MEF2
+B-Raf activation signaling
+AIF mediated signaling
+Dissociation of Bmf and dynein:myosin V
+Binding of PIP2 and gelsolin
+Translation of Sprouty1
+Streptomycin biosynthesis
+Polyketide sugar unit biosynthesis
+Binding of PIP2 and actin-binding protein
+Biosynthesis of Secondary Metabolites
+Raf activation signaling
+Lysine biosynthesis
+Inactivation of Rhodopsin
+Binding of G alpha o-GTP and PLC beta
+Dimerization of TRK
+Regulation of NF-kappaB signaling (cytoplasmic sequestering)
+Notch degradation signaling
+Positive regulation of PDGF signaling pathway (through Grb2, Sos, Ras, PI3K, AKT and IKK-NF-kappaB cascade)
+Permeabilization of mitochondria and Translocation of EndoG from mitochondria to cytosol
+Binding of HDAC5 and importin alpha
+Riboflavin metabolism
+Binding in the inner space of the ER
+Regulation of G alpha i-GTP hydrolysis signaling
+Activation of Raf-1 by PKC
+Binding of RTK and Shc
+Apoptotic factor inactivation signaling
+PI3K gamma activation singlaing
+Translation of Sef
+Delta mediated Notch signaling pathway
+Glycosphingolipid biosynthesis-lactoseries
+Binding of Wnt and LRP5/6
+Positive regulation of translation
+Nervous System Disease
+Regulation of BAD inactivation signaling
+narrow
+Protein involved in DNA fragmentation and chromatin condensation signaling
+Nuclear import of HDAC5:importin alpha
+Binding of Rap1 and Crk
+Binding of G beta gamma and GRK2/3
+suppression scalable
+suppression partial alteration
+synthetic lethal
+broad
+Negative regulation of BAD inactivation signaling
+synthetic growth increase
+Positive regulation of small GTPase mediated signaling
+Positive regulation of PLC signaling
+Negative regulation of G alpha s GDP-GTP exchange signaling
+Dissociation of 14-3-3 and HDAC7
+Glycosphingolipid biosynthesis-globoseries
+Negative regulation of heteromeric GPCR signaling pathway (through G alpha i)
+TPO signaling pathway (through PI3K, PLCgamma and PKC)
+Negative regulation of IGF signaling pathway
+Nuclear import of HDAC7
+Induction
+Regulation of G alpha s-GTP hydrolysis signaling
+Regulation of src activation signaling (through Estrogen receptor)
+Regulation of Estrogen receptor signaling pathway
+Binding of Pygopus, Legless and beta-catenin:TCF complex
+Positive regulation of PDGF signaling pathway
+Activation of GSK3beta
+Negative regulation of Notch signaling pathway
+Negative regulation of caloric restriction - cell survival signaling
+Regulation of RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral and PLD)
+RalGDS-Ral-RalBP1 signaling
+Binding of Ptc and Smo
+Osteoblast differentiation
+Positive regulation of G1-S-phase transition pathway
+Activation of Raf by PKC
+Glutathione metabolism
+Negative regulation of (Binding of G alpha s-GTP and adenylate cyclase)
+Translocation of Arrow/LRP5/6 from cytosol to plasma membrane
+Integrin signaling pathway (through Rac, Rap1 and JNK cascade)
+Notch receptor processing
+Binding of Toll and Spaetzle  [Drosophila]
+Nuclear export of mRNA (BID)
+Translation of BAX
+Response to endogenous stimulus
+Src activation signaling (through Estrogen receptor)
+Negative regulation of Integrin signaling pathway (through Rho)
+Negative regulation of Lck activation signaling
+G alpha-GTP hydrolysis signaling
+Positive regulation of Src activation signaling
+Puromycin biosynthesis
+EndoG mediated signaling
+Biosynthesis of steroids
+Complex formation of Axin, APC, GKS3beta, CK1alpha and beta catenin
+Binding of Dopamine and D1-like receptor
+Citrate cycle (TCA cycle)
+Regulation of heterotrimeric GPCR signaling pathway (through photon, rhodopsin, G alpha t and PDE)
+Regulation of cell cycle regulation
+B cell receptor signaling (through Vav and Rac)
+Methionine and Cysteine metabolism
+Rod dark adaptation
+Binding of Notch (NIC) and CSL
+3-Chloroacrylic acid degradation
+Nicotinate and nicotinamide metabolism
+Regulation of G2-M-phase transition pathway
+Sumoylation of Androgen receptor by PIASy
+cAMP mediated signaling
+Binding of G alpha-GTP and effector
+Negative regulation of G alpha t GDP-GTP exchange signaling
+Negative regulation of G1-S-phase transition pathway
+Gene expression by p53
+Terpenoid biosynthesis
+Negative regulation of src activation signaling (through Estrogen receptor)
+Gene expression by beta-catenin TCF complex and Smad4
+Negative feedback regulation of FGF8 signaling by Sprouty2
+Binding of Notch (ICN) and Deltex
+Dorsal signaling  [Drosophila]
+Binding of GADD45 and PCNA
+Wnt signaling pathway (Mammalia)
+Cell-cell signaling involved in cell fate commitment
+Positive regulation of PPAR signaling
+Binding of Transcription factor complex and HAT
+Negative regulation of PDGF signaling pathway
+Rho mediated signaling
+Nervous System Malformation
+Response to stimulus
+Cell motility
+Dissociation of Cactus_p and Dorsal  [Drosophila]
+Binding of IRAK1:TRAF6 and TAK1:TAB1:TAB2
+Binding of TRK and Grb2
+Lck activation signaling
+Binding of C3G and Rap1
+Biosynthesis of vancomycin group antibiotics
+Activation of rhodopsin by photon
+Regulation of heterotrimeric GPCR signaling pathway (through G alpha i)
+Binding of beta-catenin:TCF:Smad4 and responsive element
+Negative regulation of heterotrimeric GPCR signaling pathway
+C. elegans endoderm induction Wnt signaling pathway
+Binding of DIF:Dorsal and NF-kappaB binding sequence  [Drosophila]
+Hedgehog signaling pathway
+Binding of Toll:dMyD88:Tube and Pelle  [Drosophila]
+Hematopoiesis
+DIF:Dorsal signaling  [Drosophila]
+Response to biotic stimulus
+synthetic interaction
+Regulation of Ras-Raf-MAPK signaling by spred [Drosophila]
+Filopodium formation
+Binding in the ER membrane
+Tyrosine metabolism
+Activation of Raf1 by Ras-GTP along with PKC alpha
+Ubiquinone biosynthesis
+Whooping cough
+Phosphorylation of IKK alpha by AKT(PKB)
+Lipopolysaccharide biosynthesis
+Urea cycle and metabolism of amino groups
+Translocation from Golgi to cytosol
+Nitrobenzene degradation
+Activation in nucleus
+Src family activation signaling (through autophosphorylation and PTP)
+Phosphorylation of Ci by Shaggy/zw3
+Neurotransmitter secretion
+Cell cycle arrest
+Selenoamino acid metabolism
+Cell organization and biogenesis
+Interaction in unidentified cellular location
+Regulation of heterotrimeric GPCR signaling pathway
+Regulation of blood vessel size
+Heparan sulfate biosynthesis
+Positive regulation of Fas signaling pathway
+RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral and PLD)
+Binding of Gab1_p and PI3K
+Negative regulation of PLC signaling
+Negative regulation of RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral, RalBP1 and Rac-GTP hydrolysis signaling)
+Benzoate degradation via hydroxylation
+Toll-like receptor signaling pathway (through JNK cascade)
+Activation of APC
+Atrazine degradation
+Binding of Glutamate and NMDA receptor
+Tetrachloroethene degradation
+FGF8 signaling pathway
+EGF signaling pathway
+RTK signaling pathway
+Negative regulation of HDAC nuclear import signaling
+Inactivation in extracellular
+Binding of Dsh and GBP/Frat and GSK-3
+Cell fate determination
+IGF signaling pathway
+Positive regulation of Ras mediated signaling
+Heterotrimeric GPCR signaling pathway (through G alpha s, cholera toxin, adenylate cyclase and cAMP)
+Binding of DIF and NF-kappaB binding sequence  [Drosophila]
+Positive regulation of src activation signaling (through Estrogen receptor)
+Negative regulation of G alpha s-GTP hydrolysis signaling
+Negative regulation of Jagged mediated Notch signaling pathway
+Organ morphogenesis
+Regulation of G alpha s GDP-GTP exchange signaling
+Binding of G alpha q-GTP and effector
+Bim activation signaling
+GPCR signaling pathway
+conditional interaction
+beta-Alanine metabolism
+Dissociation of G alpha i-GTP and G beta:G gamma
+Binding of Wnt and Wnt receptor
+Translocation from cytosol to mitochondria membrane
+enhancement interaction
+Homodimerization of Androgen receptor
+Inactivation of Smo by Ptc
+Positive regulation of HDAC nuclear import signaling
+Deactivation of rhodopsin mediated signaling
+Translocation of HSPG from Golgi to plasma membrane
+Nuclear export of mRNA (Mkp3)
+AKT(PKB)-IKK signaling
+Butanoate metabolism
+Fatty acid biosynthesis
+Phosphorylation of Raf1 by PKC
+Carbazole degradation
+Negative regulation of G alpha i-GTP hydrolysis signaling
+Binding of calcium calmodulin and CaMKII
+Binding of G alpha t-GDP and G beta:G gamma
+Bile acid biosynthesis
+Dissociation of RKIP and Raf1
+Porphyrin and chlorophyll metabolism
+Dimerization of RTK
+Regulation of HDAC nuclear import signaling
+Epac activation signaling
+Binding of G alpha 12/13-GTP and PLC beta
+Aminosugars metabolism
+Starch and sucrose metabolism
+Regulation of translation
+Translation of Sprouty2
+Glycine, serine and threonine metabolism
+Regulation of Drosophila Toll receptor signaling
+Translocation of Arrow/LRP5/6 from ER to Golgi
+Endodermal cell fate determination
+Binding of Relish and NF-kappaB binding sequence  [Drosophila]
+Unknown process
+Negative feedback regulation of Ras-Raf-MAPK signaling by Sprouty (Drosophila)
+Cell cycle regulation pathway
+Pyrimidine metabolism
+Negative regulation of (GDP-GTP exchange of G alpha t)
+D-Arginine and D-ornithine metabolism
+Binding of Notch (ICN):CSL and Nrarp
+Complex formation of beta catenin, TCF/LEF, Legs, Pygonus, etc.
+Accumulation
+Binding of HDAC7 and MEF2
+Unknown inactivation
+Negative regulation of Toll-like receptor pathway
+Dissociation of TRAF6:TAK1:TAB1:TAB2 from IRAK
+Positive regulation of Integrin signaling pathway (through Rho)
+Binding of TRAF6 and ECSIT
+GSK3beta inactivation signaling
+Negative regulation of Delta mediated Notch signaling pathway
+covalent binding
+Negative feedback regulation of FGF8 signaling by Sprouty1
+Dimerization of FGFR
+Binding of G alpha s-GTP and Src family tyrosine kinase
+Dissociation in nucleus
+Stress fiber formation
+Negative feedback regulation of FGF8 signaling by Mkp3
+Binding of G alpha 11-GTP and PLC beta
+Binding of Transcription factor complex and CBP
+Positive regulation of caloric restriction - cell survival signaling
+Binding of Notch1 and Jagged1
+Cellular morphogenesis
+Organism event
+Actin filament organization
+Regulation of endothelin receptor signaling
+Positive regulation of Estrogen receptor signaling pathway
+Binding of EGFR and Grb2
+Propanoate metabolism
+Negative regulation of RTK signaling pathway
+O-Glycan biosynthesis
+Dissociation of G alpha t-GTP and G beta:G gamma
+Glycosphingolipid biosynthesis-neo-lactoseries
+Tyrosine biosynthesis
+Pyruvate metabolism
+Styrene degradation
+Nuclear export of mRNA (Sef)
+Benzoate degradation via CoA ligation
+Endoderm development
+Integrin signaling pathway (through Rho)
+TPO signaling pathway (through Sos, Ras and Erk cascade)
+Glutamate metabolism
+C21-Steroid hormone metabolism
+Clavulanic acid biosynthesis
+Activation of p70S6K by mTOR
+Toluene and xylene degradation
+Limonene and pinene degradation
+Ethylbenzene degradation
+Peptidoglycan biosynthesis
+Glycosaminoglycan degradation
+Valine, leucine and isoleucine biosynthesis
+Phenylalanine metabolism
+Cell fate commitment
+Ras mediated signaling
+Binding of G alpha q-GTP and PLC
+Nuclear import of Dorsal:DIF  [Drosophila]
+Inositol phosphate metabolism
+Adaptation of rhodopsin mediated signaling
+Dissociation of Bim and dynein:myosin V
+Positive regulation of G alpha i-GTP hydrolysis signaling
+Arginine and proline metabolism
+Binding of Estrogen receptor alpha and MNAR
+Binding of GPCR and G alpha t
+Dissociation outside the ER membrane
+Negative regulation of Src activation signaling (through autophosphorylation and PTP)
+Cytosolic calcium ion concentration elevation (through Glutamate receptor)
+Positive regulation pathway
+Translocation of LRP6 from cytosol to plasma membrane
+Molecular interaction
+cAMP concentration elevation
+Homeostasis
+Dissociation outside the nuclear membrane
+Dissociation of IP3 and IP3R and IP3R closing
+D-Glutamine and D-glutamate metabolism
+Negative regulation of S phase
+Inactivation in cytosol
+Dissociation in the ER membrane
+Response to wounding
+Accumulation in cytosol
+Activation of Deltex [Drosophila]
+Binding of Cdc2 (Cdk1) and CyclinA
+Binding of FADD and pro-caspase8/10
+Activation of IRAK
+Regulation of PDGF signaling pathway (through Grb2, Sos, Ras, PI3K, AKT and IKK-NF-kappaB cascade)
+Binding of Met_p and Src
+Inositol metabolism
+Chondroitin sulfate biosynthesis
+Fatty acid elongation in mitochondria
+Mesoderm morphogenesis
+Ascorbate and aldarate metabolism
+Signaling with Wnt
+Signaling without Wnt
+Glycolysis and Gluconeogenesis
+Negative regulation of Androgen receptor signaling pathway
+Thiamine metabolism
+Stilbene, coumarine and lignin biosynthesis
+Biosynthesis of type II polyketide backbone
+Androgen and estrogen metabolism
+Negative regulation of (Hydrolysis of GTP by G alpha i-GTP and RGS)
+Mesoderm development
+Vitamin B6 metabolism
+Chemical treatment
+Carbohydrate treatment
+Fructose treatment
+Organic chemical treatment
+Glucose treatment
+Sorbitol treatment
+Hexose treatment
+WI-38 medium
+Electricity treatment
+Mouse cell medium
+Negative regulation of (phosphorylation of Bad) in AKT(PKB)-Bad signaling
+Heat shock treatment
+Keratan sulfate biosynthesis
+cell-to-cell movement of Hedgehog
+beta-Lactam resistanse
+Wnt signaling pathway (C. elegans)
+Negative regulation of EGF signaling pathway
+Amino Acid Metabolism
+Binding of FGFR_p and PLC gamma
+IL-1 signaling (through p38 cascade)
+Negative regulation of (G alpha i GDP-GTP exchange signaling)
+Dissociation of Toll:dMyD88:Tube and Pelle  [Drosophila]
+Physiological event
+Binding of Ral-GTP and Phospholipase D1
+Regulation of Ras mediated signaling
+Binding of Estrogen receptor beta and MNAR
+Drosophila Toll-like receptor signaling
+DNA repair
+Binding of G alpha i-GTP and RGS
+Activation of Numb [Mammalian]
+Regulation of RTK signaling pathway
+Binding of PPAR and PPRE
+AKT signaling
+Regulation of S phase
+Binding of EGFR and Shc
+Binding of Transcription factor complex and pCAF
+Regulation of Integrin signaling pathway (through Rho)
+Positive regulation of Src family activation signaling
+Metabolic pathway
+Binding of Estrogen receptor and p160
+PI3K activation signaling (through Estrogen receptor)
+IKK activation signaling
+Gene expression of BID by p53
+Translocation from plasma membrane to cytosol
+Biosynthesis of ansamycins
+Mouse L-cell medium
+Waymouth&apos;s medium
+BME medium
+suppression mutation
+NCTC135 medium
+waiting (medium)
+RPMI 1640 medium
+Williams&apos;s medium
+McCoy&apos;s medium
+ES medium
+Leibovitz&apos;s L-15 medium
+Fisher medium
+Human prostate epithelial cell medium
+PrEGM (medium)
+PrEBM (medium)
+Gravity treatment
+Chicken aortic smooth muscle cell medium
+conditional synthetic lethal nutrition-sensitivity
+Wavelength of light treatment
+Ultraviolet irradiation
+CHO medium
+Ham&apos;s F-12 medium
+Ham&apos;s F-10 medium
+SAGM (medium)
+Binding of tyrosine-phosphorylated protein and PLC gamma
+Positive regulation of BAD inactivation signaling
+Proteasome inhibitor medication
+KBM (medium)
+High temperature treatment
+Neuronal cell medium
+Actinomycin medication
+Negative regulation of (dephosphorylation of AKT(PKB)) in negative regulation of AKT(PKB)-Bad signaling
+Jurkat cell medium
+Macrophage medium
+Anisomycin medication
+synthetic growth defect
+Caloric treatment
+Auxin stimulus
+Event
+Freeze treatment
+Radiation treatment
+CV-1 medium
+Brassinosteroid stimulus
+Dimerization of KDR
+Regulation of gene expression
+Inactivation of Ptc by Hh
+Small GTPase activation signaling
+Src family activation signaling
+Caloric restriction - cell survival signaling
+NGF signaling pathway
+Binding of transcriptional factor and responsive element
+Indole and ipecac alkaloid biosynthesis
+Negative regulation of heterotrimeric GPCR signaling pathway (through photon, rhodopsin, G alpha t and PDE)
+Alanine and aspartate metabolism
+Fyn inactivation signaling
+Binding of CBP and beta-catenin
+TNFR1 signaling pathway (through NF-kappaB cascade)
+Binding in cytosol and/or nucleus
+Positive regulation of G2-M-phase transition pathway
+Changes in polarization state of photoreceptor cell membrane
+Phosphorylation of Ci by PKA
+Negative regulation of RTK signaling pathway (through Grb2, Sos, Ras, RalGDS, Ral and PLD)
+Binding of Cdk7 and Cyclin H
+Unknown interaction
+Oligomerization of Bak
+Binding of Cdk2 and Cyclin A
+Binding of FGFR1 and Sef
+Binding of GPCR and G alpha
+Apoptotic factor activation signaling
+Dissociation of D1-like receptor, G alpha s-GTP and G beta:G gamma
+Nuclear import of Ci
+Glyoxylate and dicarboxylate metabolism
+2,4-Dichlorobenzoate degradation
+Biosynthesis of 12-, 14- and 16-membered macrolides
+Positive regulation of NF-kappaB signaling (cytoplasmic sequestering)
+Hybridoma cell medium
+Physical stimulus treatment
+Medication
+Magnetic force treatment
+Cytokinin stimulus
+VERO medium
+Myeloma medium
+Plant hormone medication
+Chilling temperature treatment
+KBM-2 (medium)
+DMEM (medium)
+MEM (medium)
+Heat treatment
+293 medium
+IMDM (medium)
+All-purpose medium
+Human vascular smooth muscle medium
+Peripheral blood medium
+Cold temperature treatment
+Thermoperiodism
+Bone marrow medium
+PK-15 medium
+Contact pressure treatment
+Hepatocyte medium
+FK506 medication
+Medium condition
+BEBM (medium)
+Human vascular endothelial cell medium
+ES cell medium
+High osmotic pressure treatment
+Mammary epithelial cell medium
+BEGM (medium)
+BHK-21 medium
+SABM (medium)
+Osmotic pressure treatment
+Low temperature treatment
+Anticancer drug medication
+Environmental event
+Gibberellic acid stimulus
+COS-7 medium
+Ethylene stimulus
+KGM (medium)
+Treatment
+Animal cell medium
+Rat cell medium
+Human bronchial epithelial cell medium
+Humidity treatment
+Epidermal keratinocyto medium
+HeLa medium
+Protein synthesis inhibitor medication
+Cellular defense (Activated blood cell)
+Nuclear import of Estrogen
+Translocation from cytosol to plasma membrane
+Cytokinesis
+Binding of Cdc2 (cdk1) and CyclinB
+Binding in plasma membrane
+Regulation of Delta mediated Notch signaling pathway
+Activation of c-Raf1 by PKC eta
+Translocation of Bmf from the cytosol to the mitochondria membrane
+Cell death
+Activation of mTOR by AKT
+cAMP concentration decline
+Binding of RTK and Grb2
+Rho-PI5K signaling
+Binding of PIP2 and profilin
+Binding of PGRP-LE and PGN  [Drosophila]
+Molecular event
+Translocation from ER to extracellular space
+Dissociation of G alpha-GDP and target protein
+DNA damage
+Regulation of Src activation signaling
+Negative regulation of (GDP-GTP exchange of G alpha i)
+Binding of IL1-R complex and MyD88
+Small GTPase mediated signaling
+Cytoskeleton organization and biogenesis
+p53 signaling pathway (through apoptotic factor)
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+Protein activation/inactivation signaling
+Glycerolipid metabolism
+Gene expression of BAK by p53
+Gene expression by Smad complex
+Actin filament reorganization during cell cycle

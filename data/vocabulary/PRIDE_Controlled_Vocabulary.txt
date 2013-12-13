@@ -1,0 +1,281 @@
+broad
+part_of
+Reference additional parameter
+funding reference
+is_a
+Reference describing sample preparation
+develops_from
+Reference describing data analysis
+Reference reporting this experiment
+Protocol step description additional parameter
+Accurate mass mode setting false
+Maximum Missed Cleavages Setting
+MS/MS search
+Enzyme
+Band excision
+Depletion
+Accurate mass mode setting true
+Enzyme digestion
+mass error type setting ppm
+Peptide cleavage
+Allowed missed cleavages
+Alkylation
+Accurate mass mode setting
+Mass error type setting
+Protonated setting MH+
+Search type
+Fixed modification setting
+First dimension details
+Mass spectrometry
+Protonated setting
+Variable modification setting
+Instrument type
+mass error type setting mmu
+Protonated setting Mr
+pH low value
+mass error type setting Daltons
+Fragment mass tolerance setting
+Search engine setting
+Organelle isolation
+Peptide selection
+Fractionation
+Protonated setting M-H-
+mass error type setting percent
+Mass value type setting average
+MS search
+Reduction
+Mass value type setting
+Mass value type setting monoisotopic
+Staining
+Anticoagulant
+Solubilization
+Peptide mass tolerance setting
+Separation
+Second dimension details
+Sodium dodecyl sulfate polyacrylamide gel electrophoresis
+IPG strip length cm
+PrecursorIon mass tolerance
+Delta Cn
+MS2 ion mass tolerance
+Experiment additional parameter
+ProteomExchange project hash
+Project
+Date of search
+Original MS data file format
+Experiment description
+XML generation software
+Project identifier
+ProteomExchange project accession number
+SearchEngineVersion
+Protein search engine output parameter
+X correlation (+1)
+Coverage
+Sequest score
+X correlation (+2)
+X correlation
+Ion mass tolerance
+ProteinProphet probability score
+X correlation (+3)
+Molecular weight
+Isoelectric point
+ModificationItem additional parameter
+Ambiguous modification
+Peptide item additional parameter
+c ion
+product ion mass error
+immonium M
+Upstream flanking sequence
+immonium K
+All peptides matched
+a ion -H2O
+Immobilized pH Gradient Electrophoresis
+pH high value
+Two Dimensional Polyacrylamide Gel Electrophoresis
+y ion
+a ion
+immonium N
+rsp
+immonium F
+Identified by peptide fragmentation
+product ion type
+iTRAQ intensity 118
+Ions
+Cn
+immonium R
+OMSSA E-value
+Scan
+OMSSA P-value
+non-identified ion
+Sp
+immonium H
+c ion -H2O
+x ion -NH3
+File
+Nucleic acid sequence
+peptide iTRAQ ratio average
+parent ion retention time
+Identified by peptide mass fingerprint
+(M+H)+
+iTRAQ intensity 121
+co-eluting ion
+b ion -NH3
+Mascot score
+product ion intensity
+immonium L
+iTRAQ intensity 119
+Spectrum Mill peptide score
+z
+spectrum iTRAQ ratio
+immonium E
+product ion retention time error
+Stable isotope ratio
+iTRAQ intensity 116
+precursor ion -H2O
+Discriminant score
+iTRAQ intensity 113
+precursor ion -NH3
+immonium S
+a ion -NH3
+z ion
+Stop position of the nucleic acid sequence on the chromosome
+Quantitative sample reference
+PeptideProphet probability score
+immonium Y
+c ion -NH3
+All peptides matched false
+Start position of the nucleic acid sequence on the chromosome
+Rank/Sp
+precursor ion
+precursor ion type
+All peptides matched true
+iTRAQ intensity 115
+product ion m/z
+Fragment Ion Annotation
+Rank
+immonium Q
+z ion -H2O
+Downstream flanking seqeuence
+Isobaric residue K/Q
+in source ion
+x ion -H2O
+immonium W
+immonium ion
+immonium G
+Masses matched
+y ion -H2O
+Peptide search engine output parameter
+iTRAQ intensity 117
+immonium D
+Peptide pair id
+x ion
+Parent Ion Annotation
+immonium I
+product ion charge
+b ion
+immonium T
+Calculated Mass To Charge Ratio
+immonium V
+iTRAQ intensity 114
+y ion -NH3
+immonium A
+parent ion retention time error
+immonium P
+immonium C
+X!Tandem Hyperscore
+b ion -H2O
+z ion -NH3
+Identification additional parameter
+Gel spot intensity
+Mapping status
+Mapping date
+MeanOfPeptideScores
+Not Mapped SOAP Error
+Novel locus information
+Mapped All Ok
+Protein description line
+Not Mapped No Mapping Found
+Mapped Taxon Not Found
+protein iTRAQ ratio number of contributing spectra
+Mapping history
+Spot normalized volume
+Search database protein sequence
+Not Mapped Peptide Mismatch
+Reported Chromosome
+protein iTRAQ ratio standard deviation
+Search database protein sequence length
+Gel spot volume
+Not Mapped Database Error
+protein iTRAQ ratio average
+Unmappable
+Secondary accession
+Mapped Without Supporting Peptides
+Gel spot area
+Indistinguishable alternative protein accession
+Spot normalized volume method
+Gel spot parameter
+Automatic allocation
+Gel additional parameter
+Height in pixels
+Sample volume loaded
+Gel run date
+Width in pixels
+Sample description additional parameter
+iTRAQ reagent 114
+iTRAQ reagent 115
+Light stable isotope label
+Heavy stable isotope label residue
+Light stable isotope label residue
+iTRAQ reagent 121
+iTRAQ reagent 113
+iTRAQ reagent 116
+Heavy stable isotope label
+iTRAQ reagent 117
+iTRAQ reagent 118
+iTRAQ reagent 119
+Disease free
+PRIDE
+MeSH
+GO
+PSI
+NEWT
+Cv Label
+FIX
+UNIMOD
+RESID
+ISBN
+DOI
+PubMed
+Sequest
+Bioworks
+Search algorithm
+Inspect
+PepSplice P-value
+ProteinProphet
+delta
+zscore
+PeptideProphet
+Inspect p-value
+Inspect MQScore
+PepSplice Penalty
+PepSplice
+PepSplice Deltascore
+deltastar
+PepSplice precision
+PepSplice False Discovery Rate
+Query number
+X|Tandem
+Mascot
+dotproduct
+Mascot expect value
+PepSplice Reverse Read Direction
+expect
+PepSplice Read Direction
+PepSplice Score Count
+PepSplice Forward Read Direction
+related
+OutputParameter
+alt_id
+exact
+Obsoleted parameters
+narrow
+synonym

@@ -1,0 +1,39 @@
+male limited
+expressivity_complete
+cell autonomous
+expressivity_incomplete
+recessive
+expressivity_low
+non-rescuable maternal effect
+cell autonomy of action
+dominance relationship
+imprinted_maternal
+codominant
+penetrance_incomplete
+sex limited
+parental effect
+rescuable maternal effect
+cell non-autonomous
+imprinted_uniparental
+expressivity
+penetrance_complete
+semidominant
+exact
+alt_id
+synonym
+narrow
+broad
+female limited
+related
+imprinted_paternal
+Phenotypic_manifestation_ontology
+imprinted
+develops_from
+part_of
+expressivity_high
+is_a
+dominant
+penetrance
+paternal effect
+penetrance_percent
+maternal effect

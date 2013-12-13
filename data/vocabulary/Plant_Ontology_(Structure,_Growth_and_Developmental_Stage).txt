@@ -1,0 +1,1156 @@
+root lateral meristem
+internal phloem
+parenchyma sheath
+articulated laticifer
+central endosperm
+periblem
+petiole parenchyma
+tile  cell
+dermal tissue
+ray wood parenchyma cell
+free nuclear endosperm
+bundle sheath extension
+fruit septum
+procumbent wood ray parenchyma cell
+stem epidermis
+subsidiary cell
+anther vascular system
+long cell
+cultured callus
+meristematic cell
+adventitious root epidermis
+style epidermis (sensu Poaceae)
+stem periderm
+adaxial protoderm
+scutellum epidermis
+vascular system
+cultured somatic embryo
+epidermal initial
+stem aerenchyma
+growth ring boundary
+exothecium (sensu Poaceae)
+leaf abaxial epidermis
+abscission zone
+exotesta
+petal epidermis
+metaphloem
+short cell
+secondary parietal cell layer
+placentoid (sensu Zea)
+male archesporial cell
+central spike of tassel
+stamen (sensu Poaceae)
+spikelet rachilla
+anther wall (sensu Zea)
+palea
+palea of lower floret of sessile spikelet of ear
+inflorescence branch pulvinus
+stomium (sensu Zea)
+bracteole
+floret (sensu Poaceae)
+stylar ridge of upper floret of sessile spikelet of ear
+lower glume
+silk
+upper floret of sessile spikelet of tassel
+ear floret
+ovary placenta (sensu Poaceae)
+placentoid
+flower
+gynoecium of lower floret of sessile spikelet of ear
+tapetum (sensu Zea)
+gynoecium of lower floret of sessile spikelet of tassel
+ovule (sensu Poaceae)
+androecium of lower floret of pedicellate spikelet of ear
+lemma of lower floret of sessile spikelet of tassel
+androecium of tassel floret
+chalaza
+androecium of ear floret
+third order inflorescence branch
+tassel peduncle
+microsporocyte
+micropyle
+connective (sensu Zea)
+palea of upper floret of pedicellate spikelet of tassel
+lemma of tassel floret
+gynophore
+pedicel
+corolla
+tassel floret
+palea of lower floret of pedicellate spikelet of tassel
+glume of ear spikelet
+lower glume of ear spikelet
+involucre
+tapetum (sensu Poaceae)
+androecium of upper floret of sessile spikelet of ear
+tepal
+carpel (sensu Poaceae)
+lower glume of sessile spikelet of ear
+female archesporial cell
+androecium (sensu Poaceae)
+stylar ridge of upper floret of pedicellate spikelet of ear
+microsporangium (sensu Zea)
+anther primordium
+microsporocyte (sensu Zea)
+gynoecium of lower floret of pedicellate spikelet of tassel
+peduncle
+androecium of lower floret of pedicellate spikelet of tassel
+stomium
+rachilla of pedicellate spikelet of ear
+central spike of ear
+integument (sensu Poaceae)
+antiraphe
+second order inflorescence branch
+connective (sensu Poaceae)
+gynoecium of ear floret
+inflorescence internode
+pistillode
+outer integumet (sensu Poaceae)
+palea of lower floret of sessile spikelet of tassel
+filament (sensu Poaceae)
+stigma (sensu Zea)
+lower floret of sessile spikelet of tassel
+gynoecium of upper floret of pedicellate spikelet of ear
+ovule primordium
+upper glume of pedicellate spikelet of tassel
+spikelet
+floral bract
+lodicule
+carpel (sensu Zea)
+androecium of lower floret of sessile spikelet of tassel
+pedicel of ear spikelet
+ear sessile spikelet
+gynoecium (sensu Poaceae)
+androecium of lower floret of sessile spikelet of ear
+microsporangium (sensu Poaceae)
+inflorescence bract
+gynoecium of upper floret of sessile spikelet of ear
+glume
+anther (sensu Zea)
+gynoecium of tassel floret
+primary parietal cell layer
+microsporangium
+tetrad of microspores
+microspore (sensu Poaceae)
+microspore
+microspore (sensu Zea)
+infructescence
+hull (sensu Poaceae)
+seed operculum
+seed obturator
+fruit pedicel
+fruit distal end
+silk scar
+suspensor
+seed coat
+seed chalaza
+fruit
+nucellar epidermis
+juice sac
+hilum
+epicarp
+pericarp
+seed micropyle
+fruit columella
+embryo proper
+caruncle
+seed funicle
+plumule
+arilloid
+fruit nucellus
+embryo
+fruit aleurone layer
+adaxial nucellar projection
+radicle
+coma
+scutellar epithelium
+scutellum
+abaxial nucellar projection
+adventitious embryo
+basal cell
+modified aleurone
+fruit placenta
+endocarp
+seminal root
+tegmen
+coleoptile
+testa
+mesocotyl
+fruit proximal end
+seed raphe
+aril
+nucellar projection
+elaiosome
+mesocarp
+embryonic root
+seed
+tracheid bar
+epicotyl
+scutellar node
+apical cell
+fruit dehiscence zone
+hypophysis
+embryonic leaf
+epiblast
+valve
+hilum groove
+megaspore (sensu Poaceae)
+degenerate megaspore (sensu Poaceae)
+megaspore (sensu Zea)
+functional megaspore (sensu Poaceae)
+3 leaf fully expanded
+L2
+bud scale
+fruit development stages
+radicle emergence
+C3.2 maturation of phloem elements in root.
+true leaf formation
+stem internode
+stem internode elongation zone
+stem internode differentiation zone
+M germinated pollen stage
+N second mitotic division stage in germinating pollen
+hypocotyl
+apical hook
+indehiscent fruit
+axillary bud
+axillary vegetative bud
+axillary inflorescence bud
+central root cap of the primary root
+cultured root cell
+short shoot
+rosette growth
+rosette growth complete
+early rosette growth
+late rosette growth
+mid rosette growth
+lodicule differentiation and expansion stage
+A microsporogenous mass stage
+D bilateral stage
+seedling growth
+cotyledon emergence
+epicotyl emergence
+shoot emergence
+coleoptile emergence
+hypocotyl emergence
+sepals 100% of final size
+nexine
+vegetative bud
+terminal vegetative bud
+seedling
+IL.00 inflorescence just visible
+7.02 fruit size 20%
+F four nucleate megagametophyte
+sepal differentiation and expansion stage
+sepals enclosing floral bud
+sepals enclosing meristem
+calyx relationship
+IL.01 1/4 inflorescence length reached
+transition leaf
+lemma primordia visible
+F2 root hair elongation
+megaphyll
+pinnate leaf
+SE.04 four nodes or internodes visible
+C senescence
+in vitro cultured  cell, tissue and organ
+cultured protoplast
+cultured embryo
+cultured cell
+cultured leaf cell
+meristem eloboration
+megagametophyte developmental stages
+D megaspore degeneration
+B meiosis of megaspore mother cell
+A megaspore mother cell enlarges
+E two nucleate megagametophyte
+C tetrad of megaspores
+G eight nucleate megagametophyte
+cotyledon
+cotyledon primordium
+hyperphyll
+FL.04 end of flowering
+lateral root cap
+lateral root cap of the lateral root
+lateral root cap of the primary root
+leaf margin
+transition zone
+rapid elongation of leaf sheath
+1 leaf initiation stage
+formation of the leaf founder cells
+leaf primordium
+abaxial side of leaf primordium
+adaxial side of leaf primordium
+central root cap of the lateral root
+6.03 30% of flowers open
+7-8 fruit formation and maturation
+functional specialization of the endosperm
+formation of aleurone and starchy layers
+3 rapid growth stage
+SE.07 seven nodes or internodes visible
+SE.09 nine nodes or internodes visible
+male gametophyte
+pollen tube
+generative cell
+pollen tube tip
+vegetative cell
+sperm cell
+epithelium cell
+BO.02 mid boot stage
+seed maturation stage
+SE.13 thirteen nodes or internodes visible
+compound leaf
+leaflet
+leaflet margin
+palmate leaf
+leaf rachis
+petiolule
+stipel
+central zone of the leaf lamina
+BO.05 flag leaf sheath opened
+obturator
+B enlarged microsporocyte stage
+dry seed stage
+imbibition
+leaf sheath
+leaf sheath pulvinus
+4 growth directionality
+H late unicellular microspore stage
+2.04 main shoot and axillary shoots visible at four nodes
+5 root hair formation
+whole plant growth stages
+FF.02 fruit size 50%
+3 inflorescence visible
+FR.03 late stage of fruit ripening
+SE.01 one node or internode visible
+FL.00 first flower(s) open
+FR.00 beginning of fruit ripening
+stem elongation
+IE.04 inflorescence fully emerged from flag leaf sheath
+4 flowering
+SE.14 fourteen nodes or internodes visible
+SE.00 stem elongation begins
+A vegetative growth
+IE.00 inflorescence tip just visible above flag leaf sheath
+B reproductive growth
+SE.05 five nodes or internodes visible
+1 main shoot growth
+5 fruit formation
+IL.03 full inflorescence length reached
+FF.04 final fruit size
+FR.01 early stage of fruit ripening
+0 germination
+SE.02 two nodes or internodes visible
+SE.12 twelve nodes or internodes visible
+IL.02 1/2 inflorescence length reached
+2.02 main shoot and axillary shoots visible at two nodes
+FL.03 3/4 of flowers open
+FF.01 fruit size 30%
+FF.00 fruit size 10%
+SE.16 sixteen or more nodes or internodes visible
+SE.03 three nodes or internodes visible
+IE.01 1/4 of inflorescence emerged from flag leaf sheath
+BO.03 late boot stage
+BO.01 early boot stage
+SE.97 flag leaf visible
+SE.11 eleven nodes or internodes visible
+2.03 main shoot and axillary shoots visible at three nodes
+2.01 main shoot and axillary shoots visible at one node
+FL.01 1/4 of flowers open
+2.07 main shoot and axillary shoots visible at seven nodes
+booting
+inflorescence visible (sensu Poaceae)
+IE.02 1/2 of inflorescence emerged from flag leaf sheath
+SE.08 eight nodes or internodes visible
+FF.03 fruit size 70%
+BO.04 flag leaf sheath opening
+SE.99 maximum stem length reached
+inflorescence emergence from flag leaf sheath
+IE.03 3/4 of inflorescence emerged from flag leaf sheath
+D dormancy
+2.08 main shoot and axillary shoots visible at eight nodes
+2.09 main shoot and axillary shoots visible at  nine or more nodes
+2.05 main shoot and axillary shoots visible at five nodes
+6 ripening
+SE.15 fifteen nodes or internodes visible
+2 formation of axillary shoot
+SE.10 ten nodes or internodes visible
+FR.04 fruit ripening complete
+SE.06 six nodes or internodes visible
+BO.00 booting begins
+2.06 main shoot and axillary shoots visible at six nodes
+D locules established
+root emergence
+crown root emergence
+lateral root emergence
+secretory cell
+paraclade
+paraclade cortex
+cauline axillary shoot
+adult leaf
+flag leaf
+contact cell
+axial cell
+xylem element
+stipule
+secondary vein
+tertiary vein
+lateral vein
+higher order vein
+quaternary vein
+G anther dehiscence
+auricle
+anther developmental stages
+A archesporial cells visible
+H anther senescence
+F bilocular anther stage
+C four anther lobes formed
+E tapetum degeneration initiated
+B formation of primary parietal and sporogenous cells
+exine
+rosette leaf
+F1 root hair initiation
+2 floral meristem notched
+sporophyll
+microsporophyll
+megasporophyll
+pyrene
+root tip
+root cap of the primary root
+primary root tip
+root cap of the lateral root
+lateral root tip
+palea differentiation and expansion stage
+embryo development stages
+B proembryo stage
+C globular stage
+A zygotic stage
+E expanded cotyledon stage
+coleoptilar stage
+F mature embryo stage
+rhexigenous aerenchyma
+plant structure
+perigynium
+shoot borne root
+phyllome whorl
+petiole
+juvenile leaf
+bud
+basal axillary shoot
+simple leaf
+prophyll
+shoot node
+organ
+petiole pulvinus
+passage cell
+inflorescence bud
+lateral root primordium
+egg cell
+leaf lamina
+leaf whorl
+root primordium
+primary root
+myrosin cell
+degenerate megaspore
+root
+hypocotyl-root junction
+central cell
+gametophyte
+female gametophyte
+bract
+plant cell
+leaf base
+phyllome
+antipodal cell
+meristemoid
+primary sporogenous cell
+scale leaf
+lenticel
+nodal root
+zygote
+whole plant
+terminal inflorescence bud
+leaf lamina base
+stem base
+central zone of the petiole
+pulvinus
+ligule
+adventitious root primordium
+prop root
+cauline leaf
+epicomic shoot
+lateral root elongation zone
+shoot borne shoot
+sporophyte
+leaf axil
+rhizome
+leaf
+primary root elongation zone
+functional megaspore
+tuber
+long shoot
+laticiferous cell
+filiform apparatus
+plant growth and development stages
+columella
+mature dispersal unit
+establishment of initial cells
+mucilage cell
+formation of starchy endosperm
+seed as dispersal unit
+A2 root initials differentiation stage
+root primordium visible
+cambium-like transitional zone
+5.02 20% of inflorescence emerged.
+obsolete plant structure
+foot layer
+obsolete growth and development terms
+A2.4 root initials differentiation of crown roots
+ground tissue
+starch sheath cell
+central root cap
+leaf vein
+egg apparatus
+elongation zone
+shoot
+axillary shoot
+aerial tuber
+transfer cell
+stem node
+lateral root
+root borne shoot
+primary shoot
+subterranean tuber
+shoot apex
+petiole proximal end
+root cap
+shoot internode
+terminal bud
+midvein
+petiole distal end
+megaspore
+sporocyte
+stolon
+leaf collar
+stem
+leaf apex
+ectexine
+promeristem
+intine
+haustorial root
+flower development stages
+G early unicellular microspore stage
+ovule primordium visible
+stamen primordium visible
+fully expanded sepal
+fully expanded lemma
+closure of carpel(s)
+gynoecium developmental stages
+J bicellular pollen stage
+palea primordia visible
+carpel primordium visible
+stigma cell differentiation
+3 floral organ development stages
+lodicule primordia visible
+I first mitotic division stage
+gynoecium differentiation and expansion
+calyx developmental stages
+ovule differentiation and expansion
+petal differentiation and expansion stage
+fully expanded palea
+fully expanded petal
+palea developmental stages
+sepal primordium visible
+D pollen mother cell meiosis stage
+1 floral meristem visible
+E tetrad stage
+ovule developmental stages
+corolla developmental stages
+pollen developmental stages
+lemma differentiation and expansion stage
+integument initiation stage
+petal primordium visible
+F microspore release stage
+androecium developmental stages
+lodicule developmental stages
+C callose wall formation in pollen mother cells
+5 post anthesis
+L mature pollen stage
+lemma developmental stages
+fully expanded lodicule
+4 anthesis
+B1 primary root meristem formation
+multiple fruit
+formation of ligule primordium
+casparian strip
+polar nucleus
+specialization zone formation
+7.04 fruit size 40%
+lysigenous aerenchyma
+root cortex differentiation
+mericarp
+inflorescence initiation stage
+A1 root initials formation stage
+corpus
+formation of leaf primordium
+crown root primordium formation
+seed development stages
+chalazal and micropylar domain establishment
+developing seed stage
+endosperm development stages
+fertilized ovule stage
+primary endosperm cell stage
+tectum
+plant ontology
+A2.2 root initials differentiation of lateral roots
+lateral root primordium formation
+proliferation tissue
+C3.3 maturation of protoxylem elements in root.
+primary root primordium formation
+photosynthetic cell
+embryo axis
+sculpture elements
+reproductive structures
+narrow
+sepals 50% of final size
+root epidermal differentiation
+2 leaf expansion stage
+formation of leaflet primordia
+rapid elongation of leaf blade
+hood-shaped primordium
+2 root meristem formation
+lateral root epidermis
+L3
+plant structure development stages
+leaf development stages
+3 branch formation
+root vascular cylinder differentiation
+root development stages
+4 leaf senescence stage
+3 establishment of tissue systems
+2 endoreduplication
+inflorescence development stages
+leaf trichome development stage
+1 root primordium formation
+inflorescence bifurcation stage
+4 root elongation
+root cap formation
+1 pattern formation
+fleshy fruit
+meristamtic zone formation
+exact
+6.04 40% of flowers open
+sexine
+E emerged root elongation
+primary vascular tissue
+L1
+6.01 10% of flowers open
+microphyll
+statolith
+dehiscent fruit
+calyx absolute size
+endexine
+lamellar collenchyma
+pollen wall
+5.06 60% of inflorescence emerged
+idioblast
+schizo-lysigenous aerenchyma
+7.08 fruit size 80%
+broad
+5.08 80% of inflorescence emerged
+secondary vascular tissue
+7.06 fruit size 60%
+germination pore
+obsolete plant growth and development terms
+A2.1 root intials differntiation of primary roots
+accessory transfusion tissue
+seed and fruit wall as dispersal unit
+phelloid cell
+B3 crown root meristem formation
+angular collenchyma
+A2.3 founder cell derivatives of lateral root
+C3.1 metaxylem differentiation of root.
+synonym
+lacunar collenchyma
+tunica
+leaf adaxial epidermis
+mesophyll
+ear floret meristem
+replum
+nectary parenchyma
+abaxial protoderm
+exodermis
+cuticle
+secretory tissue
+floral nectary
+stigma vascular system
+extrafloral nectary
+articulated laticifer cell
+septum
+root meristem
+outer vascular cambium
+tassel floret meristem
+spongy mesophyll
+sieve tube member
+leaf lamina vascular system
+endotegmen
+stem pith
+tracheary element
+trichome
+growth ring
+seed coat epidermis
+fruit vascular system
+quiescent center
+pedicel vascular system
+plerome
+aleurone layer
+chlorenchyma
+outer integument epidermis
+petiole cortex
+leaf vascular system
+sepal mesophyll
+collenchyma
+petiole adaxial epidermis
+periderm
+vessel member
+cork cambium
+floret meristem (sensu Poaceae)
+bundle sheath
+velamen
+root periderm
+early wood
+stem vascular system
+endosperm
+companion cell
+exothecium
+callus
+primary endosperm cell
+leaf lamina epidermis
+endosperm parenchyma
+cotyledon epidermis
+root aerenchyma
+anther septum
+non-articulated laticifer
+vascular tissue
+leaf epidermis
+exothecium (sensu Zea)
+late wood
+epidermal cork cell
+interfascicular region
+oil gland
+vascular cambium
+leaf aerenchyma
+exotegmen
+cotyledon vascular system
+bark
+secondary phloem
+included phloem
+palisade mesophyll
+shoot meristem
+leaf intercalary meristem
+part_of
+ear apical meristem
+spikelet pair meristem
+is_a
+tassel apical meristem
+ear spikelet pair meristem
+develops_from
+spikelet meristem
+shoot procambium
+inflorescence lateral meristem
+peripheral zone
+intercalary meristem
+phloem mother cell
+cotyledon adaxial epidermis
+embryogenic callus
+bulliform cell
+hypocotyl vascular system
+epidermis
+metaxylem
+sapwood
+transmitting tissue
+axial wood parenchyma
+ear meristem
+tracheid
+leaf mesophyll
+primary phloem
+petiole epidermis
+ray initial
+lateral meristem
+protoderm
+petal adaxial epidermis
+tassel meristem
+fascicular cambium
+hypodermis
+fiber tracheid
+trichome branch
+floral guard cell
+guard cell
+seed hair
+heartwood
+flower abscission zone
+floral stomatal complex
+stomatal complex
+endothecium (sensu Zea)
+spongy mesophyll cell
+nectary epidermis
+root cortex
+tassel spikelet meristem
+tassel pedicellate spikelet
+reproductive shoot apical meristem
+ear lateral meristem
+inflorescence apical meristem
+vegatative shoot apical meristem
+embryonic shoot apical meristem
+stem intercalary meristem
+shoot apical meristem
+tassel lateral meristem
+short tassel branch meristem
+axillary bud meristem
+short tassel branch
+ear spikelet meristem
+rib zone
+meristem L1
+central zone
+tassel spikelet pair meristem
+meristem L3
+tassel spikelet
+long lateral tassel branch meristem
+shoot lateral meristem
+long lateral tassel branch
+primary thickening meristem
+tassel sessile spikelet
+meristem L2
+LP.19 nineteen leaves visible
+related
+calyx
+sepal
+sepal abaxial epidermis
+sepal epidermis
+sepal vascular system
+sepal margin
+sepal primordium
+sepal adaxial epidermis
+phloem fiber
+cellular endosperm
+mestome sheath
+pith
+stem trichome
+septate fiber
+secondary xylem
+phellem
+wood parenchyma cell
+petiole vascular system
+exodermal passage cell
+leaf lamina abaxial epidermis
+integument epidermis (sensu Poaceae)
+leaf lamina adaxial epidermis
+xylem
+protophloem
+parenchyma
+initial cell
+leaf trichome
+stomatal pore
+shoot epidermis
+root hair tip
+included vascular cambium
+carpel septum
+silica cell
+root hair
+inflorescence meristem
+organogenic callus
+papillae
+palisade mesophyll cell
+interfascicular cambium
+carpel anlagen
+floral stomatal pore
+trichome cell
+floral meristem
+phelloderm
+endothecium
+socket cell
+endothecium (sensu Poaceae)
+2.00 main shoot only
+upper glume of pedicellate spikelet of ear
+coleorhiza
+5.04 40% of inflorescence emerged
+differentiation zone
+alt_id
+lateral root differentiation zone
+primary root differentiation zone
+apical meristem
+adventitious root apical meristem
+root apical meristem
+primary root apical meristem
+columella root cap initial cell
+procambium
+lateral root-cap-epidermal initial cell
+columella root cap cell
+lateral root apical meristem
+root cortex-endodermis initial cell
+root initial cell
+root procambium
+crown root
+stem hypodermis
+synergid
+K second mitotic division stage
+strophiole
+endodermis
+root endodermis
+leaf endodermis
+hypocotyl endodermis
+embryo endodermis
+stem endodermis
+endodermal passage cell
+nucellus (sensu Poaceae)
+megasporocyte (sensu Poaceae)
+megasporocyte (sensu Zea)
+nucellus (sensu Zea)
+root nodule
+petiole abaxial epidermis
+cambial initial
+scutellar vascular system
+upright wood ray parenchyma cell
+epidermal cell
+collenchyma cell
+micropylar endosperm
+guard mother cell
+embryo cortex
+protoxylem
+libriform fiber
+axial wood parenchyma cell
+non-secretory trichome
+chalazal cyst
+separation layer
+mesophyll cell
+inflorescence vascular system
+parenchyma cell
+vascular bundle
+fusiform initial
+chlorenchyma cell
+sheath cell
+protective layer
+xylem fiber
+trichoblast
+B2 lateral root meristem formation
+FL.02 1/2 of flowers open
+inflorescence
+middle layer
+upper glume
+megasporocyte
+receptacle
+ear (sensu Zea)
+anther wall
+lemma of upper floret of pedicellate spikelet of ear
+outer secondary parietal cell layer
+indeterminate nodule
+adventitious root nodule
+determinate nodule
+ovary (sensu Zea)
+ovule (sensu Zea)
+ovary placenta (sensu Zea)
+chalaza (sensu Zea)
+integument (sensu Zea)
+funicle (sensu Zea)
+FR.02 mid stage of fruit ripening
+basal endosperm transfer cell
+basal endosperm transfer layer
+carpel primordium
+LP.18 eighteen leaves visible
+leaf abscission zone
+LP.04 four leaves visible
+leaf production
+LP.20 twenty or more leaves whorls visible
+LP.08 eight leaves visible
+LP.13 thirteen leaves visible
+LP.07 seven leaves visible
+LP.12 twelve leaves visible
+LP.11 eleven leaves visible
+LP.03 three leaves visible
+LP.06 six leaves visible
+LP.17 seventeen leaves visible
+LP.09 nine leaves visible
+LP.10 ten leaves visible
+LP.01 one leaf visible
+LP.15 fifteen leaves visible
+LP.14 fourteen leaves visible
+androecium of upper floret of pedicellate spikelet of ear
+pedicel cortex
+microsporocyte (sensu Poaceae)
+anther
+lemma of lower floret of sessile spikelet of ear
+inflorescence branch
+epicalyx
+funicle (sensu Poaceae)
+stigma (sensu Poaceae)
+lemma of lower floret of pedicellate spikelet of ear
+palea of upper floret of pedicellate spikelet of ear
+primary parietal cell
+theca (sensu Zea)
+lower floret of pedicellate spikelet of tassel
+upper floret of pedicellate spikelet of tassel
+stamen
+stylar ridge of lower floret of pedicellate spikelet of ear
+ovary
+micropyle (sensu Poaceae)
+hypanthium
+upper glume of ear spikelet
+palea of upper floret of sessile spikelet of ear
+involucral bract
+palea of tassel floret
+lodicule primordium
+androecium of upper floret of sessile spikelet of tassel
+glume of tassel spikelet
+lower glume of pedicellate spikelet of ear
+paleal apiculus
+spikelet pedicel
+gynoecium of lower floret of pedicellate spikelet of ear
+gynoecium (sensu Zea)
+placentoid (sensu Poaceae)
+outer integument
+palea of lower floret of pedicellate spikelet of ear
+gynoecium primordium
+androecium of upper floret of pedicellate spikelet of tassel
+LP.02 two leaves visible
+LP.16 sixteen leaves visible
+LP.05 five leaves visible
+sclerenchyma
+sclerenchyma cell
+root stele
+pericycle
+root pith
+root giant cell
+root vascular system
+root syncytium cell
+inner integument
+inner integument (sensu Poaceae)
+endothelium
+inner integument epidermis
+atrichoblast
+secretory trichome
+elongation zone formation
+floral bud
+terminal floral bud
+axillary floral bud
+palea of upper floret of sessile spikelet of tassel
+ovary wall
+ovary epidermis (sensu Poaceae)
+middle layer of ovary wall
+abaxial epidermis of ovary
+ovary epidermis
+adaxial epidermis of ovary
+tissue
+stigma epidermis (sensu Poaceae)
+petal mesophyll
+epithem cell
+laticifer
+stamen (sensu Zea)
+ovule
+lodicule of tassel floret
+rachilla of sessile spikelet of tassel
+lemma of upper floret of sessile spikelet of tassel
+ear spikelet rachilla
+lodicule of ear floret
+palea of ear floret
+lower glume of pedicellate spikelet of tassel
+gynoecium of upper floret of pedicellate spikelet of tassel
+tassel branch
+ear spikelet
+theca
+stamen primordium
+lower glume of sessile spikelet of tassel
+perianth
+upper glume of sessile spikelet of ear
+lower floret of sessile spikelet of ear
+stigma
+lower glume of tassel spikelet
+theca (sensu Poaceae)
+floret
+ear pedicellate spikelet
+androecium (sensu Zea)
+pedicel of tassel spikelet
+rachilla of sessile spikelet of ear
+chalaza (sensu Poaceae)
+lemma of upper floret of pedicellate spikelet of tassel
+nucellus
+tassel spikelet rachilla
+anther (sensu Poaceae)
+upper floret of sessile spikelet of ear
+lemma of ear floret
+tassel
+androecium
+integument
+awn
+meristem
+hypocotyl epidermis
+fruit abscission zone
+carpel vascular system
+helobial endosperm
+perisperm
+transfusion tissue
+petal parenchyma
+nectary
+aerenchyma
+embryo vascular system
+stamen vascular system
+root epidermis
+primary xylem
+filament epidermis
+cotyledon abaxial epidermis
+cortex
+sepal parenchyma
+petal vascular system
+hydathode
+ray wood parenchyma
+endotesta
+petal abaxial epidermis
+pavement cell
+salt gland
+floral epidermis
+cambium
+non-articulated laticifer cell
+stigma epidermis
+style epidermis
+filament vascular system
+flower vascular system
+resin canal
+phloem
+wood parenchyma
+stem cortex
+transmitting tissue (sensu Poaceae)
+integument epidermis
+style (sensu Poaceae)
+anther wall (sensu Poaceae)
+ovary (sensu Poaceae)
+rachilla of pedicellate spikelet of tassel
+filament (sensu Zea)
+inflorescence node
+carpel
+inner secondary parietal cell layer
+petal primordium
+sterile lemma
+stomium (sensu Poaceae)
+upper glume of sessile spikelet of tassel
+connective
+lemma
+stylar ridge of lower floret of sessile spikelet of ear
+inflorescence axis
+funicle
+filament
+upper floret of pedicellate spikelet of ear
+staminode
+petal
+gynoecium of upper floret of sessile spikelet of tassel
+tapetum
+lemma of lower floret of pedicellate spikelet of tassel
+inflorescence bract of ear
+upper glume of tassel spikelet
+style
+raphe
+ear peduncle
+anther dehiscence zone
+ovary placenta
+lower floret of pedicellate spikelet of ear
+gynoecium
+fertile lemma
+lemma of upper floret of sessile spikelet of ear
+flower primordium

@@ -1,0 +1,1523 @@
+triglutamyl
+exact
+related
+residues isobaric at 113.0-113.1 Da
+L-isoleucine residue
+part_of
+residues isobaric at 113.084064 Da
+monohydroxylated proline
+develops_from
+L-leucine residue
+is_a
+D-allo-isoleucine
+4-hydroxy-L-proline
+3-hydroxy-L-proline
+residues isobaric at 113.047678 Da
+D-leucine
+post_translationally_modified_region
+alt_id
+N-iodoacetyl, p-chlorobenzyl-12C6-glucamine
+omega-N-phospho-L-arginine
+CAM-Cys vs PAM-Cys
+Dioctyl Phthalate
+cysteinylation (disulfide with free L-cysteine)
+glycosylated asparagine with (18)O
+N6-myristoyl-L-lysine
+N-ethylmaleimide hydrolysis
+acetaldehyde +28 -site K
+Homoseryl lactone
+2-(p-biphenyl)isopropyl-oxycarbonyl (Bpoc)
+Asp transamidation with piperidine
+N-(L-isoaspartyl)-glycine
+deuterium tetrasubstituted residue
+L-cysteine glutathione disulfide
+2&apos;-[3-carboxamido-3-(trimethylammonio)propyl]-L-histidine
+protein modification categorized by isobaric sets
+3-methyl-L-lanthionine
+tris-L-cysteinyl L-aspartato diiron disulfide
+S-phycoerythrobilin-L-cysteine
+Matrix alpha cyano MH+
+Heavy Sulfanilic Acid (SA) C13
+protonated L-alanine (L-alaninium) residue
+Napthyl Alanyl
+Reduction of indole double bond of Trp
+deuterium monosubstituted residue
+Formyl Tryptophanyl
+methylated L-arginine
+tris-L-cysteinyl L-arginyl diiron disulfide
+aminoethylbenzenesulfonylation
+propionaldehyde +40
+replacement of proton by potassium  -site E
+2-Piperidinecarboxylic acid (Pip)
+N-methyl-L-isoleucine
+3&apos;-(1&apos;-L-histidyl)-L-tyrosine
+5-imidazolinone ring crosslinked residues
+O-octanoyl-L-serine
+dimethylation of proline residue
+Hex1HexNAc2dHex2
+(cis-delta 5)-tetradecaenoyl
+L-homoarginine
+lactosylation
+N-glycolneuraminic acid (NeuGc)
+ethylation -site K
+residues isobaric at 182.9-183.0 Da
+3-(carbamidomethylthio)propanoyl
+modified L-valine residue
+S-(4a-FMN)-L-cysteine
+N-D-glucuronoyl-glycine
+DTBP
+fluorophenylalanine replacement of phenylalanine
+sulfur oxygenated residue
+N-alanyl-glycosylsphingolipidinositolethanolamine
+D-serine
+N4-glycosyl-L-asparagine
+D-alanine
+5&apos;phos dThymidinyl
+label Cysteine with IGBP reagent
+modified L-cysteine residue
+isovaline (Iva)
+1&apos;-(phospho-5&apos;-adenosine)-L-histidine
+artifact
+N-Glucosyl (N terminus or N epsilon of Lysine) (Aminoketose)
+(phospho-5&apos;-guanosine)-L-histidine
+O-(sn-1-glycerophosphoryl)-L-serine
+N,O-diacetylated L-serine
+ESP-Tag heavy d10
+monoiodinated residue -site Y
+L-alanine residue (Asp)
+N-ethylmaleimide hydrolysis -site K
+oxidized lysine biotinylated with biotin hydrazide
+S-diphytanylglycerol diether-L-cysteine
+Applied Biosystems original ICAT(TM) d0
+N-methyl-L-phenylalanine
+ESP-Tag light d0
+brominated residue
+Quaternary amine labeling reagent heavy form (+6amu), N-term and K
+N6-palmitoyl-L-lysine
+S-(L-phenylalanyl)-L-cysteine
+L-lysine methyl ester
+methylated L-lysine
+N-acetyl-L-proline
+N-acetyl-L-alanine
+2-pyrrolidone-5-carboxylic acid (Glu)
+phosphorylation to pyridyl thiol -site T
+L-erythro-beta-hydroxyasparagine
+tris-L-cysteinyl L-serinyl tetrairon tetrasulfide
+Isopropyl Lysyl
+N-acylated residue
+Succinyl
+L-6&apos;-bromotryptophan
+L-selenomethionine
+selenium substitution for sulfur -site C
+nucleophilic addition to cytopiloyne+H2O
+tris-L-cysteinyl L-cysteine persulfido bis-L-glutamato L-histidino nickel triiron disulfide trioxide
+bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide
+carboxymethyl cysteinyl
+phosphorylation to amine thiol -site S
+L-proline amide
+thiophosphorylation -site Y
+Bruker Daltonics SERVA-ICPL(TM) quantification chemistry, heavy form -site K
+deamidated residue with one (18)O
+Glycerol Ester (on Glutamic acid side chain)
+biotinoyl-iodoacetyl-ethylenediamine
+ESP-Tag heavy d10 -site K
+O4&apos;-sulfo-L-tyrosine
+Acetate labeling reagent (N-term and K) (heavy form, +3amu) -site K
+2,5-dimethypyrrole
+succinic anhydride labeling reagent, heavy form (+4amu, 4C13), N-term and Lys
+thiophosphate labeled with biotin-HPDP -site Y
+phosphorylation to amine thiol
+(13)C2,(2)H6-dimethylated arginine
+fluorescein-5-thiosemicarbazide -site P
+Carboxymethyl Lysyl
+pentosylated residue
+N2-acetyl-L-lysine
+O4&apos;-glucosyl-L-tyrosine
+IDBEST tag for quantitation
+3&apos;-(8alpha-FAD)-L-histidine
+S-phycobiliviolin-L-cysteine
+dihydroxyheme-L-aspartate ester-L-glutamate ester-L-methionine sulfonium
+L-lysine residue
+L-histidino vanadium tetraoxide
+ethylation
+Linker attached to peptide in Fmoc peptide synthesis
+N-methylated L-histidine
+(13)C and (15)N label
+Cy5 CyDye DIGE Fluor saturation dye
+deamidated L-glutamine with one (18)O
+S-acylated residue
+trimethylated residue
+prompt loss of side chain from oxidised Met
+N-succinimidyl-3-morpholine acetate -site K
+nickel containing modification
+CM-Cys vs PAM-Cys
+L-asparagine 5-imidazolinone glycine
+delta-Glycosyloxy- (of Lysine) or beta-Glycosyloxy- (of Phenylalanine or Tyrosine)
+O4-galactosyl-L-hydroxyproline
+Gygi ICAT(TM) d8
+acetaldehyde +28
+N6-methyl-L-lysine
+geranylgeranylated residue
+p-methoxybenzyl (Mob, Mbzl)
+iodo Tyrosinyl
+methionine oxidation with neutral loss of 80 Da
+hexosaminylated -site N
+2-methyl-L-glutamine
+(18)O monosubstituted residue -site S
+N6-(L-isoglutamyl)-L-lysine
+6x(13)C label -site K
+1&apos;-heme-L-histidine
+thiophosphorylation -site S
+N-(L-isoaspartyl)-L-cysteine
+oxidation of tyrosine to L-2&apos;,4&apos;,5&apos;-topaquinone
+p-Nitrobenzyl ester (ONb)
+Hex2
+Hex1HexNAc1NeuAc1
+Light Sulfanilic Acid (SA) C12 -site D
+modified residue with a secondary neutral loss
+p-Nitrobenzyloxycarbonyl (4Nz)
+octanoylated residue
+L-dehydrolysinonorleucine
+(2-aminosuccinimidyl)acetic acid
+S-amidino-L-cysteine
+2-tetrahydropyridinyl-5-imidazolinone glycine
+N-threonyl-glycosylphosphatidylinositolethanolamine
+Quaternary amine labeling reagent light form (N-term and K) -site K
+Hex3HexNAc2P1
+proline oxidation to pyrrolidinone
+(E)-2,3-didehydrotyrosine
+N-acetylhexosaminylated
+modified L-isoleucine residue
+dehydrogenated residue -site S
+S-palmitoylated residue
+O-sulfo-L-serine
+L-tyrosine amide
+L-lysine 5-imidazolinone glycine
+glycine residue
+iodoacetamide
+tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide
+L-alanine 5-imidazolinone glycine
+PMC Lysyl
+Formaldehyde adduct of Trp
+N-cysteinyl-glycosylphosphatidylinositolethanolamine
+bis-L-cysteinyl bis-L-histidino diiron disulfide
+O-methylated residue
+omega-N-(ADP-ribosyl)-L-arginine
+formylated residue
+heptosylated residue -site Q
+molybdopterin guanine dinucleotide residue
+acetylated L-serine
+N4-methyl-L-asparagine
+keratan sulfate D-glucuronosyl-D-galactosyl-D-galactosyl-D-xylosyl-L-threonine
+norleucine (Nle)
+N6-acetyl-L-lysine
+replacement of proton by potassium  -site D
+residues isobaric at 128.0-128.1
+Hex1HexNAc1NeuAc1 -site S
+N-myristoylated residue
+iminobiotinylation
+N-acetyl-L-glutamine
+carbon oxygenated residue
+3,5-Dibromination (of Tyrosine with 79Br)
+hexakis-L-cysteinyl hexairon hexasulfide
+pyrrolidone from proline
+N6,N6,N6-trimethyl-L-lysine
+L-6&apos;-chlorotryptophan
+N6-biotinyl-L-lysine
+L-beta-methylthioaspartic acid
+hexosuronylated
+metal or metal cluster containing residue
+modified L-leucine residue
+3,5-Dibromination (of Tyrosine with 81Br)
+tyrosine oxidation to 2-aminotyrosine
+Michael addition of hydroxymethylvinyl ketone to cysteine
+labeling reagent light form (N-term and K)
+9xC13 label -site Y
+O-(phospho-5&apos;-DNA)-L-serine
+sodium adduct -site E
+nucleophilic addition to cytopiloyne+H2O -site K
+N6-formyl-L-lysine
+phosphorus containing residue
+2-imino-alanine 5-imidazolinone glycine
+formylated residue -site T
+Heavy Sulfanilic Acid (SA) C13 -site D
+(18)O substituted residue
+S-phycourobilin-L-cysteine
+O-benzyl threonine
+N6-retinylidene-L-lysine
+deuterated methyl ester
+biantennary (-2 galactose)
+L-cysteinyl hydrogenase diiron subcluster
+sulfur substitution for oxygen
+iodoacetamide -site D
+Monomethoxytrityl
+5-hydroxy-N6,N6,N6-trimethyl-L-lysine
+N-palmitoyl-glycine
+Hex1HexNAc2dHex1
+biotinyl-iodoacetamidyl-3,6-dioxaoctanediamine
+residues isobaric at a resolution below 0.000001 Da
+4-Methylbenzyl (Meb)
+residues isobaric at 128.058578 Da
+IMID d0
+L-isoglutamyl-polyglutamic acid
+hexosylated residue -site N
+6-aminoquinolyl-N-hydroxysuccinimidyl carbamate
+catmat_left_handed_four
+catmat_right_handed_three
+compositionally_biased_region
+sequence_uncertainty
+polypeptide_conserved_region
+beta_bulge_loop
+mature_protein_region
+pi_helix
+oxidation
+disulfide_bond
+O-Methyl Aspartamyl
+derives_from
+narrow
+O18 label
+ubiquitinylated lysine
+contains
+sumoylated lysine
+neddylated lysine
+broad
+ubiquitination signature
+N-palmitoyl-S-(sn-1-2,3-dipalmitoyl-glycerol)cysteine
+non_covalent_binding_site
+norleucine (Nle)
+residue methyl ester
+N-palmitoyl-S-(sn-1-2-oleoyl-3-palmitoyl-glycerol)cysteine
+threonine reduced to aminobutynate
+Hydroxy Aspartamyl
+N-reductive amination-D
+histidine oxidation to asparagine
+N-acetyl-S-archeol-cysteine
+reductive amination-D
+histidine oxidation to aspartic acid
+molybdopterin
+N-ethylation
+synonym
+APTA-d0 with quaternary amine loss
+phosphorylation without neutral loss
+fluorescein-5-thiosemicarbazide adduct
+hydroxylethanone
+acetate labeling reagent light form (N-term and K)
+cross_link
+deuterated dimethyl labeling (D)
+APTA-d0 with no neutral loss
+covalent_binding_site
+propionaldehyde +42
+L-serine to L-alanine replacement
+lysine oxidation to aminoadipic semialdehyde
+CAMthiopropanoyl of Lys
+syndesine (from Lysine)
+ethanolation of Cys
+O-(N-acetylglucosamine-1-phosphoryl)-L-serine
+Hex1HexNAc2Pent1
+N-asparaginyl-glycosylsphingolipidinositolethanolamine
+acrolein addition +76
+4-sulfophenyl isothiocyanate (Heavy C13) -site K
+N4-(N-acetylamino)glucosyl-L-asparagine
+Anisyl
+Trifluoroacetyl (TFA)
+nucleophilic addition to cytopiloyne+H2O -site R
+O-D-glucuronosyl-L-serine
+iodoacetic acid -site C
+N6-glycyl-L-lysine
+S-aminoethylcysteine (Ser)
+modified L-serine residue
+aminoethylbenzenesulfonylation -site H
+Adamantyl (Ada)
+3&apos;-geranyl-2&apos;,3&apos;-dihydro-2&apos;,N2-cyclo-L-tryptophan
+N-ethyl iodoacetamide-d0
+N-aspartyl-glycosylsphingolipidinositolethanolamine
+dehydrogenated residue -site T
+Inositol
+Hex1HexNAc1NeuAc1 -site T
+(cis,cis-delta 5,delta 8)-tetradecadienoyl
+glucosylated residue
+L-alanine residue
+5-hydro-5-methylimidazol-4-one
+alpha-amidated residue
+reduced 4-hydroxynonenal -site K
+N4-(N-acetylamino)galactosyl-L-asparagine
+deamidation in presence of O18  -site Q
+Hex1HexNAc1dHex1
+deuterated methyl ester -site D
+N-(L-glutamyl)-L-tyrosine
+4-(S-L-cysteinyl)-L-glutamic acid
+Xanthyl (Xan)
+tetraglutamyl
+O-phospho-L-threonine
+L-glutamic acid 5-methyl ester
+S-methylated residue
+modified residue that can arise from different natural residues
+N-ethyl iodoacetamide-d0 -site C
+ethylation -site E
+protonated omega-N,omega-N&apos;-dimethylated L-arginine with secondary neutral loss of N,N&apos;-carbodiimide
+Aldohexosyl Lysyl
+oxidation of tryptophan to L-tryptophyl quinone
+((2)H3)leucine
+omega-N,omega-N&apos;-dimethyl-L-arginine
+heme-bis-L-cysteine
+L-selenocysteinyl molybdenum bis(molybdopterin guanine dinucleotide) (Cys)
+D-tryptophan
+pyruvic acid
+deamidated L-asparagine
+dehydroalanine
+hydroxylated proline
+N-pyruvic acid 2-iminyl-L-cysteine
+5&apos;phos Adenosinyl
+DiMethyl-C13HD2
+S-(L-tryptophanyl)-L-cysteine
+methylthiolated residue
+fluorescein-5-thiosemicarbazide -site K
+glycoconjugated residue
+protonated-dimethylated residue
+tryptophan oxidation to hydroxykynurenin
+oxidation to L-methionine sulfone
+L-cysteine oxazolecarboxylic acid
+ubiquitination
+S-palmitoleyl-L-cysteine
+O-glycosyl-L-serine
+S-[5&apos;-(L-tryptoph-6&apos;-yl)-L-tyrosin-3&apos;-yl]-L-methionin-S-ium
+FAD modified residue
+deoxyhexosylated
+stereoisomerized residue
+monomethylated residue
+2,4 -dinitrophenyl (Dnp)
+N-glycyl-glycosylphosphatidylinositolethanolamine
+N-asparaginyl-glycosylphosphatidylinositolethanolamine
+L-selenocysteine residue
+L-cysteinyl-L-histidino-homocitryl vanadium heptairon nonasulfide
+dipyrrolylmethanemethyl-L-cysteine
+Benzyloxymethyl (Bom)
+N-acetylated L-lysine
+L-pyrrolysine (Lys)
+(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5&apos;-adenosine
+O-acetyl-L-serine
+N-acetylaminogalactosylated residue
+5-dimethylaminonaphthalene-1-sulfonyl -site K
+deamidation in presence of O18 -site N
+replacement of proton by potassium -site C-term
+5&apos;phos Cytidinyl
+succinic anhydride labeling reagent, heavy form (+4amu, 4C13), N-term and Lys -site K
+potassium salt
+N-glucuronylated residue
+Hex2HexNAc2dHex1
+replacement of proton by copper  -site D
+L-serine thiazolecarboxylic acid
+N-methyl-L-proline
+succinic anhydride labeling reagent, heavy form (+4amu, 4H2), N-term and Lys -site K
+dermatan 4-sulfate D-glucuronosyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine
+MDA adduct +54
+acrolein addition +56 -site H
+thioacylation of primary amines (N-term and Lys)  -site K
+tryptophan carboxylation
+Crosslink between Arg and His sidechains
+N6-mureinyl-L-lysine
+Michael addition of BHT quinone methide to Cysteine and Lysine -site H
+D-methionine
+cross-link of (iodo)-uracil MP with W,F,Y -site W
+oxidized arginine biotinylated with biotin hydrazide
+&quot;Bruker Daltonics SERVA-ICPL(TM) quantification chemistry, medium form&quot;  -site K
+N2-acetyl-L-arginine
+S-(8alpha-FAD)-L-cysteine
+4-trimethyllammoniumbutyryl-
+L-histidine residue
+L-cysteinyl molybdenum bis(molybdopterin guanine dinucleotide)
+1&apos;-methyl-L-histidine
+N-methyl-L-tyrosine
+2-aminoisobutyric acid (Aib)
+crotonaldehyde -site C
+deuterium substituted residue
+Lysine epsilon amino to imine
+Applied Biosystems cleavable ICAT(TM) heavy
+L-valine residue
+N theta -(ADP-ribosyl) diphthamide (of Histidine)
+heptosylated residue -site S
+reduced 4-hydroxynonenal -site C
+protonated L-lysine (L-lysinium) residue
+omega-N,omega-N-dimethyl-L-arginine
+S-selenyl-L-cysteine
+N-acetyl-L-methionine
+Cyclohexyl ester (OcHex)
+tungsten containing modification
+O-acylated residue
+sodium adduct
+crosslinked residues with loss of ammonia
+glycated residue
+O-decanoylated residue
+N6-pyruvic acid 2-iminyl-L-lysine
+heptosylated residue -site T
+L-cystine (cross-link)
+5&apos;phos Uridinyl
+N6-lipoyl-L-lysine
+fucosylated biantennary
+3&apos;-(8alpha-FMN)-L-histidine
+L-cysteine oxazolinecarboxylic acid
+2&apos;-alpha-mannosyl-L-tryptophan
+Bruker Daltonics SERVA-ICPL(TM) quantification chemistry, light form -site K
+(Hex)3-HexNAc-(dHex)HexNAc
+Acrylamidyl Cysteinyl
+xylosylated
+L-cysteinyl-L-histidino-homocitryl octairon nonasulfide
+D-allo-threonine
+modified L-histidine residue
+O-(N-acetylaminogalactosyl)-L-threonine
+residues isobaric at a resolution below 0.01 Da
+disodium salt
+6xC13 and 2xN15 label
+O-mannosyl-L-threonine
+methylated L-alanine
+L-cysteine thiazolecarboxylic acid
+dehydroalanine (Tyr)
+C-glycosylated residue
+O-(N-acetylaminoglucosyl)-L-serine
+S-(L-leucyl)-L-cysteine
+L-serine residue
+3-Chlorination (of Tyrosine with 35Cl)
+2-Bromobenzyloxycarbonyl (BrZ)
+methylated L-aspartic acid
+L-3-oxoalanine
+N-seryl-glycosylphosphatidylinositolethanolamine
+fluorescein-5-thiosemicarbazide -site C
+L-threonine dehydrated to (Z)-dehydrobutyrine
+Carboxymethyl cysteine (Cmc)
+L-beta-carboxyaspartic acid
+N-formyl-L-methionine (Met)
+&quot;Bruker Daltonics SERVA-ICPL(TM) quantification chemistry, medium form&quot; -site N-term
+N-myristoyl-glycine
+N6-3,4-didehydroretinylidene-L-lysine
+3,5-Dichlorination (of Tyrosine with mixture of 35Cl and 37Cl))
+L-lysine thiazolecarboxylic acid
+S-(sn-1-Glyceryl) (on Cysteine)
+N-methyl Arginyl
+L-serinyl molybdenum bis(molybdopterin guanine dinucleotide)
+N-acetyl-L-tyrosine
+phospho-uridine residue
+formylated residue -site S
+5&apos; dephospho
+hexosaminylated -site W
+pyridyl -site K
+2-hydroxyglycine observation artifact
+Michael addition of BHT quinone methide to Cysteine and Lysine -site C
+acrylamide adduct
+aminoethylbenzenesulfonylation -site S
+3-(carbamidomethylthio)propanoyl -site K
+Methylphenylalanyl
+S-(aspart-4-yloxy) thiocarbonate
+L-glutamic acid 1-amide
+deamidated residue with two (18)O
+decarboxylation of gamma carboxy Glutamate
+S-(L-isoglutamyl)-L-cysteine
+residues isobaric at 181.00-181.02 Da
+3,3&apos;,5,5&apos;-TerTyr (Crosslink)
+Carboxyamidomethyl Cystenyl
+L-leucine methyl ester
+S-ethylcystine from Serine
+modified L-proline residue
+iodoacetic acid -site K
+deamidated 5-methyl esterified glutamine
+L-threonyl-pentaglycyl-murein peptidoglycan
+L-cysteinyl-L-selenocysteine (Cys-Cys)
+1-chondroitin sulfate-L-aspartic acid ester
+uncategorized crosslink
+Phenyl ester (OPh) (on acidic)
+Michael addition with tritiated methylamine -site S
+N-methyl Glutamyl
+modified L-methionine residue
+iron containing modification
+5x(13)C and (15)N label
+D-serine (Ser)
+L-2-aminobutanoic acid
+6x(13)C label -site L
+3-nitro-2-pyridinesulfenyl (Npys)
+Fluorescein labelling of peptide N-terminal using NHS ester
+glycine cholesterol ester
+deamidation followed by a methylation -site Q
+N-methylmaleimide hydrolysis
+N,N,N-trimethyl-L-alanine (from L-alaninium)
+10-fluoroethoxyphosphinyl-N-(biotinamidopentyl)decanamide
+O-palmitoyl-L-threonine
+4-hydroxynonenal (HNE) -site C
+thioester crosslinked residues
+HMP (hydroxymethylphenyl)/TFA adduct
+HexNAc2
+3&apos;-hydroxylation of L-tyrosine to L-3&apos;,4&apos;-dihydroxyphenylalanine
+N-carboxy-L-methionine
+modified L-tryptophan residue
+O-phospho-L-threonine with neutral loss of phosphate
+natural, non-standard encoded residue
+N5-methyl-L-arginine
+Levuglandinyl - arginine hydroxylactam adduct
+Levuglandinyl - lysine hydroxylactam adduct
+imidoester crosslink of both ends of a peptide
+L-aspartyl molybdenum bis(molybdopterin guanine dinucleotide)
+Menadione derivative
+Piperidine adduct to C-terminal Cys
+S-(ADP-ribosyl)-L-cysteine
+N-methyl-L-alanine
+Hex1HexNAc1NeuAc1 -site N
+biantennary (-1 galactose)
+delta-Hydroxy-allysine (from Lysine)
+hexosylated residue -site T
+Hex3
+SucPhencarb Lysyl
+S-(L-methionyl)-L-cysteine
+Quaternary amine labeling reagent heavy (+3amu) form, N-term and K
+L-beta-methylthioasparagine
+L-lysinoalanine
+succinic anhydride labeling reagent light form (N-term and K)
+2-Chlorobenzyloxycarbonyl (ClZ)
+S-cyano-L-cysteine
+O-(phospho-5&apos;-RNA)-L-serine
+reduced 4-hydroxynonenal -site H
+tris-L-cysteinyl L-histidino diiron disulfide
+N-methyl-L-methionine
+N6-(L-isoaspartyl)-L-lysine
+2-oxobutanoic acid
+lactic acid
+Hex1HexNAc1NeuAc2 -site S
+N,N-dimethyl-L-proline (from L-prolinium)
+Dehydropyrrolizidine alkaloid (dehydroretronecine) on cysteines
+glycine thiazolecarboxylic acid
+iodoacetamide -site H
+O-glucosyl-L-serine
+N-methylglycine
+heptosylated residue -site K
+L-tryptophan amide
+FMN modified residue
+nucleophilic addition to cytopiloyne+H2O -site Y
+3-(S-L-cysteinyl)-L-tyrosine
+L-cysteine persulfide
+N-ethylmaleimide hydrolysis -site C
+Michael addition with tritiated methylamine
+methylated L-isoleucine
+phosphorylated residue
+hexosylated residue
+glucosylated
+nucleophilic addition to cytopiloyne+H2O -site C
+nucleophilic addition to cytopiloyne+H2O -site S
+dihydroxylated residue -site F
+3-methyl-L-lanthionine sulfoxide
+vanadium containing modification
+omega-N-methyl-L-arginine
+dimethylated residue
+propanoyl labeling reagent heavy form (+3amu), N-term and K
+deuterium trisubstituted residue
+oxidized lysine biotinylated with biotin-LC-hydrazide
+glycosylated asparagine
+iodoacetamide -site K
+Hex1HexNAc2dHex1Pent1
+N4-glucosyl-L-asparagine
+N-carbamoyl-L-alanine
+N-palmitoyl-L-cysteine
+O3-(riboflavin phosphoryl)-L-threonine
+mannosylated
+S-pyridylethylation
+oxidation to L-cysteine sulfenic acid
+6-N-biotinylaminohexyl isopropyl phosphorofluoridate
+L-selenocystine (oxidized selenocysteine) (Sec-Sec)
+sulfur oxygenated L-methionine
+tetrapyrrole modified residue
+deamidated residue with (18)O
+N-L-glutamyl-poly-L-glutamic acid
+diglutamyl
+modified L-glutamic acid residue
+Dichlorobenzyl (Dcb)
+L-pyrrolysine residue
+O-octanoyl-L-threonine
+dehydrogenated residue
+acrolein addition +38
+N-methylated residue
+modified glycine residue
+L-2-aminoadipic acid
+Applied Biosystems original ICAT(TM) d8
+L-cysteinyl molybdopterin
+3,4-dihydroxy-L-arginine
+methylated residue
+potassium containing modification
+MDA adduct +54 -site R
+thiophosphorylation
+L-serine 5-imidazolinone glycine
+methylated L-cysteine
+nucleotide or nucleic acid modified residue
+L-isoglutamyl-polyglycine
+cross-link of (iodo)-uracil MP with W,F,Y -site Y
+modified L-aspartic acid residue
+t-amyloxycarbonyl (Aoc)
+Desmosine (from Lysine)
+N-acetylglucosaminylation
+oxidized threonine biotinylated with biotin hydrazide
+3-hydroxy-L-tryptophan
+selenium substitution for sulfur
+crotonaldehyde -site H
+L-4&apos;-bromophenylalanine
+deoxygenated residue
+complex glycosylation
+(13)C labeled residue
+2,4,6-trimethyloxybenzyl (Tmob)
+N-ethylmaleimide on cysteines
+DiMethyl-CH2D -site K
+N-acetyl-L-asparagine
+L-cysteine amide
+acrolein addition +56
+2-hydroxyphenylglyoxal arginine
+O-(N-acetylamino)fucosyl-L-serine
+hexosaminylated -site K
+S-(L-alanyl)-L-cysteine
+(4,4,5,5-(2)H4)lysine
+3&apos;-heme-L-histidine
+S-(2-aminovinyl)-3-methyl-D-cysteine
+ribonucleic acid linked residue
+methylated L-phenylalanine
+S-palmitoyl-L-cysteine
+N6-pyridoxal phosphate-L-lysine
+O4&apos;-(phospho-5&apos;-DNA)-L-tyrosine
+iminobiotinylation -site K
+S-sulfo-L-cysteine
+meso-lanthionine
+methylated L-proline
+Hex1HexNAc2
+2-imino-glutamine 5-imidazolinone glycine
+Shimadzu 12CNBS
+4-hydroxy-D-valine
+tryptophan oxidation to formylkynurenin
+cross-link of (iodo)-uracil MP with W,F,Y
+iodinated residue
+diisopropylphosphoserine
+selenium substitution for sulfur -site M
+L-gamma-carboxyglutamic acid
+L-cysteine residue
+N-formyl-L-proline
+sodium and potassium salt
+t-butylsulfenyl (StBu)
+O4-arabinosyl-L-hydroxyproline
+N-alanyl-glycosylphosphatidylinositolethanolamine
+N-acetyl-L-valine
+arabinosylated
+pterin modified residue
+L-aspartic acid 4-methyl ester
+Quaternary amine labeling reagent heavy form (+9amu), N-term and K -site K
+oxygenated residue
+L-serine amide
+Alaninohistidine (Serine crosslinked to theta or pi carbon of Histidine)
+aminoethylbenzenesulfonylation -site Y
+dehydroalanine (Cys)
+methylated L-methionine
+13C(6) 15N(1) Silac label  -site I
+residues isobaric at a resolution below 0.1 Da
+Chlorophenylalanyl
+Hydroxybenzotriazole ester (HOBt)
+Quaternary amine labeling reagent heavy form (+9amu), N-term and K
+protonated-trimethylated residue
+Pbf (pentamethyldihydrobenzofuransulfonyl)
+phycourobilin-bis-L-cysteine
+N6-(4-amino-2-hydroxybutyl)-L-lysine
+trans-2,3-cis-3,4-dihydroxy-L-proline
+(18)O labeled residue
+Hex3HexNAc1Pent1
+monohydroxylated L-lysine
+1&apos;-mannosyl-L-tryptophan
+hydroxyphenylglyoxal arginine
+HexNAc2dHex2
+myristoylated residue
+loss of ammonia
+acetaldehyde +28 -site H
+heme P460-bis-L-cysteine-L-tyrosine
+cyanate or urea derivatized residue - carbamylation
+oxidized proline biotinylated with biotin hydrazide
+O-(ADP-ribosyl)-L-serine
+L-cysteine coenzyme A disulfide
+succinic anhydride labeling reagent, heavy form (+4amu, 4H2), N-term and Lys
+N-acetyl-L-cysteine
+6x(13)C label -site R
+N-ethyl iodoacetamide-d5
+4-Glycosyloxy- (hexosyl,C6) (of Proline)
+4&apos;-(S-L-cysteinyl)-L-tryptophyl quinone
+heptosylated residue -site N
+heptosylated residue -site R
+n_terminal_region
+has_functional_parent
+mutated_variant_site
+catalytic_residue
+Mg_contact_site
+beta_bulge
+nonpositional
+molecular_function
+sequence_variation
+cellular_component
+cofactor
+sequence_caution
+GO_term_annotation
+developmental_stage
+enzyme_regulation
+mRNA_protein_expression
+allergen
+EC_annotation
+publication
+pharmaceutical
+ligand_information
+annotation_warnings
+erroneous_protein
+protein_name
+organism_species
+N-acetylglycine
+L-citrulline
+APTA d3
+acetylated residue
+replacement of proton by copper  -site E
+4-hydroxynonenal (HNE) -site H
+monoiodinated residue -site H
+modified L-lysine residue
+acylated residue
+S-nitrosyl-L-cysteine
+L-3-oxoalanine (Ser)
+N-glycosylated residue
+heme P460-bis-L-cysteine-L-lysine
+L-3-phenyllactic acid
+hexakis-L-cysteinyl L-serinyl octairon heptasulfide
+(18)O monosubstituted residue
+oxidized arginine biotinylated with biotin-LC-hydrazide, reduced
+monohydroxylated residue
+O-(phosphoribosyl dephospho-coenzyme A)-L-serine
+O4&apos;-(phospho-3&apos;-DNA)-L-tyrosine
+N-formyl-L-methionine
+O-decanoyl-L-serine
+copper containing modification
+phosphorylation of an hydroxyl amino acid with prompt loss of phosphate
+D-phenylalanine
+ISD a-series (C-Term)
+13C(5) Silac label
+N6-(phospho-5&apos;-guanosine)-L-lysine
+cross-link of (iodo)-uracil MP with W,F,Y -site F
+bis-L-cysteinyl L-N3&apos;-histidino L-serinyl tetrairon tetrasulfide
+5-iodoacetamidofluorescein (Molecular Probe, Eugene, OR)
+Chlorobenzyl (ClBzl)
+propionaldehyde +40 -site H
+S-myristoylated residue
+Shimadzu 13CNBS
+acrolein addition +56 -site C
+Benzyl Seryl
+dihydroxylated residue -site W
+Acetamidomethyl Cysteinyl
+4-sulfophenyl isocyante modification to N-term R
+4-hydroxy-L-arginine
+N6-(L-threonyl)-L-lysine
+N-glycyl-glycosylsphingolipidinositolethanolamine
+heparan sulfate D-glucuronosyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine
+fluorophenylalanine replacement of phenylalanine -site Y
+pyruvic acid (Ser)
+Bisphenol A diglycidyl ether derivative
+4-sulfophenyl isothiocyanate (Heavy C13)
+alkylated residue
+dihydroxylated residue
+acetaldehyde +26
+1&apos;-(8alpha-FMN)-L-histidine
+labeling reagent light form (N-term and K) -site K
+hydroxylated lysine
+d9-4-trimethyllammoniumbutyryl-
+iodoacetic acid -site W
+L-selenocysteine (Ser)
+oxidized proline biotinylated with biotin-LC-hydrazide
+S-(15-deoxy-Delta12,14-prostaglandin J2-9-yl)-L-cysteine
+modified L-arginine residue
+S-phycocyanobilin-L-cysteine
+porphyrin modified residue
+di-iodo Tyrosinyl
+N2-succinyl-L-tryptophan
+L-histidine amide
+diiodinated residue
+sulfur oxygenated L-cysteine
+(18)O monosubstituted residue -site T
+N-acetylgalactosaminylation
+heptakis-L-histidino tetracopper mu4-sulfide hydroxide
+N-acetyl-L-serine
+oxidation to L-cysteic acid (L-cysteine sulfonic acid)
+natural residue
+D-alanine (Ser)
+oxazole/thiazole ring crosslinked residues
+Michael addition of BHT quinone methide to Cysteine and Lysine -site K
+fluorescein-5-thiosemicarbazide -site R
+sulfated residue
+4-hydroxynonenal (HNE)
+methylated glycine
+L-proline residue
+L-threonine residue
+L-asparagine amide
+UniMod
+crosslinked residues with loss of water
+adenosine diphosphoribosyl modified residue
+residues isobaric at 71.037114 Da
+3&apos;-phospho-L-histidine
+(18)O disubstituted residue
+(Z)-2,3-didehydrotyrosine
+acetylated L-threonine
+Pyridyl Alanyl
+O3-phosphopantetheine-L-serine
+modified L-threonine residue
+deamidation followed by a methylation  -site N
+Hex2HexNAc2Pent1
+Pierce EZ-Link Biotin-HPDP
+EAPTA d0
+dehydrogenated tyrosine
+O-benzyl glutamate
+Applied Biosystems iTRAQ(TM) multiplexed quantitation chemistry
+t-Butyloxycarbonyl (tBoc)
+N-acetylaminoglucosylated residue
+3-(S-L-cysteinyl)-L-aspartic acid
+Dimethoxybenzyl Trp
+dihydroxyheme-L-aspartate ester-L-glutamate ester
+manganese containing modification
+nucleophilic addtion to cytopiloyne -site Y
+6x(13)C label
+Michael addition of t-butyl hydroxylated BHT (BHTOH) to C, H or K
+S-Farnesyl-
+3-(3&apos;-L-histidyl)-L-tyrosine
+a-N-Gluconoylation (His Tagged proteins)
+3,5-Dichlorination (of Tyrosine with 35Cl)
+N-isopropylcarboxamidomethyl
+tris-L-cysteinyl S-adenosylmethion-N,O-diyl tetrairon tetrasulfide
+4-Toluenesulphonyl (Tosyl, Tos)
+post_translational_modification_information
+structural_information
+web_resource
+mass_spectrometry
+polymorphism
+disease
+biotechnological_use
+miscellaneous
+RNA_editing
+induction
+similarity
+external_sources_of_information
+domain_information
+subunit_information
+family_annotation
+tissue_specificity
+physical_properties
+alternative_products
+technical_term
+functional_annotation
+catalytic_activity
+species_taxonomy_identifier
+protein_protein_interactions
+abnormal_protein
+biophysiochemical_properties
+pathway
+toxic_dose
+biological_process
+binding_information
+mispredicted_protein
+membrane_structure
+non_cytoplasmic_region
+extramembrane_region
+transmembrane_region
+N6,N6-dimethyl-L-lysine
+2-(S-L-cysteinyl)-D-phenylalanine
+oxidation to L-cysteine sulfinic acid
+monomethylated L-glutamine
+pyrroloquinoline quinone
+EDT-iodo-PEO-biotin -site T
+6-(S-L-cysteinyl)-8alpha-(-3&apos;-L-histidino)-FAD
+isothiocyanate derivatized residue
+S-carbamoylmethylcysteine cyclization (N-terminus)
+Quaternary amine labeling reagent heavy (+3amu) form, N-term and K -site K
+L-cysteine methyl ester
+acetylated L-cysteine
+N-acetyl-L-threonine
+cysteine mercaptoethanol
+N4-(ADP-ribosyl)-L-asparagine
+N6,N6,N6-trimethyl-L-lysine (from L-lysinium residue)
+ribosylated
+L-alanine residue (Thr)
+C terminal -K from HC of MAb
+L-phenylalanine residue
+N,N-dimethyl-L-proline
+protein modification categorized by amino acid modified
+Diphenylmethyl (Dpm)
+fluorescein-5-thiosemicarbazide -site S
+L-phenylalanine thiazolecarboxylic acid
+2-Nitrobenzoyl (NBz)
+Gygi ICAT(TM) d0
+L-serine microcin E492 siderophore ester
+MDA adduct +54 -site K
+EDT -site T
+sulfur containing residue
+fluorophenylalanine replacement of phenylalanine -site F
+6-aminoquinolyl-N-hydroxysuccinimidyl carbamate -site K
+O-phospho-L-serine with neutral loss of phosphate
+deamidated L-glutamine
+monobromobimane derivative
+Levuglandinyl - arginine lactam adduct
+methylated L-leucine
+5-dimethylaminonaphthalene-1-sulfonyl
+isopeptide crosslinked residues
+protonated L-proline (L-prolinium) residue
+S-stearoyl-L-cysteine
+3-(2-methylthio)ethyl-6-(4-hydroxybenzylidene)-5-iminopiperazin-2-one
+4-amidated L-aspartic acid
+Michael addition with tritiated methylamine -site T
+oxidized residue
+Bruker Daltonics SERVA-ICPL(TM) quantification chemistry, heavy form
+decomposed carboxymethylated Methionine
+EDT-iodo-PEO-biotin
+(18)O label at both C-terminal oxygens
+O-fucosyl-L-serine
+N-methylmaleimide -site K
+pyridyl
+thioether crosslinked residues (lanthionine)
+phosphorylation to amine thiol -site T
+EDT-iodo-PEO-biotin -site S
+1&apos;-(1,2,3-trihydroxyprop-2-yl)-L-histidine
+a-N-6-Phosphogluconoylation (His Tagged proteins)
+cis-14-hydroxy-10,13-dioxo-7-heptadecenoic acid L-aspartate ester
+N-(L-isoglutamyl)-glycine
+9-Fluorenylmethyloxycarbonyl (Fmoc)
+L-allysine
+L-valine amide
+lipoconjugated residue
+L-glutamic acid residue
+O-glycosyl-L-threonine
+Quaternary amine labeling reagent heavy form (+6amu), N-term and K -site K
+Homoseryl (-Hse-)
+EDT -site S
+L-3-oxoalanine (Cys)
+alpha-1-microglobulin-Ig alpha complex chromophore
+MDA adduct +62
+methylated L-asparagine
+isoprenylated residue
+HMP (hydroxymethylphenyl) linker
+ester crosslinked residue
+homoserine lactone
+4-sulfophenyl isothiocyanate
+molybdenum pterin containing modification
+O-xylosyl-L-serine
+thio ether formation - BTP Adduct
+selenium containing residue
+residues isobaric at 71.0-71.1 Da
+tris-L-cysteinyl L-aspartato tetrairon tetrasulfide
+Dimethylbenzyl (diMeBzl)
+L-3&apos;-bromophenylalanine
+acrylamide d3
+HexNAc1dHex2
+disulfide crosslinked residues
+sodium containing modification
+modified L-glutamine residue
+N6-propylamino-poly(propylmethylamino)-propyldimethylamine-L-lysine
+molybdenum containing modification
+3,5-Dibromination (of Tyrosine with mixture of 79Br and 81Br)
+N-hydroxysuccinimide (ONSu, OSu)
+half cystine
+pyruvic acid iminylated residue
+mercury mercaptan
+nucleophilic addtion to cytopiloyne -site S
+iodoacetamide -site E
+D-valine
+fluorophenylalanine replacement of phenylalanine -site W
+amidination of lysines or N-terminal amines with methyl acetimidate
+N-acetylated residue
+biotin polyethyleneoxide amine
+L-asparagine residue
+modified L-tyrosine residue
+L-isoleucine amide
+N-formylated residue
+Levuglandinyl - lysine lactam adduct
+N-ethyl iodoacetamide-d0 -site Y
+modified L-selenocysteine residue
+Hex1HexNAc1NeuAc2 -site T
+tris-L-cysteinyl L-N3&apos;-histidino tetrairon tetrasulfide
+cytoplasmic_region
+membrane_loop
+intramembrane_region
+methyl methanethiosulfonate
+beta_turn_type_six_a
+beta_turn_type_six_a_one
+beta_turn_type_six_a_two
+non_adjacent_residues
+st_turn_left_handed_type_two
+N-palmitoyl-S-diacylglycerol-L-cysteine
+biosapiens protein feature ontology
+cleaved_peptide_region
+three_ten_helix
+ligand_contact
+alternate_sequence_site
+beta_turn_type_eight
+schellmann_loop_six
+asx_turn_right_handed_type_one
+metal_contact
+sequence_conflict
+coil
+protein_protein_contact
+W_contact_site
+natural_variant_site
+beta_turn_right_handed_type_one
+beta_turn_left_handed_type_one
+lipoprotein_signal_peptide
+asx_turn
+central_hydrophobic_region
+signal_peptide
+active_peptide
+N-acetyl-L-aspartic acid
+EAPTA d5
+riboflavin-phosphoryl residue
+C-methylated residue
+reduced 4-hydroxynonenal
+thiophosphate labeled with biotin-HPDP
+oxidation to L-methionine (R)-sulfoxide
+replacement of proton by copper -site C-term
+bis-N-I-sulfonerahodamine
+NHS-LC-Biotin
+thiophosphorylation -site T
+S-acetyl-L-cysteine
+L-o-bromination of Phe with 81Br
+dehydrogenated proline
+N-linked glycan core
+crotonaldehyde -site K
+9xC13 label
+propionaldehyde +40 -site K
+nucleophilic addition to cytopiloyne+H2O -site T
+Thiocresyl
+tris-L-cysteinyl L-N1&apos;-histidino tetrairon tetrasulfide
+fucosylated biantennary (-1 galactose)
+N2-acetyl-L-histidine
+2,4,5-Trichlorophenyl
+L-cysteinyl-L-histidino-homocitryl molybdenum heptairon nonasulfide
+(15)N labeled residue
+S-(sn-1-2,3-dipalmitoylglycerol)-L-cysteine
+oxidation to nitro -site W
+protonated omega-N,omega-N-dimethlyated L-arginine with secondary neutral loss of N,N-dimethylamine
+N-seryl-glycosylsphingolipidinositolethanolamine
+tetrakis-L-cysteinyl diiron disulfide
+S-methyl-L-cysteine
+L-aspartic 4-phosphoric anhydride
+benzyl (Bzl) and benzyl ester (OBzl)
+glycosylsphingolipidinositolated residue
+O-octanoylated residue
+(13)C,(2)H3-monomethylated arginine
+L-aspartyl aldehyde
+glycine oxazolecarboxylic acid
+hydroxylated residue
+oxidation of arginine to glutamic semialdehyde
+glycosylated residue
+S-myristoyl-L-cysteine
+3-Bromination (of Tyrosine with 81Br)
+L-tryptophan residue
+hexosylated residue -site K
+acrolein addition +94
+N6-1-carboxyethyl-L-lysine
+phenylalanine oxidation to dihydroxyphenylalanine
+one end of crosslink attached, one end free
+modified residue with neutral loss of phosphate
+Light Sulfanilic Acid (SA) C12 -site E
+Oxohistidine (from histidine)
+fucosylated -site S
+acetate labeling reagent (N-term and K) (heavy form, +3amu)
+Triphenylmethyl (Trityl, Trt)
+L-arginine amide
+L-alanine amide
+O-(N-acetylaminoglucosyl)-L-threonine
+sulfonation of N-terminus
+Succinyl Aspartamyl
+tetrakis-L-cysteinyl triiron tetrasulfide
+O-galactosyl-L-threonine
+L-glutamine amide
+monoglutamyl
+Aedans Cystenyl
+Propionate labeling reagent light form (N-term and K) -site K
+t-butyl ester(OtBu) and t-butyl (tBu)
+L-glutamyl 5-glycerylphosphorylethanolamine
+methylated L-glutamine
+fucosylated biantennary (-2 galactose)
+HexNAc1dHex1
+4-amino-3-isothiazolidinone-L-serine
+O-(phospho-5&apos;-DNA)-L-threonine
+S-farnesyl-L-cysteine
+thiophosphate labeled with biotin-HPDP -site T
+dehydrated residue
+Myristoleylation (myristoyl with one double bond)
+Hex1
+O-sulfo-L-threonine
+oxidation to L-methionine (S)-sulfoxide
+deoxyribonucleic acid linked residue
+Carboxamidomethyl (on Cysteine)
+residues isobaric at 243.02-243.03 Da
+[3-(2,5)-dioxopyrrolidin-1-yloxycarbonyl)-propyl]dimethyloctylammonium
+Myristoylation-4H (2 double bonds)
+DiMethyl-CH2D
+covalent modification of lysine by omega-maleimido alkanoyl N-hydroxysuccinimido esters
+biantennary
+3,5-Dichlorination (of Tyrosine with 37Cl)
+modified L-alanine residue
+L-aspartic acid residue
+9xC13 label -site F
+O-(L-phenylalanyl)-L-serine
+Cysteine (N-term) formaldehyde adduct (Cys to Thioproline conversion)
+pentakis-L-cysteinyl L-histidino nickel tetrairon pentasulfide
+O-palmitoylated residue
+N-iodoacetyl, p-chlorobenzyl-13C6-glucamine
+Dimethoxybenzhydryl (Mbh)
+L-methionine amide
+4-Nitrophenyl, p-Nitrophenyl (ONp)
+tryptophan oxidation to oxolactone
+Hex2HexNAc2
+Deuterium Methylation of Lysine
+C13 label (Phosphotyrosine)
+oxidation of histidine to L-aspartic acid
+sodium adduct -site D
+N6-carboxy-L-lysine
+Tetramethylguanidinium termination by-product on amine
+Oxidation of proline (to glutamic acid)
+fluorescein-5-thiosemicarbazide
+methylated L-histidine
+monomethylated L-arginine
+oxidized arginine biotinylated with biotin-LC-hydrazide
+succinic anhydride labeling reagent light form (N-term and K) -site K
+EDT
+(2)H deuterium labeled residue
+N-acetyl-L-glutamic acid
+S-4-hydroxycinnamyl-L-cysteine
+N5-methyl-L-glutamine
+oxidation to nitro -site Y
+st_turn_left_handed_type_one
+molecular_contact_region
+beta_turn
+schellmann_loop
+alpha_helix
+polypeptide_region
+helix_turn_helix
+coiled_coil
+st_turn
+hydrophobic_region
+c_terminal_region
+schellmann_loop_seven
+positional
+Mo_contact_site
+st_staple
+left_handed_helix
+catalytic_motif
+beta_turn_right_handed_type_two
+nest
+no_output
+parallel_beta_strand
+Cu_contact_site
+transit_peptide
+polypeptide_sequencing_information
+Zn_contact_site
+3&apos;,3&apos;&apos;,5&apos;-triiodo-L-thyronine
+phycoerythrobilin-bis-L-cysteine
+L-arginine residue
+DiMethyl-C13HD2 -site K
+L-alanyl-pentaglycyl-murein peptidoglycan
+Quaternary amine labeling reagent light form (N-term and K)
+flavin modified residue
+D-serine (Cys)
+peptidoglycanated residue
+L-leucine amide
+O-mannosyl-L-serine
+Dioctyl Phthalate Sodium Adduct
+S-geranylgeranyl-L-cysteine
+chorinated residue
+(18)O monosubstituted residue -site Y
+4&apos;-(L-tryptophan)-L-tryptophyl quinone
+2-(S-L-cysteinyl)-D-allo-threonine
+modified L-phenylalanine residue
+3&apos;-(3&apos;-L-tyrosinyl)-L-tyrosine
+N-methylmaleimide -site C
+N6-(phospho-5&apos;-adenosine)-L-lysine
+N-succinimidyl-3-morpholine acetate
+chondroitin sulfate D-glucuronosyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine
+thioacylation of primary amines (N-term and Lys) -site N-term
+tris-L-cysteinyl L-cysteine persulfido bis-L-glutamato L-histidino tetrairon disulfide trioxide
+reagent derivatized residue
+(2)H5-phenyl isocyanate adduct
+crotonaldehyde
+monoiodinated residue
+N-acetyl-L-isoleucine
+2-(S-L-cysteinyl)-L-phenylalanine
+2-Nitrophenylsulphenyl (Nps)
+phospho-adenosine residue
+S-glycosylated residue
+palmitoylated residue
+3&apos;-(O4&apos;-L-tyrosinyl)-L-tyrosine
+O4&apos;-(8alpha-FAD)-L-tyrosine
+dehydroalanine (Ser)
+N-acetyl-L-leucine
+PMC Arginyl
+L-selenocysteine (Cys)
+O4&apos;-(phospho-5&apos;-adenosine)-L-tyrosine
+N,N-dimethyl-L-alanine
+uncategorized protein modification
+phosphorylation to pyridyl thiol
+aminoethylbenzenesulfonylation -site K
+5-hydroxy-L-lysine
+oxidation to L-methionine sulfoxide
+3-methyl-2-pyridyl isocyanate derivatized residue
+oxidation of proline to 2-pyrrolidone-5-carboxylic acid
+L-glutamyl-5-poly(ADP-ribose)
+L-cysteinyl copper sulfido molybdopterin cytosine dinuncleotide
+L-thyroxine
+hexosaminylated
+N-ethyl iodoacetamide-d5 -site Y
+new uncategorized UniMod entries
+amidination of lysines or N-terminal amines with methyl acetimidate -site K
+methionine oxidation with neutral loss of 64 Da
+protein modification categorized by chemical process
+S-(2-aminovinyl)-D-cysteine
+acetaldehyde +26 -site K
+hexosaminylated -site T
+O-gamma-Glutamyl- (Crosslink to Serine)
+5&apos;phos dAdenosyl
+L-glutamine residue
+Mesitylene-2-sulfonyl (Mts)
+nucleophilic addtion to cytopiloyne
+N-formylglycine
+farnesylated residue
+glycosylphosphatidylinositolated residue
+2-imino-methionine 5-imidazolinone glycine
+acetaldehyde +26 -site H
+Misincorporation of Norleucine for Methionine
+iodoacetic acid
+2&apos;-(S-L-cysteinyl)-L-histidine
+glycine amide
+Benzyloxycarbonyl (Z)
+Acetamidomethyl (Acm)
+Ethanedithiol/TFA cyclic adduct
+propyl-NAG
+O-(phospho-5&apos;-adenosine)-L-threonine
+6x(13)C and (15)N label
+Cy3 CyDye DIGE Fluor saturation dye
+O-galactosyl-L-serine
+fucosylated -site T
+L-lysine amide
+L-cysteine 5-imidazolinone glycine
+HexNAc2dHex1
+modified L-asparagine residue
+N-ethyl iodoacetamide-d5 -site C
+Applied Biosystems cleavable ICAT(TM) light
+O3-(riboflavin phosphoryl)-L-serine
+L-ornithine (Arg)
+Oxidation of Trp to kynurenine
+O4&apos;-(phospho-5&apos;-RNA)-L-tyrosine
+isopropylphosphotyrosine
+Cysteic acid x2, oxidation of cystine
+L-bromohistidine
+1-thioglycine
+DeltaMass
+3-Bromination (of Tyrosine with 79Br)
+1&apos;-(8alpha-FAD)-L-histidine
+2-(S-L-cysteinyl)pyruvic acid O-phosphothioketal
+N4,N4-dimethyl-L-asparagine
+protein modification
+5-methyl-L-arginine
+Pmc (2,2,5,7,8- Pentamethylchroman-6-sulphonyl)
+L-selenocysteinyl tungsten bis(molybdopterin guanine dinucleotide) (Cys)
+residues isobaric at 166.98-167.00 Da
+mannosylated residue
+oxidation of proline to glutamic semialdehyde
+4,5-dihydroxy-L-lysine
+galactosylated
+S-glycyl-L-cysteine
+oxidation to nitro
+acrolein addition +112
+beta_turn_left_handed_type_two
+Ni_contact_site
+catmat_left_handed_three
+asx_turn_left_handed_type_two
+helix
+alpha_beta_motif
+asx_motif
+propeptide_cleavage_site
+DNA_contact
+beta_turn_type_six_b
+nest_left_right
+beta_strand
+Fe_contact_site
+st_motif
+st_turn_right_handed_type_two
+polypeptide_variation_site
+polypeptide_repeat
+beta_turn_type_six
+gamma_turn
+beta_bulge_loop_five
+feature
+right_handed_helix
+immature_peptide_region
+cleaved_initiator_methionine
+polypeptide_structural_motif
+Ca_contact_site
+3&apos;,5&apos;-dihydroxylation of L-tyrosine to L-3&apos;,4&apos;,5&apos;-trihydroxyphenylalanine
+Bruker Daltonics SERVA-ICPL(TM) quantification chemistry, light form
+propanoyl labeling reagent light form (N-term and K)
+Diaminopropionyl
+L-cysteinyl-L-selenocysteine (Cys-Sec)
+nucleophilic addtion to cytopiloyne -site C
+decanoylated residue
+omega-N-glucosyl-L-arginine
+phosphorylated L-histidine
+EDT-maleimide-PEO-biotin
+Gamma Aminobutyryl
+L-aspartimide
+5&apos;phos dCytidinyl
+hydroxylated arginine
+Phosphate/sulphate adduct of proteins
+S-(6-Flavin [FAD])- (on Cysteine)
+S-(6-FMN)-L-cysteine
+N-aspartyl-glycosylphosphatidylinositolethanolamine
+O4&apos;-(phospho-5&apos;-uridine)-L-tyrosine
+N-palmitoylated residue
+dihydroxylated proline
+Heavy Sulfanilic Acid (SA) C13 -site E
+pyruvic acid (Cys)
+thioacylation of primary amines (N-term and Lys)
+iodoacetamide -site C
+3&apos;-(S-L-cysteinyl)-L-tyrosine
+methylated L-glutamic acid
+galactosylated residue
+unnatural residue
+nucleophilic addtion to cytopiloyne -site P
+S-phytochromobilin-L-cysteine
+S-12-hydroxyfarnesyl-L-cysteine
+L-erythro-beta-hydroxyaspartic acid
+O-(N-acetylaminogalactosyl)-L-serine
+O-decanoyl-L-threonine
+N-pyruvic acid 2-iminyl-L-valine
+3-Chlorination (of Tyrosine with 37Cl)
+S-aminoethylcysteine (Cys)
+phosphorylated residue with neutral loss of phosphate
+deuterated methyl ester -site E
+ESP-Tag light d0 -site K
+tetrakis-L-cysteinyl iron
+D-alanine (Ala)
+Hex1HexNAc1NeuAc2
+Anisole Adducted Glutamyl
+Thioanisyl
+4-hydroxy-L-lysine
+dimethylated L-arginine
+amidated residue
+N-glycyl-1-(phosphatidyl)ethanolamine
+Hex-HexNAc
+2-imino-glutamic acid 5-imidazolinone glycine
+nucleophilic addtion to cytopiloyne -site K
+Light Sulfanilic Acid (SA) C12
+crosslinked residues
+APTA-d0
+residues isobaric at 182.96-182.98 Da
+6x(13)C label -site I
+acrolein addition +56 -site K
+S-acetylated residue
+S-diacylglycerol-L-cysteine
+O-(phosphoglycosyl-D-mannose-1-phosphoryl)-L-serine
+S-benzyl cysteine
+L-lanthionine
+1&apos;-phospho-L-histidine
+L-2&apos;-bromophenylalanine
+phenyl isocyanate adduct
+L-selenocystine (selenium disubstituted L-cystine)
+Napthyl acetyl
+L-glutamimide
+N-acetyl-L-phenylalanine
+O-palmitoyl-L-serine
+deuterium disubstituted residue
+halogen containing residue
+tris-L-cysteinyl triiron tetrasulfide
+1&apos;-(phospho-5&apos;-uridine)-L-histidine
+L-methionine residue
+N-acetylneuraminylated
+N-methyl-L-leucine
+O4&apos;-phospho-L-tyrosine
+heptosylated residue
+levuglandinyl (prostaglandin H2) adduct
+O-acetylated residue
+bb-dimethyl Cystenyl
+iron-sulfur cluster containing modification
+hydroxylated tyrosine
+O-glycosylated residue
+deamidated residue
+N2-acetyl-L-tryptophan
+thiophosphate labeled with biotin-HPDP -site S
+methylated L-tyrosine
+N,N,N-trimethyl-L-alanine
+isocyanate derivatized residue
+3&apos;-methyl-L-histidine
+4-Methoxy-2,3,6-trimethylbenzenesulfonyl (Mtr)
+fucosylated
+O-fucosyl-L-threonine
+tetrakis-L-cysteinyl tetrairon tetrasulfide
+Pentaflourophenyl (Pfp)
+L-cysteine methyl disulfide
+naphthalene-2,3-dicarboxaldehyde
+Cysteine x2, reduction of Cystine (Cys-Cys)
+nucleophilic addtion to cytopiloyne -site R
+common
+S-glucosyl-L-cysteine
+t-butyloxymethyl (Bum)
+N-succinimide
+N-methylmaleimide
+4-hydroxynonenal (HNE) -site K
+oxidized proline biotinylated with biotin-LC-hydrazide, reduced
+S-galactosyl-L-cysteine
+oxidized lysine biotinylated with biotin-LC-hydrazide, reduced
+turn
+binding_motif
+Co_contact_site
+gamma_turn_classic
+biochemical_region
+polypeptide_domain
+asx_turn_right_handed_type_two
+structural_region
+polypeptide_conserved_motif
+antiparallel_beta_strand
+propeptide
+st_turn_right_handed_type_one
+Mn_contact_site
+beta_bulge_loop_six
+polypeptide_secondary_structure
+catmat_right_handed_four
+nest_right_left
+intrinsically_unstructured_region
+non_terminal_residue
+polypeptide_motif
+gamma_turn_inverse
+asx_turn_left_handed_type_one
+carboxylated residue
+cyclized residue
+L-phenylalanine amide
+hydroxyheme-L-glutamate ester
+S-(L-tyrosyl)-L-cysteine
+L-aspartic acid 1-amide
+Hex1HexNAc1NeuAc2 -site N
+isotope tag modified residue
+L-glutamyl 5-omega-hydroxyceramide ester
+O-acetyl-L-threonine
+S-phospho-L-cysteine
+homoserine
+oxidation of histidine to L-asparagine
+Propionate labeling reagent heavy form (+3amu), N-term and K -site K
+Michael addition of BHT quinone methide to Cysteine and Lysine
+L-tyrosine residue
+tryptophan oxidation to kynurenin
+4-sulfophenyl isothiocyanate -site K
+S-(sn-1-2-oleoyl-3-palmitoyl-glycerol)cysteine
+dibromo
+IMID d4
+D-asparagine
+S-carbamoyl-L-cysteine
+hexakis-L-cysteinyl triiron trisulfide
+2-pyrrolidone-5-carboxylic acid (Gln)
+phosphorylation to pyridyl thiol -site S
+S-(L-threonyl)-L-cysteine
+5&apos;phos dGuanosyl
+phospho-guanosine residue
+L-threonine amide
+O-phospho-L-serine
+triiodinated residue
+O5-glucosylgalactosyl-L-hydroxylysine
+5&apos;-(N6-L-lysine)-L-topaquinone
+O4-(N-acetylamino)glucosyl-L-hydroxyproline
+Hex3HexNAc2
+Nicotinyl Lysyl
+heme-L-cysteine
+13C(6) 15N(1) Silac label -site L
+N4-hydroxymethyl-L-asparagine

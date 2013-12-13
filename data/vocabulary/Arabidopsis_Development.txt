@@ -1,0 +1,117 @@
+12 rosette stage
+related
+early reproductive
+visible flower buds
+is_a
+develops_from
+part_of
+first open flower
+rosette growth
+late rosette growth
+early rosette growth
+complete rosette
+mid rosette growth
+mature
+leaf development
+leaf senescence stage
+leaf expansion stage
+fully expanded leaf stage
+leaf initiation stage
+reproductive
+mid reproductive
+ovule stage 3-V
+stage 9 flower
+stage 12 flower
+ovule stage 3-I
+stage 16 flower
+ovule stage 1-II
+stage 2 flower
+ovule stage 2-V
+late reproductive
+stage 8 flower
+flower development
+stage 4 flower
+ovule stage 2-I
+ovule stage 3-II
+ovule stage 2-IV
+stage 17 flower
+stage 3 flower
+stage 14 flower
+ovule stage 3-IV
+ovule stage 3-VI
+ovule stage 3-III
+stage 1 flower
+stage 10 flower
+stage 7 flower
+stage 15 flower
+ovule stage 2-II
+stage 6 flower
+stage 13 flower
+stage 11 flower
+ovule development
+stage 18 flower
+stage 5 flower
+ovule stage 2-III
+ovule stage 1-I
+post-reproductive
+pollen stage 4
+pollen stage 9
+8 rosette leaf
+imbibition
+heart stage
+two-celled stage
+pollen development
+pollen stage 8
+pollen stage 3
+pollen stage 2
+pollen stage 6
+pollen stage 10
+pollen stage 5
+pollen stage 1
+germinated pollen grain
+pollen stage 7
+4 rosette leaf
+curled cotyledon stage
+zygote
+triangle stage
+5 rosette leaf
+mid-globular stage
+cotyledons fully open
+13 rosette leaf
+germination
+hypocotyl and cotyledon emergence
+radicle emergence
+vegetative
+14 rosette leaf
+10 rosette leaf
+11 rosette leaf
+2 rosette leaf
+3 rosette leaf
+6 rosette leaf
+seedling
+16 rosette leaf
+9 rosette leaf
+post-germination
+7 rosette leaf
+early seed development
+alt_id
+plant growth stages
+dermatogen stage
+embryonic
+globular stage
+torpedo stage
+senescence complete
+senescence
+silique ripening
+eight-celled stage
+late globular stage
+dry seed
+synonym
+seed development
+seed maturation
+body part developmental stages
+Arabidopsis growth
+Arabidopsis ontology
+exact
+narrow
+broad

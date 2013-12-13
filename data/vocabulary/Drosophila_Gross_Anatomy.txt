@@ -1,0 +1,6519 @@
+Fell hairs
+abdominal 3 ventral monoscolopidial chordotonal organ vch1
+abdominal 9 lateral chordotonal organ lch3/1
+abdominal 3 ventral sensillum campaniformium vc3
+pit sensillum T5
+larval abdominal 9 sensillum
+papilla of dorsal organ 4
+ventral organ sensillum V4
+abdominal 1 lateral monoscolopidial chordotonal organ lch1
+abdominal 5 dorsal sensillum campaniformium dc2
+abdominal dorsal sensillum trichodeum h3
+abdominal lateral pentascolopidial chordotonal organ lch5
+abdominal 1 lateral sensillum trichodeum lh2
+abdominal 2 lateral sensillum campaniformium lc1
+pit sensillum T1
+abdominal ventral sensillum campaniformium vc4b
+larval mesothoracic sensillum
+larval maxillary segment sense organ
+abdominal 1 dorsal sensillum campaniformium dc1
+abdominal 3 ventral sensillum campaniformium vc1
+abdominal 4 ventral monoscolopidial chordotonal organ vch1
+abdominal 4 ventral sensillum campaniformium vc1
+dorsolateral papilla
+larval metathoracic sensillum
+abdominal 7 lateral monoscolopidial chordotonal organ lch1
+abdominal 5 ventral monoscolopidial chordotonal organ vch2
+abdominal 6 ventral sensillum campaniformium vc4a
+abdominal 6 lateral monoscolopidial chordotonal organ lch1
+abdominal 5 ventral sensillum campaniformium vc5
+abdominal 3 lateral sensillum trichodeum lh1
+dorsal pit
+abdominal 2 lateral monoscolopidial chordotonal organ lch1
+basal apodeme of penis
+pupal spiracle
+posterior tentorial bar
+prothoracic articulation
+larval apodeme
+non-functional pupal spiracle 5
+abdominal 7 intrasegmental apodeme 1
+aedeagal apodeme
+posterior spiracular gland
+mesothoracic suture
+abdominal 3 intrasegmental apodeme 2
+non-functional larval spiracle of thoracic segment
+metathoracic precoxal bridge
+abdominal 6 intrasegmental apodeme 2
+dorsal cervical muscle 22
+non-functional larval spiracle of abdominal segment 6
+embryonic ventral apodeme
+abdominal intrasegmental apodeme
+ventral cervical muscle 27
+adult apodeme
+mesothoracic articulation
+mesothoracic postcoxal bridge
+embryonic/larval anterior spiracle
+lateral cervical muscle 24
+larval posterior spiracle
+non-functional larval spiracle of abdominal segment 7
+ventral apodeme
+embryonic anterior spiracle
+peritreme
+posterior spiracle retractor muscle
+papilla
+spiracular plate
+posterior spiracular duct
+prothoracic pleural apophysis
+pleural cleft
+abdominal apodeme
+abdominal 4 intrasegmental apodeme 1
+pleural wing process
+anterior spiracle retractor muscle
+cervical suture
+filzkorper
+anterior spiracular gland
+spiracular opening
+abdominal intrasegmental apodeme 2
+ventral cervical muscle
+spiracular filament
+posterior spiracular gland ductule
+dorsal cervical muscle 23
+dorsal cervical muscle
+spiracular scar
+dorsal cervical muscle 21
+lever
+ventro-lateral protocerebrum
+optic glomerulus
+Dd5 neuroblast
+pupal dorsal branch
+pupal dorsal branch 2
+pupal dorsal branch 5
+pupal dorsal branch 1
+pupal dorsal branch 4
+pupal dorsal branch 3
+epidermis
+abdominal 6 X cell
+larval epidermis
+mesothoracic X cell
+embryonic/larval oenocyte
+thoracic X cell
+chitinous intima of the cardial valve
+larval outer optic anlage
+larval MB calyx glomerulus L5
+larval MB calyx glomerulus M1
+lamina anlage
+medulla forming neuroblast
+larval MB calyx glomerulus V8
+larval MB calyx glomerulus A1
+larval MB calyx glomerulus L2
+dorsal proliferation zone
+adepithelial cell of clypeo-labral disc
+marginal glial cell
+larval MB calyx glomerulus V3
+central plug
+inner proliferation zone
+baso-cervical neuropil compartment
+anterior transverse tract
+larval MB calyx glomerulus V2
+larval mushroom body
+larval MB calyx glomerulus V6
+medulla anlage
+larval MB calyx glomerulus D3
+labral sensory complex
+dorsal centro-posterior lateral neuropil compartment
+larval MB calyx glomerulus M2
+centro-anterior neuropil compartment
+larval MB calyx glomerulus A2
+larval MB calyx glomerulus V5
+larval inner optic anlage
+mushroom body neuroblast
+calyx of larval mushroom body
+larval MB calyx glomerulus D1
+larval MB calyx glomerulus M4
+dorso-anterior neuropil compartment
+inner anlage neuroblast
+larval MB calyx glomerulus L7
+larval MB calyx glomerulus L1
+lateral proliferation zone
+baso-central neuropil compartment
+lobula forming neuroblast
+larval optic lobe
+lobula plate anlage
+centro-posterior intermediate neuropil compartment
+larval MB calyx glomerulus I8
+larval MB calyx glomerulus D4
+larval MB calyx glomerulus D2
+larval MB calyx glomerulus I5
+satellite glial cell
+pupal ventral anastomosis
+pupal transverse connective 1
+pupal transverse connective
+pupal wing branch
+pupal ganglionic branch 1
+pupal metathoracic leg trachea
+air bubble
+pupal transverse connective 3
+pupal prothoracic leg trachea
+pupal spiracular branch 3
+pupal spiracular branch 2
+pupal transverse connective 4
+pupal ventral anastomosis 0
+pupal cerebropharyngeal branch
+pupal spiracular branch 5
+pupal spiracular branch 4
+pupal spiracular branch 1
+pupal abdominal trachea
+pupal transverse connective 5
+synaptic ribbon
+larval posterior Malpighian tubule
+Ppd16 neuroblast
+medulla layer M9
+pigment-dispersing hormone-immunoreactive neuron close to tritocerebrum
+lateral trunk posterior branch 2
+abdominal neuroblast dorso-lateral cluster
+abdominal 6 neuroblast dorso-lateral cluster
+abdominal 7 neuroblast dorso-lateral cluster
+abdominal 4 neuroblast dorso-lateral cluster
+abdominal 5 neuroblast dorso-lateral cluster
+abdominal 3 neuroblast dorso-lateral cluster
+abdominal intersegmental bidendritic neuron isbd
+abdominal 3 intersegmental bidendritic neuron isbd
+abdominal 6 intersegmental bidendritic neuron isbd
+abdominal 5 intersegmental bidendritic neuron isbd
+abdominal 1 intersegmental bidendritic neuron isbd
+abdominal 7 intersegmental bidendritic neuron isbd
+abdominal 2 intersegmental bidendritic neuron isbd
+abdominal 4 intersegmental bidendritic neuron isbd
+peripodial epithelium
+peripodial stalk
+prothoracic levator muscle
+prothoracic tarsal levator muscle 42
+prothoracic intracoxal lateral levator muscle 36
+prothoracic tibial levator muscle 39
+prothoracic intracoxal mesal levator muscle 37
+chordotonal organ of sternite 2
+caudal-hindgut branch
+abdominal 2 ventral oblique muscle 2
+male abdominal tergite 8
+unfertilized egg
+abdominal tracheal primordium 2
+interface glial cell
+dorsal interface glial cell
+lateral interface glial cell
+ventral interface glial cell
+antennal glomerulus DL1
+antennal glomerulus DL1 ventral compartment
+antennal glomerulus DL1 dorsal compartment
+embryonic neuron
+5-6Ica of abdomen
+abdominal 2 Z neuron
+1-2Ii
+1-1Ms
+abdominal 4 ventral intersegmental neuron
+7-4Ic
+abdominal 3 M neuron
+segmental nerve pioneer neuron
+abdominal 6 RP2 neuron
+3-3Ic
+1-3M
+5-4M of thorax
+abdominal 3 RP1 neuron
+NH neuron
+6-4Ii
+ipsisegmental neuron
+M neuron
+yIi
+EW neuron
+V neuron
+abdominal 6 Z neuron
+7-3I
+EN neuron
+abdominal 6 VUM3 neuron
+5-1I
+abdominal 7 VUM2 neuron
+abdominal 3 VUM2 neuron
+abdominal 7 VUM3 neuron
+abdominal 1 ventral intersegmental neuron
+abdominal RP1 neuron
+7-1M
+abdominal 1 RP4 neuron
+3-1I of thorax
+abdominal 3 RP5 neuron
+abdominal 6 V neuron
+4-2Mar
+7-1I
+y interneuron
+EW3 neuron
+5-2I
+RP4 neuron
+2-5I
+7-4Ii
+4-2I
+vMP2 neuron
+abdominal ventral intersegmental neuron
+abdominal 2 V neuron
+3-2I
+abdominal 1 RP2 neuron
+7-2Ii
+abdominal VUM1 neuron
+3-2M
+5-6Icp of abdomen
+6-4Ic
+3-1I of abdomen
+5-3I
+2-2I of abdomen
+abdominal 5 V neuron
+2-2M of thorax
+abdominal 2 VUM3 neuron
+2-4M1+2 of thorax
+abdominal 4 RP4 neuron
+PM neuron
+1-2Ica
+abdominal 1 Z neuron
+abdominal 4 RP2 neuron
+2-4I of thorax
+5-2Ica2
+abdominal 5 ventral intersegmental neuron
+RP1 neuron
+VUM neuron
+RP2sib neuron
+5-6Ica of thorax
+Z neuron
+abdominal 6 VUM1 neuron
+abdominal 4 lateral ipsisegmental neuron
+3-5Ic
+VUM3 neuron
+abdominal 5 M neuron
+2-1Ic
+abdominal 3 VUM3 neuron
+abdominal 2 M neuron
+2-2M
+abdominal 3 RP4 neuron
+abdominal 1 VUM2 neuron
+4-1I
+5-4M
+GW neuron
+6-2Icp1
+abdominal 6 M neuron
+4-3M
+3-1I
+abdominal 7 RP4 neuron
+abdominal 3 VUM1 neuron
+abdominal 2 VUM2 neuron
+abdominal M neuron
+IP neuron
+4-1Icp
+abdominal 1 lateral ipsisegmental neuron
+abdominal 7 M neuron
+5-6Icp of thorax
+7-2I
+1-3Mar
+2-4M of thorax
+abdominal 7 RP1 neuron
+abdominal 2 RP1 neuron
+abdominal 5 RP1 neuron
+2-1Ii
+abdominal VUM2 neuron
+2-5M
+abdominal 5 lateral ipsisegmental neuron
+VUM5 neuron
+abdominal 5 VUM1 neuron
+1-2Icp
+5-6I
+1-1I of thorax
+4-1Ii
+5-4M of abdomen
+7-4I
+abdominal 2 RP4 neuron
+abdominal 7 RP5 neuron
+PI neuron
+abdominal 1 V neuron
+5-6Ii of abdomen
+6-2Icp2
+abdominal 6 RP5 neuron
+abdominal 3 ventral intersegmental neuron
+abdominal 7 RP2 neuron
+yM
+abdominal 5 VUM3 neuron
+2-4I
+aCC neuron
+abdominal 2 VUM1 neuron
+abdominal 4 M neuron
+lateral ipsisegmental neuron
+6-1I
+1-3I
+6-2Ii
+VUM6 neuron
+3-3Ii
+abdominal 7 ventral intersegmental neuron
+VUM2 neuron
+abdominal 6 lateral ipsisegmental neuron
+abdominal 4 VUM3 neuron
+abdominal VUM3 neuron
+6-2I
+EG neuron
+3-3I
+5-4M1 of thorax
+VUM1 neuron
+abdominal RP4 neuron
+3-2Mar
+abdominal 4 RP5 neuron
+TB neuron
+1-3Ms
+5-6Ii of thorax
+2-5Ii
+abdominal 5 RP5 neuron
+2-1I
+VL neuron
+2-4M
+5-2M
+abdominal 7 Z neuron
+RP5 neuron
+RP neuron
+abdominal RP2 neuron
+fpCC neuron
+3-2Ms
+abdominal 3 RP2 neuron
+abdominal 4 V neuron
+abdominal 4 VUM1 neuron
+3-5I
+EW2 neuron
+7-1Icp
+abdominal 5 RP4 neuron
+4-4I
+4-1Ica
+1-1I
+2-2I of thorax
+dMP2 neuron
+ventral intersegmental neuron
+2-4M of abdomen
+7-1Ica
+2-5Ic
+2-5Ic1
+2-2M of abdomen
+1-1I of abdomen
+abdominal 1 RP1 neuron
+7-2Ic
+abdominal 6 RP4 neuron
+abdominal 1 VUM1 neuron
+abdominal 7 V neuron
+PQ neuron
+abdominal lateral ipsisegmental neuron
+5-4M1 of abdomen
+3-5Ii
+EW1 neuron
+abdominal 3 Z neuron
+abdominal 5 VUM2 neuron
+2-4M1+2 of abdomen
+1-2I
+abdominal 7 VUM1 neuron
+6-1Ii
+5-3Ica
+2-2I
+abdominal 5 RP2 neuron
+abdominal Z neuron
+DL neuron
+5-3Icp
+RP2 neuron
+abdominal 6 RP1 neuron
+abdominal 6 ventral intersegmental neuron
+abdominal 4 VUM2 neuron
+abdominal 6 VUM2 neuron
+pCC neuron
+yIc
+EL neuron
+2-4I of abdomen
+abdominal 2 RP2 neuron
+VUM4 neuron
+abdominal V neuron
+abdominal 3 V neuron
+abdominal 3 lateral ipsisegmental neuron
+abdominal 5 Z neuron
+5-2Ica1
+abdominal 2 lateral ipsisegmental neuron
+abdominal 4 RP1 neuron
+6-4I
+5-2Icp
+abdominal RP5 neuron
+6-1Ic
+abdominal 2 ventral intersegmental neuron
+abdominal 7 lateral ipsisegmental neuron
+ventral adult muscle precursor cluster abdominal 2
+anlage
+abdominal 8 ventral oblique muscle 2
+ventral thoracic es8
+amnioserosa anlage
+abdominal 6 ventral longitudinal muscle 4
+abdominal 3 lateral transverse muscle 1
+abdominal 4 ventral transverse muscle
+abdominal 7 dorsal acute muscle 3
+abdominal 2 ventral longitudinal muscle 1
+dorsal thoracic es3
+abdominal 2 dorsal oblique muscle 1
+abdominal 2 dorsal oblique muscle
+abdominal dorsal oblique muscle 3
+anal pad primordium
+middle lymph gland pair
+abdominal 1 dorsal transverse muscle
+visual anlage
+abdominal tergite 4
+male genital disc primordium
+abdominal sternite 7
+adult mushroom body
+abdominal 5 dorsal oblique muscle 5
+abdominal 1 lateral longitudinal muscle 1
+posterior endoderm
+abdominal 5 dorsal oblique muscle
+rectum primordium
+visual anlage in statu nascendi
+abdominal 6 ventral transverse muscle
+endoderm anlage
+dorsal ectoderm anlage
+salivary gland duct primordium
+ectoderm anlage
+garland cell primordium
+ventral epidermis primordium
+foregut anlage
+imaginal disc primordium
+abdominal 6 dorsal oblique muscle 2
+dorsal thoracic da3
+trunk mesoderm anlage
+abdominal 9 lateral transverse muscle
+abdominal 4 ventral transverse muscle 1
+mesoderm anlage
+abdominal 2 dorsal oblique muscle 2
+prothoracic ventral transverse muscle
+adult clypeo-labral anlage
+abdominal 6 lateral longitudinal muscle 1
+abdominal lateral transverse muscle 1
+ventral intersegmental muscle
+abdominal 4 segment border muscle
+abdominal 2 segment border muscle
+embryonic anterior Malpighian tubule
+abdominal 2 dorsal oblique muscle 3
+posterior endoderm derivative
+abdominal ventral transverse muscle 2
+antennal anlage in statu nascendi
+abdominal 9 ventral oblique muscle 3
+abdominal 1 dorsal oblique muscle 5
+abdominal dorsal acute muscle 2
+abdominal acute muscle
+spiracular histoblast nest abdominal 5
+clypeo-labral anlage
+ventral ectoderm anlage
+visual primordium
+abdominal 1 lateral transverse muscle
+lateral abdominal es2
+anterior spiracle primordium
+segment border muscle
+head mesoderm derivative
+abdominal 5 dorsal acute muscle 3
+ventral thoracic es3
+abdominal 5 lateral transverse muscle 2
+abdominal 4 longitudinal muscle
+posterior ectoderm derivative
+ventral adult muscle precursor cluster abdominal 1
+hypodermal muscle of larval abdominal 4
+abdominal 1 ventral oblique muscle
+abdominal 1 ventral internal muscle
+abdominal 4 dorsal acute muscle 2
+metathoracic lateral transverse muscle
+abdominal 3 ventral longitudinal muscle 4
+lateral thoracic es1
+dorsal abdominal da2
+abdominal 7 ventral longitudinal muscle 1
+posterior dorsal histoblast nest abdominal 4
+ventral histoblast nest abdominal 3
+lateral thoracic es3
+lateral thoracic da2
+head mesoderm derived embryonic hemocyte
+abdominal dorsal oblique muscle 1
+anterior dorsal histoblast nest abdominal 3
+ventral abdominal da3
+abdominal 3 ventral oblique muscle 3
+abdominal 4 lateral transverse muscle 2
+abdominal 8 ventral longitudinal muscle 1
+ventral histoblast nest abdominal 7
+hypocerebral/esophageal ganglion primordium
+prothoracic lateral acute muscle 2
+stomatogastric nervous system anlage
+abdominal 1 lateral transverse muscle 1
+hindgut proper primordium
+larval cibarium
+external sensory organ precursor cell IIa
+posterior midgut imaginal island
+embryonic antennal sense organ
+ventral abdominal ch2
+abdominal 1 lateral transverse muscle 2
+embryonic inner optic lobe
+oblique muscle
+antennal anlage
+metathoracic ventral oblique muscle 2
+dorsal epidermis primordium
+abdominal 7 larval oenocyte group
+metathoracic oblique muscle
+abdominal 5 dorsal oblique muscle 1
+abdominal 1 RP5 neuron
+terminal oblique muscle 1
+adult salivary gland primordium
+abdominal lateral oblique muscle 1
+abdominal 8 transverse muscle
+prothoracic leg
+dorsal adult muscle precursor cluster abdominal
+lateral adult muscle precursor cluster abdominal
+ventral apodeme primordium
+dorsal sensory complex proper primordium
+abdominal 3 acute muscle
+abdominal 5 oblique muscle
+dorsal adult muscle precursor cluster abdominal 3
+prothoracic oblique muscle
+hypopharynx anlage
+C1 chordotonal organ precursor cell
+head mesoderm anlage
+abdominal segment border muscle
+eye-antennal disc primordium
+prothoracic lateral acute muscle
+abdominal 4 lateral transverse muscle 4
+decasternum
+embryonic pericardial cell
+lateral abdominal cluster
+abdominal 6 ventral longitudinal muscle 1
+dorsal head epidermis anlage
+abdominal 6 ventral transverse muscle 1
+abdominal 4 ventral oblique muscle 5
+labial sensory complex primordium
+abdominal 6 ventral oblique muscle 6
+abdominal 7 lateral transverse muscle 1
+abdominal 5 ventral longitudinal muscle
+abdominal 2 dorsal acute muscle 1
+lateral thoracic td1
+epiproct
+abdominal lateral longitudinal muscle
+abdominal 7 ventral longitudinal muscle 3
+abdominal ventral transverse muscle 3
+posterior ectoderm anlage
+dorsal thoracic cluster
+abdominal 3 larval oenocyte group
+abdominal dorsal oblique muscle 5
+abdominal sternite 2
+abdominal tracheal primordium 6
+ventral abdominal td1
+ventral thoracic da1
+larval visceral branch
+dorsal thoracic disc primordium
+genital disc
+abdominal 9 ventral longitudinal muscle 2
+adult hindgut precursor
+embryonic dorsal trunk
+abdominal 3 ventral acute muscle 1
+hypodermal muscle of larval abdominal 6
+posterior dorsal histoblast nest abdominal 7
+abdominal 9 ventral oblique muscle
+external sensory organ precursor cell IIIb
+abdominal 5 ventral acute muscle 3
+pars intercerebralis primordium
+abdominal 1 lateral oblique muscle 1
+abdominal 4 oblique muscle
+mesothoracic tracheal primordium
+abdominal 7 dorsal oblique muscle
+abdominal 6 dorsal oblique muscle 1
+embryonic esophageal ganglion
+cibarium primordium
+ventral abdominal ch1
+abdominal histoblast anlage
+mesoderm
+posterior endoderm anlage
+dorsal thoracic ch1
+epipharynx primordium
+macrophage
+abdominal tracheal primordium 7
+histoblast
+abdominal 5 ventral oblique muscle 3
+central brain primordium
+anterior endoderm anlage
+abdominal 2 ventral transverse muscle
+abdominal 8 dorsal oblique muscle 1
+ventral adult muscle precursor cluster abdominal 7
+embryonic tracheal system
+abdominal 6 ventral oblique muscle 4
+abdominal 2 ventral acute muscle 3
+external sensory organ precursor cell I
+abdominal 4 dorsal acute muscle 3
+intersegmental muscle
+hypopharynx anlage in statu nascendi
+central brain anlage
+abdominal 3 lateral transverse muscle 2
+abdominal 6 dorsal oblique muscle
+lateral abdominal td1
+lateral adult muscle precursor cluster abdominal 7
+ejaculatory duct
+salivary gland common duct anlage
+abdominal 6 ventral acute muscle 2
+ventral sensory complex primordium
+salivary gland body primordium
+genitalia
+abdominal 6 acute muscle
+terminal transverse muscle 1
+metathoracic lateral longitudinal muscle 1
+abdominal 3 dorsal oblique muscle 3
+Malpighian tubule primordium
+prohemocyte
+abdominal 5 dorsal transverse muscle
+dorsal prothoracic disc primordium
+spiracular histoblast nest abdominal 2
+abdominal ventral oblique muscle 5
+embryonic/larval cibarium
+abdominal 9 ventral transverse muscle
+abdominal 3 lateral transverse muscle
+dorsal thoracic da4
+abdominal 1 ventral internal muscle 1
+ventral histoblast nest abdominal 6
+metathoracic leg
+abdominal 1 transverse muscle
+abdominal 7 ventral longitudinal muscle 4
+embryonic outer optic lobe
+anterior midgut inclusive primordium
+prothoracic dorsal oblique muscle
+abdominal 8 ventral transverse muscle
+abdominal 6 dorsal oblique muscle 4
+ventral oblique muscle
+lateral abdominal ch2
+abdominal tracheal primordium 3
+esophagus
+hypodermal muscle of head
+proventriculus inner layer primordium
+dorsal oblique muscle
+abdominal dorsal transverse muscle
+oenocyte primordium
+proventriculus outer layer anlage
+sternite
+abdominal ventral oblique muscle 2
+abdominal 3 lateral transverse muscle 4
+female gonopod
+abdominal 7 dorsal acute muscle 2
+abdominal 7 segment border muscle
+abdominal 1 ventral longitudinal muscle 4
+abdominal 2 ventral oblique muscle 4
+lateral thoracic es2
+posterior ectoderm
+abdominal 1 lateral longitudinal muscle
+abdominal transverse muscle
+ventral histoblast nest abdominal 1
+proneural cluster
+abdominal 9 ventral longitudinal muscle
+dorsal adult muscle precursor cluster abdominal 4
+female genitalia
+abdominal 3 ventral acute muscle
+abdominal 5 larval oenocyte group
+abdominal 3 dorsal acute muscle 3
+somatic muscle primordium
+denticle field primordium
+chordotonal organ precursor cell
+labial disc
+abdominal sternite 4
+dorsal pharyngeal muscle primordium
+dorsal head epidermis primordium
+prothoracic acute muscle
+abdominal 8 ventral oblique muscle
+abdominal 1 dorsal oblique muscle 3
+adult tracheal precursor primordium
+uterus
+abdominal 5 dorsal oblique muscle 3
+abdominal 3 ventral oblique muscle 4
+abdominal 8 lateral transverse muscle
+ventral thoracic es2
+dorsal longitudinal trunk primordium
+prothoracic ventral intersegmental muscle 4
+abdominal dorsal oblique muscle 4
+gnathal primordium
+internal muscle
+metathoracic dorsal acute muscle 2
+abdominal 1 lateral oblique muscle
+abdominal 5 ventral transverse muscle 1
+ventral mouthpart muscle 1
+dorsal prothoracic disc
+metathoracic ventral longitudinal muscle 3
+abdominal 2 ventral acute muscle
+abdominal 4 lateral oblique muscle
+male genitalia
+lateral thoracic es
+dorsal apodeme anlage
+abdominal 2 dorsal oblique muscle 5
+esophagus anlage
+abdominal 6 ventral oblique muscle
+abdominal 4 ventral longitudinal muscle 1
+abdominal lateral transverse muscle 3
+dorsal thoracic es
+abdominal 8 longitudinal muscle
+central brain anlage in statu nascendi
+tergite
+abdominal 5 ventral longitudinal muscle 3
+endoderm derivative
+lateral abdominal es
+abdominal 2 lateral oblique muscle
+abdominal 3 ventral transverse muscle 1
+dorsal thoracic ch3
+fat body/gonad primordium
+abdominal 6 lateral transverse muscle 1
+metathoracic ventral oblique muscle
+mushroom body
+abdominal 3 ventral oblique muscle 6
+ventral thoracic es7
+ventral transverse muscle
+tracheal primordium
+proventriculus anlage
+adult foregut precursor primordium
+abdominal 5 ventral acute muscle
+abdominal 5 longitudinal muscle
+abdominal 7 lateral transverse muscle 2
+embryonic visceral branch
+seminal vesicle
+dorsal ridge primordium
+ventral adult muscle precursor cluster abdominal 3
+embryonic labial sensory complex
+metathoracic transverse muscle
+embryonic/larval somatic muscle
+ventral metathorax
+hypoproct
+posterior dorsal histoblast nest abdominal 2
+abdominal 5 transverse muscle
+C3 chordotonal organ precursor cell
+anterior endoderm
+abdominal 2 ventral longitudinal muscle
+abdominal 3 dorsal transverse muscle 1
+hypodermal muscle of abdominal 8
+mesectoderm anlage
+dorsal adult muscle precursor cluster abdominal 2
+abdominal 7 lateral longitudinal muscle 1
+abdominal 1 lateral transverse muscle 4
+abdominal 4 ventral oblique muscle 4
+embryonic outer optic lobe primordium
+adult posterior midgut primordium
+protocerebrum primordium
+ventral abdominal da5
+abdominal 3 ventral longitudinal muscle
+embryonic garland cell
+clypeo-labral anlage in statu nascendi
+male genital disc
+dorsal thoracic da5
+abdominal 2 lateral transverse muscle 4
+abdominal 4 dorsal transverse muscle 1
+visceral branch primordium
+antennal primordium
+metathoracic dorsal acute muscle 1
+abdominal 6 dorsal acute muscle
+dorsal metathoracic disc
+abdominal 1 dorsal oblique muscle 2
+hypodermal muscle of larval abdominal 2
+abdominal ventral transverse muscle
+lateral head epidermis primordium
+dorsal metathoracic disc primordium
+prothoracic ventral intersegmental muscle
+abdominal dorsal acute muscle 3
+prothoracic intersegmental muscle
+male abdominal sternite
+dorsal pharyngeal muscle anlage
+lateral abdominal ch5
+abdominal 7 dorsal acute muscle 1
+fat body primordium
+salivary gland duct inclusive primordium
+ventral abdominal es5
+abdominal 4 dorsal oblique muscle
+posterior spiracle primordium
+abdominal 3 dorsal acute muscle 1
+abdominal 8 dorsal transverse muscle
+abdominal 5 ventral longitudinal muscle 2
+abdominal 4 ventral acute muscle
+abdominal 5 ventral longitudinal muscle 4
+endoderm
+abdominal 3 ventral acute muscle 3
+abdominal 6 ventral oblique muscle 5
+abdominal 9 ventral transverse muscle 2
+abdominal 4 ventral longitudinal muscle
+lateral thoracic cluster
+abdominal ventral transverse muscle 1
+hypodermal muscle of abdomen
+proventriculus outer layer primordium
+ventral abdominal es6
+abdominal dorsal acute muscle
+ventral prothoracic disc
+abdominal ventral longitudinal muscle
+dorsal thoracic es2
+dorsal adult muscle precursor cluster abdominal 1
+embryonic ventral longitudinal trunk
+abdominal 7 ventral acute muscle 2
+abdominal 6 lateral oblique muscle 1
+prothoracic ventral intersegmental muscle 3
+ventral abdominal es1
+dorsal vessel primordium
+abdominal 2 dorsal transverse muscle 1
+abdominal 6 lateral transverse muscle
+dorsal metathorax
+ventral metathoracic disc primordium
+metathoracic dorsal oblique muscle
+lymph gland derived hemocyte
+abdominal 4 dorsal oblique muscle 5
+abdominal 6 ventral acute muscle
+proventriculus inclusive primordium
+vas deferens
+dorsal thoracic disc
+abdominal tracheal primordium 4
+proventricular ganglion primordium
+lateral adult muscle precursor cluster abdominal 6
+frontal ganglion primordium
+dorsal adult muscle precursor cluster abdominal 7
+spiracular histoblast nest abdominal 1
+abdominal 6 lateral longitudinal muscle
+abdominal 2 ventral acute muscle 1
+spiracle primordium
+ventral histoblast nest abdominal 2
+metathoracic lateral oblique muscle 1
+mesoderm derivative
+abdominal 2 ventral oblique muscle 3
+lateral thoracic da1
+ventral thoracic es10
+ectoderm derivative
+posterior orbital bristle
+dorsal branch 10
+large chordotonal organ of scabellum
+mitotic domain 10
+anterior endoderm primordium
+abdominal median nerve
+abdominal 2 median nerve
+abdominal 8 median nerve
+abdominal 6 median nerve
+abdominal 5 median nerve
+abdominal 7 median nerve
+abdominal 4 median nerve
+abdominal 3 median nerve
+abdominal 1 median nerve
+abdominal 7 neuroblast ventro-medial cluster
+cystocyte
+presumptive nurse cell
+oocyte
+presumptive oocyte
+nurse cell
+prothoracic epimeron
+LAL glomerulus a8
+cuticular pore
+SE2 neuron
+furcasternum
+larval antennal lobe projection neuron
+embryonic ventral nervous system
+embryonic abdominal 5 neuromere
+embryonic abdominal 2 neuromere
+maxillary/labial embryonic fiber tract founder cluster
+vMP2 tract
+lateral tract
+A5 neuron
+subesophageal embryonic fiber tract founder cluster
+lateral cord glia
+Tv neuron
+lateral cord
+embryonic thoracic neuromere
+embryonic subesophageal neuromere
+embryonic metathoracic neuromere
+T1 neuron
+labial/prothoracic embryonic fiber tract
+SE3 neuron
+mandibular/maxillary embryonic fiber tract
+embryonic abdominal 3 neuromere
+embryonic maxillary neuromere
+maxillary/labial embryonic fiber tract
+embryonic mandibular neuromere
+embryonic abdominal 4 neuromere
+A1 neuron
+embryonic abdominal neuromere
+lateral cord subset glia
+abdominal ventral oblique muscle
+abdominal 9 longitudinal muscle
+abdominal histoblast primordium
+genital arch
+cephalic vascular primordium
+dorsal abdominal es
+abdominal larval oenocyte group
+ventral thoracic es9
+abdominal 6 dorsal transverse muscle
+abdominal 3 lateral oblique muscle 1
+vulva
+abdominal 3 ventral transverse muscle
+labial disc primordium
+vagina
+lateral abdominal bd1
+visceral mesoderm derivative
+anterior dorsal histoblast nest abdominal 7
+prothoracic ventral intersegmental muscle 5
+adult salivary gland anlage
+adult foregut precursor
+abdominal 6 dorsal acute muscle 1
+dorsal abdominal da4
+abdominal 6 ventral acute muscle 3
+embryonic hemocyte anlage
+metathoracic dorsal oblique muscle 3
+genital disc primordium
+gastric caecum primordium
+ectoderm
+embryonic posterior Malpighian tubule
+embryonic hypopharynx
+gonadal sheath proper primordium
+adult clypeo-labral primordium
+prothoracic dorsal oblique muscle 4
+anterior dorsal histoblast nest abdominal
+embryonic hypocerebral ganglion
+metathoracic ventral longitudinal muscle 1
+abdominal 4 dorsal oblique muscle 1
+inclusive hindgut primordium
+dorsal adult muscle precursor cluster abdominal 6
+abdominal 6 lateral transverse muscle 4
+abdominal 7 acute muscle
+abdominal 2 ventral oblique muscle 6
+denticle field anlage
+abdominal 5 ventral oblique muscle 2
+hindgut anlage
+abdominal 6 dorsal transverse muscle 1
+ventral abdominal es
+abdominal tergite 3
+anterior dorsal histoblast nest abdominal 1
+abdominal 2 longitudinal muscle
+posterior dorsal histoblast nest abdominal
+circular visceral muscle primordium
+lateral thoracic da
+abdominal 3 dorsal acute muscle 2
+somatic mesoderm derivative
+lateral thoracic es5
+lateral abdominal es1
+embryonic large intestine
+cardiac outflow muscle
+histoblast nest
+abdominal 9 lateral transverse muscle 1
+labral sensory complex primordium
+dorsal head epidermis anlage in statu nascendi
+embryonic proventriculus outer layer
+eye-antennal disc
+embryonic/larval midgut longitudinal visceral muscle
+spiracular histoblast nest abdominal 4
+dorsal abdominal es4
+abdominal 9 transverse muscle
+abdominal lateral oblique muscle
+adult hindgut primordium
+anterior lymph gland pair
+abdominal 9 ventral transverse muscle 1
+abdominal 1 ventral oblique muscle 3
+abdominal 4 transverse muscle
+lymph gland primordium
+female terminalia
+dorsal transverse muscle
+abdominal tergite 7
+prothoracic lateral acute muscle 1
+ventral abdominal es3
+abdominal 5 lateral longitudinal muscle
+abdominal ventral oblique muscle 6
+male abdominal sternite 7
+abdominal tracheal primordium 1
+metathoracic lateral transverse muscle 4
+abdominal 7 transverse muscle
+abdominal 5 ventral oblique muscle
+ventral thoracic da3
+lateral adult muscle precursor cluster abdominal 4
+abdominal 1 dorsal oblique muscle 1
+abdominal 6 segment border muscle
+abdominal 4 lateral transverse muscle
+ventral head epidermis primordium
+abdominal 4 lateral longitudinal muscle 1
+abdominal 6 larval oenocyte group
+abdominal 5 ventral oblique muscle 5
+abdominal 5 lateral longitudinal muscle 1
+abdominal 4 dorsal acute muscle 1
+embryonic epipharynx
+abdominal 2 dorsal acute muscle 2
+abdominal 3 segment border muscle
+abdominal 5 ventral acute muscle 1
+abdominal 7 lateral transverse muscle 3
+abdominal 6 ventral longitudinal muscle 2
+secondary branch/tracheole primordium
+ventral apodeme anlage
+abdominal lateral transverse muscle 4
+abdominal 1 dorsal oblique muscle 4
+abdominal 9 dorsal transverse muscle
+abdominal 4 ventral oblique muscle 2
+abdominal 6 lateral transverse muscle 2
+metathoracic ventral longitudinal muscle 4
+metathoracic acute muscle
+larval rectum
+abdominal 3 dorsal oblique muscle
+abdominal 3 lateral longitudinal muscle 1
+ventral prothoracic pharyngeal muscle 1
+abdominal 2 ventral transverse muscle 1
+lamellocyte
+C4 chordotonal organ precursor cell
+dorsal mouthpart muscle
+abdominal 2 dorsal acute muscle
+oviprotector
+larval tracheal system
+ventral thoracic es5
+lateral abdominal da2
+abdominal 4 ventral acute muscle 2
+Tvb neuron
+thoracic-abdominal embryonic fiber tract
+lateral cord subset neuron
+embryonic ventral neuromere
+embryonic prothoracic neuromere
+subesophageal embryonic fiber tract
+thoracic-abdominal pioneer tract
+embryonic labial neuromere
+SE1 neuron
+A2 neuron
+abdominal neuron
+lateral cord neuron
+embryonic abdominal 7 neuromere
+mandibular/maxillary embryonic fiber tract founder cluster
+ventro-medial tract
+labial/prothoracic embryonic fiber tract founder cluster
+MP1 tract
+lateral cord surface glia
+T3 neuron
+embryonic abdominal 1 neuromere
+thoracic neuron
+ventral nerve cord
+subesophageal ganglion neuron
+embryonic abdominal 6 neuromere
+A4 neuron
+A6 neuron
+embryonic abdominal 8 neuromere
+embryonic abdominal 9 neuromere
+dorsal-medial tract
+A7 neuron
+translobullar plate neuron Tpl7
+adult abdominal spiracle 8
+antennal glomerular array VA2
+antennal glomerulus VA7
+antennal glomerulus VA3
+antennal glomerulus VA2
+antennal glomerulus DM6
+antennal glomerulus VA7 lateral compartment
+antennal glomerulus VA4
+antennal glomerulus VM5
+antennal glomerulus VM2
+antennal glomerulus VM3
+antennal glomerulus VA7 medial compartment
+antennal glomerulus DM5
+larval trachea
+antennal glomerulus DL5
+female rectal muscle
+female ventral rectal muscle 153
+female dorsal rectal muscle 152
+abdominal 1 lateral dorsal longitudinal muscle 99
+compound cell cluster organ
+internal compound sense organ
+embryonic foregut sensory structure
+compound sense organ
+eye equator
+external compound sense organ
+interommatidial bristle
+organ system
+disjoint_from
+organism subdivision
+multi-cell-component structure
+metathoracic tracheal primordium
+abdominal ventral acute muscle 3
+abdominal 5 dorsal oblique muscle 2
+abdominal 4 ventral acute muscle 1
+dorsal adult muscle precursor cluster abdominal 5
+head capsule
+metathoracic dorsal oblique muscle 1
+abdominal ventral longitudinal muscle 4
+clypeo-labral primordium
+metathoracic lateral transverse muscle 2
+metathoracic ventral acute muscle
+ventral prothoracic pharyngeal muscle
+dorsal thoracic ch
+ventral abdominal td2
+atrium
+ventral trunk epidermis primordium
+abdominal 1 ventral oblique muscle 4
+abdominal dorsal acute muscle 1
+abdominal 8 lateral transverse muscle 1
+metathoracic dorsal acute muscle 3
+male analia
+abdominal 2 lateral transverse muscle
+posterior lymph gland pair
+abdominal 4 larval oenocyte group
+abdominal 2 ventral oblique muscle
+embryonic central brain pars intercerebralis
+abdominal lateral longitudinal muscle 1
+dorsal thoracic da1
+prothoracic transverse muscle
+prothoracic ventral transverse muscle 1
+abdominal 9 dorsal oblique muscle
+esophageal visceral muscle primordium
+embryonic leading edge cell primordium
+embryonic salivary gland body
+embryonic rectum
+abdominal tergite 8
+abdominal ventral oblique muscle 4
+anterior midgut imaginal island
+lateral thoracic es4
+embryonic inner optic lobe primordium
+large intestine primordium
+ventral adult muscle precursor cluster abdominal 5
+abdominal 7 longitudinal muscle
+lateral adult muscle precursor cluster abdominal 2
+Bolwig&apos;s organ primordium
+metathoracic ventral oblique muscle 1
+adult foregut
+anterior dorsal histoblast nest abdominal 8
+pericommissural muscle
+abdominal 9 ventral longitudinal muscle 4
+larval garland cell
+anterior ectoderm derivative
+abdominal 7 lateral longitudinal muscle
+abdominal 7 ventral longitudinal muscle 2
+abdominal ventral internal muscle 1
+abdominal 4 ventral longitudinal muscle 2
+abdominal 4 ventral longitudinal muscle 3
+abdominal 2 dorsal oblique muscle 4
+abdominal 2 lateral oblique muscle 1
+posterior dorsal histoblast nest abdominal 3
+external sensory organ precursor cell
+ventral thoracic da
+anterior dorsal histoblast nest abdominal 6
+abdominal sternite 11
+larval anal pad
+dorsal abdominal es5
+ventral thoracic cluster
+crystal cell primordium
+prothoracic pharyngeal muscle
+hypodermal muscle of larval abdominal 3
+abdominal 7 ventral acute muscle 3
+embryonic proventriculus inner layer
+ventral prothoracic pharyngeal muscle 3
+posterior midgut inclusive primordium
+abdominal 4 ventral oblique muscle 6
+dorsal sensory complex primordium
+ventral abdominal td
+abdominal 4 dorsal acute muscle
+abdominal 1 ventral longitudinal muscle 1
+dorsal mouthpart muscle 2
+abdominal 2 ventral longitudinal muscle 4
+abdominal 3 longitudinal muscle
+haltere
+embryonic salivary gland duct
+embryonic protocerebrum
+abdominal 9 dorsal oblique muscle 1
+posterior dorsal histoblast nest abdominal 1
+abdominal 2 larval oenocyte group
+dorsal abdominal da1
+lateral oblique muscle
+dorsal prothoracic pharyngeal muscle
+ventral abdominal ch3
+abdominal 5 ventral acute muscle 2
+embryonic tracheole
+abdominal 7 ventral transverse muscle 1
+abdominal ventral acute muscle
+ventral abdominal es4
+posterior dorsal histoblast nest abdominal 5
+embryonic hemocyte primordium
+ventral adult muscle precursor cluster abdominal 6
+abdominal 9 ventral longitudinal muscle 3
+lymph gland
+abdominal 4 lateral transverse muscle 3
+abdominal 3 dorsal acute muscle
+adult thoracic myoblast
+ventral adult muscle precursor cluster abdominal 4
+abdominal 6 dorsal acute muscle 2
+adult abdominal myoblast
+abdominal 5 dorsal acute muscle
+abdominal ventral acute muscle 1
+anterior endoderm derivative
+dorsal ectoderm derivative
+abdominal ventral longitudinal muscle 2
+adult muscle precursor primordium
+abdominal 7 dorsal oblique muscle 2
+abdominal 4 lateral oblique muscle 1
+abdominal 7 oblique muscle
+ventral prothoracic pharyngeal muscle 2
+excretory star cell
+female genital disc
+spiracular histoblast nest abdominal 3
+abdominal 5 dorsal acute muscle 2
+ventral abdominal da4
+abdominal lateral transverse muscle
+abdominal 5 lateral transverse muscle 3
+lateral transverse muscle
+plasmatocyte
+abdominal 8 oblique muscle
+abdominal 7 dorsal oblique muscle 3
+Malpighian tubule main body primordium
+dorsal trunk epidermis primordium
+portion of tissue
+organism
+multi-tissue structure
+myofibril
+dorsal adult oenocyte band 4
+antennal glomerulus V
+larval dorsal neuron-3
+neuroblast NB5-2
+first instar larva
+stage P3 prepupa
+third instar larva
+stage P1 prepupa
+second instar larva
+stage P2 prepupa
+stage 2 third instar larva
+stage 1 third instar larva
+thoracic neuroblast t2
+dorsal branch 1
+pleurum
+metathoracic pleurum
+prothoracic episternum
+preepisternum
+katepisternum
+metathoracic epimeron
+prothoracic preepisternum
+epimeron
+katepimeron
+anepimeron
+prothoracic pleurum
+katepisternal bristle
+anepisternum
+episternum
+metathoracic episternum
+metathoracic preepisternum
+tracheal metamere 5
+embryonic hemocyte
+abdominal dorsal muscle
+abdominal 2 dorsal muscle 109
+abdominal 7 female dorsal muscle 139
+abdominal 8 female dorsal muscle 146
+abdominal 6 dorsal muscle 133
+abdominal 3 dorsal muscle 115
+abdominal 4 dorsal muscle 121
+abdominal 5 dorsal muscle 127
+abdominal 8 female dorsal muscle 145
+abdominal 8 female dorsal muscle 148
+abdominal 8 female dorsal muscle 147
+dorsal anastomosis 9
+common oviduct circular muscle
+abdominal segment 4 nerve
+anterior exit glial cell
+ejaculatory bulb plate
+dorsal trunk posterior branch 3
+Tv3 neuroblast
+ISNd
+fb-ltr neuron
+dorsal trunk anterior branch 7
+LAL glomerulus p1
+embryonic central nervous system
+basal deuterocerebral subperineurial glia cluster
+rostral vesicle of tSNSP
+anterior protocerebral neuromere
+medial channel glial cell 2
+anterior deuterocerebral subperineurial glia cluster
+precursor cell of the stomatogastric nervous system
+embryonic brain
+P5l fiber tract founder cluster
+lateral abdominal ch4
+metathoracic segment border muscle
+abdominal 7 dorsal oblique muscle 5
+abdominal 2 lateral longitudinal muscle 1
+lateral abdominal ch1
+pharyngeal muscle
+hypodermal muscle of larval abdominal 5
+peripheral nervous system precursor cluster
+corpus allatum primordium
+abdominal 5 dorsal transverse muscle 1
+abdominal 1 oblique muscle
+dorsal abdominal ch1
+abdominal 7 ventral oblique muscle 4
+hypopharynx inclusive primordium
+hypodermal muscle of abdominal 9
+abdominal sternite 3
+female genital disc primordium
+sensory mother cell
+embryonic maxillary sensory complex
+abdominal 3 lateral oblique muscle
+metathoracic ventral longitudinal muscle
+salivary gland duct anlage
+metathoracic lateral oblique muscle
+dorsal apodeme primordium
+abdominal 8 ventral oblique muscle 3
+dorsal prothorax
+dorsal thoracic da
+abdominal 5 lateral transverse muscle
+lateral longitudinal muscle
+adult anterior midgut primordium
+metathoracic longitudinal muscle
+ventral metathoracic disc
+dorsal thoracic es5
+abdominal 3 dorsal transverse muscle
+abdominal 6 oblique muscle
+abdominal 8 ventral longitudinal muscle 3
+prothoracic dorsal oblique muscle 3
+abdominal tergite 5
+abdominal 5 ventral transverse muscle
+abdominal 7 dorsal transverse muscle
+clasper
+abdominal 7 lateral transverse muscle 4
+abdominal 2 acute muscle
+abdominal 7 dorsal oblique muscle 1
+abdominal 6 ventral acute muscle 1
+prolamellocyte
+abdominal 9 oblique muscle
+adult esophagus
+abdominal 7 dorsal transverse muscle 1
+excretory star cell primordium
+ventral internal muscle
+male abdominal sternite 8
+metathoracic dorsal acute muscle
+abdominal 8 dorsal transverse muscle 1
+salivary gland common duct primordium
+lateral abdominal ch
+dorsal abdominal da3
+abdominal 8 ventral transverse muscle 1
+terminal oblique muscle 2
+esophagus primordium
+C2 chordotonal organ precursor cell
+ventral thoracic ch1
+calyx of oviduct
+ventral thoracic da4
+primary segmental branch primordium
+abdominal ventral oblique muscle 3
+anterior ectoderm anlage
+midgut interstitial cell primordium
+abdominal tergite 2
+abdominal 3 dorsal oblique muscle 4
+abdominal longitudinal muscle
+embryonic esophagus
+primary segmental branch
+abdominal dorsal oblique muscle 2
+abdominal 4 lateral longitudinal muscle
+abdominal 2 lateral longitudinal muscle
+prothoracic dorsal oblique muscle 1
+abdominal 4 dorsal oblique muscle 4
+abdominal ventral longitudinal muscle 3
+spiracular histoblast nest abdominal
+abdominal 3 ventral oblique muscle
+abdominal 5 ventral oblique muscle 4
+metathoracic ventral acute muscle 1
+abdominal 3 oblique muscle
+abdominal 8 ventral longitudinal muscle
+procrystal cell
+ventral thoracic es1
+ventral thoracic es6
+abdominal 4 ventral acute muscle 3
+abdominal ventral longitudinal muscle 1
+embryonic dorsal vessel
+abdominal 1 segment border muscle
+head mesoderm
+posterior midgut proper primordium
+anal plate
+abdominal 3 ventral longitudinal muscle 3
+abdominal 4 dorsal oblique muscle 3
+abdominal 1 longitudinal muscle
+terminal oblique muscle
+abdominal 8 ventral longitudinal muscle 2
+abdominal 7 dorsal acute muscle
+ventral ectoderm derivative
+ventral abdominal da6
+anterior midgut proper primordium
+trunk mesoderm
+mesodermal crest
+mouthpart muscle
+ventral prothorax
+dorsal thoracic ch2
+abdominal 7 ventral acute muscle
+embryonic/larval garland cell
+ventral abdominal bd1
+hypodermal muscle of larval abdominal 7
+dorsal abdominal cluster
+amnioserosa
+abdominal 7 ventral oblique muscle 5
+dorsal thoracic es4
+multidendritic sensory organ precursor cell
+hypandrium
+ventral prothoracic disc primordium
+abdominal 6 dorsal oblique muscle 3
+metathoracic ventral longitudinal muscle 2
+abdominal 3 dorsal oblique muscle 2
+foregut anlage in statu nascendi
+abdominal 7 dorsal oblique muscle 4
+lateral abdominal da
+metathoracic lateral longitudinal muscle
+longitudinal muscle
+dorsal histoblast nest abdominal
+proventriculus intermediate layer primordium
+abdominal tracheal primordium 5
+abdominal ventral internal muscle
+ventral longitudinal trunk primordium
+trunk mesoderm derivative
+metathoracic lateral transverse muscle 1
+lateral abdominal da1
+stomatogastric glial cell
+posterior ventral commissural pioneer tract
+supraesophageal commissural pioneer tract
+embryonic deuterocerebrum
+protocerebral embryonic fiber tract
+medial channel glial cell 1
+P1 fiber tract founder cluster
+central anastomosing tract
+tritocerebral neuromere
+central protocerebral neuromere
+P2m fiber tract founder cluster
+dorsal channel glial cell
+embryonic tritocerebral neuromere
+supraesophageal embryonic fiber tract
+P3m fiber tract founder cluster
+P4m fiber tract founder cluster
+posterior deuterocerbral subperineural glia cluster
+posterior deuterocerebral neuromere
+posterior protocerebral neuromere
+medial segmental nerve root glial cell 1
+posterior cervical tract
+protocerebral embryonic fiber tract founder cluster
+embryonic supraesophageal neuromere
+intermediate vesicle of tSNSP
+P2l fiber tract founder cluster
+lateral delaminating stomatogastric nervous system precursor
+central deuterocerebral neuromere
+embryonic optic lobe
+medial protocerebral tract
+CNS channel glial cell
+surface associated CNS glial cell
+lateral segmental nerve root glial cell
+lateral protocerbral tract
+tip stomatogastric nervous system precursor
+protocerebral neuromere
+caudal vesicle of tSNSP
+medial segmental nerve root glial cell 2
+support cell of the dorsal bipolar dendritic cell
+embryonic deuterocerebral neuromere
+dorsal procephalic subperineural glia cluster
+medial delaminating stomatogastric nervous system precursor
+intersegmental nerve root glial cell
+neuropil associated CNS glial cell
+embryonic central brain
+deuterocerebral neuromere
+ventral channel glial cell
+lateral intersegmental nerve root glial cell
+embryonic protocerebral neuromere
+lateral cervical tract
+segmental nerve root glial cell
+medial cervical tract
+embryonic stomatogastric nervous system
+embryonic central brain neuron
+P4l fiber tract founder cluster
+cortex associated CNS glial cell
+CNS glial cell
+medial channel glial cell
+deutero/tritocerebral embryonic fiber tract
+embryonic tritocerebrum
+P3l fiber tract founder cluster
+ventral cell body glial cell
+medial intersegmental nerve root glial cell
+medial-most cell body glial cell
+deutero/tritocerebral embryonic fiber tract founder cluster
+delaminating stomatogastric nervous system precursor
+supraesophageal embryonic fiber tract founder cluster
+ventral procephalic subperineural glia cluster
+cell body glial cell
+embryonic central brain glia
+longitudinal cell body glial cell
+P5m fiber tract founder cluster
+anterior ventral commissural pioneer tract
+lower humeral bristle
+anterior dorsal histoblast nest abdominal 4
+foregut imaginal ring
+abdominal 6 lateral oblique muscle
+abdominal 6 dorsal oblique muscle 5
+abdominal 5 ventral oblique muscle 6
+abdominal 9 ventral longitudinal muscle 1
+mesodermal crest of segment T3
+abdominal 1 ventral longitudinal muscle 3
+ventral abdominal da
+dorsal abdominal da5
+abdominal 5 lateral transverse muscle 1
+abdominal ventral acute muscle 2
+ventral abdominal da1
+metathoracic dorsal oblique muscle 2
+hypodermal muscle of prothorax
+metathoracic dorsal oblique muscle 4
+ventral thoracic da2
+amnioserosa primordium
+abdominal 5 dorsal acute muscle 1
+abdominal 8 dorsal oblique muscle
+lateral adult muscle precursor cluster abdominal 3
+abdominal 7 ventral oblique muscle
+abdominal 2 ventral longitudinal muscle 3
+abdominal 4 ventral longitudinal muscle 4
+abdominal 4 ventral oblique muscle
+abdominal 6 ventral longitudinal muscle
+abdominal 3 ventral oblique muscle 5
+abdominal 2 ventral longitudinal muscle 2
+abdominal 7 lateral oblique muscle
+hypodermal muscle of abdominal 1
+abdominal 2 dorsal transverse muscle
+dorsal abdominal da
+abdominal 3 ventral acute muscle 2
+embryonic Malpighian tubule tip cell
+ventral abdominal cluster
+seminal receptacle
+abdominal 5 dorsal oblique muscle 4
+abdominal 5 segment border muscle
+abdominal 7 ventral transverse muscle
+embryonic hypodermal muscle
+cuprophilic cell primordium
+abdominal 7 ventral longitudinal muscle
+anterior dorsal histoblast nest abdominal 5
+ventral abdominal da2
+abdominal 6 lateral transverse muscle 3
+abdominal 3 transverse muscle
+frontal sac
+circular visceral muscle fiber
+lateral abdominal ch3
+abdominal 2 ventral acute muscle 2
+abdominal 5 lateral transverse muscle 4
+dorsal mouthpart muscle 1
+esophageal visceral muscle
+spiracular histoblast nest abdominal 7
+lateral adult muscle precursor cluster abdominal 1
+lateral abdominal es3
+abdominal 1 dorsal transverse muscle 1
+ventral thoracic disc primordium
+abdominal 1 dorsal oblique muscle
+abdominal 6 ventral oblique muscle 3
+abdominal 6 dorsal acute muscle 3
+ventral adult muscle precursor cluster abdominal
+female analia
+larval hypodermal muscle
+embryonic somatic muscle
+ventral abdominal da7
+embryonic proventricular ganglion
+anterior dorsal histoblast nest abdominal 2
+ventral abdominal ch
+embryonic secondary branch
+abdominal 1 ventral oblique muscle 5
+hypopharynx proper primordium
+metathoracic ventral oblique muscle 3
+embryonic salivary gland common duct
+pedicel
+lateral thoracic da4
+male accessory gland
+abdominal 5 ventral longitudinal muscle 1
+ventral histoblast nest abdominal
+ventral thoracic disc
+prothoracic ventral intersegmental muscle 2
+oviduct
+abdominal dorsal oblique muscle
+dorsal thoracic bd1
+embryonic/larval hypodermal muscle
+abdominal sternite 5
+metathoracic lateral transverse muscle 3
+abdominal 1 larval oenocyte group
+Malpighian tubule tip cell primordium
+ectodermal derivative
+ventral abdominal es2
+ventral thoracic es
+abdominal lateral transverse muscle 2
+ventral acute muscle
+abdominal 2 lateral transverse muscle 3
+abdominal 2 oblique muscle
+dorsal abdominal es1
+ventral histoblast nest abdominal 5
+abdominal 8 ventral longitudinal muscle 4
+abdominal 4 lateral transverse muscle 1
+hypodermal muscle of metathorax
+ocellus cornea
+metathoracic ventral longitudinal muscle 81
+intracoxal lateral levator muscle
+Wheeler&apos;s organ 6
+anterior deuterocerebral neuromere
+posterior tip cell
+posterior protocerebral neuroblast
+Ppv2 neuroblast
+Ppd7 neuroblast
+Ppd18 neuroblast
+Ppd14 neuroblast
+Ppd3 neuroblast
+Ppd6 neuroblast
+Ppd4 neuroblast
+Ppd5 neuroblast
+Ppd20 neuroblast
+Ppd8 neuroblast
+Ppd17 neuroblast
+Ppd12 neuroblast
+Ppd10 neuroblast
+Ppd2 neuroblast
+ventral posterior protocerebral neuroblast
+Ppd19 neuroblast
+Ppd1 neuroblast
+Ppv3 neuroblast
+Ppv1 neuroblast
+Ppd13 neuroblast
+Ppd11 neuroblast
+Ppd9 neuroblast
+dorsal posterior protocerebral neuroblast
+Ppd15 neuroblast
+Pad12 neuroblast
+neuroblast NB6-4 of thorax
+clypeo-labral disc specific anlage
+connective
+larval protocerebral connective
+larval cervical connective
+transverse projection
+TP2
+C2 fascicle
+larval supraesophageal connective
+TP4
+VM fascicle
+lateral longitudinal fascicle
+humeral trabecule
+prothoracic tergum
+humeral bristle
+pronotum
+upper humeral bristle
+postpronotum
+transmedullary neuron Tm14
+Usib neuron
+metathoracic foramen
+haltere foramen
+hemocyte
+polygonal cell
+sessile hemocyte
+larval hemocyte
+embryonic/larval hemocyte
+podocyte
+melanotic mass
+antenna disc-derived cell-line
+basal stalk
+non-functional spiracular branch 5
+antenno-maxillary complex
+Dv5 neuroblast
+medioscutal air sac
+cortex of the central nervous system
+adult brain cortex
+mushroom body cortex
+female pronucleus
+epithelial cell
+enterocyte
+mystery cell
+nurse follicle cell
+oocyte associated follicle cell
+imaginal disc epithelial cell
+abdominal neuroblast
+abdominal 1 neuroblast g
+abdominal 3 neuroblast medial cluster
+abdominal 5 neuroblast medial cluster
+abdominal 2 neuroblast ventro-lateral cluster neuron
+abdominal 1 neuroblast x
+abdominal 5 neuroblast ventro-medial cluster
+abdominal 4 neuroblast ventro-medial cluster
+abdominal 1 neuroblast s1
+abdominal 2 neuroblast medial cluster
+abdominal 4 neuroblast medial cluster
+abdominal 6 neuroblast medial cluster
+abdominal 1 neuroblast M
+abdominal 1 neuroblast al
+abdominal 3 neuroblast ventro-medial cluster
+abdominal 1 neuroblast s2
+abdominal 2 neuroblast dorso-lateral cluster
+abdominal neuroblast medial cluster
+abdominal 2 neuroblast ventro-medial cluster
+abdominal 1 neuroblast t3
+abdominal 6 neuroblast ventro-medial cluster
+abdominal 7 neuroblast medial cluster
+abdominal 2 lateral transverse muscle 2
+abdominal dorsal transverse muscle 1
+anterior ectoderm
+abdominal 3 lateral transverse muscle 3
+transverse muscle
+abdominal 2 dorsal acute muscle 3
+dorsal abdominal es2
+abdominal 3 lateral longitudinal muscle
+hypodermal muscle of larval abdomen
+mushroom body primordium
+abdominal oblique muscle
+dorsal thoracic da2
+male terminalia
+abdominal 7 ventral oblique muscle 2
+lateral acute muscle
+abdominal 4 acute muscle
+apoptotic amnioserosa
+abdominal 3 ventral oblique muscle 2
+external sensory organ precursor cell IIb
+ventral histoblast nest abdominal 4
+lateral thoracic es6
+abdominal 7 lateral transverse muscle
+cardiogenic mesoderm
+abdominal 2 transverse muscle
+abdominal 3 dorsal oblique muscle 5
+abdominal 1 lateral transverse muscle 3
+abdominal 3 dorsal oblique muscle 1
+abdominal 6 transverse muscle
+adult myoblast
+abdominal tergite 1
+dorsal acute muscle
+metathoracic dorsal acute muscle 4
+abdominal 4 dorsal transverse muscle
+analia
+abdominal 5 acute muscle
+abdominal 6 longitudinal muscle
+ventral thoracic es4
+abdominal 1 ventral longitudinal muscle
+abdominal 7 ventral oblique muscle 3
+dorsal ectoderm
+abdominal 7 ventral oblique muscle 6
+abdominal tracheal primordium
+abdominal 9 dorsal transverse muscle 1
+ventral longitudinal muscle
+abdominal 3 ventral longitudinal muscle 1
+embryonic proventriculus intermediate layer
+abdominal 1 ventral oblique muscle 2
+larval dorsal trunk
+crystal cell
+ventral sensory complex anlage
+abdominal 6 ventral oblique muscle 2
+stomatogastric nervous system primordium
+dorsal thoracic es1
+dorsal ridge
+pericardial cell primordium
+abdominal 2 ventral oblique muscle 5
+maxillary sensory complex primordium
+lateral thoracic da3
+lateral adult muscle precursor cluster abdominal 5
+posterior dorsal histoblast nest abdominal 8
+acute muscle
+abdominal sternite 1
+prothoracic dorsal oblique muscle 2
+abdominal 4 ventral oblique muscle 3
+abdominal 3 ventral longitudinal muscle 2
+TP3
+VL fascicle
+DM fascicle
+DI fascicle
+TP1
+medial longitudinal fascicle
+longitudinal connective
+intermediate longitudinal fascicle
+TP5
+DL fascicle
+CL fascicle
+C3 fascicle
+C1 fascicle
+VI fascicle
+germ layer derivative
+abdominal dorsal transverse muscle 1 founder cell
+Pcv6 neuroblast
+Pad18 neuroblast
+abdominal dorsal oblique muscle 3 founder cell
+Pcd15 neuroblast
+Pcd16 neuroblast
+Pcd20 neuroblast
+Pcd1 neuroblast
+Pad4 neuroblast
+Pcd2 neuroblast
+Pcd8 neuroblast
+Pcd4 neuroblast
+Pad1 neuroblast
+Pad3 neuroblast
+Pad2 neuroblast
+Pcd7 neuroblast
+Pcv9 neuroblast
+Pcv7 neuroblast
+embryonic heart anchoring cell primordium
+Pcd17 neuroblast
+fusion competent cell
+abdominal ventral acute muscle 2 founder cell
+muscle founder cell
+Pcd13 neuroblast
+Pad13 neuroblast
+Pcd14 neuroblast
+Pcv2 neuroblast
+Pcd3 neuroblast
+Pcd21 neuroblast
+Pcd10 neuroblast
+abdominal ventral acute muscle 3 founder cell
+Pcd11 neuroblast
+central protocerebral neuroblast
+Pav1 neuroblast
+Pcd9 neuroblast
+Pad16 neuroblast
+Pad8 neuroblast
+abdominal ventral transverse muscle 1 founder cell
+Pcv4 neuroblast
+Pcv3 neuroblast
+anterior protocerebral neuroblast
+Pad10 neuroblast
+Pcv5 neuroblast
+abdominal lateral oblique muscle 1 founder cell
+Pad14 neuroblast
+Pad15 neuroblast
+Pcd19 neuroblast
+Pad17 neuroblast
+Pcd12 neuroblast
+Pcv8 neuroblast
+Pcv1 neuroblast
+dorsal central protocerebral neuroblast
+ventral central protocerebral neuroblast
+abdominal ventral acute muscle 1 founder cell
+Pad11 neuroblast
+ventral anterior protocerebral neuroblast
+Pcd5 neuroblast
+protocerebral neuroblast
+Pad6 neuroblast
+Pad5 neuroblast
+procephalic glioblast
+Pad7 neuroblast
+Pcd18 neuroblast
+dorsal anterior protocerebral neuroblast
+Pcd6 neuroblast
+Pad9 neuroblast
+hemangioblast
+adult ventral anastomosis 1
+abdominal neuroblast ventro-medial cluster
+abdominal 1 neuroblast t1
+optic lobe pioneer neuron 3
+mechanosensory chaeta
+prothoracic tarsal bristle longitudinal row 1
+postvertical bristle
+posterior vertical bristle
+prothoracic coxal bristle on hairy island
+prothoracic tarsal bristle longitudinal row 5.5
+microchaeta
+prothoracic tarsal bristle longitudinal row 2
+frontal bristle
+prothoracic tibial transverse bristle row
+middle orbital bristle
+vibrissae
+postorbital bristle
+vertical bristle
+interocellar bristle
+fronto-orbital bristle
+abdominal sternite bristle
+anterior vertical bristle
+prothoracic tarsal bristle longitudinal row
+prothoracic tarsal bristle longitudinal row 5
+prothoracic tarsal bristle longitudinal row 8
+subvibrissal bristle
+abdominal tergite marginal bristle
+macrochaeta
+prothoracic tarsal segment 1 central bristle
+occipital bristle
+prothoracic tarsal segment 1 transverse row
+anterior orbital bristle
+prothoracic tibial preapical bristle
+prothoracic tarsal bristle longitudinal row 6
+prothoracic tarsal bristle longitudinal row 4
+prothoracic tarsal bristle longitudinal row 3
+orbital bristle
+prothoracic trochanter edge bristle
+prothoracic tarsal bristle
+prothoracic tibial apical bristle
+prothoracic tarsal bristle longitudinal row 7
+abdominal dorsal branch 5
+procephalic neuroblast
+dorsal tritocerebral neuroblast
+Td8 neuroblast
+Tv1 neuroblast
+tritocerebral neuroblast
+Dv4 neuroblast
+Dd3 neuroblast
+dorsal deuterocerebral neuroblast
+Dd4 neuroblast
+Dd10 neuroblast
+Td2 neuroblast
+Td5 neuroblast
+Td1 neuroblast
+Dd12 neuroblast
+Dd6 neuroblast
+Tv4 neuroblast
+ventral tritocerebral neuroblast
+Dv1 neuroblast
+Dv7 neuroblast
+Tv2 neuroblast
+Tv5 neuroblast
+Dd1 neuroblast
+Dd2 neuroblast
+deuterocerebral neuroblast
+ventral deuterocerebral neuroblast
+Dd11 neuroblast
+Td3 neuroblast
+Td6 neuroblast
+desn neuron
+abdominal 6 desB neuron
+vch1 neuron
+v&apos;esB neuron
+abdominal 7 vch neuron
+abdominal 7 desD neuron
+photoreceptor cell R5 pigment granule
+photoreceptor cell R4 stalk
+mesothoracic dorsal multidendritic neuron ddaE
+v&apos;es3 neuron
+dorsal multidendritic neuron
+v&apos;es2 neuron
+photoreceptor cell R7 stalk
+abdominal 5 desD neuron
+abdominal 8 desn neuron
+photoreceptor cell R1 pigment granule
+abdominal 2 ventral multidendritic neuron vdaC
+rhabdomere R3
+rhabdomere R6
+mesothoracic desD neuron
+photoreceptor cell R4 pigment granule
+abdominal 2 v&apos;esA neuron
+photoreceptor cell R2 stalk
+metathoracic vesE neuron
+photoreceptor cell pigment granule
+skeletal muscle of mesothoracic leg
+mesothoracic tibial depressor muscle
+mesothoracic intracoxal levator muscle 68
+mesothoracic tibial levator muscle 70
+mesothoracic intracoxal depressor muscle 67
+mesothoracic tibial depressor muscle 71
+mesothoracic tarsal levator muscle 73
+mesothoracic tarsal depressor muscle 74
+mesothoracic femoral reductor muscle 69
+mesothoracic pretarsal depressor muscle 75
+mesothoracic depressor muscle
+mesothoracic levator muscle
+mesothoracic reductor muscle
+mesothoracic tibial depressor muscle 72
+mesothoracic extracoxal depressor muscle 66
+stage S1 oocyte
+stage S10B oocyte
+stage S13C oocyte
+stage S6 oocyte
+stage S7 oocyte
+stage S3 oocyte
+stage S9 oocyte
+stage S10A oocyte
+stage S12B oocyte
+stage S13B oocyte
+stage S11 oocyte
+stage S4 oocyte
+stage S12A oocyte
+stage S13 oocyte
+stage S13D oocyte
+stage S10 oocyte
+stage S13A oocyte
+stage S2 oocyte
+stage S14B oocyte
+stage S5 oocyte
+stage S14 oocyte
+stage S8 oocyte
+stage S14A oocyte
+stage S12C oocyte
+anteroventral group sensillum V1
+abdominal 6 ventral monoscolopidial chordotonal organ vch1
+dorso-lateral group terminal organ sensillum
+lateropharyngeal organ
+abdominal 1 lateral sensillum campaniformium lc1
+laterohypopharyngeal organ
+abdominal 2 dorsal sensillum trichodeum dh1
+abdominal 3 ventral sensillum campaniformium vc5
+abdominal 3 basiconical sensillum dbd
+pit sensillum T4
+prothoracic lateral sensillum trichodeum lh1
+abdominal 7 ventral sensillum campaniformium vc3
+knob in pit sensillum
+abdominal 2 dorsal sensillum trichodeum h3
+abdominal 2 ventral monoscolopidial chordotonal organ vch2
+papilla of dorsal organ 5
+medial group of sensillum 3
+mesothoracic lateral sensillum campaniformium lc1
+mesothoracic dorsal sensillum trichodeum dh2
+abdominal lateral sensillum trichodeum lh2
+abdominal 3 ventral sensillum campaniformium vc4b
+metathoracic dorsal sensillum campaniformium dc1
+abdominal 7 dorsal sensillum campaniformium dc1
+distal group terminal organ sensillum
+abdominal 3 lateral sensillum trichodeum lh2
+mesothoracic ventral sensillum campaniformium vc1
+anteroventral group sensillum V2
+abdominal 7 lateral sensillum trichodeum lh2
+larval antennal segment sensillum
+prothoracic dorsal sensillum trichodeum dh1
+abdominal 4 ventral monoscolopidial chordotonal organ vch2
+abdominal 1 ventral sensillum campaniformium vc3
+prothoracic XF cell
+oenocyte
+adult epidermis
+embryonic/first instar larval cuticle
+abdominal 5 X cell
+abdominal 7 X cell
+larval dorsal pouch
+epidermal cell
+embryonic head epidermis
+metathoracic XF cell
+embryonic dorsal pouch
+puparium
+XF cell
+thoracic XF cell
+abdominal 2 X cell
+abdominal XF cell
+third instar larval cuticle
+abdominal 6 XF cell
+chitinous intima of the adult foregut
+mesothoracic XF cell
+X and XF cell
+chitinous intima of the adult hindgut
+epidermoblast
+adult cuticle
+chitinous intima
+embryonic ventral trunk epidermis
+abdominal 1 X cell
+inner layer of dorsal pouch
+embryonic dorsal epidermis
+ventral head epidermis
+pupal epidermis
+dorsal head epidermis
+embryonic anal pad
+second instar larval cuticle
+embryonic ventral epidermis
+dorsal fold
+embryonic epidermis
+abdominal 1 XF cell
+lateral head epidermis
+adult oenocyte
+abdominal 4 XF cell
+abdominal 2 XF cell
+outer layer of dorsal pouch
+dorsal pouch
+cuticle
+abdominal 3 XF cell
+abdominal X cell
+abdominal 3 X cell
+abdominal 4 X cell
+larval MB calyx glomerulus I7
+dorso-posterior neuropil compartment
+larval protocerebrum
+labral nerve
+clypeo-labral disc
+lamina anlage glial cell
+lamina neuropil
+larval mushroom body calyx glomerulus
+medial proliferation zone
+larval MB calyx glomerulus A3
+larval optic neuropil
+larval MB calyx glomerulus V7
+lobula plate neuropil
+larval MB calyx glomerulus I2
+larval MB calyx glomerulus I3
+lamina plexus
+lamina forming neuroblast
+larval MB calyx glomerulus V4
+medulla cortex
+lobula anlage
+lamina cortex
+centro-posterior medial neuropil compartment
+baso-posterior lateral neuropil compartment
+medulla neuropil
+centro-posterior lateral neuropil compartment
+larval MB calyx glomerulus I6
+epithelial glial cell
+larval MB calyx glomerulus I4
+posterior dorsal histoblast nest abdominal 6
+abdominal tergite 6
+stage P8 pharate adult
+stage P12(ii) pharate adult
+stage P9 pharate adult
+stage P15(ii) pharate adult
+stage A3 adult
+stage P14 pharate adult
+stage P15 pharate adult
+stage P12 pharate adult
+stage P12(i) pharate adult
+stage P13 pharate adult
+stage P10 pharate adult
+stage A1 adult
+stage P11(i) pharate adult
+stage P15(i) pharate adult
+stage P11 pharate adult
+stage A2 adult
+stage P11(ii) pharate adult
+dorsal abdominal es3
+mature eight-cell ommatidial precursor cluster
+four cone-cell ommatidial precursor cluster
+two cone-cell ommatidial precursor cluster
+stage S12 oocyte
+sensory organ cell
+cone cell pigment granule
+scolopidial ligament cell
+trichogen cell
+scolopidial sheath cell
+primary pigment cell
+tormogen cell
+eo support cell
+secondary pigment cell pigment granule
+tertiary pigment cell
+lch5 cap attachment cell
+thecogen dendritic cap
+ocellus corneagenous cell
+lch5 ligament attachment cell
+equatorial cone cell
+subretinal glial cell
+posterior cone cell
+thecogen cell
+posterior cone cell pigment granule
+eo sensory structure
+anterior cone cell
+inter-ommatidial cell
+equatorial cone cell pigment granule
+secondary pigment cell
+scolopidial dendritic cap cell
+polar cone cell
+dendritic cap cell
+socket
+primary pigment cell pigment granule
+anterior cone cell pigment granule
+cone cell
+pigment cell
+pigment granule
+polar cone cell pigment granule
+tertiary pigment cell pigment granule
+eb-pb-vbo neuron
+abdominal 4 Z neuron
+subesophageal ganglion
+taste-sensory glomerulus M
+mandibular segment of subesophageal ganglion
+taste-sensory glomerulus DA
+taste-sensory glomerulus VL
+taste-sensory glomerulus VM
+labial segment of subesophageal ganglion
+taste-sensory region glomerulus
+maxillary segment of subesophageal ganglion
+pharyngeal nerve
+connected_to
+cervical connective
+accessory pharyngeal nerve
+adult labial nerve
+proboscis muscle
+proboscis muscle 1
+proboscis muscle 2
+proboscis muscle 3
+broad
+abdominal 1 neuroblast t2
+adult transverse connective 5
+abdominal 5 lateral oblique muscle
+abdominal 5 lateral oblique muscle 1
+abdominal 5 lateral pentascolopidial chordotonal organ lch5
+abdominal 1 ventral monoscolopidial chordotonal organ vch2
+associated organ
+abdominal 4 lateral pentascolopidial chordotonal organ lch5
+chordotonal organ with two scolopidia
+prothoracic ventral sensillum campaniformium vc1
+anterior pharyngeal organ
+abdominal 5 dorsal sensillum trichodeum h3
+abdominal 2 lateral sensillum trichodeum lh1
+abdominal ventral sensillum campaniformium vc2
+abdominal ventral sensillum campaniformium vc5
+abdominal 6 ventral sensillum campaniformium vc3
+prothoracic slit papilla sensillum py
+dorsal organ
+abdominal 7 ventral sensillum campaniformium vc2
+labial sensillum 2
+prothoracic dorsal sensillum trichodeum dh2
+anteroventral group sensillum
+prothoracic slit papilla sensillum px
+abdominal ventral sensillum campaniformium vc1
+abdominal 6 lateral pentascolopidial chordotonal organ lch5
+dorsal group sensillum D1
+abdominal 1 ventral sensillum campaniformium vc2
+metathoracic dorsal triscolopidial chordotonal organ dch3
+dorsomedial papilla
+pit sensillum of distal group
+papilla of dorsal organ 2
+medial group of sensillum 1
+mesothoracic dorsal triscolopidial chordotonal organ dch3
+abdominal 4 lateral tergosternal muscle 122
+denticle row 5
+abdominal 4 dorsal oblique muscle 2
+mesothoracic leg foramen
+adult anus
+dorsal trunk anterior branch 5
+lamellocyte specific anlage
+small intestine primordium
+embryonic small intestine
+PL neuron
+cephalopharyngeal skeleton
+dental sclerite
+embryonic tentorium
+prothoracic X cell
+abdominal 7 XF cell
+embryonic oenocyte
+larval cuticle
+metathoracic X cell
+embryonic leading edge cell
+X cell
+abdominal 5 XF cell
+lateral G branch 6
+ostiolar valve 4
+abdominal 7 lateral oblique muscle 1
+lateral trunk anterior branch 2
+metathoracic leg sensillum
+metathoracic tarsal bristle
+metathoracic tarsal bristle longitudinal row 5.5
+metathoracic trochanter sensillum campaniformium Sc13
+metathoracic coxal sensillum trichodeum St4
+metathoracic trochanter sensillum trichodeum St5
+metathoracic femoral chordotonal organ
+metathoracic trochanter sensillum trichodeum St1
+metathoracic tarsal bristle transverse row 2
+metathoracic femoral chordotonal organ 2
+metathoracic trochanter sensillum trichodeum
+metathoracic trochanter sensillum campaniformium
+metathoracic trochanter sensillum campaniformium Sc-
+metathoracic tarsal bristle longitudinal row
+metathoracic coxal sensillum trichodeum
+metathoracic femoral sensillum campaniformium Sc11
+metathoracic tarsal bristle longitudinal row 6
+metathoracic femoral sensillum campaniformium Sc1
+metathoracic tarsal bristle longitudinal row 3
+metathoracic tibial transverse bristle row
+metathoracic tarsal bristle longitudinal row 5
+metathoracic femoral bract
+metathoracic trochanter sensillum campaniformium Sc+5
+metathoracic leg taste bristle
+metathoracic trochanter edge bristle
+metathoracic coxal bristle on hairy island
+metathoracic coxal sensillum trichodeum St3
+metathoracic trochanter sensillum campaniformium Sc3
+metathoracic tarsal bristle longitudinal row 1
+metathoracic tarsal bristle longitudinal row 4
+metathoracic femoral sensillum campaniformium
+metathoracic tibial sensillum trichodeum
+metathoracic femoral chordotonal organ 3
+metathoracic tarsal bristle longitudinal row 7
+metathoracic tibial bract
+metathoracic femoral chordotonal organ 1
+metathoracic tibial preapical bristle
+metathoracic coxal sensillum trichodeum St8
+metathoracic tarsal bristle longitudinal row 8
+visceral branch 2
+embryonic/larval gonadal sheath muscle
+embryonic gonadal sheath muscle
+larval gonadal sheath muscle
+abdominal 1 acute muscle
+abdominal 1 dorsal acute muscle 2
+abdominal 1 ventral acute muscle
+abdominal 1 ventral acute muscle 2
+abdominal 1 dorsal acute muscle 1
+abdominal 1 ventral acute muscle 1
+abdominal 1 dorsal acute muscle
+abdominal 1 dorsal acute muscle 3
+abdominal 1 ventral acute muscle 3
+cibarial dilator muscle 11
+mouthpart
+labellar taste peg
+abdominal tracheal pit 5
+tracheal fusion cell
+tracheal node cell
+abdominal ventral oblique muscle 1
+abdominal 7 ventral oblique muscle 1
+abdominal 6 ventral oblique muscle 1
+abdominal 2 ventral oblique muscle 1
+abdominal 8 ventral oblique muscle 1
+abdominal 1 ventral oblique muscle 1
+abdominal 9 ventral oblique muscle 1
+abdominal 3 ventral oblique muscle 1
+abdominal 5 ventral oblique muscle 1
+abdominal 4 ventral oblique muscle 1
+metathoracic pretarsal depressor muscle 96
+adult prothoracic chordotonal organ
+prothoracic femoral chordotonal organ 2
+prothoracic femoral chordotonal organ 1
+prothoracic femoral chordotonal organ
+prothoracic femoral chordotonal organ 3
+muscle 17
+rectum specific anlage
+MP1 neuron
+MP1b neuron
+MP1a neuron
+thoracic-abdominal embryonic fiber tract founder cluster
+posterior VUM precursor
+mid VUM precursor
+ventral midline glioblast
+MP1 precursor
+anterior VUM precursor
+ventral midline neuroblast
+VUM precursor
+mitotic domain 21
+adult pars intercerebralis
+dorsal group dA neuron
+neurohemal organ
+dorsal neurohemal organ
+lateral trunk posterior branch 4
+egg operculum
+abdominal 1 VUM3 neuron
+pharyngeal nerve projection
+transmedullary neuron Tm20
+antennal glomerulus VC2
+taenidia
+taenidial fold
+adult excretory system
+adult Malpighian tubule segment
+adult specialised Malpighian tubule cell
+adult transitional segment of Malpighian tubule
+meconium
+adult posterior Malpighian tubule
+adult Malpighian tubule Type I cell
+adult Malpighian tubule Type II cell
+adult anterior Malpighian tubule
+adult Malpighian tubule
+adult Malpighian tubule tip cell
+adult excretory structure
+adult ureter
+yellow body
+adult initial segment of Malpighian tubule
+abdominal ventro-lateral cluster neuroblast
+abdominal 7 ventro-lateral cluster neuroblast
+pre-blastoderm embryo
+cycle 1 embryo
+cycle 3 embryo
+pole plasm
+stage 11 embryo
+cycle 4 embryo
+cycle 12 embryo
+cycle 5 embryo
+larval sense organ
+abdominal 5 ventral sensillum campaniformium vc1
+dorsal group sensillum D4
+larval thoracic sensillum
+abdominal 1 lateral sensillum trichodeum lh1
+prothoracic ventral monoscolopidial chordotonal organ vch1
+abdominal 5 ventral monoscolopidial chordotonal organ vch1
+metathoracic lateral Kolbchen lbd
+larval abdominal sensillum
+larval abdominal 11 sensillum
+mesothoracic Keilin&apos;s organ
+abdominal 3 lateral pentascolopidial chordotonal organ lch5
+abdominal 7 dorsal sensillum trichodeum h3
+abdominal 1 ventral sensillum campaniformium vc1
+buccal tree
+ventral organ sensillum V2
+abdominal 7 lateral sensillum trichodeum lh1
+abdominal 5 ventral sensillum campaniformium vc4a
+posteriolateral sensillum V4
+abdominal 4 ventral sensillum campaniformium vc4b
+abdominal 2 ventral sensillum campaniformium vc1
+mesothoracic lateral sensillum trichodeum lh1
+abdominal 5 dorsal sensillum campaniformium dc1
+abdominal 6 basiconical sensillum dbd
+prothoracic dorsal sensillum campaniformium dc2
+abdominal lateral monoscolopidial chordotonal organ lch1
+prothoracic lateral sensillum campaniformium lc1
+abdominal 3 ventral monoscolopidial chordotonal organ vch2
+prothoracic lateral triscolopidial chordotonal organ lch3
+abdominal 4 dorsal sensillum trichodeum dh1
+abdominal 6 lateral sensillum campaniformium lc1
+anteroventral group sensillum V3
+abdominal 8 dorsomedial sensillum basiconicum ALSOp
+lateral process
+median tooth
+vertical bridge
+larval tentorium
+dorsal arm of pharyngeal sclerite
+ventral arm of pharyngeal sclerite
+mouth hooks
+dorsal bridge
+hypostomal sclerite
+epipharyngeal sclerite
+pharyngeal sclerite
+embryonic/larval tentorium
+Wheeler&apos;s organ 4
+antenna
+antennal segment 2 sensillum
+sacculus
+antennal segment 3 sensillum
+small sensillum basiconicum of antennal segment 3
+sensillum basiconicum of antennal segment 3
+grooved sensillum 1
+second antennal segment muscle
+long arista lateral
+antennal segment 3
+grooved sensillum 2
+antennal segment 1
+aristal nerve
+Johnston&apos;s organ
+large sensillum basiconicum of antennal segment 3
+antennal segment 2
+antennal segment 4
+basal cylinder
+arista lateral
+aristal sense organ
+arista central core
+antennal segment 5
+basiconic sensillum of sacculus
+grooved sensillum of sacculus
+blunt-tipped sensillum of sacculus
+ocular-antennal muscle
+segment of antenna
+arista
+second antennal segment muscle 14
+adult antennal sense organ
+sensillum trichodeum of antennal segment 3
+labellum sensillum
+cibarial fish-trap bristle
+ventral margin of cibarium
+labrum
+adult maxillary structure
+proboscis
+labral muscle 5
+posterior plate of cibarium
+cibarial pump muscle neuron
+mentum
+ventral cibarial sense organ
+mechanosensory labral sensillum 4
+distiproboscis
+haustellum muscle 7
+mechanosensory labral sensillum 3
+dorsal arm of lacinia
+mechano-chemo-sensory labral sensillum 9
+anterior plate of cibarium
+cibarial dilator muscle 12
+lower row cibarial fish-trap bristle
+mechanosensory labral sensillum 2
+cibarial muscle 10
+mechanosensory labral sensillum 1
+haustellum muscle 8
+pseudotracheal sensillum
+mediproboscis
+labellar taste bristle
+maxillary palp bristle
+mechanosensory labral sensillum 6
+adult labral sense organ
+maxillary palp sense organ
+pseudotracheal taste peg
+clypeus
+dorsal cibarial sensillum 1
+anterior labial plate
+cibarium
+haustellum muscle
+labellar cap
+dorsal cibarial sensillum 2
+mechanosensory labral sensillum
+dorsal cibarial sense organ
+lacinia
+mechanosensory labral sensillum 5
+cibarial dilator muscle
+haustellum muscle 6
+maxillary palp sensillum basiconicum
+ventral arm of lacinia
+prestomal cavity
+cibarial muscle 9
+maxillary lobe
+basiproboscis
+chemosensory labral sensillum 7
+discal sclerite
+mechano-chemo-sensory labral sensillum 8
+cibarial muscle
+prementum
+maxillary palpus
+upper row cibarial fish-trap bristle
+labellum
+anterior arm of lacinia
+cibarial plate
+embryonic cortex
+stage 2 embryo
+stage 1 embryo
+stage 17 embryo
+cycle 8 embryo
+cycle 10 embryo
+cycle 11 embryo
+stage 7 embryo
+stage 13 embryo
+cycle 9 embryo
+stage 8 embryo
+cycle 6 embryo
+cycle 2 embryo
+pole granule
+sperm derived structure
+cycle 7 embryo
+stage 10 embryo
+cycle 13 embryo
+stage 12 embryo
+stage 6 embryo
+stage 9 embryo
+stage 15 embryo
+stage 16 embryo
+stage 5 embryo
+epiphysis
+abdominal 3 dorsal sensillum campaniformium dc2
+abdominal 6 ventral sensillum campaniformium vc1
+abdominal 5 ventral sensillum campaniformium vc4b
+abdominal dorsal sensillum trichodeum dh1
+pit sensillum T3
+sensillum campaniformium P1
+abdominal 3 ventral sensillum campaniformium vc4a
+Kolbchen
+abdominal 2 lateral sensillum trichodeum lh2
+abdominal 3 dorsal sensillum campaniformium dc1
+prothoracic dorsal sensillum campaniformium dc3
+prothoracic dorsal triscolopidial chordotonal organ dch3
+labial organ
+dorsal group sensillum
+abdominal 1 basiconical sensillum dbd
+abdominal 4 ventral sensillum campaniformium vc5
+abdominal 3 ventral sensillum campaniformium vc2
+abdominal 6 ventral sensillum campaniformium vc4b
+abdominal 4 lateral sensillum campaniformium lc1
+abdominal 7 ventral monoscolopidial chordotonal organ vch2
+metathoracic dorsal sensillum trichodeum dh2
+abdominal 9 dorsocaudal sensory organ PSLOh
+abdominal 6 lateral sensillum trichodeum lh1
+ventral organ sensillum V3
+abdominal 4 lateral monoscolopidial chordotonal organ lch1
+abdominal 6 ventral sensillum campaniformium vc5
+abdominal 4 lateral sensillum trichodeum lh2
+papilla organ
+abdominal 5 lateral sensillum campaniformium lc1
+hypopharyngeal sense organ
+abdominal 7 ventral monoscolopidial chordotonal organ vch1
+sensillum coeloconica of antennal segment 3
+short arista lateral
+second antennal segment muscle 15
+antennal segment 3 thermosensory organ
+subperineurial associated glial cell
+adipose system
+embryonic fat body
+adult adipose system
+embryonic/larval fat body region 5
+larval fat body
+fat body
+embryonic/larval fat body region 3&apos;&apos;
+embryonic/larval fat body region 2&apos;&apos;
+larval adipose system
+embryonic/larval fat body region 3&apos;
+embryonic/larval adipose system
+anterior fat body plate
+adult fat body
+embryonic/larval fat body
+posterior fat body plate
+deep adult fat mass
+pericardial adult fat mass
+embryonic/larval fat body region 6
+embryonic/larval fat body region 4
+peripheral adult fat mass
+embryonic/larval fat body region 1
+abdominal adult fat mass
+embryonic/larval fat body region 2&apos;
+spiracular sensory organ
+spiracular sensillum trichodeum 3
+spiracular sensillum trichodeum 4
+spiracular sensillum trichodeum 1
+spiracular sensillum trichodeum 2
+mesothoracic dorsal acute muscle 3
+lamina intrinsic neuron
+ocellar bristle
+abdominal internal lateral muscle
+abdominal 5 internal lateral muscle 132
+abdominal 2 internal lateral muscle 114
+abdominal 4 internal lateral muscle 126
+abdominal 3 internal lateral muscle 120
+cephalic branch
+lateral cephalic branch
+dorsal cephalic branch
+ventral cephalic branch
+embryonic Malpighian tubule Type I cell
+abdominal intersegmental apodeme
+abdominal 2 intersegmental apodeme
+abdominal 7 intersegmental apodeme
+abdominal 5 intersegmental apodeme
+abdominal 4 intersegmental apodeme
+abdominal 6 intersegmental apodeme
+abdominal 1 intersegmental apodeme
+abdominal 3 intersegmental apodeme
+paraphysis
+A3 neuron
+cephalic vascular remnant
+LP1 neuron
+denticle field
+denticle row
+mesothoracic ventral denticle belt
+abdominal ventral denticle belt
+abdominal 4 ventral denticle belt
+denticle row 6
+metathoracic ventral denticle belt
+abdominal 5 ventral denticle belt
+mechano-chemo-sensory labral sensillum
+cibarial sense organ
+mesothoracic segment
+mesothoracic tibial sensillum trichodeum
+sensillum campaniformium of proximal ventral radius
+mesothoracic coxal sensillum trichodeum St8
+mesothoracic metatarsus
+tergosternal muscle 47c
+indirect flight muscle motor neuron MN1
+dorsal mesothoracic disc
+mesothoracic ventral longitudinal muscle
+mesothoracic auxilia
+mesothoracic ventral oblique muscle 2
+mesothoracic oblique muscle
+mesothoracic transverse muscle
+median sclerite
+mesothoracic dorsal acute muscle 4
+basalar muscle 52
+sensillum campaniformium of ventral radius Sc3
+mesothoracic tarsal bristle longitudinal row
+basalar muscle 51
+unnamed sclerite
+1st posterior cell
+medial costal vein
+mesothoracic dorsal oblique muscle 1
+larval mesothoracic segment
+wing sclerite
+mesothoracic ventral longitudinal muscle 1
+embryonic mesothoracic segment
+mesothoracic pretarsus
+mesothoracic pleurosternal muscle 59
+mesothoracic dorsal acute muscle 1
+mesothoracic ventral neurosecretory neuron
+mesothoracic unguitractor plate
+indirect flight muscle motor neuron
+tergal depressor of trochanter muscle motor neuron
+tergosternal muscle 47a
+mesothoracic episternum
+costal vein
+chordotonal organ of wing
+dorsal medial muscle 45c
+pleural sclerite
+submarginal cell
+coxal tergal remotor muscle
+mesothoracic segment border muscle
+mesothoracic trochanter sensillum trichodeum
+dorsal tp motor neuron
+mesothoracic pleurosternal muscle 60
+mesothoracic sternal promotor muscle 64
+subalar muscle 57
+dorsal wing blade
+mesothoracic intersegmental nerve
+ventral wing blade
+mesothoracic segmental nerve
+mesothoracic tarsal bristle longitudinal row 8
+mesothoracic unguis scale
+wing hinge primordium
+wing nerve L3-1
+mesothoracic neuromere
+mesothoracic leg sensillum
+indirect flight muscle motor neuron MN3
+mechanosensory ventral triple row
+mesothoracic tarsal segment 4
+axillary sclerite
+mesothoracic tarsal bristle longitudinal row 5
+middle sensillum
+mesothoracic unguis
+medial triple row
+stage 3 embryo
+stage 14 embryo
+stage 4 embryo
+embryonic visceral muscle
+abdominal 2 RP5 neuron
+adult eye primordium early
+eye disc
+eye
+adult eye primordium late
+abdominal anterior fascicle neuron
+prothoracic sternal anterior rotator muscle 31
+Dv3 neuroblast
+outer nurse cell ring canal rim
+endocrine organ
+adult corpus cardiacum
+embryonic corpus cardiacum
+corpus allatum
+adult corpus allatum
+corpus cardiacum
+retrocerebral complex
+larval corpus allatum
+ring gland
+larval corpus cardiacum
+embryonic corpus allatum
+nervus corporis cardiaci
+abdominal 7 ventral acute muscle 1
+plasmatocyte primordium
+narrow
+proplasmatocyte
+dorsal trunk posterior branch 1
+neurite
+dendrite
+dendritic tree
+accessory prothoracic nerve
+lobula
+ventral lobula cluster
+lobular columnar neuron Lcn3
+heterolateral columnar neuron
+lobular intrinsic neuron Li1
+lobular columnar neuron
+lobular tangential neuron
+ventral adult lateral neuron
+lobular intrinsic neuron
+lobular complex columnar neuron Lccn2
+lobular columnar neuron Lcn6
+lobular columnar neuron Lcn4
+lobular tangential neuron Lt6
+lobular tangential neuron Lt10
+lobular complex columnar neuron
+lobular intrinsic neuron Li2
+lobula layer Lo2
+larval head sense organ
+central dome sensillum
+abdominal 5 lateral sensillum trichodeum lh2
+larval foregut sensillum
+larval abdominal 10 sensillum
+abdominal 1 dorsal sensillum campaniformium dc2
+pharyngeal monoscolopidial chordotonal organ
+abdominal 2 ventral monoscolopidial chordotonal organ vch1
+abdominal 2 dorsal sensillum campaniformium dc1
+abdominal 4 ventral sensillum campaniformium vc4a
+pit sensillum of dlp
+dorsal group sensillum D6
+abdominal 1 lateral pentascolopidial chordotonal organ lch5
+mesothoracic ventral Kolbchen vbd
+larval abdominal 8 sensillum
+mesothoracic dorsal sensillum trichodeum dh1
+abdominal 2 ventral sensillum campaniformium vc4a
+abdominal 8 dorsomedial sensillum trichodeum ALSOh
+prothoracic ventral sensillum campaniformium vc2
+abdominal 5 lateral monoscolopidial chordotonal organ lch1
+papilla of dorsal organ 6
+knob sensillum of distal group
+abdominal 1 ventral monoscolopidial chordotonal organ vch1
+metathoracic dorsal sensillum trichodeum dh1
+abdominal 7 lateral sensillum campaniformium lc1
+abdominal 2 lateral pentascolopidial chordotonal organ lch5
+abdominal 8 lateral chordotonal organ lch3
+metathoracic lateral sensillum trichodeum lh1
+mesothoracic dorsal sensillum campaniformium dc1
+larval ocular segment sensillum
+abdominal ventral sensillum campaniformium vc4a
+ventral organ sensillum V5
+larval labral segment sense organ
+abdominal 11 anal tuft
+abdominal 3 ventral denticle belt
+denticle row 2
+abdominal 8 ventral denticle belt
+denticle belt
+denticle row 3
+abdominal 1 ventral denticle belt
+abdominal 6 ventral denticle belt
+denticle row 1
+denticle row 4
+abdominal 2 ventral denticle belt
+abdominal 9 ventral denticle belt
+prothoracic ventral denticle belt
+abdominal 7 ventral denticle belt
+protein body
+peripheral glial cell 4
+wing nerve GSR
+non-functional larval spiracle of abdominal segment 4
+mesectoderm
+ventral midline glia primordium
+midline neuronal primordium
+midline glial cell
+dorsal midline glial cell
+midline primordium
+ventral midline glial cell
+mesectoderm derivative
+ventral midline glia
+adult main segment of Malpighian tubule
+basal procephalic longitudinal glia cluster
+testis
+secondary spermatocyte
+spermatid axoneme
+Nebenkern
+primary spermatocyte in meiotic telophase I
+secondary spermatogonium
+comet stage spermatid
+coalescence stage spermatid
+early-mid elongation-stage spermatid
+onion stage spermatid
+minor mitochondrial derivative
+secondary spermatocyte in meiotic telophase II
+spermatozoon
+primary gonial cell
+spermatogonium
+elongation stage spermatid
+major mitochondrial derivative
+cyst cell
+proximal sensillum
+mesothoracic pulvillus
+mesothoracic dorsal acute muscle
+adult mesothoracic segment
+adepithelial cell of ventral mesothoracic disc
+distal sensillum
+mesothoracic tarsal bristle longitudinal row 5.5
+sensillum campaniformium of dorsal radius Sc12
+mesothoracic coxal sensillum trichodeum St4
+axillary pouch
+wing nerve TSM(1)
+mesothoracic spiracle occlusor muscle 76
+wing cell
+yellow club
+dorsal triple row
+dorsal medial muscle 45e
+middle sternopleural bristle
+alar lobe
+mesothoracic sternal remotor muscle 65
+mesothoracic coxal sensillum trichodeum
+mesothoracic ventral oblique muscle 1
+mesothoracic lateral oblique muscle 1
+mesothoracic femoral chordotonal organ 2
+sensillum campaniformium of anterior crossvein
+mesothoracic leg
+muscle of third axillary 54
+2nd posterior cell
+mesothoracic trochanter sensillum campaniformium Sc+5
+mesothoracic lateral transverse muscle
+wing foramen
+mesothoracic coxal sensillum trichodeum St3
+wing nerve TSM(2)
+adult external mesothorax
+posterior cell
+indirect flight muscle motor neuron MN5
+crossvein
+mesothoracic trochanter sensillum campaniformium Sc-
+wing nerve vHCV
+mesothoracic trochanter edge bristle
+mesothoracic acute muscle
+wing nerve dHCV
+air sac tracheoblast of dorsal mesothoracic disc
+mesothoracic trochanter sensillum campaniformium Sc3
+wing basal cell 2
+muscle of third axillary 55
+accessory mesothoracic nerve
+posterior sternopleural bristle
+marginal cell
+axillary muscle
+III1 motor neuron
+double row
+lateral oblique dorsal muscle
+mesothoracic tibial apical bristle
+basal sclerite
+hypodermal muscle of mesothorax
+ventral mesothoracic nerve
+sternopleural bristle
+adult mesothoracic sensillum
+mesothoracic lateral oblique muscle
+mesothoracic tarsal segment 3
+mesothoracic tarsal bristle longitudinal row 2.5
+wing vein L3
+mesothoracic lateral transverse muscle 3
+mesothoracic epimeron
+sensillum campaniformium of ventral radius Sc4vm
+mesothoracic tarsal segment
+wing nerve ACV
+3rd axillary sclerite
+ventral humeral crossvein sensillum campaniformium
+alula
+b2 motor neuron
+wing sensillum
+lobular tangential neuron Lt9
+lobular columnar neuron Lcn5
+lobula layer Lo1
+lobular columnar neuron Lcn1
+lobular tangential neuron Lt4
+lobular tangential neuron Lt8
+lobular columnar neuron Lcn2
+lobular tangential neuron Lt2
+Olt neuron
+lobula layer Lo4
+lobular tangential neuron Lt5
+lobular tangential neuron Lt3
+lobular columnar neuron Lcn7
+lobula layer Lo3
+lobular complex columnar neuron Lccn1
+lobular tangential neuron Lt1
+lobular columnar neuron Lcn8
+lobular tangential neuron Lt7
+medial cell body glial cell
+midgut
+adult midgut epithelium
+gut suspension muscle 1
+posterior larval midgut
+larval midgut
+embryonic midgut interstitial cell
+midgut chamber 2
+larval peritrophic membrane
+embryonic/larval peritrophic membrane
+midgut chamber 1
+principal midgut epithelial cell
+specialised larval midgut cell
+embryonic/larval midgut
+larval gastric caecum
+adult peritrophic membrane
+ventriculus circular muscle
+iron accumulating cell
+gut suspension muscle 3
+gastric caecum
+embryonic peritrophic membrane
+anterior embryonic/larval midgut
+larval midgut interstitial cell
+adult posterior midgut epithelium
+larval cardial valve
+gut suspension muscle 2
+adult midgut
+larval cuprophilic cell
+midgut constriction
+embryonic midgut
+outer sheath cell
+posterior adult midgut progenitor
+embryonic midgut chamber
+adult midgut pyloric epithelium
+midgut muscle
+posterior embryonic midgut
+midgut chamber
+anterior larval midgut
+embryonic anterior midgut
+adult midgut precursor
+large basophilic midgut cell
+midgut chamber 3
+gut suspension muscle
+ventriculus muscle
+cuprophilic cell
+midgut constriction 1
+peritrophic membrane
+larval principal midgut epithelial cell
+gut suspension muscle 4
+enteroendocrine cell
+midgut constriction 3
+midgut interstitial cell
+hypomaxillary organ
+abdominal lateral sensillum campaniformium lc1
+ventral organ sensillum
+larval head sensillum
+knob sensillum K1
+abdominal 4 lateral sensillum trichodeum lh1
+abdominal 10 caudal sensillum basiconicum ASO
+ventral organ sensillum V1
+abdominal lateral sensillum trichodeum lh1
+pit sensillum T2
+sensillum campaniformium P2
+medial group of sensillum 2
+prothoracic basiconical sensillum dbd
+dorsal group sensillum D5
+abdominal 3 dorsal sensillum trichodeum h3
+abdominal basiconical sensillum dbd
+abdominal 6 dorsal sensillum trichodeum dh1
+abdominal 4 dorsal sensillum campaniformium dc2
+abdominal 6 lateral sensillum trichodeum lh2
+abdominal 1 ventral sensillum campaniformium vc4a
+abdominal 2 ventral sensillum campaniformium vc2
+mesothoracic dorsal sensillum campaniformium dc2
+metathoracic lateral sensillum campaniformium lc1
+abdominal 1 ventral sensillum campaniformium vc4b
+mesothoracic ventral sensillum campaniformium vc2
+abdominal 2 basiconical sensillum dbd
+abdominal 4 dorsal sensillum trichodeum h3
+abdominal 5 ventral sensillum campaniformium vc3
+abdominal dorsal sensillum campaniformium dc1
+abdominal 8 dorsal sensillum basiconicum DMSOp
+labial sensillum 1
+abdominal 5 lateral sensillum trichodeum lh1
+metathoracic ventral sensillum campaniformium vc1
+spot sensillum S1
+abdominal 2 ventral sensillum campaniformium vc3
+abdominal 1 dorsal sensillum trichodeum h3
+abdominal 6 ventral monoscolopidial chordotonal organ vch2
+abdominal 7 ventral sensillum campaniformium vc5
+leaf blade stage spermatid
+primary spermatocyte in meiotic metaphase I
+polar primary spermatocyte cyst cell
+hub cell
+primary spermatocyte
+spermatid
+early elongation stage spermatid
+polar primary spermatocyte
+spermatid cyst cell
+Y chromosome loop
+mature primary spermatocyte cyst cell
+Nebenkern derivative
+terminal epithelium of testis
+spermatocyte cyst
+germinal proliferation center
+pre-elongation spermatid
+cystic bulge
+agglomeration stage spermatid
+acrosomal granule
+meiotic secondary spermatocyte
+spermatocyte
+terminal epithelial cell of testis
+clew stage spermatid
+individualization stage spermatid
+testis pigment cell
+cyst progenitor cell
+spermatocyte ring canal
+somatic cell of testis
+secondary spermatocyte in meiotic metaphase II
+testis sheath
+spermatid cyst
+head cyst cell
+mesothoracic dorsal oblique muscle 4
+axillary cord
+trichome of the posterior wing margin
+humeral sclerite
+dorsal medial muscle 45f
+posterior crossvein
+wing septum 1
+1st axillary sclerite
+mesothoracic tibial bract
+mesothoracic tarsal bristle longitudinal row 1
+ventral double row
+tegula
+mesothoracic femoral sensillum campaniformium Sc1
+peripheral tegula sensillum campaniformium
+direct flight muscle 58a
+sensillum campaniformium of dorsal radius Sc1
+wing nerve L3-3
+b1 motor neuron
+mesothoracic pleurum
+mesothoracic trochanter sensillum campaniformium
+mesothoracic tarsal bristle longitudinal row 2
+posterior wing margin
+wing pouch
+ventral sternopleural bristle
+dorsal medial muscle 45a
+mesothoracic tarsal segment 5
+mesothoracic leg taste bristle
+wing basal cell
+wing septum
+mesothoracic tarsal bristle longitudinal row 6
+ventral triple row
+mesothoracic lateral transverse muscle 1
+direct flight muscle 50
+mesothoracic trochanter sensillum campaniformium Sc13
+anal cell
+ventral mesothoracic disc primordium
+mesothoracic tibial preapical bristle
+T2 neuron
+wing hinge
+anterior sternopleural bristle
+twin sensillum of margin 2
+mesothoracic bristle
+mesothoracic coxa
+wing
+mesothoracic tarsal bristle longitudinal row 7
+mesothoracic nerve
+mesothoracic tarsal segment 1
+mesothoracic tarsal bristle longitudinal row 6.5
+adepithelial cell of dorsal mesothoracic disc
+mesothoracic lateral longitudinal muscle 1
+mesothoracic lateral intrasegmental muscle 61
+direct flight muscle
+sensillum campaniformium of dorsal radius
+anterior crossvein
+mesothoracic longitudinal muscle
+discal cell
+wing vein L5
+indirect flight muscle motor neuron MN2
+mesothoracic ventral longitudinal muscle 3
+direct flight muscle 58b
+dorsal row
+wing vein L6
+mesothoracic femoral sensillum campaniformium
+mesothoracic lateral transverse muscle 4
+4th axillary sclerite
+embryonic principal midgut epithelial cell
+posterior embryonic/larval midgut
+enterocyte of posterior adult midgut epithelium
+intestinal stem cell
+embryonic gastric caecum
+ventriculus longitudinal muscle
+anterior adult midgut progenitor
+embryonic cuprophilic cell
+midgut chamber 4
+adult anterior midgut epithelium
+layer Lop1
+hypopharyngeal sense organ primordium
+glial cell of the perineurium
+B subperineurial glial cell 7
+A subperineurial glial cell of abdominal segment 3
+B subperineurial glial cell 6
+A subperineurial glial cell (supraesophageal)
+A subperineurial glial cell (subesophageal)
+B subperineurial glial cell 1
+A subperineurial glial cell of abdominal segment 5
+A subperineurial glial cell of abdominal segment 6
+A subperineurial glial cell of abdomen
+A subperineurial glial cell of abdominal segment 4
+lateral dorsal subperineurial glial cell
+B subperineurial glial cell 8
+A subperineurial glial cell of abdominal segment 1
+perineurial sheath cell
+subperineurial glial cell
+B subperineurial glial cell 3
+A subperineurial glial cell of abdominal segment 2
+B subperineurial glial cell 5
+A subperineurial glial cell of optic lobe
+medial dorsal subperineurial glial cell
+A subperineurial glial cell
+B subperineurial glial cell of abdomen
+medial ventral subperineurial glial cell
+B subperineurial glial cell 4
+A subperineurial glial cell of thoracic segment 1
+ventral lateral subperineurial glial cell
+lateral ventral subperineurial glial cell
+dorsal lateral subperineurial glial cell
+embryonic central brain surface glia
+B subperineurial glial cell 2
+A subperineurial glial cell of thoracic segment 3
+A subperineurial glial cell of abdominal segment 7
+A subperineurial glial cell of thorax
+A subperineurial glial cell of abdominal segment 8
+antennal glomerulus DP1 medial compartment
+retina
+yellow ommatidium
+pale ommatidium
+pseudocone
+dorsal margin ommatidium
+cornea
+ommatidium
+lens
+abdominal 7 basiconical sensillum dbd
+larval sensillum
+abdominal 9 dorsocaudal sensory organ PSLOp
+abdominal ventral monoscolopidial chordotonal organ vch2
+abdominal 2 dorsal sensillum campaniformium dc2
+abdominal dorsal sensillum campaniformium dc2
+metathoracic ventral Kolbchen vbd
+abdominal 10 caudal sensory organ vas
+mesothoracic lateral Kolbchen lbd
+metathoracic ventral monoscolopidial chordotonal organ vch1
+abdominal 3 lateral sensillum campaniformium lc1
+labial organ sensillum
+modified sensillum campaniformium of intercalary segment
+mesothoracic lateral sensillum campaniformium lc2
+abdominal 5 basiconical sensillum dbd
+abdominal 3 lateral monoscolopidial chordotonal organ lch1
+abdominal 8 dorsal sensillum trichodeum DMSOh
+metathoracic dorsal sensillum campaniformium dc2
+Bolwig&apos;s organ
+prothoracic dorsal sensillum campaniformium dc1
+larval labial segment sensillum
+abdominal 6 ventral sensillum campaniformium vc2
+dorsopharyngeal organ
+metathoracic lateral sensillum campaniformium lc2
+dorsal group sensillum D2
+mesothoracic ventral monoscolopidial chordotonal organ vch1
+abdominal 4 ventral sensillum campaniformium vc3
+abdominal 6 dorsal sensillum trichodeum h3
+abdominal 3 dorsal sensillum trichodeum dh1
+sensillum campaniformium P3
+abdominal 4 basiconical sensillum dbd
+abdominal 2 ventral sensillum campaniformium vc4b
+mesothoracic dorsal sensillum campaniformium dc3
+papilla of dorsal organ 1
+abdominal 7 ventral sensillum campaniformium vc4b
+sensillum campaniformium of distal group
+abdominal 8 ventral papilla vas
+abdominal 4 dorsal sensillum campaniformium dc1
+metathoracic ventral sensillum campaniformium vc2
+primary spermatocyte cyst
+male germline cyst
+mature primary spermatocyte
+secondary spermatocyte in meiotic anaphase II
+male germline stem cell
+interphase secondary spermatocyte
+waste bag
+apolar primary spermatocyte cyst cell
+tail cyst cell
+late elongation-stage spermatid
+spermatocyte cyst cell
+primary spermatocyte in meiotic prophase I
+mid-late elongation-stage spermatid
+spermatocyte fusome
+testis sheath muscle
+secondary spermatocyte in meiotic prophase II
+spermatogonial cyst
+axial complex
+germinal proliferation center hub
+apolar primary spermatocyte
+primary spermatocyte in meiotic anaphase I
+spermatocyte cell spectrosome
+meiotic primary spermatocyte
+acroblast
+abdominal dorsal branch 7
+integumentary specialisation
+intrasegmental apodeme
+apodeme
+abdominal 6 intrasegmental apodeme 1
+prealar apophysis
+non-functional larval spiracle of abdominal segment 3
+larval spiracle
+non-functional pupal spiracle
+adult spiracle
+posterior tentorial pit
+non-functional larval spiracle of abdominal segment
+pleural suture
+embryonic dorsal apodeme
+prothoracic phragma
+adult abdominal spiracle 7
+adult abdominal spiracle 3
+adult abdominal spiracle 4
+dorsal lateral apodeme
+abdominal 4 intrasegmental apodeme 2
+suture
+sensillum campaniformium of ventral radius Sc5
+A subperineurial glial cell of thoracic segment 2
+triple row
+mesothoracic ventral longitudinal muscle 62
+mesothoracic trochanter sensillum trichodeum St1
+mesothoracic femoral sensillum campaniformium Sc11
+mesothoracic pulvillar membrane
+muscle of first axillary 56
+mesothoracic ungulfus
+axillary cell
+mesothoracic trochanter sensillum trichodeum 2GSt
+mesothoracic pleural remotor muscle 63
+mesothoracic tarsal bristle
+wing nerve
+twin sensillum of margin 1
+muscle of first axillary 53
+posterior hair
+mesothoracic dorsal oblique muscle
+mesothoracic femoral chordotonal organ 3
+mesothoracic ventral oblique muscle
+wing nerve L3-2
+acrostichal bristle
+sensillum campaniformium of proximal dorsal radius
+anterior wing margin
+mesothoracic lateral longitudinal muscle
+tergosternal muscle
+wing margin
+wing vein
+lateral oblique dorsal muscle 46b
+anal 2-3 vein
+mesothoracic trochanter
+mesothoracic tibial transverse bristle row
+dorsal double row
+mesothoracic retineria
+indirect flight muscle motor neuron MN4
+lateral oblique dorsal muscle 46a
+dorsal medial muscle 45d
+mesothoracic tibial spur bristle
+chordotonal organ of tegula
+humeral crossvein
+ventral mesothorax
+dorsal medial muscle
+distal costal vein
+costal cell
+indirect flight muscle
+mesothoracic trochanter sensillum trichodeum St5
+mesothoracic femur
+ventral mesothoracic disc
+mesothoracic tarsal bristle longitudinal row 3
+mesothoracic dorsal oblique muscle 3
+tegula sensillum campaniformium
+mesothoracic lateral transverse muscle 2
+wing septum 2
+axillary vein
+mesothoracic femoral chordotonal organ
+basalar muscle
+I1 motor neuron
+skeletal muscle of mesothorax
+mesothoracic tibia
+mesothoracic dorsal acute muscle 2
+mesothoracic foramen
+mesothoracic tergum primordium
+mesothoracic femoral bract
+mesothoracic dorsal oblique muscle 2
+mesothoracic femoral chordotonal organ 1
+III3 motor neuron
+wing vein L1
+dorsal medial muscle 45b
+wing vein L4
+sensillum campaniformium of dorsal radius Sc25
+mesothoracic empodium
+ventral row
+C5 chordotonal organ precursor cell
+adult ocular segment
+visceral branch 8
+RP3 neuron
+abdominal 5 RP3 neuron
+abdominal RP3 neuron
+abdominal 6 RP3 neuron
+abdominal 4 RP3 neuron
+abdominal 1 RP3 neuron
+abdominal 7 RP3 neuron
+abdominal 3 RP3 neuron
+abdominal 2 RP3 neuron
+ostia
+embryonic ostia 3
+adult ostia 2
+adult ostia
+embryonic/larval ostia 3
+adult ostia 4
+adult ostia 3
+embryonic/larval ostia
+embryonic/larval ostia 2
+ostiolar valve 1
+ostiolar valve 2
+embryonic ostia 1
+embryonic/larval ostia 1
+ostiolar valve
+embryonic ostia 2
+adult ostia 1
+embryonic ostia
+ostiolar valve 3
+papilla nerve
+prothoracic gland plate
+embryonic frontal ganglion
+embryonic/larval esophagus
+larval esophageal muscle
+larval esophagus
+parasegment 11
+stage P4 prepupa
+stage P4(ii) prepupa
+stage P4(i) prepupa
+stage P6 pupa
+stage P7 pupa
+stage P5(i) pupa
+stage P5(ii) pupa
+stage P5 pupa
+pupal tracheal system
+pupal ventral anastomosis 2
+pupal lateral trunk
+pupal ventral anastomosis 1
+pupal trachea
+pupal spiracular branch
+pupal cerebral anastomosis
+pupal dorsal trunk
+pupal pharyngeal branch
+coiled tracheole
+pupal ganglionic branch 2
+pupal ganglionic branch 0
+pupal ganglionic branch
+pupal leg trachea
+pupal haltere branch
+pupal transverse connective 2
+pupal cerebral branch
+pupal mesothoracic leg trachea
+abdominal 5 dorsal sensillum trichodeum dh1
+metathoracic dorsal sensillum campaniformium dc3
+abdominal 7 dorsal sensillum campaniformium dc2
+lateral sensillum DFL
+hypophysis
+prothoracic lateral sensillum campaniformium lc2
+abdominal 7 dorsal sensillum trichodeum dh1
+abdominal 7 ventral sensillum campaniformium vc1
+knob sensillum K2
+papilla of dorsal organ 3
+prothoracic ventral Kolbchen vbd
+abdominal 2 ventral sensillum campaniformium vc5
+abdominal 1 dorsal sensillum trichodeum dh1
+dorsal group sensillum D3
+abdominal 7 ventral sensillum campaniformium vc4a
+ventral organ
+abdominal ventral monoscolopidial chordotonal organ vch1
+abdominal 7 lateral pentascolopidial chordotonal organ lch5
+larval intercalary segment sense organ
+labial sensillum 3
+abdominal 6 dorsal sensillum campaniformium dc1
+larval prothoracic sensillum
+abdominal ventral sensillum campaniformium vc3
+metathoracic Keilin&apos;s organ
+papilla of dorsal organ
+abdominal 5 ventral sensillum campaniformium vc2
+larval mandibular segment sensillum
+abdominal 4 ventral sensillum campaniformium vc2
+terminal organ
+abdominal 6 dorsal sensillum campaniformium dc2
+abdominal 1 ventral sensillum campaniformium vc5
+mesothoracic cleft
+metathoracic postcoxal bridge
+notopleural suture
+adult abdominal spiracle 5
+stigmatophore
+abdominal 5 intrasegmental apodeme 1
+ptilinal suture
+maxillary apodeme
+non-functional larval spiracle of thoracic segment 2
+abdominal 2 intrasegmental apodeme 2
+abdominal intrasegmental apodeme 1
+metafurca
+non-functional pupal spiracle 4
+abdominal 1 intrasegmental apodeme 1
+adult abdominal spiracle
+hypopharyngeal apodeme
+scutoscutellar suture
+mesofurca
+prothoracic furca
+dorsal cervical muscle 20
+abdominal 2 intrasegmental apodeme 1
+intersegmental apodeme
+mesothoracic ventral articulation
+metathoracic ventral articulation
+apophysis
+non-functional pupal spiracle 2
+dorsal apodeme
+non-functional larval spiracle
+joint
+fronto-orbital suture
+non-functional larval spiracle of abdominal segment 5
+adult mesothoracic spiracle
+intrascutal suture
+lateral cervical muscle
+mesothoracic coxal bridge
+neck
+premandibular suture
+metathoracic phragma
+adult abdominal spiracle 6
+abdominal 1 intrasegmental apodeme
+larval anterior spiracle
+abdominal 1 intrasegmental apodeme 2
+vertical cleft
+non-functional pupal spiracle 3
+embryonic spiracle
+prescutal suture
+medial dorsal apodeme
+anterior spiracular scar
+abdominal 7 intrasegmental apodeme 2
+ventral cervical muscle 26
+mesothoracic phragma
+abdominal 3 intrasegmental apodeme 1
+articulation
+spiracular chamber
+tentorial pit
+spiracle
+phragma
+metathoracic articulation
+skeletal muscle of neck
+embryonic posterior spiracle
+embryonic/larval spiracle
+prothoracic postcoxal bridge
+metathoracic coxal bridge
+mesothoracic precoxal bridge
+adult metathoracic spiracle
+abdominal 5 intrasegmental apodeme 2
+non-functional larval spiracle of abdominal segment 2
+anterior pupal spiracle
+non-functional larval spiracle of thoracic segment 3
+non-functional larval spiracle of abdominal segment 1
+anterior tentorial pit
+embryonic/larval posterior spiracle
+mesothoracic tarsal bristle longitudinal row 4
+wing hair
+chemosensory ventral triple row
+mesothoracic preepisternum
+flight muscle
+anterior dorsal mesothoracic nerve
+wing nerve L3-v
+mesothoracic ventral longitudinal muscle 2
+dorsal mesothoracic disc primordium
+mesothoracic tarsal segment 2
+3rd posterior cell
+posterior dorsal mesothoracic nerve
+mesothoracic coxal bristle on hairy island
+embryonic mesothoracic neuromere
+mesothoracic pleurosternal muscle
+wing blade
+2nd axillary sclerite
+sensillum campaniformium of dorsal radius Sc4d
+ventral tp motor neuron
+wing margin bristle
+1st anal vein
+mesothoracic tarsal bristle longitudinal row 3.5
+wing basal cell 1
+direct flight muscle motor neuron
+coxal tergal remotor muscle 48b
+wing vein L2
+mesothoracic dorsal trichome
+coxal tergal remotor muscle 48a
+direct flight muscle 49
+proximal costal vein
+primordium of ventral pleura
+midgut constriction 2
+medullary intrinsic neuron
+medullary intrinsic neuron Mi9
+medullary intrinsic neuron Mi5
+medullary intrinsic neuron Mi2
+medullary intrinsic neuron 1
+medullary intrinsic neuron Mi12
+medullary intrinsic neuron Mi10
+medullary intrinsic neuron Mi3
+medullary intrinsic neuron Mi7
+medullary intrinsic neuron Mi8
+medullary intrinsic neuron Mi11
+medullary intrinsic neuron Mi4
+medullary intrinsic neuron Mi6
+abdominal 9 ventral oblique muscle 2
+genital chamber
+stomodeal nerve
+T neuron T4d
+prothoracic gland primordium
+prothoracic gland
+abdominal 2 lateral transverse muscle 1
+abdominal 1 ventral longitudinal muscle 2
+7-3M
+abdominal 8 ventral transverse muscle 2
+ventral cibarial sensillum 1
+dorsal cluster neuron
+abdominal 6 ventral longitudinal muscle 3
+terminal filament basal cell
+spiracular branch 5
+larval hemocoel
+visceral branch
+larval MB calyx glomerulus I1
+spiracular histoblast nest abdominal 6
+abdominal sternite 6
+larval MB calyx glomerulus M3
+larval specialised Malpighian tubule cell
+larval Malpighian tubule tip cell
+larval Malpighian tubule Type II cell
+larval Malpighian tubule Type I cell
+adult alary muscle 3
+larval labral segment
+larval MB calyx glomerulus A4
+larval MB calyx glomerulus D5
+lobula plate cortex
+eyelet photoreceptor
+abdominal 2 dorsal bipolar neuron dbp
+abdominal 6 intersegmental trachea-associated neuron istd
+abdominal desC neuron
+abdominal 4 ventral multidendritic neuron v&apos;dap
+metathoracic lateral multidendritic neuron ldaD
+mesothoracic vesD neuron
+abdominal 7 desA neuron
+abdominal dorsal bipolar neuron dbp
+spC neuron
+abdominal dorsal multidendritic neuron ddaC
+mesothoracic lateral multidendritic neuron ldaC
+mesothoracic dorsal multidendritic neuron ddaD
+abdominal 6 vesC neuron
+abdominal dorsal multidendritic neuron ddaA
+abdominal dorsal multidendritic neuron ddaD
+abdominal 5 posterior ventral multidendritic neuron vdap
+abdominal 4 vesA neuron
+abdominal dorsal/lateral multidendritic neuron
+abdominal 3 desD neuron
+abdominal 3 ventral multidendritic neuron vdaB
+abdominal 4 dorsal multidendritic neuron ddaF
+abdominal 6 ventral multidendritic neuron v&apos;dap
+mesothoracic vesB neuron
+abdominal dorsal multidendritic neuron
+dendritic arborising neuron
+desB neuron
+abdominal 3 intersegmental trachea-associated neuron istd
+rhabdomeric photoreceptor cell
+sensory neuron of trichoid sensillum
+photoreceptor cell stalk
+metathoracic lateral multidendritic neuron ldaA
+spD neuron
+thermosensory neuron
+dorsal multidendritic neuron ddaA
+abdominal 2 desB neuron
+type IV sensory neuron of dorsal ipsilateral fibers
+abdominal 8 spB neuron
+abdominal 2 desD neuron
+abdominal 2 vch2 neuron
+photoreceptor cell R1
+type V sensory neuron of ventral contralateral fibers
+abdominal 2 lesA neuron
+abdominal 9 multidendritic neuron
+abdominal 1 ventral bipolar neuron vbp
+dorsal multidendritic neuron ddaD
+abdominal 3 vesA neuron
+abdominal 6 dorsal multidendritic neuron ddaD
+abdominal 8 spC neuron
+metathoracic lesC neuron
+abdominal 1 dorsal multidendritic neuron ddaF
+ventral cibarial sense organ neuron
+prothoracic dorsal multidendritic neuron ddaB
+abdominal 5 ventral multidendritic neuron vtd2
+abdominal vesB neuron
+abdominal 3 dorsal multidendritic neuron ddaB
+abdominal 6 desD neuron
+abdominal dorsal multidendritic neuron ddaB
+prothoracic desB neuron
+abdominal 1 dorsal multidendritic neuron ddaA
+metathoracic dorsal multidendritic neuron ddaC
+ventral multidendritic neuron vdaC
+mesothoracic lesC neuron
+abdominal dorsal multidendritic neuron ddaF
+abdominal 4 lesA neuron
+dorsal multidendritic neuron ddaE
+abdominal 4 vch1 neuron
+prothoracic v&apos;&apos;esA neuron
+abdominal 5 lesC neuron
+metathoracic desC neuron
+abdominal 3 desC neuron
+abdominal 7 ventral multidendritic neuron vdaC
+abdominal 4 lateral multidendritic neuron ldaB
+abdominal 3 v&apos;esB neuron
+abdominal 6 lesB neuron
+vesC neuron
+abdominal 1 ventral multidendritic neuron vdaD
+abdominal 10 vesM neuron
+abdominal 2 ventral bipolar neuron vbp
+prothoracic vesD neuron
+abdominal 8 des3 neuron
+mesothoracic ventral multidendritic neuron vdaC
+metathoracic les3 neuron
+vesE neuron
+abdominal 7 v&apos;esB neuron
+multidendritic dendrite
+prothoracic lesA neuron
+photoreceptor cell R7 pigment granule
+abdominal 4 ventral multidendritic neuron vdaB
+prothoracic desD neuron
+mesothoracic dorsal multidendritic neuron ddaF
+prothoracic ventral multidendritic neuron vdaD
+abdominal 3 ventral bipolar neuron vbp
+abdominal 10 bipolar neuron
+ves3 neuron
+abdominal 5 ventral multidendritic neuron vdaB
+abdominal 5 ventral multidendritic neuron vdaC
+photoreceptor cell R5 stalk
+abdominal 7 vch2 neuron
+abdominal 2 vesC neuron
+desC neuron
+abdominal 4 vesC neuron
+abdominal 2 vesA neuron
+spB neuron
+prothoracic v&apos;es3 neuron
+embryonic ganglion mother cell
+U3sib neuron
+develops_from
+abdominal U2 neuron
+abdominal 3 U1 neuron
+abdominal 1 U2 neuron
+U2 neuron
+U1 neuron
+U4 neuron
+ganglion mother cell GMC 7-1b
+part_of
+abdominal 3 posterior ventral multidendritic neuron vdap
+mesothoracic lateral multidendritic neuron ldaB
+metathoracic dorsal multidendritic neuron ddaB
+abdominal vesC neuron
+prothoracic v&apos;esA neuron
+mesothoracic lesB neuron
+abdominal vch1 neuron
+metathoracic dorsal multidendritic neuron ddaD
+metathoracic desE neuron
+photoreceptor cell R6 stalk
+abdominal 1 dorsal bipolar neuron dbp
+lesA neuron
+prothoracic desC neuron
+prothoracic lateral multidendritic neuron ldaA
+abdominal 4 desB neuron
+abdominal v&apos;es2 neuron
+abdominal 4 posterior ventral multidendritic neuron vdap
+abdominal 5 ventral multidendritic neuron vdaA
+abdominal 7 dorsal multidendritic neuron ddaF
+abdominal 7 vesB neuron
+photoreceptor cell R7 of yellow ommatidium
+abdominal desA neuron
+abdominal 2 desC neuron
+dch3 neuron
+abdominal 8 lateral multidendritic neuron
+abdominal 7 dorsal multidendritic neuron ddaE
+photoreceptor cell R6 pigment granule
+abdominal 7 desB neuron
+abdominal 2 desA neuron
+dorsal cibarial sense organ neuron
+des2 neuron
+abdominal 5 anterior ventral multidendritic neuron vdaa
+dorsal multidendritic neuron ddaC
+abdominal 5 dorsal multidendritic neuron ddaB
+prothoracic desE neuron
+photoreceptor cell R8 stalk
+abdominal 7 intersegmental trachea-associated neuron istd
+abdominal 7 lch5 neuron
+abdominal 2 anterior ventral multidendritic neuron vdaa
+prothoracic lesB neuron
+abdominal 1 desB neuron
+prothoracic vesB neuron
+abdominal 6 desA neuron
+spA neuron
+lateral multidendritic neuron ldaD
+abdominal 5 vch2 neuron
+photoreceptor cell R8
+abdominal 4 dorsal multidendritic neuron ddaD
+abdominal 7 dorsal multidendritic neuron ddaD
+prothoracic vch1 neuron
+abdominal 6 vesB neuron
+vesD neuron
+ventral multidendritic neuron
+prothoracic ventral multidendritic neuron vdaA
+abdominal 6 ventral multidendritic neuron vtd1
+abdominal 5 dorsal multidendritic neuron ddaA
+abdominal 5 dorsal multidendritic neuron ddaE
+abdominal 6 dorsal multidendritic neuron ddaA
+photoreceptor cell R8 pigment granule
+abdominal 1 posterior ventral multidendritic neuron vdap
+abdominal 7 posterior ventral multidendritic neuron vdap
+abdominal 6 v&apos;es2 neuron
+abdominal 1 ventral multidendritic neuron vdaA
+abdominal vesA neuron
+abdominal 4 ventral multidendritic neuron vdaA
+abdominal 6 dorsal multidendritic neuron ddaC
+abdominal 3 ventral multidendritic neuron vdaC
+mesothoracic vesC neuron
+abdominal vch2 neuron
+abdominal 4 lateral multidendritic neuron ldaA
+ocellus rhabdomere
+abdominal dorsal multidendritic neuron ddaE
+abdominal 4 ventral multidendritic neuron vdaD
+abdominal 4 ventral multidendritic neuron vtd2
+abdominal 1 v&apos;esB neuron
+abdominal 6 lateral multidendritic neuron ldaA
+abdominal v&apos;esA neuron
+abdominal 4 v&apos;esA neuron
+abdominal 3 lch5 neuron
+dorsal multidendritic neuron ddaB
+abdominal 3 ventral multidendritic neuron vdaD
+metathoracic dorsal multidendritic neuron ddaA
+abdominal 7 lesA neuron
+abdominal 1 ventral multidendritic neuron v&apos;dap
+abdominal 8 ventral multidendritic neuron
+abdominal 2 lch5 neuron
+v&apos;esA neuron
+abdominal 2 v&apos;es2 neuron
+les3 neuron
+abdominal 2 vch1 neuron
+prothoracic dorsal multidendritic neuron ddaC
+ganglion mother cell GMC 7-1f
+is_a
+UMI precursor
+ganglion mother cell GMC 7-1a
+abdominal 5 U1 neuron
+ganglion mother cell GMC 7-1d
+ganglion mother cell GMC 7-1e
+abdominal 4 U1 neuron
+abdominal U1 neuron
+abdominal 6 U2 neuron
+U4sib neuron
+U1sib neuron
+UMI interneuron
+U2sib neuron
+abdominal 2 U2 neuron
+abdominal 5 U2 neuron
+ganglion mother cell GMC 7-1c
+abdominal 7 U1 neuron
+abdominal 6 U1 neuron
+abdominal 7 U2 neuron
+abdominal 3 U2 neuron
+abdominal 2 U1 neuron
+abdominal 1 U1 neuron
+U5sib neuron
+U5 neuron
+U3 neuron
+abdominal 4 U2 neuron
+prepupal integumentary system
+pupal cuticle
+prepupal cuticle
+prepupal epidermis
+endocuticle
+exocuticle
+midline crossing tract
+anterior cross
+abdominal 5 posterior commissure
+chiasm
+thoracic 3 posterior commissure
+abdominal 9 anterior commissure
+labial commissure
+dorsal commissure
+abdominal anterior commissure
+abdominal 8 anterior commissure
+abdominal 1 anterior commissure
+abdominal 7 anterior commissure
+great commissure
+ventral nerve cord commissure
+thoracic anterior commissure
+tritocerebral commissure
+commissure of lateral horns
+abdominal 4 posterior commissure
+inferior ventral body connective
+abdominal lesB neuron
+mesothoracic ventral multidendritic neuron vdaD
+type II sensory neuron of shrubby fibers
+abdominal 1 ventral multidendritic neuron vtd1
+anterior fascicle sensory neuron
+abdominal 5 ventral multidendritic neuron vdaD
+abdominal 7 ventral multidendritic neuron v&apos;dap
+vesB neuron
+des1 neuron
+photoreceptor cell R1 stalk
+multidendritic neuron
+abdominal 7 ventral multidendritic neuron vdaD
+abdominal 4 dorsal multidendritic neuron ddaC
+abdominal 4 intersegmental trachea-associated neuron istd
+abdominal 6 lesA neuron
+mesothoracic lesA neuron
+olfactory neuron
+abdominal 4 ventral multidendritic neuron vtd1
+abdominal posterior ventral multidendritic neuron vdap
+abdominal 3 dorsal multidendritic neuron ddaF
+mesothoracic v&apos;es3 neuron
+abdominal 7 desC neuron
+bipolar dendrite neuron
+abdominal 2 dorsal multidendritic neuron ddaA
+abdominal 1 v&apos;esA neuron
+abdominal 6 lch5 neuron
+abdominal 5 lateral multidendritic neuron ldaB
+photoreceptor cell R2 pigment granule
+abdominal 7 ventral multidendritic neuron vdaA
+abdominal 7 v&apos;esA neuron
+les4 neuron
+mesothoracic ventral multidendritic neuron
+vch2 neuron
+dorsal margin photoreceptor
+abdominal 3 vch2 neuron
+mesothoracic dorsal multidendritic neuron ddaB
+abdominal anterior ventral multidendritic neuron vdaa
+abdominal 1 desA neuron
+abdominal ventral multidendritic neuron vdaC
+abdominal 4 lch5 neuron
+mesothoracic lateral multidendritic neuron ldaD
+abdominal 7 dorsal multidendritic neuron ddaA
+abdominal 6 v&apos;esA neuron
+abdominal 2 lateral multidendritic neuron ldaA
+abdominal 4 dorsal multidendritic neuron ddaA
+abdominal 5 desA neuron
+abdominal 5 v&apos;es2 neuron
+prothoracic v&apos;&apos;esB neuron
+abdominal 6 ventral multidendritic neuron vtd2
+adult labial sensory neuron
+photoreceptor cell R7
+prothoracic lch3 neuron
+abdominal 1 vesB neuron
+abdominal 6 posterior ventral multidendritic neuron vdap
+photoreceptor cell R2
+abdominal 3 desB neuron
+abdominal 3 v&apos;es2 neuron
+photoreceptor cell R3 stalk
+outer photoreceptor cell
+ventral multidendritic neuron vdaB
+abdominal 7 ventral multidendritic neuron vdaB
+metathoracic dorsal multidendritic neuron ddaF
+metathoracic desA neuron
+abdominal 7 ventral multidendritic neuron vtd1
+mesothoracic v&apos;esB neuron
+mesothoracic desE neuron
+abdominal 4 dorsal bipolar neuron dbp
+photoreceptor cell R6
+abdominal ventral bipolar neuron vbp
+metathoracic v&apos;es3 neuron
+photoreceptor cell of Bolwig&apos;s organ
+abdominal 3 anterior ventral multidendritic neuron vdaa
+metathoracic vesB neuron
+abdominal 5 dorsal multidendritic neuron ddaD
+prothoracic lesC neuron
+type VII sensory neuron of central fibers
+abdominal 3 dorsal bipolar neuron dbp
+prothoracic lateral multidendritic neuron ldaD
+abdominal 2 dorsal multidendritic neuron ddaC
+des3+1 neuron
+abdominal 2 dorsal multidendritic neuron ddaF
+lateral multidendritic neuron ldaA
+abdominal ventral multidendritic neuron vdaB
+abdominal 3 ventral multidendritic neuron vdaA
+metathoracic desB neuron
+abdominal ventral multidendritic neuron vtd2
+abdominal 1 ventral multidendritic neuron vdaC
+abdominal 3 v&apos;esA neuron
+abdominal 6 posterior commissure
+superior arch commissure
+sub-ellipsoid commissure
+abdominal posterior commissure
+thoracic 1 anterior commissure
+anterior dorsal commissure
+commissure
+abdominal 1 posterior commissure
+abdominal 7 posterior commissure
+thoracic 2 posterior commissure
+arched commissure of the ventral body
+dorsal posterior commissure
+abdominal 8 posterior commissure
+thoracic posterior commissure
+posterior commissure
+abdominal 2 anterior commissure
+abdominal 2 posterior commissure
+frontal median commissure
+subesophageal commissure
+maxillary subesophageal commissure
+thoracic 3 anterior commissure
+abdominal 3 anterior commissure
+anterior commissure
+antennal commissure
+abdominal 5 anterior commissure
+thoracic 1 posterior commissure
+abdominal 4 anterior commissure
+abdominal 6 anterior commissure
+abdominal 3 posterior commissure
+thoracic 2 anterior commissure
+dorsal humeral crossvein sensillum campaniformium
+related
+exact
+LAL glomerulus m8
+alt_id
+medullary tangential neuron Mt10
+invaginating stomatogastric nervous system precursor
+intermediate vesicle of iSNSP
+caudal vesicle of iSNSP
+rostral vesicle of iSNSP
+tergosternal muscle 47b
+metathoracic trochanter sensillum trichodeum 2GSt
+ventral cervical muscle 25
+mid embryonic/larval midgut
+mid larval midgut
+dorsal mesothorax
+prescutum
+postalar bristle
+anterior notopleural bristle
+scutum
+anterior supraalar bristle
+anterior scutellar bristle
+presutural bristle
+dorsocentral bristle
+anterior notal wing process
+notal sensillum trichodeum
+anterior postalar bristle
+posterior supraalar bristle
+scutellum
+scutellar bristle
+trident
+abdominal 5 vch1 neuron
+eo neuron
+abdominal 1 v&apos;es2 neuron
+abdominal 2 dorsal multidendritic neuron ddaE
+abdominal 8 dch3/1 neuron
+abdominal 3 dorsal multidendritic neuron ddaD
+abdominal 5 vesA neuron
+abdominal 6 v&apos;esB neuron
+mesothoracic dorsal/lateral multidendritic neuron
+abdominal lesA neuron
+abdominal 3 dorsal multidendritic neuron ddaE
+abdominal 1 lateral multidendritic neuron ldaA
+prothoracic dorsal multidendritic neuron ddaA
+abdominal 3 desA neuron
+metathoracic v&apos;esA neuron
+lch5 neuron
+abdominal 7 dorsal multidendritic neuron ddaB
+abdominal 5 ventral multidendritic neuron vtd1
+class II dendritic arborising neuron
+abdominal 2 dorsal multidendritic neuron ddaB
+lch3 neuron
+class I dendritic arborising neuron
+prothoracic lateral multidendritic neuron ldaB
+hygrosensitive neuron
+abdominal 1 desC neuron
+abdominal 10 sensory neuron
+abdominal 1 lateral multidendritic neuron ldaB
+abdominal 1 dorsal multidendritic neuron ddaD
+abdominal 4 ventral multidendritic neuron vdaC
+abdominal 5 desC neuron
+mesothoracic dorsal multidendritic neuron ddaA
+abdominal 7 ventral bipolar neuron vbp
+abdominal 8 spA neuron
+rhabdomere
+type I sensory neuron of coiled fibers
+prothoracic vesE neuron
+vesA neuron
+abdominal 1 vesC neuron
+abdominal 2 lesC neuron
+mechanosensory neuron
+mesothoracic vesE neuron
+gustatory neuron
+scolopidial neuron
+metathoracic vesC neuron
+mesothoracic desA neuron
+mesothoracic lateral multidendritic neuron ldaA
+lesB neuron
+abdominal 6 vch2 neuron
+abdominal lateral multidendritic neuron ldaB
+abdominal 7 lateral multidendritic neuron ldaA
+abdominal 7 anterior ventral multidendritic neuron vdaa
+mesothoracic desB neuron
+abdominal 2 ventral multidendritic neuron vtd1
+abdominal 9 des3+1 neuron
+abdominal 3 dorsal multidendritic neuron ddaC
+abdominal 6 lesC neuron
+posterior fascicle sensory neuron
+abdominal desD neuron
+prothoracic ventral multidendritic neuron
+abdominal 1 vch neuron
+metathoracic ventral multidendritic neuron vdaA
+vch neuron
+metathoracic lesA neuron
+rhabdomere R7
+abdominal lateral multidendritic neuron ldaA
+abdominal 6 ventral bipolar neuron vbp
+photoreceptor cell R3
+abdominal 5 vch neuron
+abdominal 3 vesC neuron
+abdominal 6 dorsal bipolar neuron dbp
+desA neuron
+abdominal 5 vesC neuron
+abdominal 2 vch neuron
+photoreceptor cell
+rhabdomere R5
+abdominal 2 vesB neuron
+rhabdomere R8
+abdominal 1 dorsal multidendritic neuron ddaB
+abdominal 5 vesB neuron
+abdominal 2 dorsal multidendritic neuron ddaD
+ocellus retinula cell
+type III sensory neuron of ventral ipsilateral fibers
+mesothoracic vch1 neuron
+abdominal 6 dorsal multidendritic neuron ddaE
+abdominal intersegmental trachea-associated neuron istd
+desE neuron
+abdominal 3 vch1 neuron
+prothoracic lateral multidendritic neuron ldaC
+abdominal 5 lesA neuron
+postnotum
+posterior notopleural bristle
+posterior dorsocentral bristle
+notopleural bristle
+anterior notal wing process sensillum campaniformium
+posterior scutellar bristle
+supraalar bristle
+posterior postalar bristle
+mesothoracic tergum
+mesothoracic laterotergite
+notal wing process
+posterior notal wing process
+anterior dorsocentral bristle
+abdominal 7 lateral multidendritic neuron ldaB
+spiracular hair
+abdominal 1 M neuron
+ventral paramere
+sensory neuron
+abdominal 5 v&apos;esA neuron
+abdominal lesC neuron
+metathoracic lateral multidendritic neuron ldaC
+abdominal 2 posterior ventral multidendritic neuron vdap
+dorsal margin photoreceptor cell R8
+abdominal 6 ventral multidendritic neuron vdaD
+abdominal 7 dorsal bipolar neuron dbp
+prothoracic vesC neuron
+mesothoracic desC neuron
+prothoracic dorsal/lateral multidendritic neuron
+abdominal 3 ventral multidendritic neuron vtd2
+abdominal 6 desC neuron
+abdominal 4 desD neuron
+mesothoracic v&apos;esA neuron
+metathoracic lateral multidendritic neuron ldaB
+abdominal 4 ventral bipolar neuron vbp
+abdominal 2 ventral multidendritic neuron vdaB
+abdominal 7 vesC neuron
+AC thermosensory neuron
+abdominal 5 lateral multidendritic neuron ldaA
+metathoracic dorsal/lateral multidendritic neuron
+abdominal 1 lesB neuron
+abdominal 7 vch1 neuron
+metathoracic v&apos;esB neuron
+metathoracic vch1 neuron
+photoreceptor cell R4
+labral sense organ neuron
+abdominal 6 vch1 neuron
+inner photoreceptor cell
+prothoracic ventral multidendritic neuron vdaC
+abdominal 8 des1 neuron
+abdominal ventral multidendritic neuron vdaD
+abdominal 5 desB neuron
+vesM neuron
+abdominal 4 lesB neuron
+prothoracic v&apos;esB neuron
+abdominal lch5 neuron
+abdominal 2 intersegmental trachea-associated neuron istd
+abdominal desB neuron
+mesothoracic ventral multidendritic neuron vdaB
+abdominal 5 dorsal multidendritic neuron ddaF
+abdominal 4 desA neuron
+abdominal 3 lesC neuron
+metathoracic ventral multidendritic neuron vdaC
+ciliated photoreceptor cell
+abdominal 4 lesC neuron
+abdominal 5 ventral bipolar neuron vbp
+des3+1+1 neuron
+photoreceptor cell R8 of yellow ommatidium
+abdominal 4 dorsal multidendritic neuron ddaB
+abdominal 7 lesC neuron
+abdominal 4 desC neuron
+abdominal 5 lesB neuron
+ventral multidendritic neuron vdaA
+abdominal 3 lesA neuron
+class IV dendritic arborising neuron
+ventral multidendritic neuron vdaD
+abdominal 7 lesB neuron
+abdominal 6 vesA neuron
+odorant receptor neuron of dorsal organ
+class III dendritic arborising neuron
+abdominal 3 vch neuron
+prothoracic dorsal multidendritic neuron ddaE
+abdominal 5 lch5 neuron
+abdominal 4 vesB neuron
+abdominal 6 vch neuron
+abdominal 2 v&apos;esB neuron
+lateral multidendritic neuron ldaB
+abdominal 1 desD neuron
+abdominal 7 ventral multidendritic neuron vtd2
+abdominal ventral multidendritic neuron v&apos;dap
+dch3/1 neuron
+abdominal 9 dch3/1 neuron
+abdominal 4 vch2 neuron
+metathoracic lesB neuron
+abdominal 4 vch neuron
+metathoracic ventral multidendritic neuron vdaB
+abdominal 6 anterior ventral multidendritic neuron vdaa
+abdominal 3 vesB neuron
+lateral multidendritic neuron ldaC
+abdominal 6 ventral multidendritic neuron vdaB
+abdominal 6 lateral multidendritic neuron ldaB
+abdominal 2 ventral multidendritic neuron vdaA
+abdominal 2 lateral multidendritic neuron ldaB
+metathoracic vesA neuron
+abdominal 6 dorsal multidendritic neuron ddaB
+abdominal 5 ventral multidendritic neuron v&apos;dap
+abdominal 6 dorsal multidendritic neuron ddaF
+abdominal 2 ventral multidendritic neuron vtd2
+abdominal 1 dorsal multidendritic neuron ddaE
+abdominal 1 vch2 neuron
+abdominal 6 ventral multidendritic neuron vdaC
+lateral multidendritic neuron
+abdominal 5 dorsal bipolar neuron dbp
+abdominal 3 ventral multidendritic neuron v&apos;dap
+abdominal 1 dorsal multidendritic neuron ddaC
+tracheal innervating neuron
+rhabdomere R1
+abdominal 7 vesA neuron
+abdominal 7 dorsal multidendritic neuron ddaC
+metathoracic vesD neuron
+eye photoreceptor cell
+abdominal vch neuron
+metathoracic ventral multidendritic neuron
+v&apos;&apos;esB neuron
+abdominal 3 lateral multidendritic neuron ldaA
+photoreceptor cell R3 pigment granule
+abdominal 10 des3+1+1 neuron
+chemosensory neuron
+abdominal 9 sensory neuron
+mesothoracic vesA neuron
+abdominal 1 lch5 neuron
+photoreceptor cell R7 of pale ommatidium
+prothoracic vesA neuron
+abdominal 6 ventral multidendritic neuron vdaA
+abdominal 1 lesC neuron
+photoreceptor cell R8 of pale ommatidium
+mesothoracic les3 neuron
+dorsal multidendritic neuron ddaF
+prothoracic desA neuron
+rhabdomere R2
+eo dendrite
+metathoracic dorsal multidendritic neuron ddaE
+abdominal 1 vesA neuron
+photoreceptor cell R5
+abdominal 2 ventral multidendritic neuron v&apos;dap
+abdominal 8 spD neuron
+abdominal 1 anterior ventral multidendritic neuron vdaa
+abdominal ventral multidendritic neuron vdaA
+abdominal 1 intersegmental trachea-associated neuron istd
+abdominal 4 anterior ventral multidendritic neuron vdaa
+scolopidial dendrite
+abdominal 3 dorsal multidendritic neuron ddaA
+des3 neuron
+desD neuron
+abdominal 4 dorsal multidendritic neuron ddaE
+abdominal 2 lesB neuron
+abdominal 1 vch1 neuron
+abdominal lateral multidendritic neuron
+prothoracic ventral multidendritic neuron vdaB
+abdominal ventral multidendritic neuron vtd1
+metathoracic ventral multidendritic neuron vdaD
+abdominal 1 ventral multidendritic neuron vdaB
+abdominal 3 lateral multidendritic neuron ldaB
+type VI sensory neuron of dorsal contralateral fibers
+abdominal 3 lesB neuron
+abdominal 1 ventral multidendritic neuron vtd2
+abdominal v&apos;esB neuron
+abdominal 8 sensory neuron
+abdominal 5 dorsal multidendritic neuron ddaC
+mesothoracic ventral multidendritic neuron vdaA
+bipolar neuron of Bolwig&apos;s nerve
+lesC neuron
+abdominal 7 v&apos;es2 neuron
+abdominal 2 ventral multidendritic neuron vdaD
+v&apos;&apos;esA neuron
+abdominal 4 v&apos;esB neuron
+dorsal margin photoreceptor cell R7
+lesD neuron
+rhabdomere R4
+ocellus pigment granule
+abdominal 4 v&apos;es2 neuron
+abdominal 3 ventral multidendritic neuron vtd1
+abdominal 5 intersegmental trachea-associated neuron istd
+abdominal ventral multidendritic neuron
+mesothoracic dorsal multidendritic neuron ddaC
+abdominal 5 v&apos;esB neuron
+metathoracic desD neuron
+prothoracic dorsal multidendritic neuron ddaD
+abdominal 1 lesA neuron
+LAL glomerulus a6
+dorsal paired medial cell
+embryonic abdominal segment 4
+metathoracic retineria
+adult abdominal segment 11
+adult tagma
+ISNb
+monopolar laminar cell L2
+serpentine layer
+abdominal segment 8
+embryonic abdominal segment 1
+larval thorax
+bilateral V relay interneuron
+adult abdomen
+fascicle of optic foci
+inner medulla
+male repressed primordium
+tarsal segment 3
+metathoracic nerve
+distal medullary amacrine neuron Dm1
+abdominal neuromere
+metatarsus of male prothoracic leg
+transmedullary Y neuron
+abdominal 4 dorsal trichome
+antennal glomerulus VA5
+proximal medullary amacrine neuron Pm2
+thoracic neuroblast t1
+larval abdominal segment 9
+adepithelial cell of male genital disc
+embryonic nervous system of thorax
+abdominal segment 5
+large pigment-dispersing hormone-immunoreactive neuron close to medulla
+metathoracic femoral reductor muscle 90
+adult external abdomen
+Bolwig&apos;s nerve
+lunula muscle
+embryonic telson
+embryonic abdominal segment
+larval posterior cervical tract
+adult head
+metathoracic tarsal segment 5
+adult maxillary segment
+extrinsic ring neuron
+pb-fb-eb neuron
+translobullar plate neuron Tpl12
+embryonic head
+LAL glomerulus m6
+larval abdomen
+transverse adult oenocyte band 1
+prothoracic dorsal trichome
+transmedullary neuron Tm25
+antennal glomerulus DA1
+ventral adult oenocyte band 4
+dorsal adult lateral neuron
+thoracic neuroblast b1
+larval labial segment
+thoracic neuroblast M
+antennal glomerulus VA1 lateral compartment
+medullary tangential neuron Mt5
+abdominal 7 female sternal muscle 144
+metathoracic papillae
+stomodeal nerve projection
+larval antenno-cerebral tract
+transmedullary Y neuron TmY4
+frons
+larval abdominal segment 4
+transmedullary neuron Tm21
+larval mouth
+cervical sclerite
+adult telson
+larval antennal segment
+adult central complex
+thoracic neuroblast al
+adult metathoracic segment
+proximal medullary amacrine neuron Pm1
+antennal glomerulus
+monopolar laminar cell L3
+optic chiasma
+larval telson
+T neuron T5c
+lateral ocellus
+transmedullary neuron Tm13
+distal medullary amacrine neuron Dm4
+adult prothoracic sensillum
+antennal glomerulus DP1
+adult thoracic sensillum
+Wheeler&apos;s organ 5
+antennal glomerulus DA4
+prothoracic tarsal segment 3
+proximal medullary amacrine neuron Pm1a
+larval head nerve
+embryonic labral segment
+metathoracic pulvillar membrane
+distal rostral sensillum
+antennal glomerulus VL2
+prothoracic tibial depressor muscle
+medial antenno-cerebral tract
+metathoracic sternal promotor muscle 84
+eb-no neuron
+prothoracic tergopleural promotor muscle 28
+larval tagma
+antennal glomerulus DA2
+medullary tangential neuron Mt14
+skeletal muscle of metathoracic leg
+LAL glomerulus p7
+larval tritocerebrum
+first optic chiasma
+thoracic neuroblast x
+larval abdominal segment 8
+antennal lobe
+unilateral ACT relay interneuron
+antennal glomerulus VM6
+dorsal adult oenocyte band 2
+larval ocular segment
+transmedullary neuron Tm1
+small cell associated with anterior dorsal histoblasts abdominal 7
+ptilinum
+metathoracic pretarsus
+larval prothoracic segment
+fronto-orbital plate
+hypopharyngeal nerve
+abdominal dorsal trichome
+antennal glomerulus VC3 lateral compartment
+occiput
+SNa
+layer Lop3
+ganglion mother cell GMC3-2a
+mitotic domain 26
+nerve
+embryonic proventriculus
+integumentary system
+ganglion mother cell GMC3-5a
+S2 cell-line
+embryonic/larval esophageal muscle
+cell body
+larval neuromuscular junction
+Malpighian tubule Type II cell
+neuropil glial sheath
+yolk nucleus
+embryonic aortic cardioblast
+anal pad
+larval integumentary system
+mitotic domain M
+larval endocrine system
+prothoracic leg disc-derived cell-line
+cycle 16 embryo
+prothoracic anterior fascicle neuron
+dorsal fibers of larval heart
+tracheocyte
+mushroom body beta&apos;-lobe
+repressed primordium
+visceral muscle
+tracheal metamere 10
+sensillum
+larval anterior Malpighian tubule
+cell cluster organ
+embryonic/larval cardial cell
+larval nervous system
+cultured cell-line
+ovary
+germ band
+larval peritracheal cell
+tracheal metamere 6
+male germline cell
+subesophageal nerve
+larval digestive system
+segmental nerve
+supraesophageal ganglion neuron
+dorsal appendage
+peritracheal cell
+corneagenous cell
+type II bouton
+neurosecretory neuron
+peptinergic neuron
+female accessory gland main cell
+embryonic foregut
+mitotic domain 23
+muscle fiber
+alveolar cell
+posterior deuterocerebral neuroblast
+ventral ectoderm primordium
+muscle system specific anlage
+posterior endoderm anlage in statu nascendi
+Pa1 neuroblast
+Pd1 neuroblast
+dorsal trunk specific anlage
+adult salivary gland specific anlage
+foregut specific anlage
+Dc3 neuroblast
+hindgut specific anlage
+Pa3 neuroblast
+head mesoderm anlage in statu nascendi
+somatic mesoderm anlage
+secondary branch specific anlage
+somatic muscle specific anlage
+T1 neuroblast
+circular visceral mesoderm
+salivary gland body specific anlage
+hindgut visceral mesoderm
+Pa5 neuroblast
+tracheal system specific anlage
+Dp2 neuroblast
+synonym
+synaptic cleft
+Pa4 neuroblast
+labial complex specific anlage
+ventral wing
+I band
+large intestine specific anlage
+Pdm neuroblast
+dorsal epidermis specific anlage
+dorsal central deuterocerebral neuroblast
+yolk granule
+perikaryon
+thin filament
+esophagus specific anlage
+ventral epidermal specific anlage
+ventral central deuterocerebral neuroblast
+main segment of Malpighian tubule primordium
+gonad specific anlage
+mesectoderm anlage in statu nascendi
+ventral anterior deuterocerebral neuroblast
+Pd4 neuroblast
+stage 0 adult
+head mesoderm primordium
+T2 neuroblast
+germinal vesicle
+labral sensory complex specific anlage
+ventral apodeme specific anlage
+larval ventro-lateral protocerebrum
+tergum
+mushroom body beta-lobe
+larval neuromere
+Dv2 neuroblast
+Dd9 neuroblast
+Dv8 neuroblast
+Dd13 neuroblast
+Dd8 neuroblast
+Td4 neuroblast
+Dd7 neuroblast
+Kenyon cell
+Td7 neuroblast
+Dv6 neuroblast
+male accessory gland secondary cell
+male accessory gland main cell
+abdominal 6 lateral tergosternal muscle 134
+embryonic integumentary system
+integument of adult abdominal segment 1
+Wheeler&apos;s organ 1
+tracheal metamere 9
+cerebral branch
+escort cell
+larval proventriculus intermediate layer
+common oviduct
+transverse nerve exit glial cell
+larval prothoracic ventral sensory cluster
+medulla layer M6
+neuroblast of ventral nerve cord primordium
+neuroblast NB5-6
+neuroblast NB7-2
+neuroblast NB6-1
+neuroblast GPb
+neuroblast NB7-3
+neuroblast NB2-2 of abdomen
+stage 4 neuroblast
+neuroblast NB5-4
+neuroblast NB5-1
+neuroblast NB2-4
+neuroblast NB5-6 of abdomen
+stage 2 neuroblast
+neuroblast NB7-1
+neuroblast NB3-4
+neuroblast NB1-1 of thorax
+neuroblast NB2-1
+neuroblast NB4-3
+neuroblast NB3-1 of abdomen
+neuroblast MP2
+stage 3 neuroblast
+neuroblast NB4-2
+stage 1 neuroblast
+neuroblast NB6-4
+neuroblast X
+neuroblast NB1-2
+neuroblast GP
+neuroblast NB5-3
+neuroblast NB5-4 of thorax
+neuroblast NB1-1
+neuroblast NB6-2
+neuroblast NB2-4 of abdomen
+neuroblast NB2-4 of thorax
+neuroblast NB2-2 of thorax
+neuroblast NB6-4a
+neuroblast NB3-1 of thorax
+neuroblast MNB
+stage 5 neuroblast
+neuroblast NB4-1
+neuroblast NB5-6 of thorax
+neuroblast GPa
+neuroblast NB1-3
+neuroblast NB6-4b
+LAL glomerulus p4
+translobullar plate neuron Tpl13
+lobula plate
+adult abdominal segment 7
+antennal glomerulus DM4
+larval head
+metathoracic intracoxal levator muscle 89
+penis mantle
+prothoracic sternal posterior rotator muscle 32
+prothoracic sternal muscle
+monopolar laminar cell L1
+abdominal segment 9
+transmedullary neuron Tm3
+medullary tangential neuron Mt1
+adult oenocyte band
+prothoracic segment
+prothoracic tarsal segment
+abdominal 3 spiracular muscle 118
+transmedullary neuron Tm22
+accessory metathoracic nerve
+antennal glomerulus VL1
+haltere pedicel
+ungulfus
+transmedullary neuron Tm15
+prothoracic unguis
+embryonic antennal segment
+pleural membrane
+prothoracic intracoxal depressor muscle 35
+LAL glomerulus p2
+LAL glomerulus a3
+ventral brain cluster neuron
+adult head sensillum
+small field neuron
+skeletal muscle of head
+larval dorsal sensory cluster of A1-7
+LAL glomerulus a5
+prothoracic pretarsal depressor muscle 44
+dorsal adult oenocyte band 6
+antenno-supraesophageal tract
+embryonic abdominal segment 6
+thoracic neuroblast
+abdominal 2 dorsal trichome
+abdominal segment 4
+abdominal 1 oblique sternopleural muscle 108
+intercalary segment
+metathoracic segment
+antennal glomerulus 2
+ventral metathoracic nerve
+embryonic abdominal segment 11
+abdominal segmental nerve
+antennal glomerulus DM3
+unguis
+female terminalia sensillum
+posterior lobe
+LAL glomerulus m1
+optic cartridge
+abdominal 6 ventral muscle 129
+metathoracic tarsal segment 3
+antennal glomerulus VC3 medial compartment
+fan-shaped neuron
+small cell associated with anterior dorsal histoblasts abdominal 4
+metathoracic segmental nerve
+antennal glomerulus VA1 dorsal compartment
+adult metathoracic sensillum
+small cell associated with anterior dorsal histoblasts abdominal 6
+lateral plate
+abdominal segment 7
+small cell associated with anterior dorsal histoblasts abdominal 3
+prefrons
+metathoracic lateral intersegmental muscle 80
+metathoracic empodium
+metathoracic ternal extracoxal depressor muscle 86
+Y neuron Y2
+embryonic thoracic segment
+antennal glomerular array DM3 (posterior)
+type b stomodeal nerve projection
+prothoracic empodium
+lamina receptor cell R8
+pigment-dispersing hormone-immunoreactive neuron
+larval antennal glomerulus
+metathoracic tibial depressor muscle 93
+dorsal metathoracic nerve
+tarsal segment
+mandibular segment
+frontal pulsatile organ muscle 16
+medullary tangential neuron Mt13
+abdominal 5 lateral tergosternal muscle 128
+antennal glomerulus DL4
+large field neuron
+dorsal adult oenocyte band 1
+rostral sensillum
+phallic foramen
+haltere sensillum
+abdominal lateral tergosternal muscle
+translobullar plate neuron
+giant horizontal cell
+prothoracic extracoxal depressor muscle 34
+ventral scabellar sensillum campaniformium
+nodulus
+LAL glomerulus a1
+sternum
+abdominal 2 lateral tergosternal muscle 110
+embryonic gnathal segment
+median fan-shaped neuron Fm
+antennal glomerulus DC3
+translobullar plate neuron Tpl5
+T neuron T5d
+transmedullary Y neuron TmY3
+posterior tract of the ventral body
+metathoracic trochanter
+larval hypopharynx
+horizontal fiber system neuron
+dorsal adult oenocyte band 3
+adult abdominal segment 9
+antennal glomerulus VL2 anterior compartment
+gonopod long bristle
+inner antenno-cerebral tract
+abdominal 6 spiracular muscle 136
+tarsal segment 4
+lamina
+prothoracic depressor muscle
+prothoracic segmental nerve
+salivary stylet
+LAL glomerulus m4
+larval deuterocerebrum
+larval excretory system
+fusome
+embryonic digestive system
+ganglion mother cell
+embryonic esophageal muscle
+peritoneal sheath
+ring gland primordium
+abdominal posterior fascicle neuron
+larval mesothoracic ventral sensory cluster
+wing disc-derived cell-line
+synapse
+female fusome
+mitotic domain 22
+synchronous muscle
+corpus cardiacum primordium
+embryonic circulatory system
+embryonic dorsal pouch primordium
+muscle system
+larval alary muscle 5
+embryonic/larval circulatory system
+central nervous system
+embryo
+embryonic/larval foregut
+visceral muscle of larval heart
+calyx of mushroom body
+head epidermis primordium
+female accessory gland secondary cell
+hindgut anlage in statu nascendi
+cuticle layer
+peritrophic mill
+non-connected functional system
+eye-antenna disc-derived cell-line
+CNS-derived cell-line
+lipid droplet
+prothoracic posterior fascicle neuron
+tracheal precursor cell
+larval T2/3 ventral sensory cluster
+ganglion mother cell GMC5-6a
+mitotic domain 25
+mesothoracic posterior fascicle neuron
+type III bouton
+embryonic heart
+somatic stem cell
+larval optic stalk sheath cell
+visceral muscle primordium
+ventral cibarial sensillum 2
+abdominal tracheal pit 8
+perineurium
+larval hindgut
+pharyngeal bars
+adult segment
+larval sensory nerve
+ganglion mother cell GMC4-2b
+puparial operculum
+embryonic Malpighian tubule
+yolk
+NMJ bouton
+neuroblast NB3-5
+neuroblast NB3-3
+peripheral glial cell 2
+neuroblast NB7-4
+neuroblast NB5-5
+neuroblast NB2-5
+neuroblast NB5-4 of abdomen
+peripheral glial cell 1
+neuroblast NB6-4 of abdomen
+neuroblast NB2-2
+neuroblast NB2-3
+neuroblast NB4-4
+neuroblast NB3-2
+neuroblast NB1-1 of abdomen
+neuroblast NB3-1
+peripheral glial cell 3
+peripheral glial cell
+circular muscle of larval heart
+eo glial cell
+presynaptic ribbon
+embryonic specialised Malpighian tubule cell
+embryonic Malpighian tubule Type II cell
+abdominal tracheal pit 7
+protocerebral glomerulus 2
+dorsal trunk posterior branch 9
+thoracic neuroblast l1
+larval hemolymph
+oocyte nucleus
+endobody
+karyosome
+mitotic domain 2
+larval labial nerve
+Pc2 neuroblast
+transverse connective 4
+five-cell ommatidial precursor cluster
+immature eight-cell ommatidial precursor cluster
+pons
+transmedullary Y neuron TmY2
+bilateral ACT relay interneuron
+chordotonal organ
+monoscolopidial chordotonal organ
+chordotonal organ of scabellum
+triscolopdial chordotonal organ
+prothoracic chordotonal organ
+pentascolopidial chordotonal organ
+small chordotonal organ of scabellum
+scolopale
+scolopidium
+scolopidial cilium
+trachea
+dorsal superficial trachea 9
+spiracular branch 1
+ganglionic branch 6
+transverse connective 8
+embryonic dorsal anastomosis
+embryonic dorsal group branch
+embryonic/larval ventral anastomosis
+lateral H branch 3
+spiracular branch 2
+dorsal group branch 1
+lateral trunk anterior branch 7
+fat body branch 3
+larval fat body branch
+adult trachea
+transmedullary Y neuron TmY7
+thoracic neuroblast d2
+metathoracic intracoxal depressor muscle 88
+abdominal ventral muscle
+adult abdominal segment 2
+prothoracic femur
+prothoracic ungulfus
+ventral prothoracic nerve
+ocellus sensory structure
+prothoracic tarsal depressor muscle 43
+premandibular bristle
+abdominal 1 dorsal longitudinal muscle 98
+abdominal 3 oblique dorsal muscle 119
+dorsal adult oenocyte band 5
+lobular plate tangential neuron
+medulla layer M5
+translobullar plate neuron Tpl3
+larval maxillary segment
+lamina receptor cell R1
+intercalary segment sense organ
+maxillary segment
+transverse adult oenocyte band 6
+metathoracic bristle
+metathoracic pleural promotor muscle 82
+abdominal 1 dorsal trichome
+SNc
+dorsal pedicellar sensillum campaniformium
+medulla layer M2
+abdominal 2 spiracular muscle 112
+pb-eb-eb neuron
+adult abdominal segment 3
+metathoracic tarsal segment 4
+adult labial segment
+antennal glomerular array DM3 (anterior)
+metathoracic pulvillus
+Y neuron Y5
+tritocerebral center
+T neuron
+thoracic neuroblast s2
+anterior bundle
+translobullar plate neuron Tpl10
+dorsal giant horizontal cell HSN
+abdominal 1 lateral tergosternal muscle 103
+medullary tangential neuron Mt2
+lobular plate giant neuron
+antennal glomerulus VM1
+ocellar nerve
+Y neuron Y3
+antennal glomerulus DL3
+male gonopod
+thoracic neuroblast t3
+adult tentorium
+metathoracic femur
+abdominal 3 lateral tergosternal muscle 116
+transmedullary neuron Tm27
+salivary gland imaginal ring
+small cell associated with anterior dorsal histoblasts abdominal 5
+embryonic/larval epipharynx
+larval abdominal segment
+adult inferior lateral protocerebrum
+abdominal nerve trunk
+dorsal organ ganglion
+larval ventral sensory cluster of A1-7
+LAL glomerulus a7
+segmental nerve of A1-7
+abdominal spiracular muscle
+abdominal segment 6
+aedeagus
+tegumentary nerve
+A8 neuron
+muscle 18b
+tarsal segment 5
+T neuron T5a
+type a stomodeal nerve projection
+capitellum
+ventral adult oenocyte band
+monopolar laminar cell
+metathoracic tibial levator muscle 91
+metathoracic tibial depressor muscle 92
+abdominal 8 female lateral ventral muscle 150
+local interneuron of larval antennal lobe
+fronto-pharyngeal muscle
+adult inferior medial protocerebrum
+anal imaginal ring
+embryonic intercalary segment
+haltere muscle
+T neuron T1
+adult abdominal segment 1
+translobullar plate neuron Tpl2
+transverse adult oenocyte band 7
+ring neuron R1
+larval intercalary segment
+lamina receptor cell R5
+antennal mechanosensory and motor center
+thoracic neuroblast s1
+prothoracic coxa
+metathoracic tarsal segment 1
+larval abdominal segment 7
+anteriolateral neurosecretory cell
+vertical fiber system neuron
+prothoracic nerve
+larval lateral sensory cluster of A1-7
+embryonic abdominal segment 3
+medullary tangential neuron Mt3
+pons cerebralis
+embryonic abdominal segment 2
+skeletal muscle of prothorax
+protocerebral glomerulus
+medullary tangential neuron Mt4
+antennal glomerulus DC1
+larval procephalic segment
+abdominal 7 dorsal trichome
+embryonic abdominal segment 10
+antennal glomerulus VA6
+prothoracic promotor muscle
+metathoracic spiracle occlusor muscle 97
+abdominal 2 oblique dorsal muscle 113
+abdominal 1 oblique lateral dorsal longitudinal muscle 101
+adepithelial cell of dorsal prothoracic disc
+antennal glomerular array D
+antennal glomerulus DP1 lateral compartment
+metathoracic levator muscle
+larval alary muscle 1
+end plate
+SP1 neuron
+stem cell fusome
+hygrosensitive sensory organ
+female germline cell
+stomodeal invagination late
+procuticle
+anlage in statu nascendi
+sensory nerve
+digestive system
+hemocyte-derived cell-line
+pupal integumentary system
+larval salivary gland common duct
+intersegmental nerve
+embryonic/larval endocrine system
+female accessory gland
+hypocerebral ganglion
+ganglion mother cell GMC6-2a
+neuromuscular junction
+interneuron
+ganglion mother cell GMC7-4b
+region of integument
+segmental subdivision of organ system
+embryonic/larval dorsal vessel
+pericardial cell
+adult eye primordium
+stem cell
+antennal nerve
+embryonic/larval digestive system
+bouton
+caudal fibers of larval heart
+larval T2/3 dorsal sensory cluster
+larval neuroblast
+ventral ectoderm
+larval main segment of Malpighian tubule
+ganglion mother cell GMC5-2b
+ganglion mother cell GMC7-4a
+thermosensitive sensory organ
+axon tract
+somatic muscle
+ventral group vA neuron
+proventriculus inner layer
+embryonic/larval heart anchoring cell
+visceral branch 6
+dorsal trunk anterior branch 6
+dorsal trunk posterior branch 8
+fat body branch 9
+fat body branch 1
+dorsal superficial trachea 6
+ganglionic branch 9
+lateral E branch 5
+adult transverse connective
+lateral F branch 3
+adult transverse connective 3
+maxillary palpus trachea
+cibarial muscle trachea
+fat body branch 6
+dorsal group branch 6
+adult spiracular branch
+tracheal branch of Tr1
+non-functional spiracular branch
+non-functional spiracular branch 1
+adult ganglionic branch 0
+dorsal anastomosis 6
+embryonic/larval trachea
+embryonic lateral group branch
+non-functional spiracular branch 9
+lateral trunk anterior branch 10
+tracheal branch of Tr10
+cervical trachea
+embryonic/larval transverse connective
+embryonic lateral trunk
+larval ganglionic branch
+dorsal branch 3
+embryonic/larval visceral branch
+dorsal branch 6
+embryonic dorsal branch
+dorsal group branch 2
+lateral trunk posterior branch 7
+dorsal superficial trachea 8
+adult abdominal spiracular branch 4
+adult ganglionic branch
+tracheal tip cell
+abdominal dorsal branch 3
+visceral branch 4
+larval dorsal anastomosis
+fat body branch 8
+dorsal trunk anterior branch 10
+labial trachea
+spiracular branch 8
+dorsal trunk posterior branch 6
+adult transverse connective 7
+dorsal group branch 4
+metathoracic leg trachea
+lateral trunk posterior branch 9
+embryonic spiracular branch
+ganglionic branch 3
+embryonic/larval lateral trunk
+transverse connective 10
+larval lateral trunk
+ganglionic branch 7
+dorsal branch 4
+adult spiracular branch 1
+dorsal trunk anterior branch 4
+transverse connective 1
+embryonic/larval ganglionic branch
+embryonic fat body branch
+non-functional spiracular branch 3
+dorsal group branch 9
+dorsal trunk anterior branch
+embryonic/larval dorsal group branch
+embryonic ventral anastomosis
+abdominal dorsal branch
+lateral trunk anterior branch
+dorsal superficial trachea 5
+ganglionic branch 4
+embryonic trachea
+embryonic/larval dorsal anastomosis
+prothoracic dorsal branch
+visceral branch 7
+lateral F branch 9
+transverse connective 9
+lateral F branch 6
+adult transverse connective 2
+larval ventral anastomosis
+dorsal group branch 5
+ganglionic branch 0
+Wheeler&apos;s organ 2
+protocerebral bridge
+ventral adult oenocyte band 6
+antennal glomerulus VM4
+prothoracic auxilia
+abdominal 1 ventral longitudinal muscle 104
+optic lobe
+postfrons
+metathoracic depressor muscle
+fb-eb-no neuron
+translobullar plate neuron Tpl14
+optic lobe pioneer neuron
+T neuron T5
+transmedullary neuron Tm23
+dorsal prothoracic nerve
+prothoracic tarsal segment 5
+thoracic neuroblast w
+protocerebral glomerulus 5
+embryonic head segment
+transmedullary neuron Tm24
+auxilia
+ventral adult oenocyte band 3
+adult antennal segment
+abdominal 3 neuroblast ventro-lateral cluster neuron
+transverse adult oenocyte band 5
+abdominal 1 oblique sternopleural muscle 107
+antennal glomerulus D
+abdominal 5 neuroblast ventro-lateral cluster neuron
+ring neuron
+head segment
+transmedullary neuron Tm17
+adepithelial cell of ventral prothoracic disc
+gonopod thorn bristle
+T neuron T2a
+thoracic neuroblast s3
+embryonic maxillary segment
+pb-fb-fb neuron
+larval abdominal segment 10
+type c stomodeal nerve projection
+capitella sensillum trichodeum
+abdominal 8 female transverse ventral muscle 151
+transmedullary neuron Tm6
+embryonic abdominal segment 7
+embryonic procephalic segment
+tarsal segment 2
+Y neuron
+posterior lateral fascicle
+LAL glomerulus a2
+abdominal segment 3
+layer Lop4
+retineria
+thoracic neuroblast l3
+transmedullary neuron Tm2
+Wheeler&apos;s organ
+optic tubercle
+LAL glomerulus p3
+larval head segment
+adult superior lateral protocerebrum
+gena
+medullary tangential neuron Mt6
+medullary tangential neuron Mt7
+intrinsic pb neuron
+transmedullary neuron Tm4
+labial sensillum
+embryonic ocular segment
+transmedullary Y neuron TmY6
+metathoracic tibial depressor muscle
+metathoracic dorsal trichome
+proximal medullary amacrine neuron
+abdominal 5 oblique dorsal muscle 131
+transmedullary Y neuron TmY9
+translobullar plate neuron Tpl8
+haltere sclerite
+abdominal segment 11
+transmedullary neuron Tm26
+male pronucleus
+larval imaginal precursor
+imaginal ring
+midgut imaginal island
+imaginal disc
+morphogenetic furrow
+eye disc posterior to the morphogenetic furrow
+adult salivary gland
+hindgut imaginal ring
+adepithelial cell of eye-antennal disc
+adepithelial cell of genital disc
+eye disc anterior to the morphogenetic furrow
+adult hindgut
+cuticulin layer
+visceral mesoderm
+somatic mesoderm
+tibial levator muscle
+glioblast
+embryonic glioblast
+PNS glial cell
+exit glial cell
+glial cell
+embryonic glial cell
+medial exit glial cell 1
+PNS exit glial cell
+channel glial cell
+medial exit glial cell 2
+posterior exit glial cell
+surface associated glial cell
+pars intercerebralis
+mushroom body gamma-lobe
+tergopleural promotor muscle
+mitotic domain 8
+dorsal denticle
+eye sensory structure
+adult labial interneuron
+type A interneuron
+type D interneuron
+type C interneuron
+type B interneuron
+crop nerve
+proctodeum
+anal slit
+adult sense organ
+adult sensillum
+gastrula embryo
+mitotic domain 16
+cycle 15 embryo
+late extended germ band embryo
+extended germ band embryo
+motor neuron
+parasegmental furrow
+polar body nucleus
+proventriculus intermediate layer
+pronucleus
+larval oenocyte precursor
+polyfusome
+embryonic/larval hindgut
+hemolymph
+longitudinal visceral muscle fiber
+tracheal metamere 1
+neuromere
+nerve terminal
+integument of larval metathoracic segment
+embryonic/larval hemolymph
+larval mesothoracic lateral sensory cluster
+integument of larval prothoracic segment
+larval proventriculus inner layer
+fascicle
+segment
+region of integument defined by pigmentation pattern
+cardial cell
+mushroom body alpha&apos;-lobe
+cell
+developing embryonic structure
+tagmatic subdivision of organ system
+larval lateral neuron
+nervous system
+larval thoracic/abdominal dorsal sensory cluster
+embryonic hemolymph
+embryonic peripheral nervous system
+embryonic ostial cardioblast
+anatomical structure with acellular and cellular components
+grooved sensillum
+abdominal tracheal pit 3
+foregut
+SP2 neuron
+neurogenic region
+ganglion cell
+optic nerve
+ventral midline neuron
+larval metathoracic dorsal sensory cluster
+mitotic domain N
+proventriculus primordium
+larval foregut
+larval prothoracic lateral sensory cluster
+larval optic stalk
+t-bar
+ganglionic branch 5
+transverse connective 7
+mesothoracic leg trachea
+lateral G branch 10
+lateral trunk posterior branch 5
+dorsal group branch 10
+lateral trunk anterior branch 8
+fat body branch 10
+non-functional spiracular branch 8
+adult dorsal trunk
+dorsal branch 5
+lateral E branch 9
+fat body branch 2
+embryonic/larval fat body branch
+larval dorsal branch
+lateral trunk posterior branch 1
+dorsal trunk posterior branch 2
+dorsal superficial trachea 4
+non-functional spiracular branch 4
+dorsal trunk posterior branch 5
+lateral F branch 5
+adult transverse connective 8
+spiracular branch 9
+lateral trunk anterior branch 3
+dorsal anastomosis 3
+lateral trunk posterior branch
+dorsal superficial trachea
+lateral trunk posterior branch 8
+adult abdominal spiracular branch 7
+spiracular branch 7
+transverse connective 6
+abdominal dorsal branch 6
+dorsal group branch 8
+embryonic/larval spiracular branch
+lateral G branch 3
+non-functional spiracular branch 10
+ventral anastomosis 1
+embryonic ganglionic branch
+dorsal group branch 7
+wing branch
+mestracheon
+adult ventral anastomosis 0
+lateral F branch 10
+transverse connective 3
+ganglionic branch 1
+visceral branch 5
+non-functional spiracular branch 2
+embryonic transverse connective
+larval spiracular branch
+non-functional spiracular branch 6
+embryonic/larval lateral group branch
+lateral trunk posterior branch 3
+larval transverse connective
+dorsal group branch 3
+dorsal trunk posterior branch 7
+dorsal branch 8
+larval lateral group branch
+abdominal dorsal branch 8
+dorsal branch 2
+ventral anastomosis 2
+dorsal superficial trachea 7
+lateral G branch 9
+dorsal trunk posterior branch 4
+adult transverse connective 9
+prothoracic leg trachea
+lateral E branch 8
+adult ganglionic branch 1
+adult abdominal spiracular branch 8
+dorsal anastomosis 8
+adult ganglionic branch 2
+spiracular branch 4
+lateral F branch 4
+abdominal dorsal branch 9
+lateral trunk anterior branch 6
+superficial trachea
+adult transverse connective 6
+lateral G branch 2
+embryonic/larval dorsal trunk
+hypopleural air sac
+adult lateral trunk
+haltere branch
+ventral anastomosis
+dorsal trunk posterior branch
+optic lobe pioneer neuron 2
+medial ocellus
+prothoracic unguis scale
+ellipsoid body
+abdominal 1 internal lateral muscle 106
+male abdominal 5 muscle
+superior medial protocerebrum
+embryonic abdominal segment 8
+antennal segment
+larval antennal nerve
+abdominal nerve
+skeletal muscle of dorsal head
+pretarsus
+fine arborization relay interneuron
+adult labral segment
+LAL glomerulus p5
+prothoracic neuromere
+antennal glomerulus VP2
+adult gnathal segment
+head sensillum
+pigment-dispersing hormone-immunoreactive neuron close to medulla
+leg
+adult brain
+abdominal intersegmental nerve
+deuterocerebral commissural tract
+prothoracic metatarsus
+transmedullary Y neuron TmY1
+thoracic neuroblast l4
+larval optic focus
+second optic chiasma
+scabellum
+metatarsus
+prothoracic ventral neurosecretory neuron
+tibia
+abdominal 3 ventral muscle 117
+metathoracic tibia
+distal medullary amacrine neuron Dm2
+medulla layer M3
+abdominal 7 female ventral muscle 142
+adepithelial cell of female genital disc
+adult deuterocerebrum
+distal medullary amacrine neuron Dm5
+adult prothoracic segment
+adepithelial cell of ventral metathoracic disc
+transmedullary neuron
+prothoracic femoral reductor muscle 38
+hypandrial bristle
+thoracic segment
+prothoracic pleural promotor muscle 30
+adult abdominal segment 8
+embryonic prothoracic segment
+medulla layer M4
+pb-eb-no neuron
+transmedullary Y neuron TmY5
+lamina receptor cell
+adult abdominal segment 6
+medullary tangential neuron
+centrifugal neuron C3
+transverse adult oenocyte band 3
+transmedullary neuron Tm7
+transmedullary neuron Tm18
+protocerebral glomerulus 7
+medial fascicle
+metathoracic unguis
+early extended germ band embryo
+cycle 14B embryo
+mitotic domain 14
+mitotic domain 3
+ventral furrow
+cycle 14A embryo
+mitotic domain 4
+mitotic domain 5
+mitotic domain 19
+anterior transverse furrow
+mitotic domain 11
+amnioproctodeal invagination
+mitotic domain 13
+posterior transverse furrow
+late embryo
+cycle 14 embryo
+dorsal closure embryo
+mitotic domain 15
+mitotic domain 20
+mitotic domain 12
+mitotic domain 6
+mitotic domain 7
+cephalic furrow
+mitotic domain 18
+pole cell
+mitotic domain 9
+mitotic domain 1
+mitotic domain 17
+adult longitudinal muscle
+tracheal metamere 7
+giant fibers
+larval central nervous system
+paraesophageal ganglion
+larval hypocerebral ganglion
+larval stomatogastric nervous system
+larval ventricular ganglion
+esophageal nerve 1
+esophageal nerve 2
+frontal nerve
+esophageal ganglion 1
+recurrent nerve
+larval frontal ganglion
+esophageal ganglion 2
+uterine circular muscle
+adult peritracheal cell
+dorsal imaginal precursor
+eo-type sensillum
+taste bristle
+knob sensillum
+peg sensillum
+sensillum campaniformium of intercalary segment
+slit papilla sensillum
+sensillum campaniformium
+chaeta
+sensillum basiconicum
+ptilinal sensillum trichodeum
+sensillum trichodeum
+Keilin&apos;s organ
+receptor lymph space of small sensillum basiconicum
+small sensillum basiconicum
+large sensillum basiconicum
+receptor lymph space of large sensillum basiconicum
+hypopharyngeal lobe
+larval metathoracic ventral sensory cluster
+adult
+sub-perineurial glial sheath
+nerve fiber bundle
+larval garland organ
+larval thoracic/abdominal lateral sensory cluster
+embryonic/larval visceral muscle
+female organism
+mitotic domain B
+tracheal system
+Malpighian tubule
+pacemaker neuron
+mesothoracic anterior fascicle neuron
+alary cell
+energid
+ring canal
+exochorion
+asynchronous muscle
+embryonic organ system
+dorsal hair
+dorsal thick hair
+larval ureter
+endochorion
+embryonic/larval salivary gland duct
+adult maxillary nerve
+gamete
+epipharynx
+brain
+tracheal metamere
+pedunculus
+ganglion mother cell GMC1-1a
+prepupa
+mesothoracic tracheal pit
+round stem cell fusome
+excretory system
+embryonic tracheal pit
+dorsal fine hair
+initial segment of Malpighian tubule
+proventricular muscle
+ureter
+cell component
+ventral imaginal precursor
+esophageal ganglion
+anterior ejaculatory duct
+tendon cell
+proventriculus
+chemosensory sensory organ
+larval T2/3 lateral sensory cluster
+epicuticle
+mushroom body heel
+specialised Malpighian tubule cell
+embryonic optic lobe primordium
+larval peripheral nervous system
+midline neuron
+germ layer
+ganglionic branch 8
+adult abdominal spiracular branch 3
+adult transverse connective 1
+adult abdominal spiracular branch 6
+adult spiracular branch 2
+leg trachea
+dorsal anastomosis 5
+lateral trunk anterior branch 4
+lateral E branch 7
+dorsal trunk anterior branch 3
+non-functional spiracular branch 7
+terminal tracheal cell
+adult transverse connective 4
+lateral G branch 7
+fat body branch 5
+lateral trunk anterior branch 9
+dorsal trunk anterior branch 2
+lateral E branch 6
+lateral H branch 2
+transverse connective 2
+dorsal anastomosis 7
+lateral H branch 4
+ganglionic branch 2
+caudal branch
+adult abdominal spiracular branch 5
+pharyngeal branch
+tracheole
+adult abdominal spiracular branch 9
+dorsal branch 9
+dorsal trunk anterior branch 9
+dorsal branch 7
+lateral F branch 8
+lateral G branch 4
+transverse connective 5
+lateral G branch
+dorsal anastomosis 4
+embryonic/larval dorsal branch
+lateral E branch 10
+fat body branch 4
+spiracular branch 6
+fat body branch 7
+dorsal trunk anterior branch 8
+dorsal anastomosis 2
+spiracular branch 3
+lateral trunk anterior branch 5
+lateroposterior branch
+abdominal dorsal branch 4
+cerebral anastomosis
+dorsal branch
+lateral H branch 5
+spiracular branch 10
+metathoracic dorsal branch
+lateral trunk posterior branch 6
+mediosternal trachea
+tracheolar cell
+lateral F branch
+ventral anastomosis 0
+lateral E branch 2
+lateral H branch
+lateral H branch 8
+lateral F branch 2
+cerebropharyngeal branch
+adult ventral anastomosis 2
+lateral H branch 10
+lateral E branch 3
+lateral G branch 8
+parenteric air sac
+lateral H branch 6
+lateral F branch 7
+lateral H branch 7
+adult abdominal spiracular branch
+abdominal air sac
+lateral E branch 4
+lateral E branch
+larval dorsal group branch
+lateral H branch 9
+tracheal node
+hindgut branch
+lateral G branch 5
+leg sensillum
+prothoracic coxal sensillum trichodeum
+prothoracic tibial sensillum trichodeum
+postgenal sensillum
+relay interneuron
+adult midbrain
+medullary tangential neuron Mt11
+adult external thorax
+prothoracic tarsal segment 1
+equatorial giant horizontal cell HSE
+hypandrial hair
+metathoracic tarsal segment
+lamina receptor cell R7
+ring neuron R4
+unguitractor plate
+skeletal muscle of abdomen
+prothoracic pulvillar membrane
+metathoracic pleural remotor muscle 83
+transmedullary Y neuron TmY10
+metathoracic auxilia
+embryonic nervous system of abdomen
+telson
+small cell associated with anterior dorsal histoblasts abdominal 2
+baso-posterior medial compartment
+larval metathoracic segment
+gustatory center of genitalia
+LAL glomerulus p6
+medullary tangential neuron Mt9
+LAL glomerulus m3
+monopolar laminar cell L4x
+abdominal segment 10
+prothoracic pleural promotor and abductor muscle 29
+lobular plate tangential neuron Lpt2
+ocellus
+larval gnathal segment
+prothoracic pulvillus
+metathoracic tarsal segment 2
+medullary tangential neuron Mt8
+medulla layer M8
+penis
+antennal glomerulus DC2
+larval thoracic segment
+thoracic relay interneuron
+metathoracic unguis scale
+abdominal 5 dorsal trichome
+adult lateral neuron
+antennal disc
+antennal glomerular array DM3
+antennal glomerulus VA1 medial compartment
+postgenal bristle
+eyelet
+abdominal 1 oblique lateral dorsal longitudinal muscle 102
+intersegmental nerve of A1-7
+procephalic segment
+thoracic neuroblast d3
+lateropharyngeal nerve
+transmedullary neuron Tm5
+ventral giant horizontal cell HSS
+prothoracic reductor muscle
+terminalia
+adepithelial cell
+adult alary muscle 1
+intracoxal levator muscle
+rectal circular muscle
+crop
+extracoxal depressor muscle
+adult pericardial cell
+chamber 2
+male abdominal muscle
+salivary gland nerve
+extrinsic ag-pb neuron
+anterior rotator muscle
+tracheal air sac
+skeletal muscle of thorax
+alimentary canal
+adult rectal valve
+adult alary muscle
+esophageal valve
+antennal foramen
+anteroscutal air sac
+cardial valve muscle
+sternopleural air sac
+adult hemocoel
+frontal pulsatile organ
+extrinsic pb neuron
+intracoxal mesal levator muscle
+antennal air sac
+femoral reductor muscle
+postgenal air sac
+adult hypopharynx
+scutellar air sac
+labellar gland
+terminal opening
+cardia nerve
+wing pulsatile organ 3
+ovarian sheath muscle
+bract
+adult esophageal longitudinal muscle
+lateroscutal air sac
+metathoracic air sac
+spermathecal duct longitudinal muscle
+adult visceral muscle
+levator muscle
+stomodeal ganglion
+adult heart
+pupal/adult digestive system
+wing pulsatile organ 5
+heart chamber
+adult garland cell
+notopleural air sac
+chamber 4
+adult heart suspensory fibril
+female abdominal muscle
+pretarsal depressor muscle
+rotator muscle
+adult muscle system
+extrinsic neuron
+adult somatic muscle
+extrinsic no neuron
+dorsal head air sac
+wing pulsatile organ 4
+depressor muscle
+dorsal diaphragm
+adult salivary gland suspensor muscle
+adult esophageal sphincter muscle
+adult heart muscle
+adult peripheral nervous system
+sclerite
+intestine muscle
+adult nervous system
+foramen
+adult alary muscle 4
+appendage
+tarsal depressor muscle
+adult epipharynx
+adult rectal papilla
+chorionic layer
+tracheal metamere 2
+embryonic segment
+larval dorsal neuron-1
+cuticular specialization
+embryonic/larval cardiovascular gland
+lobe system of mushroom body
+yolk sac
+syncytium
+larva
+cleavage nucleus
+tracheal metamere 3
+imaginal tracheoblast
+imaginal precursor
+gonad
+anatomical structure
+garland cell
+developing anatomical structure
+ganglion mother cell GMC5-2a
+anterior-posterior subdivision of organism
+haltere disc-derived cell-line
+larval salivary gland
+assembly zone
+mushroom body medial lobe
+larval circulatory system
+segmental subdivision of integument
+adult labial motor neuron
+embryonic/larval proventriculus
+pharynx
+embryonic/larval muscle system
+posterior Malpighian tubule
+ventro-lateral serotonergic neuron
+hindgut
+germline stem cell
+female accessory gland duct
+cardioblast
+blunt-tipped sensillum
+larval segment
+hypopharynx
+embryonic neuroblast
+adult neuromuscular junction
+embryonic/larval garland organ
+embryonic nervous system
+trichome
+head visceral muscle primordium
+larval thoracic/abdominal ventral sensory cluster
+neuropil compartment
+female reproductive system
+leg disc-derived cell-line
+reproductive system
+peripheral nervous system
+ganglion mother cell GMC2-5a
+dopaminergic neuron
+frontal ganglion
+embryo-derived cell-line
+prothoracic leg taste bristle
+prothoracic trochanter sensillum campaniformium Sc3
+prothoracic femoral bract
+sensillum trichodeum of cervical membrane of prothoracic leg
+sex comb
+prothoracic trochanter sensillum trichodeum 2GSt
+prothoracic coxal sensillum trichodeum St3
+prothoracic trochanter sensillum trichodeum St5
+prothoracic femoral sensillum campaniformium Sc11
+prothoracic trochanter sensillum campaniformium
+prothoracic leg sensillum
+sex comb tooth
+prothoracic trochanter sensillum trichodeum
+prothoracic femoral sensillum campaniformium
+prothoracic trochanter sensillum campaniformium Sc+5
+prothoracic trochanter sensillum trichodeum St1
+prothoracic trochanter sensillum campaniformium Sc-
+prothoracic coxal sensillum trichodeum St4
+prothoracic tibial bract
+prothoracic femoral sensillum campaniformium Sc1
+prothoracic coxal sensillum trichodeum St8
+prothoracic trochanter sensillum campaniformium Sc13
+follicle cell
+polar follicle cell
+border follicle cell
+interfollicle cell
+centripetally migrating follicle cell
+stage
+abdominal segment nerve
+abdominal segment 3 nerve
+abdominal segment 8 nerve
+abdominal segment 5 nerve
+abdominal segment 6 nerve
+abdominal segment 7 nerve
+abdominal segment 1 nerve
+abdominal segment 2 nerve
+adepithelial cell of labial disc
+translobullar plate neuron Tpl9
+postocciput
+postoccipital sensillum
+abdominal 4 neuroblast ventro-lateral cluster neuron
+sensillum coeloconicum
+dorsal scabellar sensillum campaniformium
+developmental compartment
+parasegment 14
+parasegment 5
+parasegment 3
+parasegment
+imaginal disc posterior compartment
+parasegment 9
+parasegment 2
+parasegment 10
+parasegment 6
+parasegment 12
+parasegment 8
+parasegment 13
+parasegment 15
+parasegment 4
+parasegment 1
+imaginal disc anterior compartment
+parasegment 7
+prothoracic tibial depressor muscle 41
+antennal glomerulus VP3
+intrinsic vbo neuron
+larval abdominal segment 3
+T neuron T4c
+metathoracic extracoxal depressor muscle
+paraocciput
+lamina receptor cell R4
+transmedullary Y neuron TmY8
+LAL glomerulus m2
+accessory pharyngeal nerve projection
+muscle 19b
+metathoracic tarsal depressor muscle 95
+abdominal 8 dorsal trichome
+metathoracic tergum
+embryonic abdominal segment 9
+abdominal 7 female lateral muscle 141
+antennal glomerulus VA1
+transmedullary neuron Tm19
+lateral horn
+pupal abdomen
+metathoracic tarsal levator muscle 94
+ventral pedicellar sensillum campaniformium
+protocerebral glomerulus 1
+abdominal 7 female spiracular muscle 143
+transverse adult oenocyte band 4
+metathoracic neuromere
+embryonic mandibular segment
+pedicellar brush
+transmedullary neuron Tm9
+embryonic/larval hypopharynx
+dorsal posterior protocerebral tract
+haltere trichome
+medulla glial cell
+salivary pump muscle 13
+metathoracic sternal extracoxal depressor muscle 87
+antennal glomerular array V
+medulla layer M1
+centrifugal neuron C2
+abdominal segment 1
+prothoracic sternum
+ptilino-tentorial muscle
+adult external head
+gnathal segment
+dorsal adult oenocyte band 7
+antennal glomerular array VA1
+pb-no neuron
+pulvillar membrane
+T neuron T4
+transmedullary neuron Tm28
+antennal glomerulus DL2
+ring neuron R3
+translobullar plate neuron Tpl11
+abdominal segment
+ring neuron R2
+lateral ellipsoid body tract
+adult abdominal segment 10
+haltere muscle 78a
+ocular segment
+labral segment
+T neuron T4b
+adult procephalic segment
+larval mandibular segment
+pharyngeal sense organ
+translobullar plate neuron Tpl15
+prothoracic tarsal segment 4
+adult proventriculus
+frontal head air sac
+air sac subdivision
+posterior intestine longitudinal muscle
+posterior intestine circular muscle
+crop circular muscle
+gonadal sheath muscle
+tergal remotor muscle
+adult esophageal muscle
+cardial muscle
+adult hemolymph
+accessory mesothoracic neuromere
+occlusor muscle
+adductor muscle
+adult circulatory system
+bypass nerve
+skeletal muscle of leg
+postnotal air sac
+adult circular muscle
+anterior adult hindgut
+wing pulsatile organ
+adult central nervous system
+sternal promotor muscle
+cardial valve
+salivary pump
+chamber 3
+adult endocrine system
+wing pulsatile organ 1
+ventral adult heart longitudinal muscle
+wing pulsatile organ 2
+proximal costal bract
+adult salivary gland duct
+adult aortic funnel
+ejaculatory bulb muscle
+pulsatile organ
+adult common salivary gland duct
+postocular air sac
+chamber 1
+head air sac
+intracoxal depressor muscle
+occipital foramen
+adult tracheal system
+adult alary muscle 2
+tibial depressor muscle
+pleural promotor muscle
+adult dorsal vessel
+scutellar pulsatile organ
+cervical nerve
+posterior adult hindgut
+adult pharynx
+adult integumentary system
+pleural remotor muscle
+tarsal levator muscle
+appendage segment
+remotor muscle
+adult rectal sphincter
+reductor muscle
+adult neuroblast
+tibial pulsatile organ
+sternal remotor muscle
+promotor muscle
+pleural air sac
+adult aorta
+posterior rotator muscle
+adult esophageal circular muscle
+ovariole
+ovarian sheath
+germarium cap cell
+amacrine neuron
+trunk ectoderm
+pharate adult
+pioneer neuron
+antenno-cerebral tract
+neural lamella
+embryonic/larval nervous system
+larval mesothoracic dorsal sensory cluster
+photoreceptor
+embryonic/larval pericardial cell
+denticle
+organ system subdivision
+chorionic specialization
+embryonic/larval hemocoel
+embryonic fiber tract founder cluster
+embryonic imaginal precursor
+columnar neuron
+embryonic Malpighian tubule segment
+micropyle
+anterior Malpighian tubule
+neuron of aristal sense organ
+ejaculatory bulb
+abdominal tracheal pit 6
+embryonic fiber tract
+embryonic/larval rectum
+GABA-ergic neuron
+tracheal metamere 8
+mitotic domain
+sense organ
+endocrine system
+Malpighian tubule Type I cell
+lateral ectoderm
+hemocoel
+tracheal metamere 4
+embryonic transitional segment of Malpighian tubule
+external sensillum
+dense body
+tagmatic subdivision of integument
+mushroom body alpha-lobe
+metathoracic tracheal pit
+muscle attachment site
+testicular duct
+EH neurosecretory neuron
+pupa
+larval Malpighian tubule segment
+tonofibrilla
+neurilemma
+embryonic/larval aorta
+embryonic initial segment of Malpighian tubule
+male reproductive system
+larval brain
+supraesophageal ganglion
+hindgut visceral muscle primordium
+hindgut visceral muscle fiber
+metathoracic intersegmental nerve
+fasciculates_with
+metathoracic anterior fascicle neuron
+epithelium
+oocyte associated follicular epithelium
+epithelial sheath
+ventral neurogenic region
+intermediate ventral neurectoderm
+squamous epithelium
+disc epithelium proper
+cuboidal/columnar epithelium
+thoracico-abdominal ganglion
+nurse cell associated follicular epithelium
+lateral ventral neurectoderm
+dorsal air sac primordium
+dorsal air sac
+medial ventral neurectoderm
+ventral nerve cord primordium
+larval prothoracic dorsal sensory cluster
+propleural air sac
+adult mouth
+small pigment-dispersing hormone-immunoreactive neuron close to medulla
+adult dorsal neuron
+adult dorsal neuron-2
+adult dorsal neuron-3
+adult dorsal neuron-1
+adult abdominal segment 4
+abdominal 4 oblique dorsal muscle 125
+abdominal 4 ventral muscle 123
+abdominal 4 spiracular muscle 124
+germline cyst
+female germline cyst
+egg chamber
+T neuron T5b
+labial nerve projection
+adult external prothorax
+larval abdominal segment 11
+abdominal 1 medial dorsal longitudinal muscle 98
+transverse adult oenocyte band
+metathoracic laterotergite
+fan shaped body
+embryonic/larval mouth
+translobullar plate neuron Tpl1
+skeletal muscle of metathorax
+antennal sense organ
+skeletal muscle of prothoracic leg
+thoracic neuroblast b2
+abdominal 8 intersegmental nerve
+antennal glomerulus 1
+metathoracic unguitractor plate
+antennal glomerulus compartment
+labial complex
+ventral adult oenocyte band 2
+adult protocerebrum
+adepithelial cell of dorsal metathoracic disc
+antennal glomerulus VP
+embryonic labial segment
+metathoracic ungulfus
+antennal glomerulus VC1
+antennal glomerular array
+prothoracic leg foramen
+abdominal 6 neuroblast ventro-lateral cluster neuron
+adult antennal nerve
+thoracic neuroblast c
+lateral triangle
+femur
+unilateral local interneuron
+distal medullary amacrine neuron
+antennal glomerulus VP1
+metathoracic ventral thoracic neurosecretory neuron
+prothoracic tibia
+labial segment
+transverse adult oenocyte band 2
+Wheeler&apos;s organ 3
+LAL glomerulus m7
+medullary tangential neuron Mt12
+ocellus lens
+small cell associated with anterior dorsal histoblasts abdominal
+abdominal 5 spiracular muscle 130
+dorsal paramere
+lateral medial fascicle
+posteriolateral neurosecretory cell
+protocerebral glomerulus 6
+abdominal 6 dorsal trichome
+lobular plate tangential neuron Lpt1
+prothoracic sternal adductor muscle 33
+cystoblast
+germarium region 2
+oogonial cell
+germarium region 2b
+vitellarium
+germarium region 1
+germarium region 3
+ovarian basement membrane
+somatic cell of ovary
+terminal filament
+follicle stem cell
+germarium region 2a
+escort stem cell
+germarium
+ovarian sheath cell
+female germline stem cell
+foregut primordium
+embryonic cardiovascular gland
+foregut visceral muscle primordium
+foregut visceral muscle fiber
+mesodermal specific anlage
+blastoderm embryo
+amnioserosa anlage in statu nascendi
+syncytial blastoderm embryo
+furrow canal
+pole bud
+postsynaptic membrane
+salivary gland duct specific anlage
+material anatomical entity
+intrinsic neuron
+embryonic/larval tracheal pit
+myoblast
+dorso-lateral dopaminergic neuron
+adult tracheocyte
+serotonergic neuron
+male organism
+circulatory system primordium
+vitellophage
+male fusome
+type I bouton
+myotube
+pigment-dispersing hormone-immunoreactive neuron of abdominal neuromere
+larval alary muscle 2
+primordium
+larval proventriculus outer layer
+egg
+embryonic heart cardioblast
+neuron
+collar
+rectum
+fertilized egg
+embryonic/larval heart
+embryonic cardioblast
+mitotic domain A
+embryonic myoblast
+precursor cell
+neuroglioblast
+metameric furrow
+embryonic/larval pharynx
+abdominal tracheal pit 1
+vitelline membrane
+larval visceral muscle
+spermathecum
+abdominal segment motor neuron
+extraembryonic structure
+transitional segment of Malpighian tubule
+embryonic head sensory system
+embryonic aorta
+olfactory sensory organ
+embryonic sensory system
+abdominal tracheal pit 2
+mechanosensory sensory organ
+muscle cell
+larval heart anchoring cell
+embryonic ureter
+embryonic/larval salivary gland
+actin cortex of neuromere
+cholinergic neuron
+imaginal disc-derived cell-line
+embryonic garland organ
+stomodeal invagination
+spermathecal duct
+caudal ostial fibers of larval heart
+intramembranous particle
+larval salivary gland duct
+gustatory sensory organ
+stomodeum
+embryonic hindgut
+embryonic hemocoel
+sensory nervous system primordium
+larval alary muscle 3
+local interneuron
+tubular muscle
+abdominal tracheal pit 4
+portion of organism substance
+anatomical cluster
+proventriculus outer layer
+larval dorsal neuron-2
+ganglion mother cell GMC4-2a
+salivary gland
+larval initial segment of Malpighian tubule
+ejaculatory bulb apodeme
+gonadal sheath
+germline cell
+keyhole structure
+larval proventriculus
+inner chorionic layer
+larval alary muscle 7
+Malpighian tubule segment
+ventral nervous system
+integument of larval mesothoracic segment
+embryonic endocrine system
+Malpighian tubule tip cell
+lateral oviduct
+stomodeal invagination early
+larval transitional segment of Malpighian tubule
+larval alary muscle
+abdominal tracheal pit
+embryonic salivary gland
+main segment of Malpighian tubule
+embryonic main segment of Malpighian tubule
+stomatogastric nervous system
+nurse cell fusome
+nuage
+nurse cell ring canal rim
+nurse cell ring canal
+inner nurse cell ring canal rim
+nurse cell spectrosome
+ommatidial precursor cluster
+early ommatidial precursor cluster
+posterior midgut rudiment primordium
+tagma
+sensillum trichodeum of posternal organ
+female repressed primordium
+antennal glomerulus DA3
+dorsomedial neurosecretory cell
+prothoracic unguitractor plate
+tritocerebrum
+maxillary muscle 4
+abdominal oblique dorsal muscle
+thoracic neuroblast d1
+small cell associated with anterior dorsal histoblasts abdominal 1
+bilateral local interneuron
+muscle 18a
+optic neuropil
+larval maxillary nerve
+dorsal adult oenocyte band
+broad root
+integument of larval segment A1-7
+abdomen
+embryonic abdomen
+abdominal 6 ventral muscle 135
+layer Lop2
+prothoracic trochanter
+lamina receptor cell R3
+giant symmetrical relay interneuron
+larval abdominal segment 5
+abdominal 6 oblique dorsal muscle 137
+pulvillus
+extrinsic ring neuron ExR1
+metathoracic reductor muscle
+postgena
+transmedullary Y neuron TmY11
+prothoracic retineria
+thorax
+fb-no neuron
+monopolar laminar cell L4
+lamina receptor cell R2
+LAL glomerulus m5
+adult abdominal segment
+medulla layer M10
+prothoracic tarsal segment 2
+cirri
+circumesophageal tract
+adult thorax
+adult intercalary segment
+protocerebrum
+metathoracic sternal remotor muscle 85
+baso-medial protocerebral tract
+proximal rostral sensillum
+segment of leg
+abdominal 10 intersegmental nerve
+extrinsic ring neuron ExR2
+haltere muscle 78
+procephalic neurogenic region
+transmedullary neuron Tm12
+metathoracic leg foramen
+fb-eb neuron
+T neuron T2
+penis protractor muscle
+translobullar plate neuron Tpl4
+transmedullary neuron Tm11
+antennal glomerulus VL2 posterior compartment
+prothoracic tibial depressor muscle 40
+thoracic neuroblast l2
+unguis scale
+pigment-dispersing hormone-immunoreactive neuron close to calyx
+abdominal segment 2
+poststernal organ
+larval abdominal segment 6
+lamina tangential neuron
+trochanter
+clasper long bristle
+rostral membrane
+coxa
+clasper tooth
+muscle 19a
+adult head segment
+gonopod sensillum trichodeum
+abdominal 7 female lateral muscle 140
+outer antenno-cerebral tract
+adult thoracic segment
+adult tritocerebrum
+adult abdominal sensillum
+thoracic neuroblast g
+ventral adult oenocyte band 5
+T1 beard
+hypandrial process
+transverse vertex muscle
+T neuron T4a
+abdominal 1 spiracular occlusor muscle 105
+thoracic neuroblast s4
+prothoracic pretarsus
+neurosecretory cell
+transmedullary neuron Tm3Y
+abdominal 1 lateral dorsal longitudinal muscle 100
+larval antennal lobe
+medulla
+posterior transverse tract
+metathoracic metatarsus
+labial neuromere
+ventral body
+transmedullary neuron Tm16
+Y neuron Y4
+midgut primordium
+sensory cluster
+larval muscle system
+posterior aeropyle
+anatomical group
+embryonic/larval salivary gland common duct
+exuvial fluid
+haploid cell-line
+neuroblast
+chorion
+larval Malpighian tubule
+Kc167 cell-line
+neuroepidermoblast
+elongated stem cell fusome
+larval tracheal pit
+hindgut muscle
+acellular anatomical structure
+larval dorsal neuron
+embryonic muscle system
+motor nerve
+larval alary muscle 4
+proventricular ganglion
+cleavage stage embryo
+pit sensillum
+integumentary plate
+transverse nerve
+internal sensillum
+spectrosome
+midgut longitudinal visceral muscle primordium
+glomerulus
+metathoracic posterior fascicle neuron
+mitotic domain 24
+perineurial sheath
+ganglion
+mushroom body vertical lobe
+periligament cell
+larval metathoracic lateral sensory cluster
+embryonic adipose system
+circulatory system
+spot sensillum
+U neuron
+imaginal tracheal precursor
+endocrine cell
+external sensory organ
+larval alary muscle 6
+longitudinal visceral muscle primordium
+embryonic/larval tracheal system
+supraesophageal nerve
+puparial opercular seam
+larval tracheocyte
+ventral midline
+posterior ejaculatory duct
+tracheal pit
+larval anus
+excretory structure
+immaterial anatomical entity
+procephalic ectoderm
+Malpighian tubule tip cell specific anlage
+midgut specific anlage
+spiracle pimordium
+abdominal histoblast specific anlage
+growth cone
+primary segmental branch specific anlage
+salivary gland specific anlage
+specific anlage
+Dc2 neuroblast
+sensory organ mother cell
+posterior spiracle specific anlage
+Pd2 neuroblast
+A band
+oenocyte specific anlage
+ventral ectoderm anlage in statu nascendi
+trunk mesoderm in statu nascendi
+maxillary organ specific anlage
+Pa2 neuroblast
+adult midgut precursor specific anlage
+tracheal anlage
+anatomical space
+fat body/gonad
+Pd3 neuroblast
+mesectoderm primordium
+visceral mesoderm anlage
+visceral branch specific anlage
+foregut visceral mesoderm
+dorsal ectodermal primordium
+anterior endoderm anlage in statu nascendi
+ventral sensory complex specific anlage
+Dp1 neuroblast
+tracheole specific anlage
+mesoderm anlage in statu nascendi
+synaptic vesicle
+axon
+stage I adult
+epipharynx specific anlage
+small intestine specific anlage
+Pc1 neuroblast
+Pa6 neuroblast
+adult hindgut specific anlage
+dorsal anterior deuterocerebral neuroblast
+innervated_by
+ectoderm anlage in statu nascendi
+stage III adult
+posterior endoderm primordium
+longitudinal visceral mesoderm
+trunk mesoderm primordium
+anal pad specific anlage
+sensory nervous system specific anlage
+Malpighian tubule specific anlage
+thick filament
+Pd5 neuroblast
+Dc1 neuroblast
+procephalic neurectoderm
+dorsal ectoderm anlage in statu nascendi
+adult abdominal spiracle 9
+anatomical entity
+imaginal precursor specific anlage
+external foregut primordium
+macrophage specific anlage
+stage II adult
+Z disc
+anterior midgut rudiment primordium
+Da1 neuroblast
+germ layer anlage
+posterior spiracle proper primordium
+sarcomere
+dorsal apodeme specific anlage
+crystal cell specific anlage
+Pc3 neuroblast
+gonadal mesoderm
+anterior spiracle specific anlage
+endoderm anlage in statu nascendi
+dorsal wing
+protocerebral glomerulus 4
+LAL glomerulus a4
+medullary tangential neuron Mt15
+lateral fan-shaped neuron Fl
+empodium
+tarsal segment 1
+head bristle
+abdominal 8 female ventral muscle 149
+adult abdominal segment 5
+metathoracic coxa
+centrifugal neuron
+outer medulla
+translobullar plate neuron Tpl6
+T neuron T3
+metathoracic pleurosternal muscle 79
+antennal glomerulus VC3
+adult external metathorax
+baso-posterior adult midbrain
+distal medullary amacrine neuron Dm7
+transmedullary neuron Tm10
+lobular plate element
+antennal glomerulus DM1
+antennal glomerulus DM2
+lamina wide-field cell
+Y neuron Y1
+antennal glomerulus VM7
+median bundle
+distal medullary amacrine neuron Dm6
+larval abdominal segment 1
+monopolar laminar cell L4y
+embryonic thorax
+transmedullary neuron Tm8
+mandibular neuromere
+antero-basal tract
+abdominal 1 oblique sternopleural muscle
+protocerebral glomerulus 3
+head
+pupal thorax
+protocerebral glomerulus 8
+distal medullary amacrine neuron Dm3
+pontine neuron
+male terminalia sensillum
+monopolar laminar cell L5
+abdominal transverse nerve
+haltere muscle 77
+deuterocerebrum
+embryonic abdominal segment 5
+abdominal 9 intersegmental nerve
+optic lobe pioneer neuron 1
+embryonic metathoracic segment
+embryonic tagma
+optic lobe neuron
+abdominal 1 dorsal longitudinal muscle
+pupal tagma
+abdominal 2 ventral muscle 111
+abdominal 3 dorsal trichome
+transmedullary Y neuron TmY5a
+maxillary neuromere
+adult mandibular segment
+prothoracic intersegmental nerve
+larval abdominal segment 2
+lamina receptor cell R6
+transmedullary neuron Tm5Y
+ocellar triangle

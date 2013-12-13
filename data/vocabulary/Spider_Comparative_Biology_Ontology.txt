@@ -1,0 +1,466 @@
+patella
+pretarsus 4
+trochanter
+patella 4
+tarsus 4
+inferior claw 2
+trochanter 2
+claw
+patella 3
+proclaw 1
+femur 2
+tarsus 3
+metatarsus 3
+metatarsus 1
+metatarsus 4
+metatarsus dorsal stopper
+trochanter 4
+retroclaw 3
+pretarsus 2
+onychium
+coxa 3
+claw 1
+tibia 2
+trochanter 1
+metatarsus 2
+trochanter 3
+coxa 4
+superior claw
+tarsal setal comb 4
+coxa
+proclaw 4
+tibia
+inferior claw
+pretarsus 3
+claw 2
+superior claw 4
+tibial gland 1
+coxa 2
+proclaw 3
+calamistrum
+inferior claw 4
+coxa 1
+retroclaw
+retroclaw 4
+inferior claw 3
+retroclaw 2
+patella 2
+calamistrum seta
+proclaw
+retrocoxal hymen 1
+superior claw 1
+tarsal organ
+tibia 4
+superior claw 2
+claw 4
+sustentaculum
+inferior claw 1
+proclaw 2
+leg cuticle
+fang base
+fang shaft
+fang shaft serrula
+venom outlet
+behavioral entity
+cribellate silk carding behavior
+exact
+acellular anatomical structure
+hair
+hair abdomen
+hair appendages cephalothorax
+hair carapace
+shaft hair appendages cephalothorax
+socket hair appendages cephalothorax
+scale
+scale abdomen
+scale carapace
+seta carapace
+labial cusple
+cribellate band axial line
+macroseta
+Ac silk fiber
+cribellate band reserve wrap
+maAmp silk fiber
+Cy silk fiber
+MS silk fiber
+PC silk fiber
+miAmp silk fiber
+cribellar silk fiber
+Pi silk fiber
+narrow
+related
+female palpal coxa
+maxillary cusple
+serrula
+lyra
+maxillary gland
+endite apical tuft seta
+intercheliceral articulation
+female palpal femur
+female palp femoral thorn
+female palpal trochanter
+female palpal tibia
+female palpal patella
+female palpal claw
+female palpal tarsus
+female palpal tarsus ventral seta
+female palpal tarsus apical seta
+female palpal tarsus dorsal chemosensory seta
+intercheliceral sclerite
+heart ostium
+conductor
+terminal hematodocha
+sclerite unspecified
+cheliceral boss
+promargin
+promarginal seta
+retromargin
+retromarginal seta
+cheliceral gland
+stridulatory files
+petiolus
+copulatory bulb
+sperm outlet
+embolus
+embolic division
+median apophysis
+embolus tip
+subtegulum
+median hematodocha
+tegulum
+fundus
+spermaphor
+basal hematodocha
+cymbium
+alveolus retromargin
+alveolus promargin
+cymbial dorsal processes
+tarsal organ
+alveolus
+paracymbial retrolateral-basal process
+cymbial retrolateral-medial processes
+cymbium apical setae
+cymbium dorsal chemosensory seta
+male palpal tibia ventral processes
+male palpal trochanter
+male endite apical tuft seta
+spigot base
+male maxillary gland
+male palpal tibia prolateral processes
+male palpal tibia retrolateral processes
+spigot shaft
+male palpal tibia dorsal processes
+male palpal patella
+male palpal patellar process
+male palpal tibia
+male palpal femur
+male palpal femoral thorn
+male palpal femoral thorn socket
+nubbin
+male serrula
+male palpal coxa
+heart
+gut caecum
+midgut
+posterior booklung or lateral tracheae
+foregut
+coxal glands
+chilum
+integumentary system
+cusple
+socket trichobothria
+seta
+claw tuft seta tenent barb
+scale appendages cephalothorax
+setal socket
+dorsal sigilla
+cuticle
+scopular seta
+trichobothria
+claw tuft seta
+setal barb
+scopular seta tenent barb
+shaft scopular seta
+abdominal cuticle
+urticating hair
+scopula
+claw tuft
+abdominal seta
+claw tuft seta base
+shaft trichobothria
+distal plate socket trichobothria
+macroseta appendages cephalothorax
+setal shaft
+sigilla
+seta appendage cephalothorax
+shaft macroseta appendages cephalothorax
+socket scopular seta
+chemosensory seta
+socket macroseta appendages cephalothorax
+proximal plate socket trichobothria
+male palp
+clypeus
+clypeal glands
+anal tubercle tergite
+anal tubercle sternite
+AMS-cribellum-colulus
+median tracheae or entapophyses
+suprapalpal pit gland
+fang
+paturon
+fang furrow
+anterior lateral eye
+ALE lens
+ALE tapetum
+anterior median eye
+AME retina
+AME lens
+intestine
+carapace posterior margin
+silk cable
+dragline
+sticky composed line
+posterior median eye
+PME tapetum
+PME lens
+posterior lateral eye
+PLE lens
+PLE tapetum
+cephalothorax segment
+external abdomen
+seta anal tubercle
+anal tubercle
+cylindrical gland spigot
+aggregate gland spigot
+pumpkiniform spigot
+ampullate gland spigot
+spinneret
+tartipore
+paracribellar gland spigot
+spigot
+spinning field
+aciniform gland spigot
+silk fiber
+abdominal segment
+abdominal sternite
+abdominal tergite
+anatomical entity
+midgut diverticle
+postembryo
+sternum
+female palp
+organ system
+carapace
+chelicera
+leg 1
+intercoxal sclerites
+leg 3
+palp
+sternal sigilla
+portion of organism substance
+midgut
+cribellate silk band
+piriform glue
+eye lens
+cephalic area
+silk structure
+egg
+direct eye
+eye
+trochanter eclosion tooth
+indirect eye
+labral sclerite
+sensilla appendage cephalothorax
+stage
+labrum
+cribellate fiber
+supracoxal sclerites
+attachment disk
+labium
+thoracic area
+whole organism
+leg
+venom gland
+abdomen
+tapetum
+cuticle carapace
+eggsac layers
+appendages cephalothorax
+pleural area
+leg 2
+precoxal triangles
+cephalothorax
+vertical intercoxal bars
+tagma
+fovea
+labial sigilla
+chorion
+leg 4
+3rd abdominal segment (posterior booklungs and tracheae)
+2nd abdominal segment (epigastrium)
+cephalothorax color
+macrosetae patterns
+trichobothrial patterns
+cuticle legs and palp
+development
+synonym
+cephalothorax color
+cephalothorax cuticle
+setae patterns
+abdominal color
+eye proportions
+eye relative positions
+whole organism color
+booklung cover internal surface
+broad
+part_of
+alt_id
+booklung atrium
+anterior booklung atrium
+develops_from
+posterior booklung atrium
+is_a
+booklung leaves
+posterior booklung leaves
+anterior booklung leaves
+booklung leaves internal spacers
+booklung spiracle
+anterior booklung spiracle
+posterior booklung spiracle
+abdominal segment 4
+ALS basal segment
+anterior lateral spinneret
+ALS spigot unspecific
+Pi
+AMS
+cribellum
+ALS spinning field
+Pi base
+maAmp field
+ALS median segment
+colulus
+maAmp field sensilla
+maAmp base
+AMS spigot
+cribellar spigot
+maAmp shaft
+maAmp
+ALS apical segment
+Pi shaft
+abdominal segment 5
+Fg base
+PMS segment
+PMS Ac
+PLS spigot unspecific
+PsFg shaft
+PLS Ac shaft
+PMS Ac base
+PLS Cy
+Fg
+PMS Cy
+PLS Cy base
+PLS PC shaft
+base of posterior lateral spinneret aggregate gland spigot
+PMS Ac shaft
+posterior lateral spinneret
+PMS miAmp
+PMS spigot unspecific base
+PLS spinning field
+PMS miAmp shaft
+PLS apical segment
+PLS MS shaft
+PMS spigot unspecific
+PMS Cy shaft
+PLS triad
+PLS MS
+PLS basal segment
+PsFg base
+posterior median spinneret
+PMS spinning field
+PMS PC
+PMS PC shaft
+PMS PC base
+posterior lateral spinneret aggregate gland spigot
+PMS spigot unspecific shaft
+PMS Cy base
+PLS spigot unspecific base
+PsFg
+PLS Ac base
+PLS Cy shaft
+PLS PC base
+PLS MS base
+Fg shaft
+PLS spigot unspecific shaft
+PMS miAmp base
+PLS PC
+PLS Ac
+shaft of posterior lateral spinneret aggregate gland spigot
+tracheal system
+booklung
+lateral trachea
+entapophysis
+lateral tracheae internal structure
+median respiratory structure
+posterior booklung
+posterior tracheal spiracle
+tracheal spiracle
+lateral respiratory structure
+tracheal tube
+trachea
+median trachea
+epigastric median trachea
+median trachea internal structure
+anterior booklung
+abdominal segment 1
+pedicel
+pedicel sternite
+pedicel tergite
+abdominal segment 2
+epigynal glands
+uterus externus
+epigastric fold
+copulatory duct
+primary spermatheca (SP1, with FD)
+epiandric spigots
+female genitalia
+anterior respiratory system
+epigastrium
+copulatory opening
+posterior receptacle
+booklung cover
+lateral lobe
+stalk of spermatheca (CD between SP1 and SP2)
+epigynum
+vulva
+anterior lateral respiratory structure
+fertilization duct
+anterior median respiratory structure
+bursa
+epiandrium
+dictynoid pore
+posterior apodemes
+secondary spermatheca (SP2 or head)
+median field
+abdominal segment 3
+posterior respiratory system
+posterior median respiratory structure
+posterior lateral respiratory structure
+postepigastrium
+entapophysis 3
+leg article
+pretarsus 1
+femur 3
+superior claw 3
+claw 3
+femur 4
+tarsus 2
+femur
+retroclaw 1
+patella 1
+tarsus 1
+tibia 1
+tibia 3
+pretarsus
+tarsus
+metatarsus
+femur 1

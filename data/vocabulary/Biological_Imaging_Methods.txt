@@ -1,0 +1,268 @@
+secondary antibody-alkaline phosphastase conjugate, NABP
+DiI lipophilic tracer fill
+secondary antibody-Cascade blue conjugate
+digoxigenin labeled RNA probe
+intracellular fill
+Alexa Fluor 488 actin fill
+is_a
+develops_from
+miscellaneous fill
+X-rhodamine tubulin fill
+cobalt fill
+fluor conjugated actin fill
+Oregon Green 488 phalloidin fill
+part_of
+fluoresceine phalloidin fill
+Alexa Fluor 568 actin fill
+DiR lipophilic tracer fill
+Alexa Fluor 488 phalloidin fill
+DiA lipophilic tracer fill
+rhodamine phalloidin fill
+X-rhodamine RNA fill
+fluor labeled RNA fill
+rhodamine actin fill
+Oregon Green 514 phalloidin fill
+fluor labeled protein fill
+eosin phalloidin fill
+5-SFX fluorescein RNA fill
+lipophilic tracer fill
+DiD lipophilic tracer fill
+fluor conjugated phalloidin fill
+DiO lipophilic tracer fill
+silver-intensified cobalt fill
+fluor conjugated tubulin fill
+biotin ethylenediamine fill
+Alexa Fluor 350 phalloidin fill
+fluoresceine actin fill
+Texas Red-X phalloidin fill
+Oregon Green 514 tubulin fill
+genetically encoded enzyme, exogenous substrate
+beta-glucuronidase, X-gluc
+beta-galactosidase, X-gal
+watercolor painted graphic
+secondary antibody-alkaline phosphastase conjugate, DAB
+endogenous substrate, CMX rosamine
+related
+methanol fixed tissue
+BODIPY TR-14-dUTP labeled DNA probe
+microtome-sectioned tissue
+secondary antibody-alkaline phosphastase conjugate, Vector Black
+secondary antibody-horseradish peroxidase, 3-amino-9-ethylcarbazole
+endogenous substrate, lucifer yellow
+dark-field imaged micrograph
+secondary antibody-indocarbocyanine conjugate
+[32]P labeled DNA probe
+sectioned tissue
+vibrotome-sectioned tissue
+cryostat-sectioned tissue
+hand-sectioned tissue
+primary antibody-alkaline phosphastase conjugate, Vector Red
+endogenous substrate, fuchsin
+painted graphic
+pastel painted graphic
+oil painted graphic
+acrylic painted graphic
+secondary antibody-beta-galactosidase, X-Gal
+secondary antibody-horseradish peroxidase, Vector VIP
+macroscopic photograph
+endogenous substrate, hematoxylin
+endogenous substrate, rhodamine B
+charcoal pencil graphic
+HA peptide tag
+phase contrast imaged micrograph
+tissue in plastic embedment
+tissue in epoxy resin embedment
+tissue in acrylic resin embedment
+spinning disk confocal micrograph
+primary antibody-indodicarbocyanine
+[14]C labeled protein
+Aequorea victoria blue fluorescent protein tag
+genetically encoded tag
+Aequorea victoria cyan fluorescent protein tag
+FLAG peptide tag
+c-MYC peptide tag
+Aequorea victoria yellow fluorescent protein tag
+Discosoma red fluorescent protein tag
+Aequorea victoria red fluorescent protein tag
+Aequorea victoria green fluorescent protein tag
+endogenous substrate, SYTO Orange
+primary antibody-fluor conjugate
+primary antibody-aminomethylcoumarin acetate
+primary antibody-tetramethyl rhodamine isothiocyanate
+primary antibody-indocarbocyanine
+primary antibody-Texas Red
+primary antibody-fluorescein isothiocyanate
+primary antibody-Cascade blue
+primary antibody-cyanine
+primary antibody-rhodamine red-X
+electron micrograph
+scanning electron micrograph
+transmission electron micrograph
+secondary antibody-alkaline phosphastase conjugate, NATP
+Biological Imaging Methods
+primary antibody-horseradish peroxidase, 3-amino-9-ethylcarbazole
+[33]P labeled nucleic acid
+endogenous substrate, nuclear fast red
+radioisotope labeled RNA probe
+secondary antibody-Alexa Fluor conjugate
+primary antibody-enzyme conjugate, substrate
+secondary antibody-glucose oxidase, TNBT
+labeled RNA probe
+endogenous substrate, methyl green
+secondary antibody-acid phosphatase, ELF 97 phosphate
+diagram
+secondary antibody-horseradish peroxidase, 4-chloro-1-naphthol
+primary antibody-alkaline phosphastase conjugate, DAB
+line art graphic
+primary antibody-horseradish peroxidase, 3,3&apos;,5,5&apos;-tetramethylbenzidine
+primary antibody-horseradish peroxidase, 3,3&apos;-diaminobenzidine
+secondary antibody-horseradish peroxidase, Vector NovaRed
+microscopic photograph
+time lapse video recording
+cryofixed tissue
+endogenous substrate, 3,3&apos;-dihexyloxacarbocyanine iodide
+secondary antibody-horseradish peroxidase, Vector SG
+bright-field imaged micrograph
+Oregon Green 488-5-dUTP labeled DNA probe
+primary antibody-alkaline phosphastase conjugate, BCIP
+endogenous substrate, paclitaxel-fluor conjugate
+radioisotope labeled DNA probe
+fluoresceine-12-dUTP labeled DNA probe
+secondary antibody-Texas red conjugate
+digoxigenin labeled DNA probe
+[32]P labeled nucleic acid
+polarized imaged micrograph
+[33]P labeled DNA probe
+osmium tetroxide fixed tissue
+biotin labeled DNA probe
+formaldehyde fixed tissue
+secondary antibody-phosphatase, Naphthol-AS-BI-phosphate
+secondary antibody-beta-glucuronidase, X-gluc
+endogenous substrate, 4&apos;,6-diamidino-2-phenylindole
+primary antibody-horseradish peroxidase, Vector SG
+endogenous substrate, methyl violet
+primary antibody-alkaline phosphastase conjugate, Vector Black
+primary antibody-alkaline phosphastase conjugate, Vector Blue
+secondary antibody-alkaline phosphastase conjugate, ELF 97 phosphate
+imaging methods (original image)
+sample preparation methods
+endogenous substrate, acidotropic-fluor conjugate
+differential interference contrast imaged micrograph
+secondary antibody-alkaline phosphastase conjugate, INT
+primary antibody-horseradish peroxidase, Vector VIP
+secondary antibody-alkaline phosphastase conjugate, NBT
+endogenous substrate, cationic colloidal gold
+secondary antibody-alkaline phosphastase conjugate, Vector Blue
+atomic force micrograph
+endogenous substrate, cresyl fast violet
+secondary antibody-tetramethyl rhodamine isothiocyanate conjugate
+endogenous substrate, non-vital dye
+glutaraldehyde fixed tissue
+fluoroscein labeled RNA probe
+endogenous substrate, pyronine
+tissue in polyester wax embedment
+endogenous substrate, lectin-fluor conjugate
+endogenous substrate, Nile red
+endogenous substrate, bisbenzimide H 33342
+endogenous substrate, vital dye
+endogenous substrate, nitro blue tetrazolium chloride
+secondary antibody-indodicarbocyanine conjugate
+endogenous substrate, SYTOX Green
+secondary antibody-fluorescein isothiocyanate conjugate
+endogenous substrate, Nile blue A
+endogenous substrate, YO-PRO-1
+endogenous substrate, diaminobenzidine
+[32]P labeled RNA probe
+endogenous substrate, lectin-gold conjugate
+labeled DNA probe
+graphite pencil graphic
+secondary antibody-alkaline phosphastase conjugate, Vector Red
+secondary antibody-esterase, fluorescein diacetate
+laser scanning confocal micrograph
+grey scale graphic
+secondary antibody-horseradish peroxidase, 3,3&apos;-diaminobenzidine
+living tissue
+confocal micrograph
+[33]P labeled RNA probe
+secondary antibody-alkaline phosphastase conjugate, Fast Blue B
+ethanol fixed tissue
+acrolein fixed tissue
+montage
+[35]S labeled protein
+black and white graphic
+secondary antibody-enzyme conjugate, substrate
+acetone fixed tissue
+secondary antibody-horseradish peroxidase, 3,3&apos;-diaminobenzidine silver enhanced
+secondary antibody-cyanine conjugate
+secondary antibody-alkaline phosphastase conjugate, NAMP
+secondary antibody-horseradish peroxidase, 3,3&apos;,5,5&apos;-tetramethylbenzidine
+unembedded tissue
+secondary antibody-aminomethylcoumarin acetate conjugate
+fluor labeled DNA probe
+free hand graphic
+embedded tissue
+secondary antibody-diaminotriazinylaminoflorescein conjugate
+secondary antibody-alkaline phosphastase conjugate, Fast Red
+visualization methods
+X-ray micrograph
+whole mounted tissue
+colored pencil graphic
+coagulating-fixative fixed tissue
+unfixed tissue
+secondary antibody-lissamine rhodamine sulfonyl chloride
+endogenous substrate, methylene blue
+graphic illustration
+exogenous label
+narrow field light micrograph
+probe-mediated label
+endogenous substrate, ethidium bromide
+endogenous substrate, acridine orange
+endogenous substrate, SYTO Red
+computer graphic
+two-photon laser scanning micrograph
+endogenous substrate, phalloidin-fluor conjugate
+endogenous substrate, orcein
+multi-photon laser scanning micrograph
+endogenous substrate, giemsa
+primary antibody-alkaline phosphastase conjugate, ELF 97 phosphate
+labeled primary antibody
+biotin labeled RNA probe
+secondary antibody-alkaline phosphastase conjugate, Magenta Phos
+camera lucida assisted graphic
+endogenous substrate, propidium iodide
+labeled nucleic acid probe
+tissue in polyethylene glycol embedment
+tissue in paraffin embedment
+bromodeoxyuridine labeled DNA probe
+ethelene glycol-bis-succinimidyl succinate fixed tissue
+pen and ink graphic
+metabolically incorporated radioisotope
+secondary antibody-fluor conjugate
+primary antibody-horseradish peroxidase, Vector NovaRed
+primary antibody-horseradish peroxidase, 4-chloro-1-naphthol
+endogenous substrate, SYTO Green
+wide field light micrograph
+secondary antibody-gold conjugate
+fluorescence imaged micrograph
+secondary antibody-rhodamine red-X conjugate
+[3]H labeled protein
+secondary antibody-alkaline phosphastase conjugate, NAGP
+primary antibody-gold conjugate
+endogenous substrate, toluidine blue
+chemically fixed tissue
+secondary antibody-alkaline phosphastase conjugate, BCIP
+secondary antibody-glucose oxidase, NBT
+labeled secondary antibody
+tissue in wax embedment
+color graphic
+endogenous substrate, eosin
+endogenous substrate, SYTO Blue
+secondary antibody-esterase, Naphthol-AS-D-chloroacetate
+crosslinking-fixative fixed tissue
+endogenous substrate, dye conjugate
+endogenous substrate, rhodamine 123
+alt_id
+synonym
+exact
+narrow
+broad

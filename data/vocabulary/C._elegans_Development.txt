@@ -1,0 +1,81 @@
+C. elegans Development DAG
+L2-L3 ecdysis
+part_of
+1-day post-L4 adult hermaphrodite
+is_a
+L2-L3 molt
+L1-L2 lethargus
+4-days post-L4 adult hermaphrodite
+develops_from
+12-cell embryo
+elongating embryo
+adult male
+all stages
+4-cell embryo
+L3-L4 ecdysis
+L1-L2 molt
+88-cell embryo
+2-fold embryo
+L4-adult lethargus
+L1-L2d ecdysis
+28-cell embryo
+8-cell embryo
+reproductive stage adult hermaphrodite
+oocyte-laying stage adult hermaphrodite
+51-cell embryo
+L1-L2 ecdysis
+larva
+proliferating embryo
+L3 larva
+L1 larva
+postdauer-L4 molt
+4-7 days post-L4 adult hermaphrodite
+adult
+L1-L2d molt
+gastrulating embryo
+2-cell embryo
+7-10 days post-L4 adult hermaphrodite
+L4-adult ecdysis
+blastula embryo
+3-days post-L4 adult hermaphrodite
+L2-L3 lethargus
+enclosing embryo
+postembryonic
+L1-L2d lethargus
+postdauer-L4 ecdysis
+L4 larva male
+embryo
+L2 larva
+adult hermaphrodite
+pre-reproductive stage adult hermaphrodite
+L2d-dauer lethargus
+newly molted young adult hermaphrodite
+L4-adult molt
+fully-elongated embryo
+L2d-L3 molt
+postdauer-L4 lethargus
+post-reproductive stage adult hermaphrodite
+L2d-dauer ecdysis
+L2d-L3 ecdysis
+comma embryo
+L3-L4 lethargus
+3-fold embryo
+post dauer stage
+late cleavage stage embryo
+1-cell embryo
+5-days post-L4 adult hermaphrodite
+L3-L4 molt
+bean embryo
+L2d larva
+L2d-L3 lethargus
+1.5-fold embryo
+L4 larva
+dauer larva
+L2d-dauer molt
+2-days post-L4 adult hermaphrodite
+exact
+related
+alt_id
+narrow
+synonym
+broad

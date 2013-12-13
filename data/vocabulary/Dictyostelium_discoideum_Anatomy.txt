@@ -1,0 +1,130 @@
+pstO/ALC
+aggregate cell
+vegetative amoebae
+anterior like cell
+alt_id
+late culminant
+fruiting body
+base of the standing slug
+posterior region of the migratory slug
+loose aggregate
+migratory slug
+early culminant
+standing slug
+mound
+tipped mound
+prestalk region of the tipped mound
+mid culminant
+stalk tube
+surface sheath
+prestalk O region of the tipped mound
+synonym
+Dictyostelium discoideum anatomical structure
+aggregation territory
+acellular anatomical structure
+peripheral layer
+peripheral layer of the mid culminant
+part_of
+develops_from
+peripheral layer of the standing slug
+is_a
+peripheral layer of the migratory slug
+peripheral layer of the early culminant
+peripheral layer cell
+spore
+exact
+prestalk AB core region of the migratory slug
+narrow
+pstAB cell
+outer basal disc of the late culminant
+rearguard cell
+outer basal disc of the fruiting body
+Dictyostelium subdivision
+prespore region
+surface sheath of the fruiting body
+sorus
+prestalk A region of the migratory slug
+prestalk region of the migratory slug
+prestalk A region of the mid culminant
+basal disc of the late culminant
+base of the early culminant
+prestalk region of the standing slug
+prespore region of the standing slug
+basal disc of the fruiting body
+prespore cell
+tip-organizer of the tipped mound
+stalk
+basal disc
+prestalk O region of the mid culminant
+chemotactic amoeboid cell
+prespore/base region of the mid culminant
+prestalk O region of the migratory slug
+prestalk O region of the standing slug
+lower cup of the late culminant
+prespore/anterior region of the early culminant
+basal disc of the mid culminant
+prespore region of the mid culminant
+prespore region of the tipped mound
+upper cup of the late culminant
+pstA cell
+prestalk A region
+pstO cell
+upper cup of the fruiting body
+prestalk A region of the standing slug
+prespore/anterior region of the mid culminant
+prestalk O region
+prestalk O region of the early culminant
+apical disc
+tip-organizer of the early culminant
+sorus of the fruiting body
+inner basal disc of the late culminant
+surface sheath of the late culminant
+sorus of the late culminant
+prespore region of the migratory slug
+outer basal disc
+inner basal disc of the fruiting body
+prestalk AB core region of the mid culminant
+prestalk region
+tip-organizer of the standing slug
+stalk tube of the mid culminant
+lower cup of the fruiting body
+stalk of the mid culminant
+prestalk region of the mid culminant
+prestalk A region of the early culminant
+prestalk AB core region of the early culminant
+prestalk AB core region
+tip-organizer of the migratory slug
+prestalk region of the early culminant
+stream
+prespore/base region of the early culminant
+prespore region of the early culminant
+stalk tube of the late culminant
+prestalk A region of the tipped mound
+stalk of the late culminant
+tip-organizer
+prestalk AB core region of the tipped mound
+stalk tube of the early culminant
+stalk cell
+stalk of the fruiting body
+inner basal disc
+prestalk AB core region of the standing slug
+stalk tube of the fruiting body
+pstI cell
+prestalk cell
+related
+aspidocyte
+macrocyst
+surface sheath of the loose aggregate
+slime trail
+surface sheath of the standing slug
+surface sheath of the tipped mound
+surface sheath of the mid culminant
+surface sheath of the mound
+surface sheath of the early culminant
+surface sheath of the migratory slug
+broad
+sentinel cell
+Dictyostelium discoideum cell
+Dictyostelium discoideum single cell organism
+pstAB/ALC
+Dictyostelium discoideum asexual organism

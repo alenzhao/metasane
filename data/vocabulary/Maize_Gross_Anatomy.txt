@@ -1,0 +1,188 @@
+seminal root system
+adventitious root system
+primary root
+lateral root
+crown roots
+adult leaf
+flag leaf
+develops_from
+microhair
+part_of
+leaf blade indumentum
+primary intermediate vein
+prickle hair
+macrohair
+leaf sheath venation
+leaf blade cuticle
+leaf blade angle
+stomatal complex
+leaf sheath indumentum
+abaxial indumentum
+leaf sheath oral hairs
+ligule consistency
+leaf base attachment
+subterranean crown roots
+prop roots
+pedicellate spikelet of tassel
+upper glume of pedicellate spikelet of tassel
+lower glume of pedicellate spikelet of tassel
+gynoecial tissue (abortive) of upper floret of pedicellate spikelet of tassel
+lodicules of lower floret of pedicellate spikelet of tassel
+lodicules of upper floret of pedicellate spikelet of tassel
+leaf blade
+guard cell
+subsidiary cell
+midvein
+leaf blade color
+intermediate vein
+abaxial
+intermediate vein
+ligule appearance
+auricle epidermis
+leaf blade collar
+ligule projections
+ligule indumentum
+adaxial
+leaf blade margin
+leaf blade venation
+auricular trichomes
+leaf blade epidermis
+lateral vein
+leaf blade apex
+lateral vein
+is_a
+macrohair
+adaxial indumentum
+midvein
+leaf blade midrib
+adaxial
+phyllotaxy
+abaxial
+leaf blade auricles
+ligule
+adaxial indumentum
+abaxial indumentum
+leaf sheath
+gynoecial tissue (abortive) of lower floret of pedicellate spikelet of tassel
+lower floret of pedicellate spikelet of tassel
+stamens of upper floret of pedicellate spikelet of tassel
+upper floret of pedicellate spikelet of tassel
+palea of lower floret of pedicellate spikelet of tassel
+vegetative meristem
+founder cells
+leaf primordium
+culm internode
+plate meristem
+lodicules of upper floret of sessile spikelet of tassel
+alt_id
+tissue
+microhair
+primary root meristem
+root branch meristem
+lateral root meristem
+leaf postprimordium
+anther
+lemma
+spikelet pair meristem
+floret meristem
+lower floret of sessile spikelet of tassel
+lodicules of lower floret of sessile spikelet of tassel
+stamens of lower floret of sessile spikelet of tassel
+palea of lower floret of sessile spikelet of tassel
+gynoecial tissue (abortive) of lower floret of sessile spikelet of tassel
+seminal lateral root meristem
+palea of upper floret of pedicellate spikelet of tassel
+related
+cell type
+bulliform cell
+costal long cell
+ear meristem
+tassel meristem
+adventitious root meristem
+seminal root meristem
+crown root meristem
+axillary meristem
+root apical meristem
+prop root meristem
+adventitious shoot meristem
+shoot apical meristem
+apical meristem
+inflorescence meristem
+subterranean crown root meristem
+stamens of upper floret of sessile spikelet of tassel
+synonym
+leaf
+juvenile leaf
+sessile spikelet of tassel
+short cell
+intercostal long cell
+tiller
+stamens of lower floret of pedicellate spikelet of tassel
+mesocotyl
+shoot
+lateral branch internode
+lateral branch
+lower glume
+upper floret of sessile spikelet of ear
+upper floret of pedicellate spikelet of ear
+lodicule
+upper glume of sessile spikelet of tassel
+lower glume of sessile spikelet of tassel
+upper floret of sessile spikelet of tassel
+palea of upper floret of sessile spikelet of tassel
+gynoecial tissue (abortive) of upper floret of sessile spikelet of tassel
+embryo
+culm node
+culm axillary bud
+seed
+exact
+organ
+lemma of upper floret of pedicellate spikelet of ear
+lateral branch node
+pedicellate spikelet of ear
+lower glume of pedicellate spikelet of ear
+spikelet
+lower floret of pedicellate spikelet of ear
+filament
+prophyll
+husk
+lemma of upper floret of sessile spikelet of ear
+tassel (functionally male inflorescence)
+culm
+narrow
+Zea mays Plant Structure Ontology
+whole plant
+sporophyte
+broad
+shank
+caryopsis
+upper glume
+stylar ridge (abortive) of lower floret of pedicellate spikelet of ear
+stamen
+lemma of lower floret of sessile spikelet of ear
+palea of upper floret of pedicellate spikelet of tassel
+husk ligule
+silk
+cob
+upper glume of pedicellate spikelet of ear
+stamens (abortive) of upper floret of pedicellate spikelet of ear
+stylar ridge of upper floret of pedicellate spikelet of ear
+gynoecium
+androecium
+glume
+husk sheath
+lemma of lower floret of pedicellate spikelet of ear
+ear (functionally female inflorescence)
+lateral branch axillary bud
+lower floret of sessile spikelet of ear
+rachilla
+palea
+husk leaf
+palea of lower floret of pedicellate spikelet of ear
+sessile spikelet of ear
+floret
+stamens (abortive) of lower floret of pedicellate spikelet of ear
+root branch
+gametophyte
+root
+seminal lateral root

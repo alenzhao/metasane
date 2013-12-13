@@ -1,0 +1,2493 @@
+number of particles in subset
+number of lost events electronic
+calibration substance role
+molecular feature identification objective
+hardware testing objective
+incubator
+label role
+baseline participant role
+role of independent data monitoring committee
+pathologist role
+supernatant collection system harvesting frame
+filter paper
+cell co-culturing
+role of Institutional Review Board
+eSource document
+crossover population role
+complete nutrient role
+radiolabel role
+cDNA library
+electronic case report form
+placebo role
+autotransplantation
+parameter threshold
+study group role
+JEOL ECX NMR spectrometer
+DNA sequencing
+quaternary pump system
+carbon nanotube column
+Bruker solid magic angle spinning probe
+hematology
+Varian MERCURY spectrometer
+Bruker Metabolic Profiler
+column heater
+DNA methylation profiling
+JEOL CapNMR probe
+acquisition computer
+gas chromatography detector
+gas purifier
+material separation objective
+MA transformation
+exponential base
+polynomial degree
+number of variables
+agglomerative hierarchical clustering
+divisive hierarchical clustering
+data partitioning
+data vector reduction objective
+generalized family wise error rate correction method
+quantile number of false positives correction method
+tail probability for the proportion of false positives correction method
+false discovery rate correction method
+proportion of expected false positives correction method
+quantile proportion of false positives correction method
+data transformation objective
+data normalization objective
+correction objective
+normalization data transformation
+averaging data transformation
+partitioning data transformation
+partitioning objective
+background correction objective
+curve fitting objective
+class discovery data transformation
+Fisher's exact test
+host of immune response role
+effector T cell function
+antigen presentation function
+restricting MHC role
+donor
+carrier role
+adjuvant role
+disposition to infect an organism
+immunization
+blood harvesting
+L cell culture
+culture of antigen presenting cells
+culture of effector T cells
+material to be added
+target of material addition
+environmental proximity to infectious agent
+contact to pathogen carrying biological vector
+splenocyte
+P815 cell culture
+assay antigen role
+pathologic process
+T cell TCR:epitope:MHC binding assay
+MHC ligand elution assay
+MHC:ligand binding assay
+B cell epitope recognition assay
+immune epitope assay
+T cell epitope specific cytokine production assay
+T cell epitope specific killing assay
+T cell epitope specific proliferation assay
+CD8 receptor
+Caudate nucleus
+vaccine
+vaccination
+portion of tissue
+multi-tissue structure
+epithelium
+peptide
+deoxyribonucleic acids
+hydrogensulfite
+glucose
+5'-adenylyl sulfate
+molecular entity
+luciferin
+sodium chloride
+acrylamide
+sodium citrate dihydrate
+nucleic acid
+ribonucleic acids
+amino acids
+sodium phosphates
+ethylenediaminetetraacetic acid
+double-stranded DNA
+5-bromo-2-deoxyuridine
+chromium-51
+tritiated thymidine
+tris
+cell
+fibroblast
+epithelial cell
+T cell
+mast cell
+hepatocyte
+macrophage
+B cell
+dendritic cell
+p-value
+population
+nuclear magnetic resonance assay
+imaging assay
+protocol optimization
+role of pathology review board
+microtiter plate
+role of impartial witness
+biological replicate role
+radioactivity detection
+investigation agent role
+nutrient role
+dropout role
+health care provider role
+methodology testing objective
+analytical cytology data file
+proxy respondent role
+fluorescence compensation matrix
+negative reference substance role
+role of legally acceptable representative
+investigation results report
+cellular feature identification objective
+reference subject role
+vital dye role
+blinded medication role
+sub-investigator role
+data encoding
+enzymatic cleavage
+indirect detection probe
+JEOL ECA NMR spectrometer
+atomic emission detector
+clustered data set
+data set of features
+differential expression analysis data transformation
+urine specimen
+material combination
+fuzzy clustering objective
+device setting
+blood specimen
+data set of predicted values according to fitted curve
+data representational model
+specimen creation
+background corrected data set
+ELISA
+error corrected data set
+class prediction data transformation
+BrdU incorporation assay
+intracellular cytokine staining assay
+background correction data transformation
+center calculation objective
+class discovery objective
+class prediction objective
+spread calculation objective
+center calculation data transformation
+data vector reduction data transformation
+scaling objective
+descriptive statistical calculation data transformation
+scaling data transformation
+error correction objective
+sequence analysis data transformation
+cross validation objective
+merging objective
+clustered data visualization
+gene list visualization
+classified data visualization
+background corrected data visualization
+survival analysis data transformation
+proportional hazards model estimation
+correlation study objective
+spectrum analysis objective
+tandem mass spectrometry
+gas chromatography mass spectrometry
+T cell epitope chromium assay
+T cell epitope ELISA IFN-g assay
+T cell epitope ELISA IL-2 assay
+T cell epitope ELISA IL-4 assay
+T cell epitope ELISA IL-5 assay
+T cell epitope ELISA TNF assay
+T cell epitope ELISA IL-10 assay
+T cell epitope ELISA GM-CSF assay
+T cell epitope ELISA IL-6 assay
+T cell epitope ELISA IL-13 assay
+T cell epitope ELISA IL-12 assay
+T cell epitope ELISA IL-1b assay
+T cell epitope ELISA IL-17 assay
+T cell epitope ELISA IL-18 assay
+T cell epitope ELISPOT IL-4 assay
+T cell epitope ELISPOT TNF assay
+T cell epitope ELISPOT IL-10 assay
+T cell epitope ELISPOT IL-13 assay
+T cell epitope intracellular cytokine staining (ICS) IFN-g assay
+T cell epitope intracellular cytokine staining (ICS) IL-2 assay
+T cell epitope intracellular cytokine staining (ICS) TNF assay
+T cell epitope intracellular cytokine staining (ICS) IL-4 assay
+T cell epitope intracellular cytokine staining (ICS) IL-10 assay
+T cell epitope intracellular cytokine staining (ICS) IL-17 assay
+T cell epitope MHC tetramer/multimer staining assay
+T cell epitope (3H-Thymidine) cell proliferation assay
+T cell epitope (BrdU) cell proliferation assay
+epitope specific T cell proliferation
+lymphocyte
+CD4-positive, alpha-beta T cell
+CD8-positive, alpha-beta T cell
+basophil
+plasma cell
+alpha-beta T cell
+CD8-positive, alpha-beta cytotoxic T cell
+mature NK T cell
+mononuclear cell
+soil
+podzol
+Mouth
+Lymph node
+Spleen
+Body substance
+Blood
+cytokine production
+T cell mediated cytotoxicity
+adaptive immune response
+cytokine production during immune response
+platelet activating factor production
+cytokine production during acute inflammatory response
+molecular_function
+catalytic activity
+RNA-directed DNA polymerase activity
+cellular_component
+hardware optimization
+trial statistician role
+standard error
+antigen role
+software testing objective
+sponsor role
+organization
+feed role
+technical replicate role
+dye role
+cluster
+cohort role
+artificially induced nucleic acid hybridization
+DNA extraction
+plan
+sample population
+organism feature identification objective
+number of lost events computer
+protocol
+role of regulator of consumables and medical devices
+adding a material entity into a target
+analyte role
+disease stage
+intraperitoneal injection
+precipitate
+protein-protein interaction detection
+transcription factor binding site  identification
+MHC multimer assay
+error correction data transformation
+tritiated thymidine incorporation assay
+sample from organism
+statistical hypothesis test
+center value
+statistical hypothesis test objective
+reduced dimension data set
+portioning objective
+average value
+whole organism preparation
+separation into different composition objective
+study result
+specimen creation objective
+creating a mixture of molecules in solution
+material combination objective
+nucleotide overhang cloning
+rodent care protocol
+454 Genome Sequence 20
+immunoprecipitation
+ABI 377 automated sequencer
+recombination enzyme based cloning
+chi square test
+sequential design
+observation design
+collection (of entities of organismal origin)
+pool of specimens
+chemical solution
+buffer role
+solvent role
+solute role
+comet assay
+PCR-SSCP assay
+liver
+adipose tissue
+denatured polymer
+decapitated organism
+validated information
+curated
+randomized group participant role
+methylated polymer
+genetically modified organism
+predicted
+mean-centered data
+edited information
+dissolved material entity
+extraction
+filtration
+centrifugation
+staining
+washing
+epitope specific GM-CSF release by T cells
+epitope specific IFN-g release by T cells
+epitope specific IL-10 release by T cells
+epitope specific IL-12 release by T cells
+epitope specific IL-13 release by T cells
+epitope specific IL-17 release by T cells
+epitope specific IL-18 release by T cells
+epitope specific IL-1b release by T cells
+epitope specific IL-4 release by T cells
+allergen
+epitope specific IL-5 release by T cells
+epitope specific IL-6 release by T cells
+epitope specific killing by T cells
+epitope specific TNF release by T cells
+assay detecting ifn-gamma production
+direct submission to IEDB
+chromium release assay
+age
+fluorescence
+biological sex
+diluted
+damaged
+lateral to
+ventral to
+dorsal to
+quality of a single physical entity
+quality of related physical entities
+alive
+dead
+quality of a solid
+quality of a gas
+quality of a liquid
+relational spatial quality
+glucose metabolic process
+immune response
+blood coagulation
+biological_process
+cell proliferation
+gene expression
+vascular endothelial growth factor production
+B cell receptor complex
+connective tissue growth factor production
+chemokine production
+granulocyte macrophage colony-stimulating factor production
+hepatocyte growth factor production
+type I interferon production
+interferon-gamma production
+interleukin-1 beta production
+interleukin-1 production
+interleukin-10 production
+interleukin-11 production
+interleukin-12 production
+interleukin-13 production
+interleukin-14 production
+interleukin-15 production
+interleukin-16 production
+enrollment
+adverse event trigger
+eluate
+material to be added role
+peritoneum
+interpreting data
+planning
+documenting
+histological sample preparation
+inductive reasoning
+mass analyzer
+hypothesis driven investigation
+hypothesis generating investigation
+ion source
+ion detector
+metabolite profiling
+light emission function
+record function
+magnify function
+contain function
+heat function
+separation function
+ionize process
+excitation function
+freeze function
+MeDIP-SEQ assay
+animal feeding
+chain termination sequencing
+AB SOLiD System
+Helicos sequencing
+DNA ligase
+survival assessment
+support vector machine
+self-organizing map
+454 Genome Sequencer FLX
+Illumina Genome Analyzer II
+decision tree induction objective
+Edman degradation
+SOLiD sequencing
+decision tree building data transformation
+laboratory animal care
+yeast artificial chromosome vector
+Li-Cor 4300 DNA Analysis System
+library preparation
+irradiation
+polymerization
+trypsination
+enzymatic ligation
+storage
+cell lysis
+electrocution
+cervical dislocation
+asphyxiation
+intentional overdosing
+decapitation
+group randomization
+activation
+immobilization
+nucleic acid hybridization
+elution
+DNA Subtraction
+document editing
+prediction
+validation
+electroporation
+digital curation
+A10-Analyzer
+A40-MiniFCM
+analog-to-digital converter
+anterior to
+radioactive
+left side of
+right side of
+frozen
+protein
+CD4
+CD3 subunit with immunoglobulin domain
+human antithrombin-III protein
+circular
+mass unit
+gram
+interleukin-17 production
+interleukin-18 production
+interleukin-19 production
+interleukin-2 production
+interleukin-20 production
+interleukin-21 production
+interleukin-22 production
+interleukin-23 production
+interleukin-24 production
+interleukin-25 production
+interleukin-26 production
+interleukin-27 production
+interleukin-3 production
+interleukin-4 production
+interleukin-5 production
+interleukin-6 production
+interleukin-7 production
+interleukin-8 production
+interleukin-9 production
+TRAIL production
+tumor necrosis factor production
+lymphotoxin A production
+transforming growth factor-beta1 production
+transforming growth factor-beta2 production
+transforming growth factor-beta3 production
+DNA polymerase activity
+synthesizing function
+perturbe function
+filter function
+mechanical function
+gas filter function
+liquid filter function
+transfer function
+electricity supply function
+ionization function
+cool function
+connection function
+isoelectric focusing device
+thermostatic circulator
+energy supply function
+information processor function
+signal conversion function
+blot module
+signal amplification function
+image acquisition function
+image acquisition device
+immobilize function
+display function
+environment control function
+sort function
+gel dryer
+pathogen challenge
+GenePattern software
+graph of vertices
+animal care protocol
+ChIP-SEQ assay
+HeliScope Single Molecule Sequencer
+pathogen role
+vaccine preparation
+adjuvent role
+glucose tolerance test
+paired-end library
+DNA sequencing by ligation
+Solexa sequencing
+host role
+peak matching
+k-nearest neighbors
+rodent care
+cloning plasmid
+pyrosequencing
+recombinant vector
+restriction enzyme
+DNA sequencing by synthesis
+NTP-2000
+single fragment library
+flow cytometer analyzer
+arc lamp
+argon ion laser
+avalanche photodiode
+Bactiflow
+band pass filter
+BioSorter1000
+BioSorter2000
+BioSorter250
+BioSorter500
+Cell Lab Quanta SC
+charge plate
+cell sorter collection tube
+Cyan
+type III interferon production
+T cell proliferation
+T cell receptor complex
+immunoglobulin complex, circulating
+DNA polymerase complex
+MHC protein complex
+membrane-bounded organelle
+protein complex
+response to stimulus
+Insulin resistance
+Cricetinae
+Phodopus
+Phodopus sungorus
+Muridae
+Mus
+Mus musculus
+Rattus
+Rattus norvegicus
+Viruses
+Asteroideae
+Heliantheae
+Mutisieae
+Obtectomera
+Rhodobacter
+canis group
+phagocytophilum group
+Rhodobacter sphaeroides
+mitosporic Filobasidiales
+Thlaspi caerulescens
+Cryptococcus [NCBITaxon:107441]
+Rhodospirillum
+Rhodospirillum rubrum
+Chloroflexaceae
+Nectriaceae
+Chloroflexus
+Chloroflexus aurantiacus
+Coronaviridae
+Coronavirus
+Penaeoidea
+pseudomallei group
+Cyanobacteria
+Chroococcales
+Synechococcus
+Polytrichopsida
+Populus tremula
+Synechocystis
+spotted fever group
+typhus group
+Synechocystis sp.
+Saccharomyces kudriavzevii
+Saccharomyces mikatae
+Funariidae
+Synechocystis sp. PCC 6803
+Oscillatoriales
+Nostocales
+Nostocaceae
+Anabaena
+Anabaena variabilis
+Teleostomi
+Euteleostomi
+Nostoc
+Sphingobacteria
+mitosporic Saccharomycetales
+Populus tomentosa
+Brucellaceae
+Sulfolobaceae
+Deinococcales
+Coxiellaceae
+Legionellales
+Burkholderiaceae
+unclassified Burkholderiales
+Thermoanaerobacter tengcongensis
+Chromadorea
+Bombyciformes
+Acidithiobacillus
+Trichodesmium
+Trichodesmium erythraeum
+Paracoccidioides brasiliensis
+Proteobacteria
+Neoteleostei
+Eurypterygii
+Ctenosquamata
+Acanthomorpha
+Euacanthomorpha
+Holacanthopterygii
+Gammaproteobacteria
+Firmicutes
+Leuconostoc
+Leuconostoc mesenteroides
+Oenococcus oeni
+Pediococcus
+primer role
+PCR product
+viral RNA extraction
+nucleic acid template role
+recombinant plasmid
+cloning vector role
+cell cycle synchronization
+polymerase chain reaction
+cloning insert role
+measuring glucose concentration in blood serum
+reverse transcriptase
+trypsinized material
+syringe
+extract
+transcription profiling
+averaging objective
+injection
+enzyme
+intraperitoneal administration
+plasmid
+injection into organ section
+polyacrylamide gel
+DNA sequence feature detection
+adding material objective
+genotyping
+needle
+analyte measurement objective
+DNA sequence variation detection
+agarose gel
+assay objective
+cloning vector
+restriction enzyme based cloning
+Student's t-test
+material sample role
+topologically preserved clustered data set
+nucleic acid restriction enzyme digest
+immune response assay
+material sampling process
+material sample
+bisulfite sequencing
+CART
+independent variable specification
+dependent variable specification
+anticoagulant-containing test tube
+controlled variable specification
+human antithrombin-III (AT-III) in blood assay
+fluorescently labeled MHC multimer
+survival rate
+recombinant BAC cloning
+multiple testing correction objective
+statistical model validation
+double blind study execution
+glucometer
+purification objective
+CYFlow ML
+CyFlow SL
+CyFlow SL3
+CyFlow Space
+CytoBuoy
+CytoSence
+CytoSub
+dichroic filter
+dichroic mirror
+differential pressure gauge
+diode laser
+dye laser
+FACS Calibur
+FACS Canto
+Pediococcus pentosaceus
+Staphylococcus
+Staphylococcus aureus
+Polytrichum juniperinum
+Deinococcus-Thermus
+Deinococcus
+Deinococcus radiodurans
+Euacanthopterygii
+Streptococcaceae
+Streptococcus
+Streptococcus gordonii
+Streptococcus suis
+Streptococcus mutans
+Streptococcus agalactiae
+Streptophytina
+Streptococcus pneumoniae
+Magnetospirillum
+Streptococcus pyogenes
+Thlaspi
+Burkholderia mallei
+Penaeus
+Coffea
+Coffea arabica
+Burkholderia fungorum
+Enterococcus
+Enterococcus faecalis
+Enterococcus faecium
+Gerbera
+Xanthomonadales
+Pseudomonadaceae
+Alteromonadales
+Vibrionales
+Pasteurellales
+Lactococcus
+Lactococcus lactis
+Spirochaetales
+Pseudomonas aeruginosa group
+Pseudomonas fluorescens group
+Pseudomonas putida group
+Spirochaetaceae
+Borrelia
+Pteridaceae
+Bacillales
+Bacillus
+Borrelia burgdorferi
+Bacillus anthracis
+Pinus [NCBITaxon:139271]
+Bacillus cereus
+Bacillus subtilis
+Mycetozoa
+Methanothermobacter
+Methanothermobacter thermautotrophicus
+Ehrhartoideae
+Pooideae
+Panicoideae
+PACCAD clade
+Oryzeae
+Poeae
+Triticeae
+Andropogoneae
+Saccharomycotina
+Pezizomycotina
+Dothideomycetes et Chaetothyriomycetes incertae sedis
+Eurotiomycetes
+Sordariomycetes
+Sordariomycetes incertae sedis
+Schizosaccharomycetes
+Magnaporthe
+Magnaporthe grisea
+Clostridium
+Clostridium acetobutylicum
+Clostridium botulinum
+Clostridium sporogenes
+Clostridium thermocellum
+Moorella thermoacetica
+Tremellomycetidae
+Homobasidiomycetes
+Caulobacter vibrioides
+Plantaginaceae
+Group 2 species
+Treponema
+Lactobacillus
+Treponema denticola
+Citrus aurantiifolia
+Lactobacillus gasseri
+Lactobacillus sakei
+Treponema pallidum
+Lactobacillus salivarius
+Listeria
+Phaseoleae
+Trifolieae
+Vicieae
+Loteae
+Listeria monocytogenes
+Listeria innocua
+Corynebacteriaceae
+Actinomyces
+Actinomyces naeslundii
+Novosphingobium
+Heterobasidiomycetes
+Bifidobacterium
+Ixoroideae
+Coffeeae
+Corynebacterium
+Rosoideae
+Corynebacterium glutamicum
+Passeroidea
+Thermoanaerobacter
+Actinobacteria (class)
+Mycobacteriaceae
+Mycobacterium
+Mycobacterium leprae
+Mycobacterium tuberculosis
+Gerbera hybrid cultivar
+Deinococcaceae
+Enterogona
+Thermoprotei
+Methanobacteria
+Halobacteria
+Thermoplasmata
+Thermococci
+Archaeoglobi
+Psathyrellaceae
+Coprinopsis
+Drosophiliti
+Entomoplasmatales
+Actinopteri
+Elopocephala
+Clupeocephala
+Otophysi
+Cypriniphysi
+Otocephala
+Clostridia
+Clostridiales
+Peptococcaceae
+Thermoanaerobacteriaceae
+Bacillaceae
+Listeriaceae
+Alicyclobacillaceae
+heart
+analyte assay
+target of material addition role
+mass measurement assay
+identification
+intra cellular electrophysiology recording
+packed column
+regulatory agency
+normalized data set
+measure function
+extracellular electrophysiology recording
+consume data function
+material transformation objective
+manufacturing
+manufacturing objective
+column chromatography detector
+Bruker autosampler
+organic acid column
+thermal conductivity detector
+Bruker US 2 NMR magnet
+protein column
+solvent mixer
+mass spectrometry assay
+study design execution
+primary structure of protein
+capsule shell
+recombinant phage cloning
+cross linking
+spike train datum
+prothrombin time assay
+denaturing
+informing investigator of subject study arm
+antithrombin-III (AT-III) berichrome assay
+material maintenance objective
+presentation of stimulus
+spectrolyse heparin antifactor-Xa assay
+amplified DNA
+informed consent process
+primary structure of DNA macromolecule
+measuring neural activity in the caudate nucleus
+to be treated with active ingredient role
+guar gum
+FACS Canto2
+FACS Scan
+FACSAria
+FACSvantage
+FC 500
+flow cell
+flow cytometer
+fluid pressure regulator
+gas laser
+Guava EasyCyte Mini
+Guava EasyCyte Plus
+Guava Personal Cell Analysis
+Guava Personal Cell Analysis-96
+helium cadmium ion laser
+helium neon ion laser
+Lactobacillales
+Neognathi
+Salmonoidei
+Anurophorinae
+Cryptopygus
+Cryptopygus antarcticus
+Aquificae (class)
+Magnetospirillum magnetotacticum
+Streptomyces
+Thermotogae (class)
+Thermotogaceae
+Deinococci
+Orbiliomycetes
+Orbiliales
+Zinnia
+Streptomyces coelicolor
+Lepidium
+Campylobacter
+Desulfovibrionaceae
+Pleuronichthys
+Pleuronichthys verticalis
+Corynebacterium glutamicum ATCC 13032
+Campylobacter jejuni
+Pancrustacea
+Mandibulata
+Bacteria
+Sphingobacteriales
+Aquificae
+Chloroflexi
+Thermotogae
+Actinobacteria
+Thermobifida fusca
+Fusobacteria (class)
+Fusobacterales
+Fusobacteriaceae
+Spirochaetes
+Spirochaetes (class)
+Actinomycetales
+Chlamydiae
+Chlamydiae (class)
+Rhodospirillales
+Rhodobacterales
+Sphingomonadales
+Caulobacterales
+Herminiimonas arsenicoxydans
+Actinomycetaceae
+Streptomycetaceae
+Methylophilales
+Neisseriales
+Rhodocyclales
+Homo/Pan/Gorilla group
+Mycoplasmatales
+Pasteuria nishizawae
+Helicobacter
+Mycoplasmataceae
+Mycoplasma
+Mycoplasma genitalium
+Helicobacter pylori
+Streptococcus mutans UA159
+Mycoplasma pneumoniae
+Mycoplasma pulmonis
+Ureaplasma
+Ureaplasma urealyticum
+Desulfovibrionales
+Geobacteraceae
+Campylobacterales
+Mesoplasma florum
+Archaea
+Methanobacteriales
+Methanobacteriaceae
+Sylvia communis
+Lymnaeoidea
+Antirrhineae
+Bifidobacterium longum
+Mutisioideae
+Methanosarcinaceae
+Methanosarcina
+Methanosarcina barkeri
+Methanosarcina mazei
+Methanococcoides
+Hypocreomycetidae
+Sordariomycetidae
+Archaeoglobales
+Archaeoglobaceae
+Archaeoglobus
+Archaeoglobus fulgidus
+Halobacteriales
+Halobacteriaceae
+Halobacterium
+Halobacterium salinarum
+Halobacterium sp.
+Burkholderiales Genera incertae sedis
+Haloferax volcanii
+Methanomicrobia
+Acidithiobacillales
+Acidithiobacillaceae
+Haloferax
+Thermococcales
+Thermococcaceae
+Pyrococcus
+Thermoproteales
+Thermoproteaceae
+Thermoproteus
+Thermoproteus tenax
+Rhizobium/Agrobacterium group
+Sinorhizobium/Ensifer group
+Paxilineae
+SARS coronavirus
+Sulfolobales
+Sulfolobus
+Sulfolobus acidocaldarius
+Sulfolobus solfataricus
+Thermoplasmatales
+Thermoplasma
+Thermoplasma acidophilum
+Rubus
+magnoliids
+Thermotoga
+Thermotoga maritima
+Brucella
+Brucella abortus
+Rutaceae
+Xylella
+Xylella fastidiosa
+Saliceae
+Moniliformopses
+Thermotogales
+Rubiaceae
+Rubrobacterineae
+Dechloromonas aromatica
+Francisella
+Xenopus [NCBITaxon:262014]
+Francisella tularensis
+Crocosphaera
+Crocosphaera watsonii
+Francisella tularensis subsp. novicida
+Rickettsia sibirica subgroup
+Citrus
+Citrus sinensis
+Bruker NMR Case sample changer
+nano pump system
+Bruker AutoClean system
+manual injection system
+Varian GEMINI spectrometer
+column connector
+solid NMR probe
+Bruker high resolution probe
+chromatography detector
+normal phase column
+APOLLO console
+NMR sample holder
+chromatography instrument
+continuous wave NMR instrument
+fourier transformation NMR instrument
+nitrogen phosphorous detector
+cation exchange column
+Berichrom(r) Antithrombin III (A) Kit
+micro electrode
+fucoidan
+calibration
+anticoagulant tube storage of blood specimen
+activated partial thromboplastin time (aPTT) assay
+filled capsule
+single blind study execution
+thrombin time assay
+recombinant YAC cloning
+to be treated with placebo role
+treatment portion of study execution
+pill
+research organization
+primary structure of sequence macromolecule
+DNA residue methylation
+measurement device
+manufacturer
+test tube
+oral ingestion of pill
+material maintenance
+unblinding process
+subject agrees they understand informed consent document
+Amnis ImageStream
+inFlux Analyzer
+Influx Cell Sorter
+interrogation_point
+ion laser
+jet_in_air_flow_chamber
+krypton ion laser
+LactoScope C4
+laser
+light source
+logarithmic voltage amplifier
+long pass filter
+LSR2
+Luminex 100
+Luminex 200
+Aquifex
+Nostoc punctiforme
+Saccharomyces paradoxus
+Saccharomyces pastorianus
+Eukaryota
+Bovinae
+Coregonus
+Rubrivivax
+Rubrivivax gelatinosus
+Ralstonia syzygii
+Sinorhizobium
+Alphaproteobacteria
+Betaproteobacteria
+Deltaproteobacteria
+Geobacter
+Geobacter metallireducens
+Staphylococcus aureus subsp. aureus MSSA476
+Burkholderia pseudomallei
+Trichocomaceae
+Pseudomonas
+Pseudomonas aeruginosa
+Phaeophyceae
+Ectocarpales
+Ectocarpaceae
+Ectocarpus
+Ectocarpus siliculosus
+Crenarchaeota
+Euryarchaeota
+Salmonella enterica
+Burkholderia cepacia
+Cryptococcus gattii
+Methanococcoides burtonii
+Pseudomonas fluorescens
+Veillonella
+Veillonella parvula
+Epsilonproteobacteria
+Ceratopteris
+Ceratopteris thalictroides
+Vitis vinifera
+Hypocrea
+Collembola
+Lachancea
+Pseudomonas putida
+Mesobatrachia
+Pipoidea
+Herminiimonas
+Chlorophyta
+Chlamydomonadales
+Ralstonia solanacearum
+Chlamydomonadaceae
+Chlamydomonas
+Chlamydomonas reinhardtii
+Cyprinoidea
+Pleuronectoidei
+Tetraodontiformes
+Tetraodontoidei
+Tetraodontidae
+Takifugu
+Takifugu rubripes
+Schistosomatoidea
+Schistosomatidae
+Laurasiatheria
+Euarchontoglires
+Glires
+Simiiformes
+Cercopithecoidea
+Hominoidea
+Chlorophyceae
+Saccharophagus
+Embryophyta
+Bifidobacteriaceae
+Mollicutes
+Acidaminococcaceae
+Clostridiaceae
+Rhodobacteraceae
+Burkholderia
+Methylophilaceae
+Thiomonas
+Xanthomonadaceae
+Synechococcus elongatus
+Chloroflexi (class)
+Chloroflexales
+Fusobacteria
+Aquificales
+Bryophyta
+Polytrichales
+Polytrichaceae
+Polytrichum
+Bryopsida
+Funariales
+Funariaceae
+Physcomitrella
+Physcomitrella patens
+Buchnera
+Rubus idaeus
+Sophophora
+melanogaster group
+melanogaster subgroup
+obscura group
+pseudoobscura subgroup
+Lycopodiophyta
+Isoetopsida
+Selaginellales
+Teleostei
+Euteleostei
+Selaginellaceae
+Acanthopterygii
+Selaginella
+Percomorpha
+Tetradontoidea
+Paracanthopterygii
+Ostariophysi
+Tetrapoda
+Amniota
+Theria
+Sauria
+Filicophyta
+Filicales
+Ralstonia pickettii
+Filicopsida
+Bartonella grahamii
+Dictyosteliida
+Viridiplantae
+Coniferophyta
+Lepidium sativum
+Coniferales
+Fungi/Metazoa group
+Eremothecium gossypii
+Eremothecium
+Aspergillus terreus
+Pinaceae
+Onygenales
+Metazoa
+Bilateria
+Acoelomata
+Pseudocoelomata
+Picea
+Tylenchina
+Tylenchoidea
+Heteroderinae
+Picea glauca
+Coelomata
+Protostomia
+Neoptera
+Pinus
+direct detection NMR probe
+Bruker B-ACS system
+rapid resolution column
+liquid chromatography autosampler
+vacuum degasser
+capillary column
+sample inlet
+NMR tube washing system
+NMR console
+dual loop autosampler
+variable wavelength detector
+Bruker LC-NMR platform
+sample injection system
+multiple wavelength detector
+photoionization detector
+gas generator
+column jacket
+informing subject of study arm
+Sysmex CA-6000 Coagulation Analyzer
+hospital
+primary structure of RNA molecule
+test substance role
+injection function
+Epstein Barr virus transformed B cell
+chimera
+anatomical entity
+blood plasma
+blood serum specimen
+organism
+immortal cell
+fragment derived from protein
+phosphate buffered saline solution
+specimen
+cell line cell
+immortalized cell line
+xenograft
+cell culture
+primary cell culture
+cell line culture
+clonal cell culture
+screening library
+synthetic peptide
+organ section
+bronchial alveolar lavage
+polymer
+MACS Quant
+metal vapor laser
+mixed argon-krypton gas laser
+MoFlo
+multi-well plate
+neodymium-YAG laser
+obscuration bar
+optical filter
+optical subsystem
+particle delivery vessel
+photodetector
+photodiode
+photomultiplier tube
+piezo electric crystal
+plate loader
+preamplifier
+quartz cuvette flow chamber
+Reflection
+Endopterygota
+Pinus radiata
+Deuterostomia
+Sciurognathi
+Carnivora
+Alveolata
+stramenopiles
+Euglenozoa
+Cricetidae
+Muroidea
+Xanthomonas
+Felinae
+Xanthomonas campestris
+Streptomyces avermitilis
+Entomoplasmataceae
+Lactobacillaceae
+Magnoliophyta
+Rickettsieae
+Xanthomonas campestris pv. campestris
+Magnoliales
+Magnoliaceae
+Francisellaceae
+Liriodendron
+Liriodendron tulipifera
+Zinnia elegans
+Lotus japonicus
+Schizosaccharomycetales
+mitosporic Trichocomaceae
+mitosporic Onygenales
+Strongyloides ratti
+Heterodera
+Apoidea
+Cannabaceae
+Cannabis
+Cannabis sativa
+Fagales
+Betula
+Betula pendula
+Cryptosporidiidae
+Azotobacter group
+Betulaceae
+Azotobacter
+ssRNA positive-strand viruses, no DNA stage
+Azotobacter vinelandii
+Streptophyta
+Suina
+Pecora
+Equus subg. Equus
+Rhizobiales
+Agrobacterium
+Rickettsia sibirica
+Agrobacterium tumefaciens
+BEP clade
+Vitaceae
+Vitis
+Isotomidae
+Sylviidae
+Malpighiales
+Neosartorya
+Neosartorya fischeri
+Desulfitobacterium
+Salicaceae
+Populus
+Populus trichocarpa
+Populus trichocarpa x Populus deltoides
+Populus deltoides
+Brassicales
+Brassicaceae
+Arabidopsis
+Arabidopsis thaliana
+Brassica
+Brassica juncea
+Brassica napus
+Brassica rapa
+Rosales
+Rosaceae
+Aedes/Ochlerotatus group
+Ditrysia
+Bombycoidea
+Noctuoidea
+Estrildidae
+Viannia
+Leishmania braziliensis species complex
+Haplorrhini
+Rhizobium
+Feliformia
+Caniformia
+Fabaceae
+Mesorhizobium loti
+Papilionoideae
+Sinorhizobium meliloti
+Bartonella henselae
+Rhizobium leguminosarum
+Glycine
+Glycine max
+Leishmania [NCBITaxon:38568]
+Leishmania infantum species complex
+Leishmania donovani species complex
+Leishmania major species complex
+Leishmania mexicana species complex
+Diprotodontia
+Lotus
+Medicago
+Medicago sativa
+Medicago truncatula
+Poales
+Pisum
+Pisum sativum
+Paracoccidioides
+Trifolium
+Trifolium repens
+Murinae
+Cyprininae
+Rasborinae
+Trypanozoon
+Oryza sativa (indica cultivar-group)
+Oryza sativa (japonica cultivar-group)
+Linaceae
+Linum
+Linum usitatissimum
+Thraupini
+Estrildinae
+Vitales
+Methylobacillus
+Moss Superclass V
+Methylobacillus flagellatus
+Gentianales
+Mammalia
+Solanales
+Solanaceae
+Capsicum
+Capsicum annuum
+Solanum lycopersicum
+Nicotiana
+Nicotiana benthamiana
+Neosartorya fennelliae
+Solanum
+Solanum tuberosum
+Glossata
+Neolepidoptera
+Heteroneura
+Mycosphaerella
+Rhodospirillaceae
+Sphingomonadaceae
+Lamiales
+electron capture detector
+reversed phase column
+injector lubricant
+isolation of cell population
+DISCOVERY console
+Bruker AMX series NMR instrument
+chromatofocusing column
+NMR probe
+NMR magnet
+trap column
+flow probe
+clinical chemistry assay
+flame ionization detector
+vial
+magic angle spinning rotor
+Varian VXR spectrometer
+splitless GC injector
+preparative autosampler
+glucose in solution
+data transformation
+logistic-log curve fitting
+logit-log curve fitting
+log-log curve fitting
+feature extraction objective
+biexponential transformation
+box-cox transformation
+hyperlog transformation
+loess scale group transformation one-channel
+logical transformation
+loess scale group transformation two-channel
+loess global transformation one-channel
+split-scale transformation
+loess global transformation two-channel
+sine transformation
+cosine transformation
+loess group transformation one-channel
+loess group transformation two-channel
+homogeneous polynomial transformation
+linlog transformation
+cytometer sample tube
+sheath tank
+short pass filter
+solid state laser
+Somacount
+SomaScope
+flow cytometer sorter
+syringe pump
+voltage amplifier
+waste tank
+DNA sequencer
+array scanner
+arrayer
+centrifuge
+computer
+heating block
+homogenizer
+hybridization chamber
+hybridization station
+liquid handler
+oligonucleotide synthesizer
+sonicator
+spectrophotometer
+thermal cycler
+vacuum dryer
+Antirrhinum
+Antirrhinum majus
+Neopterygii
+Batrachia
+Protacanthopterygii
+Plasmodium (Vinckeia)
+Plasmodium (Laverania)
+Culicoidea
+Sapindales
+Asterales
+Asteraceae
+Rubrobacter
+Aconoidasida
+Eimeriorina
+Candida dubliniensis
+Solanoideae
+Nicotianoideae
+Nicotianeae
+Capsiceae
+Solaneae
+Thiomonas sp. 3As
+Moorella group
+Trichoderma reesei QM6a
+Sylvia
+Dinosauria
+Saurischia
+Theropoda
+Coelurosauria
+Muscomorpha
+Schizophora
+Acalyptratae
+Ephydroidea
+Culicimorpha
+Anophelinae
+Culicinae
+Drosophilinae
+Cyanothece
+Cyanothece sp. ATCC 51142
+Moorella
+Liliopsida
+Cellia
+Pyretophorus
+gambiae species complex
+Dictyostelium discoideum
+Poaceae
+Hordeum
+Hordeum vulgare
+Lolium
+Lolium perenne
+Oryza
+Oryza sativa
+Triticum
+Triticum aestivum
+Triticum turgidum subsp. durum
+Triticum turgidum
+Zea
+Zea mays
+Festuca
+Festuca arundinacea
+Staphylococcus aureus subsp. aureus
+Mesoplasma
+Oenococcus
+Thermoplasmataceae
+Moraxellaceae
+Drosophilini
+Drosophilina
+Acinetobacter
+Acinetobacter baumannii
+Orbiliaceae
+Tetraodon
+commelinids
+Fungi
+Schizotrypanum
+Agrotis
+Agrotis segetum
+Neisseriaceae
+Neisseria
+Neisseria gonorrhoeae
+Neisseria meningitidis
+Ralstonia
+Geospiza
+Geospiza conirostris
+Geospiza fortis
+Geospiza magnirostris
+Geospiza scandens
+Ascomycota
+Saccharomycetes
+Saccharomycetales
+Saccharomycetaceae
+Novosphingobium aromaticivorans
+Schizosaccharomycetaceae
+Schizosaccharomyces
+Schizosaccharomyces pombe
+Kluyveromyces
+Kluyveromyces waltii
+Pichia
+Pichia pastoris
+Lycopersicon
+Saccharomyces
+Saccharomyces bayanus
+Rubrobacter xylanophilus
+Saccharomyces cerevisiae
+Desulfitobacterium hafniense
+Lachancea kluyveri
+Thermoplasma volcanium
+Eurotiales
+Aspergillus
+Insecta
+Aspergillus clavatus
+Alcaligenaceae
+Aspergillus niger
+Aspergillus fumigatus
+Heterodera glycines
+Hypocreales
+Gibberella
+Hypocreaceae
+Chlamydiae/Verrucomicrobia group
+Chlamydiales
+Sordariales
+Neurospora
+Neurospora crassa
+Hypocrea jecorina
+Sordaria
+Sordaria macrospora
+Sordariaceae
+Ciona savignyi
+Bordetella
+Bordetella bronchiseptica
+Bordetella pertussis
+Basidiomycota
+Festuca rubra
+Ustilaginomycetes
+Ustilaginales
+Ustilaginaceae
+Ustilago
+Ustilago maydis
+Leymus
+Hymenomycetes
+Aphyllophorales
+Corticiaceae
+Phanerochaete
+Phanerochaete chrysosporium
+Agaricales
+Xanthomonas axonopodis
+Coprinopsis cinerea
+flow high resolution probe
+Liquid chromatography valve
+JEOL NMR probe
+Bruker UltraShield Plus NMR magnet
+Bruker CryoProbe
+column cartridge
+affinity column
+tecmag NMR instrument
+gel filtration column
+fraction collector
+copy number variation profiling
+variance stabilizing transformation
+loess global transformation
+loess group transformation
+loess scale group transformation
+total intensity transformation single
+total intensity transformation paired
+quantile transformation
+mean centering
+median centering
+differential expression analysis objective
+K-fold cross validation method
+leave one out cross validation method
+jackknifing method
+boostrapping
+Benjamini and Hochberg false discovery rate correction method
+pareto scaling
+modular decomposition
+vortexer
+microarray wash station
+temperature control bath
+molecular crosslinker
+image cytometer
+cytometer
+gel tank
+power supply
+fluorometer
+multispectral imaging flow cytometer
+microarray
+DNA microarray
+protein microarray
+droplet sorter
+water bath
+oil bath
+digital-to-analog converter
+microtome
+microscope
+microscope slide
+animal cage
+study design
+Stegomyia
+Culicini
+Paxillaceae
+Paxillus
+Pyrococcus horikoshii
+mitosporic Orbiliaceae
+Monacrosporium
+Zymomonas
+Zymomonas mobilis
+Enterobacteriaceae
+Mycosphaerella graminicola
+Candida
+Candida albicans
+Candida glabrata
+Pinus resinosa
+Gibberella zeae
+Panagrolaimoidea
+Rhabditoidea
+Peloderinae
+Escherichia
+Escherichia coli
+Agrotis ipsilon
+Kinetoplastida
+Trypanosomatidae
+Leishmania
+Leishmania braziliensis
+Leishmania donovani
+Leishmania major
+Leishmania mexicana
+Leishmania infantum
+Trypanosoma
+Trypanosoma brucei
+Trypanosoma cruzi
+Dictyostelium
+Apicomplexa
+Coccidia
+Burkholderia thailandensis
+Coniferopsida
+Tracheophyta
+Spermatophyta
+Cryptosporidium
+Cryptosporidium parvum
+Haemosporida
+Plasmodium
+Plasmodium berghei
+Plasmodium falciparum
+Salmonella
+Salmonella enteritidis
+Taeniopygia
+Taeniopygia guttata
+Coregonus clupeaformis
+Salmonella typhi
+Salmonella typhimurium
+Eumetazoa
+Neosartorya fischeri group
+Platyhelminthes
+Trematoda
+Digenea
+Strigeidida
+Schistosoma
+Schistosoma japonicum
+Schistosoma mansoni
+Emberizinae
+Nematoda
+Rhabditida
+Caenorhabditis
+Caenorhabditis briggsae
+Caenorhabditis elegans
+Rhabditidae
+Strongyloididae
+Strongyloides
+Spirurida
+Brugia
+Brugia malayi
+Yersinia
+Ustilaginomycetidae
+Filarioidea
+Onchocercidae
+Tylenchida
+Heteroderidae
+Yersinia pestis
+Aquifex aeolicus
+Vibrionaceae
+Mollusca
+Gastropoda
+Buchnera sp.
+Borrelia burgdorferi group
+Aquificaceae
+Pulmonata
+Basommatophora
+Planorbidae
+Biomphalaria
+Biomphalaria glabrata
+Photobacterium
+Vibrio
+Arthropoda
+Crustacea
+Vibrio cholerae
+Malacostraca
+Eucarida
+Decapoda
+Dendrobranchiata
+Penaeidae
+Penaeus monodon
+Mesorhizobium
+Thermoanaerobacteriales
+Bacteroidetes/Chlorobi group
+delta/epsilon subdivisions
+Boletales
+Phyllobacteriaceae
+Desulfuromonadales
+Hexapoda
+Lepidoptera
+Bombycidae
+Bombyx
+Bombyx mori
+Apinae
+Noctuidae
+Paxillus involutus
+Pasteurellaceae
+eudicotyledons
+asterids
+rosids
+Actinobacillus
+Diptera
+Nematocera
+Actinobacillus pleuropneumoniae
+Culicidae
+Aedes
+Aedes aegypti
+Anopheles
+Anopheles gambiae
+Fabales
+Brachycera
+Eumalacostraca
+Drosophilidae
+Drosophila
+Drosophila erecta
+Drosophila mauritiana
+Drosophila melanogaster
+Thiotrichales
+Pseudomonadales
+Alteromonadaceae
+Helicobacteraceae
+Campylobacteraceae
+Drosophila orena
+Drosophila pseudoobscura
+in-line filter
+imaging NMR probe
+isolation of adherent cells
+Bruker AC series NMR instrument
+gas chromatography equipment
+syringe filter
+Bruker SampleRail system
+column compartment
+capillary pump system
+evaporative light scattering detector
+isolation of PBMCs
+column cartridger
+nitrogen generator
+needle assembly
+reverse transcribed polymerase chain reaction
+Bruker Capillary LC-NMR platform
+gas chromatography oven
+autosampler
+isocratic pump system
+flash pump system
+Varian UNITY INOVA spectrometer
+liquid NMR probe
+k-means clustering
+hierarchical clustering
+average linkage hierarchical clustering
+complete linkage hierarchical clustering
+single linkage hierarchical clustering
+Benjamini and Yekutieli false discovery rate correction method
+dimensionality reduction
+principal components analysis dimensionality reduction
+probabilistic algorithm
+expectation maximization
+global modularity calculation
+dye swap merge
+moving average
+replicate analysis
+b cell epitope prediction
+mhc binding prediction
+t cell epitope prediction
+data imputation
+continuum mass spectrum
+clinical study design
+repeated measure design
+cross over design
+n-to-1 design
+matched pairs design
+parallel group design
+randomized complete block design
+balanced incomplete block design
+loop design
+reference design
+latin square design
+graeco latin square design
+hyper graeco latin square design
+factorial design
+2x2 factorial design
+fractional factorial design
+dye swap design
+replicate design
+self vs self design
+time series design
+stopping rule
+compliance rule
+Drosophila sechellia
+Haemophilus
+Drosophila simulans
+Drosophila teissieri
+Drosophila yakuba
+Haemophilus influenzae
+Dechloromonas
+Hymenoptera
+Apocrita
+Photobacterium profundum
+Aculeata
+Monacrosporium haptotylum
+Pasteurella
+Apidae
+Apis
+Apis mellifera
+Pasteurella multocida
+Pterygota
+Ferroplasma
+Caulobacter
+Oxalobacteraceae
+Populus euphratica
+Eucoccidiorida
+Rhodocyclaceae
+Rickettsiales
+Anaplasma
+Nidovirales
+Caulobacteraceae
+Chordata
+Urochordata
+Ascidiacea
+Phlebobranchia
+Cionidae
+Ciona
+Ciona intestinalis
+Bartonellaceae
+Stolidobranchia
+Pyuridae
+Bartonella
+Herdmania
+Herdmania momus
+Vertebrata
+Rickettsiaceae
+Coxiella
+Mycobacterium tuberculosis complex
+Coxiella burnetii
+Gnathostomata
+Rickettsia
+Rickettsia conorii
+Rickettsia prowazekii
+Rickettsia rickettsii
+Euphyllophyta
+Actinopterygii
+Cypriniformes
+Cyprinidae
+Danio
+Danio rerio
+Cyprinus
+Cyprinus carpio
+Arthropleona
+Entomobryoidea
+Ellipura
+Salmoniformes
+Salmonidae
+Oncorhynchus
+Oncorhynchus mykiss
+Salmo
+Bartonella quintana
+Salmo salar
+Salmo trutta
+Gadiformes
+Gadidae
+Gadus
+Gadus morhua
+Burkholderiales
+Populus tremula x Populus alba
+Chlamydiaceae
+Chlamydia
+Magnaporthaceae
+Perciformes
+Percoidei
+Chlamydia trachomatis
+Sparidae
+Sparus
+Sparus aurata
+Leuconostocaceae
+Enterococcaceae
+Rhizobiaceae
+Pleuronectiformes
+Pleuronectidae
+Platichthys
+Platichthys flesus
+Sarcopterygii
+Amphibia
+Apini
+Anura
+Pipidae
+Xenopus
+Xenopus laevis
+Chlamydophila
+Chlamydophila pneumoniae
+Xenopodinae
+Silurana
+Xenopus tropicalis
+Nocardiopsaceae
+Thermobifida
+Sauropsida
+Fusobacterium
+Archosauria
+Rubrobacteridae
+Rubrobacterales
+Rubrobacteraceae
+Actinobacteridae
+Bifidobacteriales
+Actinomycineae
+Corynebacterineae
+Streptomycineae
+Streptosporangineae
+Fusobacterium nucleatum
+Dicondylia
+Amphiesmenoptera
+Citrus clementina
+Triticum turgidum subsp. dicoccoides
+Paxillus filamentosus
+Pasteuria
+Leymus cinereus
+Leymus triticoides
+Saccharophagus degradans
+Bacillus cereus group
+Bacillus halodurans
+Geospiza difficilis
+Desulfovibrio
+Desulfovibrio desulfuricans
+Aves
+Burkholderia cepacia complex
+Neognathae
+Panarthropoda
+Flexibacteraceae
+Craniata
+Galliformes
+Phasianidae
+Ferroplasmaceae
+Gallus
+Gallus gallus
+Phasianinae
+Filobasidiales
+Staphylococcaceae
+Bacilli
+ion exchange column
+Bruker NMR probe
+anion trap column
+fluorescene detector
+tecmag EAGLE probe
+electrical conductivity detector
+NMR instrument
+Bruker UltraShield NMR magnet
+piston-seal
+mass selective detector
+spin column
+manufacturer role
+transfer line
+gradient pump system
+high temperature column
+Bruker Ultrastabilized NMR magnet
+scattered molecular aggregate
+molecular concentration
+NMR sample tube
+Varian UNITY spectrometer
+AVANCE II spectrometer
+y-column connector
+characteristic path length calculation
+centroid mass spectrum
+Holm false discovery rate correction method
+edge weighting
+loess transformation
+curve fitting data transformation
+family wise error rate correction method
+submatrix extraction
+row submatrix extraction
+column submatrix extraction
+gating
+descriptive statistical calculation objective
+mean calculation
+network analysis
+sequence analysis objective
+longitudinal data analysis
+survival analysis objective
+mass spectrometry analysis
+spread calculation data transformation
+Kaplan Meier
+multiple testing correction method
+determining inter-rater agreement
+standard compliance rule
+ethical standard compliance rule
+eligibility rule
+inclusion rule
+exclusion rule
+adding substance to cell culture
+tumor grading
+clinical diagnosis
+human subject enrollment
+collecting specimen from organism
+killing
+administering substance in vivo
+acquisition
+exposure of material to environment
+object acquisition
+acclimatization
+environmental material collection
+data collection
+material component separation
+group assignment
+pooling material from organisms
+detection of label
+material portioning
+non-specific labeling
+histology
+cell fixation
+excision
+non specific enzymatic cleavage
+maintaining cell culture
+substance detection
+longitudinal mass measurement assay
+artificially induced cell membrane lysis
+artificially induced reverse transcription
+Passeriformes
+Fringillidae
+Enterobacteriales
+Cetartiodactyla
+core eudicotyledons
+eurosids I
+eurosids II
+campanulids
+lamiids
+Acidithiobacillus ferrooxidans
+Bartonella koehlerae
+Metatheria
+Xanthomonas axonopodis pv. citri
+Macropodidae
+Macropus
+Mycosphaerellaceae
+Macropus eugenii
+Eutheria
+Anaplasmataceae
+Ehrlichia
+Ehrlichia canis
+Primates
+Methanosarcinales
+Platyrrhini
+Anaplasma phagocytophilum
+Callitrichinae
+Callithrix
+Callithrix jacchus
+Cebidae
+Noctuinae
+Catarrhini
+Cercopithecidae
+Cercopithecinae
+Macaca
+Macaca fascicularis
+Macaca fuscata
+Macaca mulatta
+Pan
+Pan troglodytes
+Pongo
+Pongo pygmaeus
+Hominidae
+Homo
+Homo sapiens
+Canidae
+Canis
+Canis familiaris
+Vulpes
+Vulpes vulpes
+Felidae
+Felis
+Felis catus
+Ferroplasma acidarmanus
+Bacteroidetes
+Cytophaga
+Perissodactyla
+Equidae
+Equus
+Equus caballus
+Suidae
+Sus
+Sus scrofa
+Ruminantia
+Cytophaga hutchinsonii
+Festuca brevipila
+Festuca rubra subsp. fallax
+Festuca rubra subsp. littoralis
+Bovidae
+Bos
+Bos taurus
+Bos indicus
+Ovis
+Ovis aries
+Caprinae
+Tetraodon nigroviridis
+Rodentia
+role of being consumer safety officer
+fluorescent reporter intensity
+planned process
+regulator role
+biological feature identification objective
+regulation-assigned role
+regulatory role
+supplier role
+contract research organization role
+list-mode data file
+classified data set
+reference substance role
+cytological stain role
+centrifuge pellet role
+Bruker LC-NMR/MS platform
+refractive index detector
+anion exchange column
+plunger column
+flame photometric detector
+chromatography pump system
+Bruker 1mm MicroProbe
+Bruker BEST NMR system
+chromatography detector filter
+cation trap column
+column adapter
+pulsed amperometric detector
+Bruker NMR instrument
+Bruker NMR magnet
+Westfall and Young family wise error rate correction
+polynomial transformation
+logarithmic transformation
+exponential transformation
+non-negative matrix factorization
+soft independent modeling of class analogy analysis
+discriminant function analysis
+canonical variate analysis
+linear discriminant functional analysis
+regression analysis method
+multiple linear regression analysis
+principal component regression
+partial least square regression analysis
+discriminant analysis
+isolation of cell culture supernatant
+experimental disease induction
+ELISPOT assay
+artificially induced DNA repair
+cell permeabilization
+precipitation
+establishing cell culture
+cell culture splitting
+labeling
+artificially induced methylation
+synthesis
+concentrate
+recombinant plasmid cloning
+genetic transformation
+lavage
+structure assay
+chromatography
+sequencing assay
+vector mediated amplification
+DNA polymerase amplification
+specific enzymatic cleavage
+gradient separation
+dialysis
+electrophoresis
+selection by survival
+DNA cleavage, restriction analysis
+protease cleavage
+enzymatic DNA replication
+enzymatic amplification
+DNA transduction
+DNA transfection
+clinical research coordinator role
+supernatant role
+chromatography column
+drug role
+pump valve switch
+xenotransplantation
+physical document
+waiting
+processed material
+chromatography device
+mass spectrometer
+platform
+liquid chromatography mass spectrometry platform
+microarray platform
+ratio of collected to emitted light
+software optimization
+notified body role
+allotransplantation
+gamma counter
+trial monitor role
+positive reference substance role
+polyethylene glycol p-(1,1,3,3-tetramethylbutyl)-phenyl ether
+investigation
+evaluant role
+reporting party role
+assay
+quantitative confidence value
+sample preparation for assay
+ozone-induced chemiluminescence detector
+tecmag NMR console
+JEOL NMR instrument
+chromatography consumable
+column frit
+liquid chromatography column
+detector lamp
+chart recorder
+open tubular column
+high resolution magic angle spin probe
+hydrogen generator
+glass column
+auto injector
+Varian NMR instrument
+partial least square discriminant analysis
+eh transformation
+b transformation
+s transformation
+data visualization
+similarity calculation
+euclidean distance calculation
+pearson correlation coefficient calculation
+loess fitting
+mode calculation
+quantile calculation
+median calculation
+variance calculation
+standard deviation calculation
+interquartile-range calculation
+skewness calculation
+kurtosis calculation
+vector mediated expression
+recombinant vector cloning
+specific labeling
+RNA extraction
+nucleic acid extraction
+cell culture supernatant
+cell pellet
+phage display library
+cell lysate
+peptide construct
+transgenic organism
+whole mount tissue
+bead
+epitope
+occurrence of disease
+host exposure to infectious agent
+administration in vivo with infectious agent
+occurrence of infectious disease
+disposition to cause an allergic reaction
+allergic reaction
+occurrence of allergy
+T cell epitope ELISPOT IL-2 assay
+epitope binding by adaptive immune receptor
+Immunization in vivo
+adaptive immune effector function
+living with infected household contact
+living in endemic area
+pathogen release in laboratory accident
+Immunization in vitro
+infection
+adaptive immune receptor
+immunogen
+diagnosis textual entity
+unplanned occurrence effecting an investigation
+eMedical record
+culture medium role
+electronic case report tabulation
+polystyrene tube
+reagent role
+role of regulator of chemical manufacturer
+detector reagent role
+role of certified IRB professional
+patient role
+material processing
+protocol testing objective
+study subject role
+role of being first subject treated
+measured expression level
+responsible party role
+principal investigator role
+transplantation
+biological vector role
+pH indicator dye role
+specimen role
+sequence feature identification objective
+intervention design
+worker role
+Bernoulli trial
+gene list
+Bruker MATCH tube holder system
+Bruker SPE-NMR platform
+guard column
+protein expression profiling
+high resolution probe with automatic tuning and matching
+fluorine-induced chemiluminescence detector
+size exclusion column
+chromatography splitter
+Bruker micro imaging probe
+custom made column
+gel permeation column
+NMR spectroscopy
+Bruker SampleJet system
+data combination
+network graph construction
+weighted network graph construction
+directed network graph construction
+node quality calculation
+node degree calculation
+quantitative node degree calculation
+node in-degree calculation
+node out-degree calculation
+node shortest path identification
+edge quality calculation
+edge betweenness calculation
+network subgraph quality calculation
+subgraph degree calculation
+quantitative subgraph degree calculation
+mathematical feature
+log base
+subgraph in-degree calculation
+subgraph out-degree calculation
+intra subgraph connectivity calculation
+subgraph modularity calculation
+network graph quality calculation
+unit-variance scaling
+environmental exposure to infectious agent
+host
+infectious agent
+293-T cell culture
+C1R cell culture
+experimental infection of cell culture
+EL-4 cell culture
+HeLa cell culture
+JAWS II cell culture
+antigen
+Jurkat cell culture
+JY cell culture
+T cell  epitope recognition assay
+RMA cell culture
+T2 cell culture
+infectious disease
+lymph node cell
+adherent cell culture
+PBMC cell culture
+disposition to be bound by an adaptive immune receptor
+organ harvesting
+CD3+ T cell culture
+CD3- T cell culture
+allergy
+CD4- T cell culture
+CD8- T cell culture
+CD4-/CD8- T cell culture
+cancer
+autoimmune disease
+disease
+epitope specific IL-2 release by T cells
+MHC:epitope complex binding to TCR
+T cell epitope ELISPOT IFN-g assay
+exposure resulting in immune reactivity
+immunogen role

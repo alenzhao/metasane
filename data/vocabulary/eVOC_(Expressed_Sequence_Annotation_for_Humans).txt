@@ -1,0 +1,1009 @@
+central nervous system
+nucleus parasolitarius
+cardiac conducting system
+nail bed
+prostate
+endometrium
+ureter
+vas deferens
+nucleus of the spinal tract
+islets of Langerhans
+nose
+bronchus
+caudate nucleus
+tonsil
+habenular nucleus
+optic nerve
+nucleus fastigii
+bladder
+tympanum
+amygdala
+parafascicular thalamic nucleus
+myocardium
+urogenital system
+gum
+ventricular system
+testis
+perineum
+choroid
+duodenum
+external ear
+facial nucleus
+nucleus intercalatus
+glomerus
+nucleus of the lateral lemniscus
+intermediomedial column
+seminiferous tubule
+lesser omentum
+lateral dorsal thalamic nucleus
+lacrimal gland
+meniscus
+suprachiasmatic nucleus
+lateral posterior thalamic nucleus
+external acoustic meatus
+occipital lobe
+anterior dorsal thalamic nucleus
+nucleus of the hypoglossal nerve
+vermiform appendix
+dermal system
+diaphragm
+medial accessory
+central lateral thalamic nucleus
+endocrine system
+renal distal convoluted tubule
+respiratory system
+olfactory tubercle
+frontal lobe
+lung
+jejunum
+pelvis
+anterior lobe of the cerebellum
+olfactory apparatus
+parotid gland
+accessory cuneate nucleus
+cerebral cortex
+skeletal muscle
+cartilage
+middle ear
+large intestine
+blastocyst
+olivary nuclei
+primary olfactory cortex
+eyelid
+sinus
+ventrolateral column
+germinal center
+auditory ossicle
+lateral nucleus
+ciliary body
+fourth ventricle
+synovium
+trigeminal nucleus
+anterior medial thalamic nucleus
+developmental anatomy
+oral cavity
+intestine
+benign tumour
+fibroma
+bipolar disease
+arteritis
+teratoma
+atherosclerosis
+degenerative disorders
+multiple sclerosis
+infectious disorders
+pediculosis
+systemic lupus erythematosus
+human papilloma virus
+osteoarthritis
+Down&apos;s syndrome
+congenital anomalies
+atrophy
+streptoccocus
+schizophrenia
+cirrhosis
+granulosa cell
+goblet cell
+Affymetrix GeneChip Human 35K
+Affymetrix GeneChip Human 35K SubA Array Hu35k-B
+Affymetrix GeneChip Human 35K SubA Array Hu35k-C
+Affymetrix GeneChip Human 35K SubA Array Hu35k-D
+27 years
+squamous cell
+22 weeks
+chromophobic cell
+22 years
+pinealocyte
+16 weeks
+9 months
+medulloblast
+leukocyte
+lymphoblast
+60 years
+adipoblast
+zymogenic cell
+3 weeks
+metamyelocyte
+8 years
+12 years
+gonadotroph
+pending
+alt_id
+Purkinje cell
+29 weeks
+fibroblast
+Microarray Platform
+Affymetrix GeneChip Human Genome U95 Set HG-U95D
+Affymetrix GeneChip
+Affymetrix GeneChip Human Genome U95 Set HG-U95B
+Affymetrix GeneChip Human Genome U95 Set HG-U95E
+Affymetrix GeneChip Human Genome U133 Array Set
+Affymetrix GeneChip Human Genome U95 Set
+not applicable
+Affymetrix GeneChip Human Genome U95 Set HG-U95A
+Affymetrix GeneChip Human Cancer Array HC-G110
+Affymetrix GeneChip Human Full Length Array HuGeneFL
+Affymetrix GeneChip Human Genome U95 Set HG-U95C
+glioblast
+46 years
+59 years
+14 weeks
+4 months
+16 cells
+34 years
+juxtaglomerular cell
+15 weeks
+myelocyte
+megakaryoblast
+2 months
+odontoblast
+follicular dendritic cell
+pending
+3 years
+oligodendrocyte
+13 weeks
+3 months
+45 years
+69 years
+narrow
+58 years
+19 weeks
+capsular cell
+8 cells
+keratinocyte
+2 years
+osteoblast
+keratocyte
+25 weeks
+68 years
+unclassifiable
+33 years
+megakaryocyte
+Langerhans cell
+12 weeks
+44 years
+6 months
+oligodendroblast
+cementocyte
+somatotroph
+57 years
+retinal pigment epithelial cell
+primary spermatocyte
+interstitial cell
+unclassifiable
+4 cells
+secondary spermatocyte
+67 years
+5 years
+31 years
+32 years
+Pooling
+unclassifiable
+enterochromaffin cell
+5 months
+chief cell
+43 years
+Sertoli cell
+adult
+42 years
+55 years
+54 years
+36 years
+26 years
+25 years
+66 years
+65 years
+49 years
+37 years
+23 years
+24 years
+38 years
+64 years
+56 years
+48 years
+47 years
+50 years
+35 years
+30 years
+astrocyte
+embryo
+8 weeks
+5 weeks
+spermatocyte
+podocyte
+parafollicular cell
+ependymocyte
+pending
+11 weeks
+M&#65533;ller cell
+4 years
+10 weeks
+neuron
+9 years
+9 weeks
+beta cell
+Cell Type
+myeloid cell
+melanoblast
+promyelocyte
+germ cell
+small cell
+promyeloblast
+pericyte
+acinar cell
+primary oocyte
+epithelial cell
+promonocyte
+hyalocyte
+peptic cell
+germinal epithelium
+osteocyte
+myoblast
+astroblast
+proerythroblast
+phaeochromocyte
+pronormoblast
+lymphoid stem cell
+dendritic cell
+follicular cell
+phalangeal cell
+oocyte
+Merkel cell
+spermatid
+white
+giant cell
+myeloid stem cell
+neuroepithelial cell
+hepatocyte
+mesothelial cell
+unclassifiable
+adipocyte
+Hensen cell
+alpha cell
+luteal cell
+paraluteal cell
+myoepithelial cell
+myofibrobast
+glial cell
+corticotroph
+amacrine cell
+delta cell
+transitional cell
+hepatoblast
+mesangial cell
+osteoclast
+acidophil cell
+secondary oocyte
+lymphocytic stem cell
+Claudius&apos; cell
+melanocyte
+lymphoid cell
+brown
+Development Stage
+42 weeks
+10 years
+0 year
+26 weeks
+32 weeks
+toddler
+21 weeks
+11 years
+1 month
+13 years
+28 weeks
+14 years
+adolescent
+infant
+fetus
+16 years
+11 months
+1 year
+15 years
+unclassifiable
+child
+17 years
+72 hours
+24 hours
+12 hours
+synonym
+0 hours
+broad
+treatment duration
+left ventricular assist device
+Tissue Preparation
+cell line
+Experimental Technique
+device
+clinical treatment
+drug
+Treatment
+pericardium
+penis
+meninges
+vitreous humor
+cerebellum nuclei
+trabecular meshwork
+spinal nucleus of the accessory nerve
+cerebrospinal fluid
+adipose tissue
+thorax
+rectum
+centromedian thalamic nucleus
+ventral thalamic nuclei
+inferior salivatory nuclei
+macula lutea
+motor
+pineal gland
+peritoneum
+secondary olfactory cortex
+lower limb
+preoptic nucleus
+vagina
+placenta
+ventromedial column
+ventral intermediate thalamic nucleus
+conjunctiva
+dentate nucleus
+nervous system
+dorsolateral column
+whole body
+hypothalamus
+retrodorsolateral column
+uterus
+dermis
+putamen
+bile duct
+subthalamic nucleus
+trachea
+gall bladder
+alveolus
+adrenal medulla
+myometrium
+sublingual gland
+abdomen
+tooth
+internal ear
+greater omentum
+visual
+inferior vestibular nuclei
+superior salivatory nuclei
+lymph
+nucleus of the tractus solitarius
+pharynx
+temporal lobe
+posterior nucleus
+blastocyst inner cell mass
+parietal lobe
+medial geniculate nucleus
+olfactory bulb
+stomach
+parathyroid
+vermis
+cerebral aqueduct
+pulvinar
+epithalamus
+lentiform nucleus
+lateral geniculate nucleus
+abducent nucleus
+insula
+blood
+small intestine
+medial
+sweat gland
+female reproductive system
+membranous labyrinth
+accessory nucleus
+oesophagus
+venous adventitia
+male reproductive system
+cervix
+cerebellum
+brain stem
+endoderm
+reproductive system
+mesenchyma
+salivatory nuclei
+capillary
+vulva
+inferior olivary nuclei
+parahippocampal gyrus
+brain
+alimentary system
+retina
+endocrine pancreas
+endocardium
+ganglion
+tongue
+tract
+cochlear nuclei
+auricle
+nucleus globosus
+lymph node
+dorsal column
+adrenal gland
+medial olfactory stria
+epididymis
+nucleus ambiguus
+diencephalon
+pineal body
+carotid artery
+visual apparatus
+hair follicle
+dorsomedial nucleus
+appendages
+cecum
+larynx
+hematological system
+epidermis
+basal nuclei
+nucleus of the spinal tract of the trigeminal
+globus pallidus
+ventromedial nucleus
+pleura
+spinal cord
+osseous labyrinth
+foreskin
+ventral
+reticular thalamic nucleus
+omentum
+spleen
+neuroectoderm
+anterior ventral thalamic nucleus
+flocculonodular lobe
+umbilical vein
+cerebellum cortex
+renal collecting duct
+medial dorsal thalamic nucleus
+pons
+atrium
+submedial thalamic nucleus
+ventral anterior thalamic nucleus
+medial thalamic nuclei
+superior vestibular nuclei
+lateral tuberal nucleus
+lateral
+umbilical cord
+joint
+medial mamillary nucleus
+oropharynx
+urethra
+submandibular gland
+venous media
+semicircular canal
+lateral ventricle
+fascia
+corpus striatum
+globe
+sympathetic chain
+hippocampus
+musculoskeletal system
+bone
+ventral column
+smooth muscle
+amnion
+central amygdaloid nucleus
+phrenic nucleus
+vestibular nuclei
+medial amygdaloid nucleus
+renal corpuscle
+urinary system
+mammary gland
+colon
+medulla oblongata
+supraspinal nucleus
+pituitary gland
+breast
+mesoderm
+aorta
+pia mater
+sebaceous gland
+amniotic fluid
+venous intima
+saccule
+arcuate nuclei
+subthalamus
+principal sensory
+arterial intima
+lymphoreticular system
+ventricle
+lateral column
+heart
+hypopharynx
+intermediolateral column
+nasopharynx
+lateral olfactory stria
+lumbosacral nucleus
+superior olivary nucleus
+premamillary nucleus
+middle lobe of the cerebellum
+nail
+arachnoid
+iris
+uterine tube
+third ventricle
+arterial adventitia
+cardiac valve
+cardiovascular system
+trophoblast
+corpus callosum
+appendix
+lateral thalamic nuclei
+loop of Henle
+spinal ganglion
+mucosa
+peripheral nerve
+visceral column
+sclera
+glans
+nucleus cuneatus
+vein
+auditory tube
+palatine tonsil
+lateral mamillary nucleus
+anus
+cortical amygdaloid nucleus
+ventral posterior thalamic nucleus
+sacral parasympathetic nucleus
+utricle
+nucleus proprius
+interstitial
+liver and biliary system
+anterior nucleus
+lens
+substantia gelatinosa
+pancreas
+dorsal accessory
+thyroid
+paracentral thalamic nucleus
+chorion
+nephron
+colorectal
+paraventricular nucleus
+hair
+thymus
+coronary artery
+ectoderm
+artery
+nucleus thoracicus
+kidney
+skin
+infundibular nucleus
+notochord
+anterior olfactory nucleus
+seminal vesicle
+adrenal cortex
+nucleus emboliformis
+claustrum
+ileum
+salivary gland
+amygdaloid nucleus
+auditory apparatus
+metathalamus
+unclassifiable
+lingual tonsil
+vestibule
+dorsal vagal nucleus
+tendon
+trapezoid nucleus
+head and neck
+thalamus
+tuberomamillary nucleus
+upper limb
+exocrine pancreas
+arterial media
+anterior thalamic nuclei
+dorsal
+fovea centralis
+peripheral nervous system
+ligament
+liver
+dorsomedial column
+bone marrow
+cerebrum
+ovary
+nucleus gracilis
+milk
+limiting thalamic nucleus
+anatomical site
+supraoptic nucleus
+dura mater
+mesentery
+hepatitis B virus
+71 years
+53 years
+CD4+
+8 months
+insulin resistance
+B-lymphoblast
+leprosy
+lepromatous
+muscle cell
+cardiac muscle cell
+skeletal muscle cell
+smooth muscle cell
+Soares subtracted
+18 years
+subtracted
+non-normalized
+Krizman protocol R-D
+Krizman protocol 3
+Krizman protocol 1
+Soares non-normalized
+Stratagene non-normalized
+Rubin non-normalized
+LTI non-normalized
+Clontech non-normalized
+Krizman protocol 2
+Staudt non-normalized
+juvenile dermatomyositis
+granulocyte
+eosinophil
+neutrophil
+basophil
+Schwann cell
+macroglial cell
+flow-sorted
+81 years
+basal cell
+pooled donor
+7 years
+29 years
+30 weeks
+7 weeks
+macrophage
+histiocyte
+foam cell
+alveolar macrophage
+Kupffer cell
+mucous neck cell
+Paneth cell
+erythrocyte
+gliosarcoma
+hair cell
+24 weeks
+48 hours
+chondrocyte
+stem cell
+promyelocytic
+ulcerative colitis
+62 years
+hepatitis C virus
+18 weeks
+52 years
+phenotype
+insulin sensitivity
+CD34+
+malignant tumour
+chondrosarcoma
+signet-ring cell carcinoma
+lymphoblastic
+chronic myelogenous leukemia
+hypernephroma
+carcinoma in situ
+Burkitt&apos;s lymphoma
+non-Hodgkin&apos;s lymphoma
+clear cell carcinoma
+astrocytoma
+rhabdomyosarcoma
+reticulosarcoma
+chorioepithelioma
+lymphosarcoma cell
+B-cell leukemia
+T-cell leukemia
+fibrous histiocytoma
+monocytic
+Kaposi&apos;s
+Ewing&apos;s
+medulloblastoma
+myeloid leukemia
+liposarcoma
+Barrett&apos;s adenocarcinoma
+leiomyosarcoma
+carcinoma
+melanoma
+retinoblastoma
+papillary serous carcinoma
+lymphosarcoma
+Hodgkin&apos;s lymphoma
+teratocarcinoma
+fibrosarcoma
+lymphocytic
+cholangiocarcinoma
+megakaryocytic
+acute myelogenous leukemia
+leukaemia
+glioblastoma
+Wilms
+erythremia
+choriocarcinoma
+myeloma
+neuroblastoma
+osteosarcoma
+histiocytoma
+lymphoma
+anaplastic carcinoma
+seminoma
+adenocarcinoma
+oligodendroglioma
+sarcoma
+40 years
+T-lymphoblast
+7 months
+19 years
+mild asthma
+nephritis
+82 years
+neuroblast
+gamete
+spermatozoon
+ovum
+mammotroph
+72 years
+microdissected
+41 years
+28 years
+Affymetrix GeneChip Human 35K SubA Array Hu35k-A
+sustentacular cell
+erythroblast
+aneurysm
+31 weeks
+exact
+6 years
+6 weeks
+plasma cell
+pooled
+pooled tissue
+natural killer cell
+oxyntic cell
+monocyte
+Affymetrix GeneChip Human Genome U133 Array Set HG-U133A
+Associated With
+pending
+disease state
+haplotype
+chronic obstructive pulmonary disease
+familial combined hyperlipidemia
+severe asthma
+infection
+morbid obesity
+asthma
+bacterial infection
+obesity
+USF1 protective haplotype
+pulmonary arterial hypertension
+atopia
+USF1 susceptible haplotype
+congenital anomalies
+not applicable
+individual genetic characteristics
+Mycobacterium tuberculosis
+chromaffin cell
+20 weeks
+Affymetrix GeneChip Human Genome U133 Array Set HG-U133B
+elderly
+77 years
+90 years
+99 years
+84 years
+73 years
+86 years
+74 years
+89 years
+87 years
+78 years
+76 years
+88 years
+93 years
+97 years
+85 years
+83 years
+80 years
+94 years
+96 years
+70 years
+75 years
+79 years
+92 years
+98 years
+91 years
+95 years
+51 years
+39 years
+EST
+differential display
+LTI normalized Cot 500
+Soares normalized
+LTI normalized Cot &gt;500
+LTI normalized Cot 50
+normalized
+ORESTES
+Rubin normalized
+LTI normalized
+Clontech normalized
+peripheral blood mononuclear cell
+malignant hyperthermia
+17 weeks
+20 years
+10 months
+lymphocyte
+T-lymphocyte
+Th1
+helper induced T-lymphocyte
+helper induced T-lymphocyte:Th2
+thymocyte
+B-lymphocyte
+Th2
+helper induced T-lymphocyte:Th1
+21 years
+endothelial cell
+27 weeks
+hypertrophic cardiomyopathy
+mast cell
+tuberculosis
+lemmal cell
+not pooled
+not pooled tissue
+not pooled donor
+61 years
+bulk
+micro-bulk
+teloglial cell
+SAGE
+fibrocyte
+monoblast
+pituicyte
+not applicable
+haemangioma
+4 weeks
+reticulocyte
+hepatitis
+hepatitis A virus
+Pathology
+metabolic disorders
+tumour
+depression
+Charcot-Marie-Tooth disease
+neoplasia
+keratoconus
+lupus
+asthma
+affective disorders
+hyperplasia
+severe combined immunodeficiency disease
+cardiomyopathy
+Amyotrophic lateral sclerosis
+leiomyoma
+idiopathic thrombocytopenic purpura
+poliomyelitis
+Alzheimer&apos;s disease
+Denys-drash
+discoid lupus
+growth disorders
+cytomegalovirus
+arthritis
+AIDS
+Crohn&apos;s disease
+encephalopathy
+type I
+parasitic
+normal
+goitre
+angioma
+heart failure
+emphysema
+psoriasis
+bronchitis
+glioma
+dysplasia
+insulinoma
+congestive heart failure
+Grave&apos;s disease
+dermoid cyst
+lipoma
+viral
+encephalitis
+lymphangioma
+other disorders
+genetic disorders
+dystrophies
+cystic fibrosis
+adenoma
+unclassifiable
+polyp
+Gaucher disease
+facioscapulohumeral
+Creutzfeldt-Jakob disease
+Schwannoma
+diabetes insipidus
+ascites
+Patau syndrome
+Epstein-Barr virus
+alopecia areata
+rheumatoid arthritis
+bacterial
+Huntington&apos;s disease
+diabetes mellitus
+fragile X syndrome
+fibrothecoma
+hyperthyroidism
+Wiskott-Aldrich syndrome
+chronic obstructive pulmonary disease
+endometriosis
+botulism
+hypertrophy
+inflammatory disorders
+carcinoid
+Cushing&apos;s disease
+phaeochromocytoma
+mental disorders
+type II
+fungal
+meningioma
+enchondroma
+autoimmune disorders
+helminthiasis
+syphilis
+candidiasis
+staphyloccocus
+retinoblast
+cochlea
+spiral organ of Corti
+is_a
+develops_from
+part_of
+chondroblast
+experimental treatment
+chemical
+1 mM phenylbuytrate
+granulocyte colony stimulating factor
+growth factor
+DACH1
+human immunodeficiency virus
+transfection
+infection
+genetic modification
+viral infection
+platelet
+cornea
+haemocytoblast
+midbrain
+red nucleus
+substantia nigra
+colliculi
+trochlear nucleus
+mesencephalic trigeminal nucleus
+oculomotor nucleus
+periaqueductal grey matter
+inferior colliculi
+superior colliculi
+crus cerebri
+23 weeks
+related
+63 years
+erythroleukaemia
+systemic sclerosis
+Anatomical System
+muscle
+pharyngeal tonsil
+renal tubule
+renal proximal convoluted tubule

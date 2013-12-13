@@ -1,0 +1,993 @@
+preBCR-negative large pre-B-II cell
+IgE short-lived plasma cell
+alpha-beta intraepithelial T cell
+mature alpha-beta T cell
+pre-natural killer cell
+CD8-alpha-beta-positive, alpha-beta intraepithelial T cell
+lymphocyte
+alpha-beta T cell
+IgG memory B cell
+Bm3 B cell
+CD8-positive, CD28-negative, alpha-beta regulatory T cell
+immature B cell
+preBCR-positive large pre-B-II cell
+CD8-positive, CD25-positive, alpha-beta regulatory T cell
+immature single positive thymocyte
+class switched memory B cell
+IgE memory B cell
+IgG plasmablast
+helper T cell
+T-helper 17 cell
+IgE plasmablast
+Bm2 B cell
+Tc1 cell
+CD4-positive, alpha-beta thymocyte
+long lived plasma cell
+IgM memory B cell
+IgA memory B cell
+plasma cell
+socket cell (sensu Nematoda)
+smooth muscle cell
+autonomic neuron
+spinal accessory motor neuron
+tracheoblast
+stellate interneuron
+sphincter associated smooth muscle cell
+cone cell (sensu Endopterygota)
+R3 photoreceptor cell
+amnioserosal cell
+nasal and broncial associated lymphoid tissue macrophage
+distal tip cell (sensu Nematoda)
+hair matrix stem cell
+pigment cell (sensu Nematoda and Protostomia)
+humidity receptor cell
+nurse cell
+angioblastic mesenchymal cell
+Rohon-Beard neuron
+chondroblast
+CNS short range interneuron
+tonsillar macrophage
+eggshell secreting cell
+insulin secreting cell
+substance P secreting cell
+xylem element
+parafollicular cell
+orthochromatic erythroblast
+female germ line stem cell (sensu Vertebrata)
+macrophage
+basal cell
+terminal Schwann cell
+granulocyte monocyte progenitor cell
+embryonic crystal cell
+microsporocyte
+splenic marginal zone macrophage
+cystoblast
+primary interneuron
+endothelial cell
+multinucleated phagocyte
+brush cell
+scaffold cell
+neurectodermal cell
+monoblast
+polymodal nocireceptor
+ameloblast
+neuroepidermoblast
+touch receptor cell
+spore (sensu Mycetozoa)
+slow muscle cell
+neuroblast
+prespore cell
+vegetative cell
+generative cell
+blastemal cell
+thyroid stimulating hormone secreting cell
+osteoblast
+sieve tube member
+starch sheath cell
+interneuron
+eosinophilic metamyelocyte
+amelocyte
+hair papilla cell
+columnar neuron
+mechanoreceptor cell
+blastoderm cell
+motor neuron
+R6 photoreceptor cell
+atrichoblast
+fat cell
+white fat cell
+epithelial cell of lung
+type 8 cone bipolar cell (sensu Mus)
+peripheral neuron
+platelet
+anterior like cell
+cholecystokin stimulating hormone secreting cell
+mature myeloid dendritic cell
+pigment cell (sensu Vertebrata)
+skeletal muscle cell
+periarticular chondrocyte
+lymph gland hemocyte
+thymic macrophage
+CNS neuron (sensu Nematoda and Protostomia)
+pericardial cell
+microglial cell
+prestalk I cell
+pore cell
+mononuclear cell
+R2 photoreceptor cell
+oxytocin stimulating hormone secreting cell
+Kenyon cell
+chlamydospore
+common myeloid progenitor
+stalk cell
+erythroblast
+hyphal cell
+immature neutrophil
+neutrophilic myeloblast
+glial cell
+pole cell
+monocyte
+zoospore
+afferent neuron
+antipodal cell
+Paneth cell
+procrystal cell
+visible light photoreceptor cell
+corneal endothelial cell
+trunk neural crest cell
+muscle cell
+myeloid progenitor cell
+photoreceptor cell
+adrenergic neuron
+endospore
+sensory processing neuron
+splenic white pulp macrophage
+asexual spore
+osteoclast
+non keratinizing barrier epithelial cell
+fast muscle cell
+osteoprogenitor cell
+G cell
+type 2 cone bipolar cell (sensu Mus)
+basophil
+macrophage (sensu Diptera)
+eosinophilic myelocyte
+basidiospore
+cardiac mesenchymal cell
+metal ion accumulating cell
+dopaminergic neuron
+inhibitory interneuron
+horizontal cell
+pigmented epithelial cell
+aggregate cell
+thymic cortical macrophage
+odontoclast
+parietal cell
+blue sensitive photoreceptor cell
+gravity sensitive cell
+sclerenchyma cell
+single fate stem cell
+neutrophilic metamyelocyte
+multinucleated giant cell
+hepatocyte
+gastrin stimulating hormone secreting cell
+mature basophil
+gangion interneuron
+chromophil cell
+alternatively activated macrophage
+choroidal cell
+granulosa cell
+ON-bipolar cell
+xylem fiber cell
+pancreatic D cell
+epiblast cell
+functional megaspore
+muscle precursor cell
+axial cell
+dental papilla cell
+glycocalyx secreting cell
+gut absorptive cell
+type 6 cone bipolar cell (sensu Mus)
+retinal bipolar neuron
+smooth muscle cell neural crest derived
+polychromatophilic erythroblast
+muscle stem cell
+littoral cell of liver
+steroid hormone secreting cell
+electrically responsive cell
+microspore
+insulating cell
+leptomemingeal cell
+prokaryotic cell
+hyalocyte
+trichome
+olfactory receptor cell
+neuroplacodal cell
+corona radiata cell
+myoendocrine cell
+theca cell
+luteinizing hormone secreting cell
+smooth muscle cell derived foam cell
+secondary lymphoid organ macrophage
+basophil cell of anterior lobe of hypophysis
+eosinophil
+female germ line stem cell (sensu Nematoda and Protostomia)
+ectodermal cell
+centripetally migrating follicle cell
+CNS long range interneuron
+multinuclear odontoclast
+extramedullary cell
+prestalk 0 cell
+fiber tracheid
+chondrocyte
+vascular associated smooth muscle cell
+neuron neural crest derived
+Kupffer cell
+electrically active cell
+adrenocorticotropic hormone secreting cell
+polymodal neuron
+eosinophil progenitor cell
+fibrocyte
+glioblast (sensu Nematoda and Protostomia)
+extracellular matrix secreting cell
+obliquely striated muscle cell
+non-visual cell (sensu Vertebrata)
+myoblast
+neutrophilic promyelocyte
+plasmacytoid dendritic cell
+odontocyte
+phloem element
+neutrophilic myelocyte
+basophilic myelocyte
+mitogenic signaling cell
+tormogen cell
+auditory hair cell
+conidium
+eukaryotic cell
+scotopic photoreceptor cell
+branched duct epithelial cell
+tertiary pigment cell
+pneumocyte
+stratified squamous epithelial cell
+granule cell
+lymphoid progenitor cell
+glutamatergic neuron
+excretory cell
+stromal cell
+Leydig cell
+anterior cell
+band form basophil
+blood vessel endothelial cell
+chemotactic amoeboid cell (sensu Mycetozoa)
+neuromast hair cell
+tissue-resident macrophage
+basophilic erythroblast
+gastrointestinal tract (lamina propria) macrophage
+macroconidium
+GLR cell
+multi fate stem cell
+glucagon secreting cell
+ray cell
+sheath cell (sensu Nematoda)
+immature myeloid dendritic cell
+prohemocyte (sensu Nematoda and Protostomia)
+mesodermal cell
+embryonic gland plasmatocyte
+unipolar neuron
+promonocyte
+barrier epithelial cell
+band form neutrophil
+meningeal macrophage
+stratified cuboidal epithelial cell
+splenic macrophage
+neuron associated cell (sensu Vertebrata)
+choroid-plexus macrophage
+cardiac muscle cell
+erythroid progenitor cell
+hematopoietic stem cell
+surface ectodermal cell
+border follicle cell
+pavement cell
+ito cell
+immature eosinophil
+smooth muscle myoblast
+mesangial cell
+crystal cell
+sieve cell
+mononuclear phagocyte
+mucosal type mast cell
+cerebrospinal fluid secreting cell
+receptor cell (sensu Animalia)
+megakaryocyte erythroid progenitor cell
+myoepithelial cell
+glial cell (sensu Nematoda and Protostomia)
+Merkel cell
+amacrine cell
+glioblast
+collagen secreting cell
+commisural neuron
+connective tissue type mast cell
+slow muscle myoblast
+skeletal muscle myoblast
+columnar chondrocyte
+hematopoietic progenitor cell
+R4 photoreceptor cell
+neuroglioform cell
+neuron associated cell (sensu Nematoda and Protostomia)
+serotonergic neuron
+erythroid lineage cell
+myeloid suppressor cell
+hair cell
+somatotropin secreting cell
+promyelocyte
+alveolar macrophage
+mature neutrophil
+support cell (sensu Nematoda)
+lymph node macrophage
+multinuclear osteoclast
+odontoblast
+epithelial cell of pancreas
+splenic tingible body macrophage
+stratified epithelial cell
+trichogen cell
+adepithelial cell
+epidermal cell (sensu Insecta)
+myeloid leukocyte
+mesenchyme condensation cell
+neutrophil progenitor cell
+gut-associated lymphoid tissue macrophage
+eosinophilic promyelocyte
+interneuromast cell
+sensory epithelial cell
+granulocyte
+podocyte (sensu Diptera)
+basophilic metamyelocyte
+myeloid cell
+cumulus cell
+mononuclear odontoclast
+mature eosinophil
+sperm cell (sensu Viridiplantae)
+megakaryocyte progenitor cell
+scleral cell
+splenic red pulp macrophage
+myeloblast
+mast cell progenitor
+guard mother cell
+suppressor macrophage
+neuron associated cell
+basophilic myeloblast
+seromucus secreting cell
+neck cell
+serous secreting cell
+goblet cell
+mucus secreting cell
+gamete
+sperm
+female gamete
+male gamete
+egg
+dentine secreting cell
+broad
+female germ line stem cell
+histoblast
+attachment cell
+tendon cell
+epithelial cell
+scolopidial sheath cell
+sheath cell
+squamous epithelial cell
+glandular epithelial cell
+vestibular dark cell
+brush border epithelial cell
+M cell
+pillar cell
+columnar/cuboidal epithelial cell
+epidermal cell
+Deiter&apos;s cell
+enterocyte
+Hensen cell
+simple columnar epithelial cell
+podocyte
+peridermal cell
+interfollicle cell
+corneal epithelial cell
+hypodermal cell
+transitional epithelial cell
+stratum granulosum cell
+Claudius cell
+fenestrated cell
+single nucleate cell
+proerythroblast
+immature basophil
+paraganglia type 2 cell
+leucophore
+cell
+spermatocyte
+primary spermatocyte
+cell in vivo
+tears secreting cell
+stem cell
+spermatogonium
+iridophore
+secretory cell
+transporting cell
+scolopidium
+digestive enzyme secreting cell
+bone matrix secreting cell
+cell by function
+hatching gland cell
+cell by ploidy
+endopolyploid cell
+gastrin secreting cell
+enamel secreting cell
+apocrine cell
+acinar cell
+germ line stem cell
+cell by lineage
+pp cell
+hematopoietic cell
+nitrogen fixing cell
+cyanophore
+polytene cell
+seminal fluid secreting cell
+support cell (sensu Nematoda and Protostomia)
+photosynthetic cell
+dendritic cell
+polyploid cell
+surfactant secreting cell
+renin secreting cell
+storage cell
+androgen binding protein secreting cell
+alkali secreting cell
+labyrinth supporting cell
+cell line cell
+carbohydrate secreting cell
+olfactory epithelial support cell
+spermatid
+macrophage derived foam cell
+neuromast mantle cell
+neuromast support cell
+female germ cell
+cell by class
+paracrine cell
+stuff accumulating cell
+non-terminally differentiated cell
+spheroplast
+scolopidial ligament cell
+secondary oocyte
+lysozyme secreting cell
+sustentacular cell
+multinucleate cell
+haploid cell
+thecogen cell
+milk secreting cell
+binucleate cell
+pepsinogen secreting cell
+vaginal lubricant secreting cell
+follicular dendritic cell
+contractile cell
+ligament cell
+sebum secreting cell
+oogonial cell
+cell by nuclear number
+cap cell
+male germ line stem cell
+experimentally modified cell
+male germ cell
+germ line cell
+metabolising cell
+primary oocyte
+diploid cell
+permanently open valve cell
+valve cell
+supportive cell
+protein secreting cell
+adventitial cell
+eccrine cell
+oenocyte
+germ cell
+secondary spermatocyte
+sweat secreting cell
+acid secreting cell
+primary cell line cell
+protoplast
+structural cell
+oocyte
+erythrophore
+pigment cell
+cell by histology
+permanent cell line cell
+reticular cell
+visual pigment cell
+defensive cell
+uric acid accumulating cell
+cementum secreting cell
+anucleate cell
+paraganglial cell
+B lymphoblast
+idioblast
+epithelial cell of gland
+nodal cardiac cell
+lymphoblast
+IgA B cell
+IgG B cell
+narrow
+synonym
+antibody secreting cell
+Purkinje fiber
+bursa processed stem cell
+regulatory T cell
+IgM B cell
+thymus processed stem cell
+null cell
+T lymphoblast
+IgE B cell
+cytotoxic T cell
+osteochondroclast
+xanthophore
+professional antigen presenting cell
+naive B cell
+CD8-positive, alpha-beta cytokine secreting effector T cell
+mucilage cell
+inflammatory macrophage
+secondary neuron
+secondary motor neuron
+multipolar neuron
+acceleration receptive cell
+cell by organism
+Golgi cell
+plasmatocyte
+inflammatory monocyte
+calcitonin secreting cell
+fusimotor neuron
+heterocyst
+photopic photoreceptor cell
+pstO/ALC
+D cell
+visual pigment cell (sensu Nematoda and Protostomia)
+stellate cell
+vegetative cell (sensu Mycetozoa)
+bombesin stimulating hormone secreting cell
+Sertoli cell
+cuticle secreting cell
+endocrine cell
+bipolar neuron
+R5 photoreceptor cell
+spore
+chemoreceptor cell
+Purkinje cell
+embryonic gland hemocyte
+vasopressin stimulating hormone secreting cell
+cold sensing thermoreceptor cell
+pinealocyte
+myrosin cell
+companion cell
+ganglion mother cell
+retinal ganglion cell
+heterokaryon
+erythrocyte
+megasporocyte
+animal cell
+pericyte
+germ line stem cell (sensu Vertebrata)
+phloem initial
+acidophil cell
+hypertrophic chondrocyte
+hemocyte (sensu Nematoda and Protostomia)
+efferent neuron
+exocrine cell
+receptor cell
+megakaryocyte
+cementoblast
+parenchymal cell
+glucocorticoid secreting cell
+pressoreceptor cell
+microconidium
+basket cell
+phagocyte (sensu Nematoda and Protostomia)
+taste receptor cell
+blood cell (sensu Nematoda and Protostomia)
+peptide hormone secreting cell
+mast cell
+melanoblast
+early embryonic cell
+type 5 cone bipolar cell (sensu Mus)
+Peyer&apos;s patch macrophage
+nucleate erythrocyte
+gut endothelial cell
+vegetative cell (sensu Fungi)
+trophectodermal cell
+flight muscle cell
+R1 photoreceptor cell
+lymph gland plasmatocyte
+retinal cone cell
+Mycetozoan cell
+coelomocyte
+neurosecretory neuron
+large luteal cell
+cholinergic neuron
+primordial germ cell
+biogenic amine secreting cell
+pH receptor cell
+guidepost cell
+splenic metallophillic macrophage
+cone retinal bipolar cell
+zygospore
+auditory receptor cell
+circulating cell
+stratified epithelial stem cell
+neuroblast (sensu Nematoda and Protostomia)
+epithem cell
+folliculostellate cell
+juxtaglomerular cell
+neural crest cell
+GAG secreting cell
+sieve element
+fusion competent myoblast
+Cajal-Retzius cell
+male germ line stem cell (sensu Nematoda and Protostomia)
+microvillous olfactory receptor neuron
+mesothelial cell
+fusiform initial
+peptidergic neuron
+cambial initial
+resident monocyte
+epidermoblast
+passage cell
+basophil progenitor cell
+copper accumulating cell
+metanephric mesenchyme stem cell
+myofibroblast cell
+choroid plexus epithelial cell
+stratified keratinized epithelial stem cell
+testosterone secreting cell
+crystallin accumulating cell
+chlorenchyma cell
+glycogen accumulating cell
+thermoreceptor cell
+neuroepithelial cell
+arcade cell
+nitrergic neuron
+endothelial tip cell
+leading edge cell
+lining cell
+fat body cell
+ciliated epithelial cell
+fibroblast
+stretch receptor cell
+eye photoreceptor cell
+adrenal medulla cell
+eurydendroid cell
+red sensitive photoreceptor cell
+lamellocyte
+type 9 cone bipolar cell (sensu Mus)
+serotinergic neuron
+serotin secreting cell
+degenerate megaspore
+ciliated olfactory receptor neuron
+juvenile hormone secreting cell
+non-branched duct epithelial cell
+immature NK T cell
+exact
+CD4-negative, CD8-negative type I NK T cell secreting interferon-gamma
+develops_from
+CD4-positive type I NK T cell secreting interleukin-4
+CD4-positive type I NK T cell secreting interferon-gamma
+type II NK T cell
+type II NK T cell secreting interleukin-4
+type I NK T cell
+activated type II NK T cell
+activated CD4-positive type I NK T cell
+mature NK T cell
+CD4-positive type I NK T cell
+type II NK T cell secreting interferon-gamma
+CD4-negative, CD8-negative type I NK T cell secreting interleukin-4
+activated CD4-negative, CD8-negative type I NK T cell
+CD4-negative, CD8-negative type I NK T cell
+osteocyte
+glioblast (sensu Vertebrata)
+macroglial cell
+ependymoglial cell
+perineuronal satellite cell
+Schwann cell
+eosinophilic myeloblast
+rod bipolar cell
+myeloid dendritic cell
+sensory neuron
+anterior cone cell (sensu Endopterygota)
+estradiol secreting cell
+primary pigment cell
+basophilic promyelocyte
+single cell sarcomere
+ependymal cell
+enterochromaffin like cell
+pioneer neuron
+trichoblast
+germ line stem cell (sensu Nematoda and Protostomia)
+prestalk cell
+prestalk A cell
+retinal rod cell
+R7 photoreceptor cell
+extraembryonic cell
+lymph gland crystal cell
+central nervous system macrophage
+subsidiary cell
+polygonal cell
+fungal cell
+socket cell
+visual pigment cell (sensu Vertebrata)
+lymph node tingible body macrophage
+elicited macrophage
+prickle cell
+melanocyte stimulating hormone secreting cell
+prestalk AB cell
+pseudounipolar neuron
+pyramidal cell
+neuron
+GABAergic neuron
+sexual spore
+fast muscle myoblast
+cranial neural crest cell
+myelin accumulating cell
+type 7 cone bipolar cell (sensu Mus)
+follicle stimulating hormone secreting cell
+brown fat cell
+warmth sensing thermoreceptor cell
+follicle stem cell
+glial cell (sensu Vertebrata)
+tanycyte
+Muller cell
+pituicyte
+oligodendrocyte
+astrocyte
+Bergmann glial cell
+cardiac muscle myoblast
+alt_id
+related
+cardioblast (sensu Arthropoda)
+is_a
+cardiac muscle cell (sensu Arthopoda)
+part_of
+garland cell
+neuroglioblast (sensu Nematoda)
+early lymphoid progenitor
+memory B cell
+IgA plasmablast
+IgA short lived plasma cell
+IgM short lived plasma cell
+small pre-B-II cell
+IgM plasmablast
+DN3 thymocyte
+T-helper 1 cell
+IgM plasma cell
+DN2 thymocyte
+regulatory T cell
+double-positive, alpha-beta thymocyte
+effector memory CD8-positive, alpha-beta T cell
+Tc2 cell
+Be2 cell
+CD4-positive, CD25-positive, alpha-beta regulatory T cell
+B cell
+follicular B cell
+skeletal muscle satellite cell
+epithelial fate stem cell
+zygote
+ray initial
+CNS interneuron
+oxygen accumulating cell
+collenchymal cell
+secondary pigment cell
+keratinocyte
+tracheal epithelial cell
+mesenchymal cell
+lymph node subcapsular sinus macrophage
+pancreatic B cell
+yolk cell
+posterior cone cell (sensu Endopterygota)
+mononuclear osteoclast
+leukocyte
+enterochromaffin cell
+ecdysteroid secreting cell
+type 1 cone bipolar cell (sensu Mus)
+CAP motoneuron
+synovial cell
+perijunctional fibroblast
+OFF-bipolar cell
+guard cell
+mineralocorticoid secreting cell
+pancreatic A cell
+reticulocyte
+outer hair cell
+Langerhans cell
+mononuclear cytotrophoblast cell
+apud cell
+plant cell
+electrically signaling cell
+closable valve cell
+neutrophil
+prolactin secreting cell
+mucosal invariant T cell
+effector T cell
+memory T cell
+central memory CD4-positive, alpha-beta T cell
+B-1a B cell
+immature gamma-delta T cell
+gamma-delta T cell
+CD4-positive, alpha-beta intraepithelial T cell
+thymic conventional dendritic cell
+precursor B cell
+pre-B-I cell
+effector memory CD4-positive, alpha-beta T cell
+thymic plasmacytoid dendritic cell
+large pre-B-II cell
+IgD plasmablast
+activated CD8-positive, alpha-beta T cell
+Bm4 B cell
+unswitched memory B cell
+CD8-positive, alpha-beta regulatory T cell
+short lived plasma cell
+CD8-alpha alpha positive, gamma-delta intraepithelial T cell
+IgA plasma cell
+CD56-bright cytokine secreting natural killer cell
+DN4 thymocyte
+central memory CD8 positive, alpha-beta T cell
+marginal zone B cell
+activated CD4-positive, alpha-beta T cell
+pro-NK cell
+imaginal disc cell
+mesangial phagocyte
+primary motor neuron
+inner hair cell
+neuronal stem cell
+luteal cell
+Mauthner neuron
+thrombocyte
+totipotent stem cell
+epidermal initial
+primary neuron
+paraganglial type 1 cell
+morula cell
+somatic stem cell
+tracheid
+neuroglioblast
+thymic medullary macrophage
+mucosa-associated lymphoid tissue macrophage
+iron accumulating cell
+egg cell
+vestibular hair cell
+hepatic oval cell
+radial glial cell
+foam cell
+central cell
+pain receptor cell
+follicle cell
+absorptive cell
+fibroblast neural crest derived
+striated muscle cell
+Clara cell
+primary sensory neuron
+megaspore
+type 3 cone bipolar cell (sensu Mus)
+keratinizing barrier epithelial cell
+peritoneal macrophage
+neuroblast (sensu Vertebrata)
+endodermal cell
+cementocyte
+follicular epithelial cell
+parathyroid hormone secreting cell
+band form eosinophil
+thromboblast
+meristemoid
+dikaryon
+lipocyte
+T3 B cell
+cytotoxic CD56-dim natural killer cell
+induced T-regulatory cell
+CD4-negative, CD8-negative, alpha-beta intraepithelial T cell
+antibody secreting cell
+DN1 thymic pro-T cell
+natural T-regulatory cell
+B-2 B cell
+CD8-positive, alpha-beta thymocyte
+transitional stage B cell
+Be cell
+T2 B cell
+B-1b B cell
+Bm5 B cell
+T-helper 2 cell
+mature gamma-delta T cell
+CD8-positive, alpha-beta cytotoxic T cell
+immature alpha-beta T cell
+gamma-delta intraepithelial T cell
+pro-B cell
+naive thymus-derived CD4-positive, alpha-beta T cell
+regulatory B cell
+naive thymus-derived CD8-positive, alpha-beta T cell
+immature natural killer cell
+common lymphocyte progenitor
+T1 B cell
+CD4-positive, alpha-beta cytotoxic T cell
+Bm3-delta B cell
+neuroendocrine cell
+prestalk B cell
+green sensitive photoreceptor cell
+stratified non keratinized epithelial stem cell
+endorphin secreting cell
+androgen secreting cell
+chromophobe cell
+phagocyte (sensu Vertebrata)
+phagocyte
+CNS neuron (sensu Vertebrata)
+R8 photoreceptor cell
+slowly adapting mechanoreceptor cell
+meristematic cell
+secretin stimulating hormone secreting cell
+syncytiotrophoblast cell
+melanocyte
+ciliated cell
+nephrogenic mesenchyme stem cell
+enucleate erythrocyte
+seam cell
+trophoblast cell
+gastrula cell
+thyroid hormone secreting cell
+syncytial epithelial cell
+chromaffin cell
+tip cell
+transfer cell
+crypt olfactory receptor neuron
+equatorial cone cell (sensu Endopterygota)
+barrier cell
+norepinephrin secreting cell
+amoeboid cell
+progesterone secreting cell
+type 4 cone bipolar cell (sensu Mus)
+pstAB/ALC
+UV sensitive photoreceptor cell
+keratin accumulating cell
+urothelial cell
+enkephalin secreting cell
+synergid
+perivascular macrophage
+small luteal cell
+apoptosis fated cell
+motile cell
+epinephrin secreting cell
+tracheary element
+somatostatin secreting cell
+duct epithelial cell
+ascospore
+enteroendocrine cell
+male germ line stem cell (sensu Vertebrata)
+unimodal nocireceptor
+blood cell
+sporangiospore
+pro-T cell
+germinal center B cell
+mature B cell
+CD8-positive, alpha-beta memory T cell
+T cell
+IgG short-lived plasma cell
+double negative memory B cell
+mature natural killer cell
+IgG plasma cell
+thymocyte
+Bm2&apos; B cell
+lymphocyte of B lineage
+pre-B-II cell
+B-1 B cell
+plasmablast
+CD4-positive, alpha-beta memory T cell
+CD4-positive, alpha-beta T cell
+CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell
+Bm1 B cell
+naive T cell
+natural killer cell
+CD4-negative CD8-negative gamma-delta intraepithelial T cell
+Be1 Cell
+CD8-positive, alpha-beta T cell
+dendritic epidermal T cell
+CD4-positive helper T cell
+IgE plasma cell
+cytotoxic T cell
+Tr1 cell

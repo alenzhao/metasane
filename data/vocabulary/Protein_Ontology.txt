@@ -1,0 +1,2974 @@
+caspase-6 isoform 1 unmodified form
+caspase-2 isoform 1
+caspase-2 isoform 1 cleaved form
+caspase-2 isoform 1 cleaved 2
+caspase-2 isoform 1 unmodified form
+caspase-2 isoform 1 cleaved 1
+caspase-2 isoform 1 cleaved 3
+caspase-2 isoform 2
+caspase-2 isoform 2 unmodified form
+caspase-3 isoform 1
+caspase-3 cleaved 2
+caspase-3 isoform 1 unmodified form
+caspase-3 isoform 1 cleaved form
+caspase-3 cleaved 1
+voltage-gated potassium channel subunit KCNQ1 sequence variant 57
+voltage-gated potassium channel subunit KCNQ1 sequence variant 55
+voltage-gated potassium channel subunit KCNQ1 sequence variant 56
+voltage-gated potassium channel subunit KCNQ1 sequence variant 53
+voltage-gated potassium channel subunit KCNQ1 sequence variant 54
+voltage-gated potassium channel subunit KCNQ1 sequence variant 51
+voltage-gated potassium channel subunit KCNQ1 sequence variant 52
+voltage-gated potassium channel subunit KCNQ1 sequence variant 5
+voltage-gated potassium channel subunit KCNQ1 sequence variant 68
+TGF-beta receptor type-2 sequence variant 16
+voltage-gated potassium channel subunit KCNQ1 sequence variant 74
+voltage-gated potassium channel subunit KCNQ1 sequence variant 73
+voltage-gated potassium channel subunit KCNQ1 sequence variant 72
+voltage-gated potassium channel subunit KCNQ1 sequence variant 71
+voltage-gated potassium channel subunit KCNQ1 sequence variant 8
+caspase-1 isoform 1 cleaved 2
+activin receptor type-2B
+activin receptor type-2B isoform 1
+activin receptor type-2B isoform 4
+activin receptor type-2B isoform 1 glycosylated and phosphorylated 1
+activin receptor type-2B isoform 2 unmodified form
+activin receptor type-2B isoform 2
+activin receptor type-2B sequence variant 1
+activin receptor type-2B sequence variant 2
+activin receptor type-2B isoform 4 unmodified form
+activin receptor type-2B isoform 5 unmodified form
+small inducible cytokine A5
+C-C motif chemokine 15
+C-C motif chemokine 3/4
+C-C motif chemokine 4
+C-C motif chemokine 19
+C-C motif chemokine 17
+C-C motif chemokine 26
+C-C motif chemokine 16
+C-C motif chemokine 23
+C-C motif chemokine 18
+CD59 glycoprotein
+CD59B glycoprotein
+CD59A glycoprotein
+C-C motif chemokine 28
+C-C motif chemokine 27
+C-X-C motif chemokine 17
+C-X-C motif chemokine 16
+C-C motif chemokine 25
+5&apos;-nucleotidase
+5&apos;-nucleotidase isoform 1
+5&apos;-nucleotidase isoform 1 unmodified form
+5&apos;-nucleotidase isoform 1 cleaved and GPI-anchored 1
+5&apos;-nucleotidase isoform 1 cleaved and GPI-anchored form
+NADPH oxidase 4
+NADPH oxidase 5
+NADPH oxidase 1
+NADPH oxidase 3
+MHC class II histocompatibility antigen gamma chain
+MHC class II transactivator
+MHC class II histocompatibility antigen alpha chain
+transcription factor Sp1 isoform 1 phosphorylated 3
+transcription factor Sp1 isoform 1 phosphorylated 2
+transcription factor Sp1 isoform 1 glycosylated 1
+transcription factor Sp1 isoform 1 sumoylated form
+transcription factor Sp1 isoform 1 acetylated form
+transcription factor Sp1 isoform 1 sumoylated 1
+transcription factor Sp1 isoform 1 acetylated 1
+transcription factor Sp1 isoform 1 cleaved 1
+BMP receptor type-1A isoform 1
+BMP receptor type-1A isoform 1 unmodified form
+BMP receptor type-1A isoform 1 phosphorylated 1
+BMP receptor type-1A isoform 1 phosphorylated 2
+zinc finger protein HRX/creb-binding protein
+thrombospondin 2
+thrombospondin 2 isoform 1 cleaved 1
+thrombospondin 2 isoform 1 cleaved 2
+thrombospondin 2 isoform 1 cleaved form
+thrombospondin 2 isoform 1 unmodified form
+thrombospondin 2 isoform 1 cleaved 3
+thrombospondin 2 isoform 1
+thrombospondin 4
+thrombospondin 4 isoform 1
+thrombospondin 4 isoform 1 unmodified form
+thrombospondin 4 isoform 1 cleaved 1
+thrombospondin 4 isoform 1 cleaved form
+thrombospondin 3
+thrombospondin 3 isoform 1
+thrombospondin 3 isoform 1 cleaved form
+thrombospondin 3 isoform 1 unmodified form
+thrombospondin 3 isoform 1 cleaved 1
+rho GTPase-activating protein 10 isoform 4
+rho GTPase-activating protein 10 isoform 4 unmodified form
+serine/threonine-protein kinase 24
+rho GTPase-activating protein 10 isoform 2
+rho GTPase-activating protein 10 isoform 2 unmodified form
+rho GTPase-activating protein 10 isoform 3
+rho GTPase-activating protein 10 isoform 3 unmodified form
+protein kinase C theta type
+rho GTPase-activating protein 10 isoform 1
+rho GTPase-activating protein 10 isoform 1 unmodified form
+protein kinase C epsilon
+protein kinase C eta type
+proteasome subunit beta type-4 isoform 1
+proteasome subunit beta type-4 isoform 1 unmodified form
+protein kinase C delta type
+tumor necrosis factor receptor superfamily member 6 isoform 4
+tumor necrosis factor receptor superfamily member 6 isoform 4 unmodified form
+tumor necrosis factor receptor superfamily member 6 isoform 3
+tumor necrosis factor receptor superfamily member 6 isoform 3 unmodified form
+thrombospondin 1
+thrombospondin 1 isoform 1 cleaved 1
+thrombospondin 1 isoform 1 cleaved and glycosylated 2
+thrombospondin 1 isoform 1 unmodified form
+thrombospondin 1 isoform 1
+thrombospondin 1 isoform 1 cleaved 2
+thrombospondin 1 isoform 1 cleaved form
+thrombospondin 1 isoform 1 cleaved and glycosylated 1
+smad4
+smad4 isoform 1 unmodified form
+smad4 sequence variant 2
+smad4 sequence variant 5
+smad4 sequence variant 3
+smad4 isoform 1
+smad4 isoform 1 phosphorylated 1
+smad4 sequence variant 4
+smad4 sequence variant 1
+smad ubiquitination regulatory factor
+smad ubiquitination regulatory factor 2
+smad ubiquitination regulatory factor 1 isoform 1
+smad ubiquitination regulatory factor 1
+smad ubiquitination regulatory factor 1 isoform 1 unmodified form
+serine/threonine-protein kinase receptor R3
+serine/threonine-protein kinase receptor R3 sequence variant 27
+serine/threonine-protein kinase receptor R3 isoform 1
+serine/threonine-protein kinase receptor R3 sequence variant 30
+serine/threonine-protein kinase receptor R3 sequence variant 10
+serine/threonine-protein kinase receptor R3 sequence variant 34
+serine/threonine-protein kinase receptor R3 sequence variant 9
+serine/threonine-protein kinase receptor R3 sequence variant 19
+serine/threonine-protein kinase receptor R3 sequence variant 40
+serine/threonine-protein kinase receptor R3 sequence variant 24
+serine/threonine-protein kinase receptor R3 sequence variant 17
+serine/threonine-protein kinase receptor R3 isoform 1 unmodified form
+serine/threonine-protein kinase receptor R3 sequence variant 32
+serine/threonine-protein kinase receptor R3 sequence variant 21
+serine/threonine-protein kinase receptor R3 sequence variant 13
+serine/threonine-protein kinase receptor R3 sequence variant 14
+serine/threonine-protein kinase receptor R3 sequence variant 18
+serine/threonine-protein kinase receptor R3 sequence variant 42
+serine/threonine-protein kinase receptor R3 sequence variant 1
+serine/threonine-protein kinase receptor R3 sequence variant 16
+serine/threonine-protein kinase receptor R3 sequence variant 28
+serine/threonine-protein kinase receptor R3 sequence variant 5
+serine/threonine-protein kinase receptor R3 sequence variant 15
+serine/threonine-protein kinase receptor R3 sequence variant 38
+serine/threonine-protein kinase receptor R3 sequence variant 6
+serine/threonine-protein kinase receptor R3 sequence variant 29
+serine/threonine-protein kinase receptor R3 sequence variant 41
+serine/threonine-protein kinase receptor R3 sequence variant 43
+serine/threonine-protein kinase receptor R3 sequence variant 11
+serine/threonine-protein kinase receptor R3 sequence variant 44
+serine/threonine-protein kinase receptor R3 sequence variant 25
+serine/threonine-protein kinase receptor R3 sequence variant 35
+serine/threonine-protein kinase receptor R3 sequence variant 33
+serine/threonine-protein kinase receptor R3 sequence variant 31
+serine/threonine-protein kinase receptor R3 sequence variant 12
+serine/threonine-protein kinase receptor R3 sequence variant 3
+serine/threonine-protein kinase receptor R3 sequence variant 37
+serine/threonine-protein kinase receptor R3 sequence variant 20
+serine/threonine-protein kinase receptor R3 sequence variant 39
+serine/threonine-protein kinase receptor R3 sequence variant 8
+serine/threonine-protein kinase receptor R3 sequence variant 23
+serine/threonine-protein kinase receptor R3 sequence variant 7
+serine/threonine-protein kinase receptor R3 sequence variant 2
+serine/threonine-protein kinase receptor R3 sequence variant 22
+serine/threonine-protein kinase receptor R3 sequence variant 4
+serine/threonine-protein kinase receptor R3 sequence variant 36
+serine/threonine-protein kinase receptor R3 sequence variant 26
+sara
+sara isoform 1
+sara isoform 1 unmodified form
+sara isoform 2
+sara isoform 3 unmodified form
+sara isoform 2 unmodified form
+sara isoform 3
+ribosomal protein S6 kinase beta 2
+ribosomal protein S6 kinase beta 2 isoform 1
+ribosomal protein S6 kinase beta 2 isoform 1 unmodified form
+ribosomal protein S6 kinase beta 2 isoform 1 phosphorylated 1
+ribosomal protein S6 kinase beta 1
+ribosomal protein S6 kinase beta 1 isoform 1 phosphorylated 1
+ribosomal protein S6 kinase beta 1 isoform 2 unmodified form
+ribosomal protein S6 kinase beta 1 isoform 1
+ribosomal protein S6 kinase beta 1 isoform 1 unmodified form
+ribosomal protein S6 kinase beta 1 isoform 2
+ribosomal protein S6 kinase beta 1 isoform 2 phosphorylated 1
+rho-related small GTPase
+GTP-binding protein RhoA isoform 1
+GTP-binding protein RhoA isoform 1 unmodified form
+GTP-binding protein RhoA isoform 1 prenylated 1
+GTP-binding protein RhoA isoform 1 prenylated form
+GTP-binding protein RhoA
+rho-associated protein kinase 2
+rho-associated protein kinase 2 isoform 1 cleaved form
+rho-associated protein kinase 2 isoform 1 unmodified form
+rho-associated protein kinase 2 isoform 1
+rho-associated protein kinase 2 isoform 1 cleaved 1
+rho-associated protein kinase 2 isoform 2 unmodified form
+rho-associated protein kinase 2 isoform 1 phosphorylated 2
+rho-associated protein kinase 2 isoform 2
+rho-associated protein kinase 2 isoform 1 phosphorylated 1
+rho-associated protein kinase 1
+rho-associated protein kinase 1 isoform 1 cleaved form
+rho-associated protein kinase 1 isoform 1
+rho-associated protein kinase 1 isoform 1 cleaved 1
+rho-associated protein kinase 1 isoform 1 unmodified form
+neural cell adhesion molecule-like protein
+neural cell adhesion molecule L1
+tumor necrosis factor receptor superfamily member 6 isoform 2
+tumor necrosis factor receptor superfamily member 6 isoform 2 unmodified form
+natural killer cell receptor NKG2
+NKG2-C type II integral membrane protein
+NKG2-A/NKG2-B type II integral membrane protein
+neprilysin
+natural cytotoxicity triggering receptor 3
+tumor necrosis factor ligand superfamily member 15 isoform 1
+tumor necrosis factor ligand superfamily member 15 isoform 1 unmodified form
+natural killer cell receptor 2B4
+tumor necrosis factor ligand superfamily member 15 isoform 2
+tumor necrosis factor ligand superfamily member 15 isoform 2 unmodified form
+natural cytotoxicity triggering receptor 1
+tumor necrosis factor ligand superfamily member 15 isoform 3
+tumor necrosis factor ligand superfamily member 15 isoform 3 unmodified form
+natural cytotoxicity triggering receptor 2
+tumor necrosis factor receptor superfamily member 6 isoform 1
+tumor necrosis factor receptor superfamily member 6 isoform 1 unmodified form
+multidrug resistance protein 1
+serine/threonine-protein kinase MST4
+myeloid cell surface antigen CD33
+tumor necrosis factor ligand superfamily member 11 isoform 1 cleaved form
+tumor necrosis factor ligand superfamily member 14 isoform 1
+tumor necrosis factor ligand superfamily member 14 isoform 1 unmodified form
+mucin-1
+tumor necrosis factor ligand superfamily member 14 isoform 2
+tumor necrosis factor ligand superfamily member 14 isoform 2 unmodified form
+BMP receptor type-2 sequence variant 6
+BH3-interacting domain death agonist isoform 1 cleaved form
+tyrosine-protein kinase Tec isoform 6
+tyrosine-protein kinase Tec isoform 6 unmodified form
+tyrosine-protein kinase Tec isoform 5
+tyrosine-protein kinase Tec isoform 5 unmodified form
+BMP receptor type-2 sequence variant 12
+BMP receptor type-2 sequence variant 11
+BMP receptor type-2 sequence variant 14
+BMP receptor type-2 sequence variant 13
+BMP receptor type-2 sequence variant 3
+BMP receptor type-2 sequence variant 2
+BMP receptor type-2 sequence variant 5
+BMP receptor type-2 sequence variant 4
+BMP receptor type-2 sequence variant 7
+BMP receptor type-2 sequence variant 8
+tumor necrosis factor receptor superfamily member 6 isoform 7
+tumor necrosis factor receptor superfamily member 6 isoform 7 unmodified form
+tumor necrosis factor receptor type 1-associated DEATH domain protein isoform 1
+tumor necrosis factor receptor type 1-associated DEATH domain protein isoform 1 unmodified form
+tumor necrosis factor receptor superfamily member 6 isoform 5
+tumor necrosis factor receptor superfamily member 6 isoform 5 unmodified form
+tumor necrosis factor receptor superfamily member 6 isoform 6
+tumor necrosis factor receptor superfamily member 6 isoform 6 unmodified form
+tyrosine-protein kinase Tec isoform 3
+tyrosine-protein kinase Tec isoform 3 unmodified form
+tyrosine-protein kinase Tec isoform 4
+tyrosine-protein kinase Tec isoform 4 unmodified form
+tyrosine-protein kinase Tec isoform 1
+tyrosine-protein kinase Tec isoform 1 unmodified form
+tyrosine-protein kinase Tec isoform 2
+tyrosine-protein kinase Tec isoform 2 unmodified form
+BMP receptor type-2 sequence variant 1
+BMP receptor type-2 isoform 1
+BMP receptor type-2 isoform 1 unmodified form
+TNF receptor-associated factor 6 isoform 1
+TNF receptor-associated factor 6 isoform 1 unmodified form
+TNF receptor-associated factor 5 isoform 1
+TNF receptor-associated factor 5 isoform 1 unmodified form
+apoptosis regulator Bcl-2 isoform 1
+apoptosis regulator Bcl-2 isoform 1 unmodified form
+TNF receptor-associated factor 6 isoform 2
+TNF receptor-associated factor 6 isoform 2 unmodified form
+BMP receptor type-1A sequence variant 7
+BMP receptor type-1A sequence variant 6
+BMP receptor type-1A sequence variant 5
+BMP receptor type-1A sequence variant 4
+BMP receptor type-1B sequence variant 2
+BMP receptor type-1B sequence variant 1
+BMP receptor type-1B isoform 1
+BMP receptor type-1B isoform 1 unmodified form
+BMP receptor type-1B isoform 1 phoshorylated 1
+BMP receptor type-1A sequence variant 8
+BMP receptor type-2 sequence variant 10
+TNF receptor-associated factor 1 isoform 1
+TNF receptor-associated factor 1 isoform 1 unmodified form
+TNF receptor-associated factor 2 isoform 1
+TNF receptor-associated factor 2 isoform 1 unmodified form
+TNF receptor-associated factor 2 isoform 2
+TNF receptor-associated factor 2 isoform 2 unmodified form
+TNF receptor-associated factor 2 isoform 3
+TNF receptor-associated factor 2 isoform 3 unmodified form
+TNF receptor-associated factor 3 isoform 1
+TNF receptor-associated factor 3 isoform 1 unmodified form
+TNF receptor-associated factor 4 isoform 1
+TNF receptor-associated factor 4 isoform 1 unmodified form
+TNF receptor-associated factor 4 isoform 2
+TNF receptor-associated factor 4 isoform 2 unmodified form
+voltage-gated potassium channel KCNV2 isoform 1
+voltage-gated potassium channel KCNV2 isoform 1 unmodified form
+caspase-1 isoform 4
+caspase-1 isoform 4 unmodified form
+voltage-gated potassium channel KCNV1 isoform 1
+voltage-gated potassium channel KCNV1 isoform 1 unmodified form
+caspase-1 isoform 5
+caspase-1 isoform 5 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 17
+voltage-gated potassium channel subunit KCNQ1 sequence variant 19
+voltage-gated potassium channel subunit KCNQ1 sequence variant 2
+voltage-gated potassium channel subunit KCNQ1 sequence variant 20
+isoprenylated residue
+lefty protein
+lefty 2
+lefty 2 isoform 1 cleaved form
+lefty 1
+lefty 2 isoform 1 unmodified form
+lefty 2 sequence variant 1
+lefty 1 isoform 1 cleaved 2
+lefty 1 isoform 1 cleaved 1
+lefty 1 isoform 1 unmodified form
+lefty 2 isoform 1 cleaved 1
+lefty 1 isoform 1
+lefty 2 isoform 1 cleaved 2
+lefty 1 isoform 1 cleaved form
+lefty 2 isoform 1
+mitogen-activated protein kinase 1
+mitogen-activated protein kinase 1 isoform 1 phosphorylated 1
+mitogen-activated protein kinase 1 isoform 1
+mitogen-activated protein kinase 1 isoform 1 cleaved and acetylated form
+mitogen-activated protein kinase 1 isoform 1 unmodified form
+interferon gamma isoform 1
+CD34
+CD19 antigen
+leukocyte common antigen CD45
+leukocyte common antigen CD45 isoform CD45RO unmodified form
+leukocyte common antigen CD45 isoform CD45R
+leukocyte common antigen CD45 isoform CD45RO
+leukocyte common antigen CD45 isoform CD45RB unmodified form
+leukocyte common antigen CD45 isoform CD45RB
+leukocyte common antigen CD45 isoform CD45RA
+leukocyte common antigen CD45 isoform CD45RA unmodified form
+leukocyte common antigen CD45 isoform CD45R unmodified form
+transient receptor potential cation channel TRPM8 isoform 1
+transient receptor potential cation channel TRPM8 isoform 1 unmodified form
+transient receptor potential cation channel TRPM8 isoform 1 glycosylated 1
+transient receptor potential cation channel TRPM8 isoform 2
+transient receptor potential cation channel TRPM8 isoform 2 unmodified form
+transient receptor potential cation channel TRPM8 isoform 3
+voltage-gated potassium channel KCNV2 sequence variant 2
+caspase-1 isoform 2
+caspase-1 isoform 2 unmodified form
+voltage-gated potassium channel KCNV2 sequence variant 1
+caspase-1 isoform 3
+caspase-1 isoform 3 unmodified form
+caspase-1 isoform 1
+caspase-1 isoform 1 unmodified form
+voltage-gated potassium channel KCNS3
+voltage-gated potassium channel subunit KCNA10
+voltage-gated potassium channel subunit KCNA10 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNA10 isoform 1
+apoptosis regulator Bcl-X isoform 5
+apoptosis regulator Bcl-X isoform 5 unmodified form
+apoptosis regulator Bcl-X isoform 4
+apoptosis regulator Bcl-X isoform 4 unmodified form
+voltage-gated potassium channel KCNV2 sequence variant 3
+apoptosis regulator Bcl-X isoform 3
+apoptosis regulator Bcl-X isoform 3 unmodified form
+voltage-gated potassium channel KCNV2 sequence variant 4
+apoptosis regulator Bcl-X isoform 2
+apoptosis regulator Bcl-X isoform 2 unmodified form
+voltage-gated potassium channel KCNV2 sequence variant 5
+interferon gamma isoform 1 cleaved 1
+interferon gamma isoform 1 cleaved and glycosylated 2
+interferon gamma isoform 1 cleaved and glycosylated 1
+interferon gamma isoform 1 unmodified form
+interferon gamma isoform 1 cleaved form
+latent TGF-beta-binding protein 1
+latent-TGF-beta-binding protein 1 isoform 2 cleaved 1
+latent-TGF-beta-binding protein 1 isoform 2
+latent-TGF-beta-binding protein 1 isoform 2 cleaved form
+latent-TGF-beta-binding protein 1 isoform 1 unmodified form
+latent-TGF-beta-binding protein 1 isoform 1 cleaved 1
+latent-TGF-beta-binding protein 1 isoform 1 cleaved form
+latent-TGF-beta-binding protein 1 isoform 1
+latent-TGF-beta-binding protein 1 isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 24
+noggin isoform 1
+noggin isoform 1 cleaved 1
+noggin isoform 1 cleaved form
+noggin isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 23
+noggin sequence variant 1
+voltage-gated potassium channel subunit KCNQ1 sequence variant 22
+mitogen-activated protein kinase 3
+mitogen-activated protein kinase 3 isoform 1
+transient receptor potential cation channel TRPM8 isoform 3 unmodified form
+transient receptor potential cation channel TRPC2 isoform 2
+transient receptor potential cation channel TRPC2 isoform 2 unmodified form
+transient receptor potential cation channel TRPC2 isoform 3
+transient receptor potential cation channel TRPC2 isoform 3 unmodified form
+transient receptor potential cation channel TRPC2
+transient receptor potential cation channel TRPC2 isoform 1
+transient receptor potential cation channel TRPC2 isoform 4 unmodified form
+transient receptor potential cation channel TRPC2 isoform 4
+transient receptor potential cation channel TRPC2 isoform 1 unmodified form
+sphingosine 1-phosphate receptor 5
+trace amine associated receptor 1
+trace amine associated receptor 2
+trace amine associated receptor 3
+trace amine associated receptor 4
+trace amine associated receptor 6
+trace amine associated receptor 7
+trace amine associated receptor 8
+transient receptor potential cation channel TRPM8
+trace amine associated receptor 9
+apoptosis regulator Bcl-X isoform 1
+apoptosis regulator Bcl-X isoform 1 unmodified form
+voltage-gated potassium channel KCNV2 sequence variant 6
+apoptosis regulator Bcl-2 isoform 2
+apoptosis regulator Bcl-2 isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNQ1 isoform 1
+voltage-gated potassium channel subunit KCNQ1 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNA7
+voltage-gated potassium channel subunit KCNA7 isoform 1
+voltage-gated potassium channel subunit KCNA7 isoform 2
+voltage-gated potassium channel subunit KCNA7 isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNA7 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNA6
+voltage-gated potassium channel subunit KCNA6 isoform 1
+voltage-gated potassium channel subunit KCNA6 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNA5
+voltage-gated potassium channel subunit KCNA5 sequence variant 1
+voltage-gated potassium channel subunit KCNA5 isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNA5 isoform 2
+mitogen-activated protein kinase 3 isoform 1 phosphorylated 1
+mitogen-activated protein kinase 3 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 21
+nodal protein
+nodal sequence variant 1
+nodal isoform 1 cleaved 1
+nodal isoform 1 cleaved form
+nodal isoform 1
+nodal isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 28
+voltage-gated potassium channel subunit KCNQ1 sequence variant 27
+voltage-gated potassium channel subunit KCNQ1 sequence variant 26
+noggin sequence variant 10
+voltage-gated potassium channel subunit KCNQ1 sequence variant 25
+noggin sequence variant 2
+voltage-gated potassium channel subunit KCNQ1 sequence variant 29
+voltage-gated potassium channel subunit KCNQ1 sequence variant 3
+voltage-gated potassium channel KCNC1 isoform 2 phosphorylated 1
+voltage-gated potassium channel KCNC4 isoform 2 phosphorylated 1
+mas-related G protein-coupled receptor X4
+sphingosine 1-phosphate receptor 1
+mas-related G protein-coupled receptor X2
+mas-related G protein-coupled receptor X3
+mas-related G protein-coupled receptor B8
+mas-related G protein-coupled receptor X1
+mas-related G protein-coupled receptor B5
+sphingosine 1-phosphate receptor 4
+sphingosine 1-phosphate receptor 3
+sphingosine 1-phosphate receptor 2
+NF-kappa-B essential modulator isoform 1 phosphorylated 3
+NF-kappa-B essential modulator isoform 1 phosphorylated 2
+NF-kappa-B essential modulator isoform 1 phosphorylated 1
+NF-kappa-B essential modulator isoform 1 phosphorylated form
+mitogen-activated protein kinase kinase kinase 7-interacting protein 2/3
+mitogen-activated protein kinase kinase kinase 7-interacting protein 3
+mitogen-activated protein kinase kinase kinase 7-interacting protein 2
+nuclear factor NF-kappa-B p105 subunit isoform 2 phosphorylated 1
+NF-kappa-B essential modulator isoform 1 phosphorylated and ubiquitinated form
+NF-kappa-B essential modulator isoform 1
+NF-kappa-B essential modulator isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNA5 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNA5 isoform 3 unmodified form
+voltage-gated potassium channel subunit KCNA5 isoform 3
+voltage-gated potassium channel subunit KCNA5 isoform 1
+voltage-gated potassium channel subunit KCNA3
+voltage-gated potassium channel subunit KCNA3 isoform 1
+voltage-gated potassium channel subunit KCNA3 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNA2
+voltage-gated potassium channel subunit KCNA2 isoform 1 phosphorylated 2
+voltage-gated potassium channel subunit KCNA2 isoform 1 phosphorylated 1
+voltage-gated potassium channel subunit KCNA2 isoform 1
+voltage-gated potassium channel subunit KCNA2 isoform 1 unmodified form
+caspase-10 isoform 4
+caspase-10 isoform 4 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 10
+caspase-10 isoform 1
+caspase-10 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 11
+caspase-1 isoform 6
+caspase-1 isoform 6 unmodified form
+voltage-gated potassium channel subunit KCNQ1 isoform 2
+voltage-gated potassium channel KCND2 isoform 1 phosphorylated 1
+voltage-gated potassium channel KCNH2 isoform 1 phosphorylated form
+voltage-gated potassium channel KCNH2 isoform 1 phosphorylated 1
+voltage-gated potassium channel KCND2 isoform 1 phosphorylated 2
+voltage-gated potassium channel KCND2 isoform 1 phosphorylated 3
+voltage-gated potassium channel KCND2 isoform 1 phosphorylated 4
+voltage-gated potassium channel KCNH2 isoform 1 glycosylated 1
+platelet-derived growth factor C isoform 1 cleaved 1
+platelet-derived growth factor C isoform 1 sumoylated 1
+cGMP-gated cation channel alpha-1 isoform 1 phosphorylated 1
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1 isoform 1 glycosylated 1
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 isoform 1 glycosylated 1
+voltage-gated potassium channel KCNS2 isoform 1
+voltage-gated potassium channel KCNS2 isoform 1 unmodified form
+L-pyrrolysine residue
+voltage-gated potassium channel KCNH2 isoform 4
+voltage-gated potassium channel KCNH2 isoform 4 unmodified form
+voltage-gated potassium channel KCNH3 isoform 1
+nuclear factor NF-kappa-B p105 subunit isoform 2 phosphorylated 2
+nuclear factor NF-kappa-B p105 subunit isoform 3
+nuclear factor NF-kappa-B p105 subunit isoform 3 unmodified form
+nuclear factor NF-kappa-B p105 subunit isoform 1
+nuclear factor NF-kappa-B p105 subunit isoform 1 cleaved form
+nuclear factor NF-kappa-B p105 subunit isoform 1 unmodified form
+nuclear factor NF-kappa-B p105 subunit isoform 1 cleaved 1
+nuclear factor NF-kappa-B p105 subunit
+nuclear factor NF-kappa-B p105 subunit isoform 2
+nuclear factor NF-kappa-B p105 subunit isoform 2 unmodified form
+toll/interleukin-1 receptor domain-containing adapter protein
+TIR domain-containing adapter molecule 2
+transcription factor NF-kappa-B
+NF-kappa-B essential modulator
+TIR domain-containing adapter molecule
+translocation-associated membrane protein 2 isoform 1
+translocation-associated membrane protein 2 isoform 1 unmodified form
+translocation-associated membrane protein 1 isoform 1
+translocation-associated membrane protein 1 isoform 1 unmodified form
+translocation-associated membrane protein 2
+translocation-associated membrane protein 1
+translocation-associated membrane protein
+voltage-gated potassium channel subunit KCNQ1 isoform 2 unmodified form
+caspase-10 isoform 3
+caspase-10 isoform 3 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 1
+caspase-10 isoform 2
+caspase-10 isoform 2 unmodified form
+alt_id
+noggin sequence variant 3
+noggin sequence variant 4
+noggin sequence variant 5
+noggin sequence variant 6
+noggin sequence variant 7
+voltage-gated potassium channel subunit KCNQ1 sequence variant 12
+noggin sequence variant 8
+noggin sequence variant 9
+voltage-gated potassium channel subunit KCNQ1 sequence variant 14
+pituitary homeobox protein 2
+pituitary homeobox protein 2 isoform 2
+pituitary homeobox protein 2 sequence variant 2
+pituitary homeobox protein 2 isoform 3 unmodified form
+pituitary homeobox protein 2 isoform 1 unmodified form
+pituitary homeobox protein 2 sequence variant 4
+pituitary homeobox protein 2 isoform 2 unmodified form
+pituitary homeobox protein 2 sequence variant 1
+pituitary homeobox protein 2 isoform 4
+voltage-gated potassium channel KCNH3 isoform 1 unmodified form
+voltage-gated potassium channel KCNH5 isoform 2
+voltage-gated potassium channel KCNH5 isoform 2 unmodified form
+voltage-gated potassium channel KCNH5 isoform 3
+voltage-gated potassium channel KCNH5 isoform 3 unmodified form
+voltage-gated potassium channel KCNH4 isoform 1
+voltage-gated potassium channel KCNH4 isoform 1 unmodified form
+voltage-gated potassium channel KCNH5 isoform 1
+voltage-gated potassium channel KCNH5 isoform 1 unmodified form
+voltage-gated potassium channel KCNH6 isoform 3
+voltage-gated potassium channel KCNH6 isoform 3 unmodified form
+voltage-gated potassium channel KCNS1 isoform 1
+voltage-gated potassium channel KCNS1 isoform 1 unmodified form
+voltage-gated potassium channel KCNH6 isoform 1
+voltage-gated potassium channel KCNH6 isoform 1 unmodified form
+voltage-gated potassium channel KCNH6 isoform 2
+voltage-gated potassium channel KCNH6 isoform 2 unmodified form
+smad9 isoform 2 unmodified form
+smad9 isoform 1 unmodified form
+smad5 isoform 2 unmodified form
+smad5 isoform 1 unmodified form
+myeloid differentiation primary response protein MyD88 variant 2
+myeloid differentiation primary response protein MyD88 variant 1
+myeloid differentiation primary response protein MyD88 isoform 1
+myeloid differentiation primary response protein MyD88 isoform 1 unmodified form
+myeloid differentiation primary response protein MyD88
+inhibin alpha chain isoform 1 glycosylated 1
+inhibin alpha chain isoform 1 glycosylated 2
+inhibin alpha chain isoform 1 cleaved and glycosylated 1
+inhibin alpha chain isoform 1 cleaved and glycosylated 2
+inhibin alpha chain isoform 1 cleaved 1
+inhibin alpha chain isoform 1 cleaved form
+inhibin alpha chain isoform 1
+inhibin alpha chain isoform 1 unmodified form
+inhibin alpha chain
+transcription adapter with TAZ, KIX and bromo-domains
+thrombospondin subgroup B
+tumor necrosis factor, TNF-like
+lymphotoxin-beta isoform 2
+lymphotoxin-beta isoform 1 unmodified form
+tumor necrosis factor ligand superfamily member 15
+lymphotoxin-beta
+lymphotoxin-alpha isoform 1 unmodified form
+lymphotoxin-beta isoform 2 unmodified form
+pituitary homeobox protein 2 isoform 4 unmodified form
+pituitary homeobox protein 2 sequence variant 3
+pituitary homeobox protein 2 isoform 1
+pituitary homeobox protein 2 sequence variant 5
+pituitary homeobox protein 2 isoform 3
+voltage-gated potassium channel subunit KCNQ1 sequence variant 13
+retinoblastoma-like protein 1
+retinoblastoma-like protein 1 isoform 2
+retinoblastoma-like protein 1 isoform 1 phosphorylated 1
+retinoblastoma-like protein 1 isoform 3 unmodified form
+retinoblastoma-like protein 1 isoform 3
+retinoblastoma-like protein 1 isoform 1
+retinoblastoma-like protein 1 isoform 1 unmodified form
+retinoblastoma-like protein 1 isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 16
+retinoblastoma-like protein 2
+retinoblastoma-like protein 2 isoform 1 phosphorylated 3
+retinoblastoma-like protein 2 isoform 1
+retinoblastoma-like protein 2 isoform 1 phosphorylated 1
+retinoblastoma-like protein 2 isoform 1 phosphorylated 2
+retinoblastoma-like protein 2 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 15
+voltage-gated potassium channel subunit KCNQ1 sequence variant 18
+smad9 isoform 3 unmodified form
+cation channel sperm-associated protein 1 isoform 1 unmodified form
+smad1 isoform 1 unmodified form
+neddylated lysine
+BMP8A isoform 1 unmodified form
+BMP7 isoform 1 unmodified form
+BMP6 isoform 1 unmodified form
+BMP8B isoform 1 unmodified form
+sumoylated lysine
+platelet-derived growth factor C isoform 1 sumoylated form
+ubiquitinylated lysine
+BMP2 isoform 1 unmodified form
+BMP10 isoform 1 unmodified form
+BMP5 isoform 1 unmodified form
+BMP4 isoform 1 unmodified form
+integrin alpha with A domain
+integrin alpha-2
+integrin alpha-L
+integrin alpha-D
+integrin alpha-1
+integrin alpha-X
+integrin alpha-M
+integrin alpha-E
+CD4
+lymphotoxin-alpha
+lymphotoxin-beta isoform 1
+lymphotoxin-alpha isoform 1
+tumor necrosis factor ligand superfamily member 14
+transcription factor Sp
+BMP receptor type-1A
+BMP
+BMP6 isoform 1
+BMP2 isoform 1 cleaved 1
+BMP7 isoform 1 cleaved and glycosylated 1
+BMP4 isoform 1
+BMP6
+BMP8A isoform 1
+BMP5 isoform 1 cleaved form
+BMP7 isoform 1 cleaved 1
+BMP6 isoform 1 cleaved form
+BMP2 isoform 1 cleaved form
+BMP5 isoform 1 cleaved 1
+BMP10
+BMP7 isoform 1 cleaved and glycosylated 2
+BMP8A
+BMP10 isoform 1
+BMP2
+BMP7 isoform 1
+BMP4 isoform 1 cleaved 1
+decorin isoform 1
+decorin isoform 1 cleaved and glycosylated form
+decorin isoform 1 cleaved and glycosylated 1
+decorin isoform 2 unmodified form
+decorin isoform 1 cleaved form
+decorin isoform 2
+decorin isoform 5
+decorin isoform 4 unmodified form
+decorin isoform 4
+fas ligand, TNF-like
+fas ligand isoform 1
+fas ligand isoform 1 cleaved form
+fas ligand isoform FasL soluble
+fas ligand isoform 2 unmodified form
+fas ligand isoform 1 glycosylated 1
+fas ligand sequence variant 1
+fas ligand isoform 1 glycosylated form
+fas ligand isoform 2
+fas ligand isoform 1 unmodified form
+broad
+voltage-gated potassium channel subunit KCNQ1 sequence variant 41
+voltage-gated potassium channel subunit KCNQ1 sequence variant 42
+voltage-gated potassium channel subunit KCNQ1 sequence variant 43
+voltage-gated potassium channel subunit KCNQ1 sequence variant 50
+voltage-gated potassium channel subunit KCNQ1 sequence variant 49
+protein kinase C theta type isoform 1
+protein kinase C theta type isoform 1 unmodified form
+protein kinase C eta type isoform 1
+protein kinase C eta type isoform 1 unmodified form
+serine/threonine-protein kinase 25 isoform 1
+serine/threonine-protein kinase 25 isoform 1 unmodified form
+serine/threonine-protein kinase 24 isoform 2
+serine/threonine-protein kinase 24 isoform 2 unmodified form
+serine/threonine-protein kinase 24 isoform 2 phosphorylated 1
+serine/threonine-protein kinase 24 isoform 2 phosphorylated form
+serine/threonine-protein kinase 24 isoform 1
+serine/threonine-protein kinase 24 isoform 1 unmodified form
+protein kinase C theta type isoform 2
+protein kinase C theta type isoform 2 unmodified form
+BH3-interacting domain death agonist isoform 1 cleaved 1
+tumor necrosis factor ligand superfamily member 11 isoform 1 cleaved 2
+tumor necrosis factor ligand superfamily member 11 isoform 1 cleaved 1
+serine/threonine-protein kinase MST4 isoform 1
+serine/threonine-protein kinase MST4 isoform 1 unmodified form
+TGF-beta receptor type-2 sequence variant 10
+TGF-beta receptor type-2 sequence variant 1
+DNA-binding protein inhibitor ID-3
+activin receptor type-2B isoform 1 glycosylated and phosphorylated form
+activin receptor type-2B isoform 1 unmodified form
+activin receptor type-2B isoform 5
+activin receptor type-2B isoform 3
+activin receptor type-2B isoform 3 unmodified form
+activin receptor type-2A
+activin receptor type-2A isoform 1 glycosylated and phosphorylated form
+activin receptor type-2A isoform 1
+activin receptor type-2A isoform 1 glycosylated and phosphorylated 1
+activin receptor type-2A isoform 1 unmodified form
+anti-Muellerian hormone
+anti-Muellerian hormone isoform 1 cleaved 1
+anti-Muellerian hormone sequence variant 4
+anti-Muellerian hormone sequence variant 2
+anti-Muellerian hormone isoform 1 cleaved form
+anti-Muellerian hormone isoform 1 cleaved and glycosylated 2
+anti-Muellerian hormone sequence variant 1
+anti-Muellerian hormone sequence variant 3
+anti-Muellerian hormone sequence variant 5
+anti-Muellerian hormone isoform 1
+anti-Muellerian hormone isoform 1 cleaved and glycosylated form
+MHC class II histocompatibility antigen alpha chain HLA-DPA1
+MHC class II histocompatibility antigen alpha chain HLA-DRA/H2-EA
+MHC class II histocompatibility antigen alpha chain HLA-DQA1/H2-AA
+MHC class II histocompatibility antigen alpha chain HLA-DQA2
+MHC class II histocompatibility antigen beta chain
+MHC class II histocompatibility antigen beta chain HLA-DPB1
+MHC class II histocompatibility antigen beta chain HLA-DRB5
+MHC class II histocompatibility antigen beta chain HLA-DQB2
+MHC class II histocompatibility antigen beta chain HLA-DRB3
+MHC class II histocompatibility antigen beta chain HLA-DRB1/H2-EB1
+MHC class II histocompatibility antigen beta chain HLA-DQB1/H2-AB1
+MHC class II histocompatibility antigen beta chain HLA-DRB4
+OX-2 membrane glycoprotein
+NKG2-D type II integral membrane protein
+EGF-like module-containing mucin-like hormone receptor-like 1
+G protein-activated inward rectifier potassium channel
+ATP-sensitive inward rectifier potassium channel 15
+inward rectifier potassium channel 13
+ATP-sensitive inward rectifier potassium channel 14
+G protein-activated inward rectifier potassium channel 4
+inward rectifier potassium channel 16
+ATP-sensitive inward rectifier potassium channel 11
+G protein-activated inward rectifier potassium channel 3
+inward rectifier potassium channel 4
+G protein-activated inward rectifier potassium channel 1
+ATP-sensitive inward rectifier potassium channel 8
+voltage-gated potassium channel subunit KCNQ1 sequence variant 44
+voltage-gated potassium channel subunit KCNQ1 sequence variant 45
+voltage-gated potassium channel subunit KCNQ1 sequence variant 46
+voltage-gated potassium channel subunit KCNQ1 sequence variant 47
+voltage-gated potassium channel subunit KCNQ1 sequence variant 48
+chordin isoform 1
+chordin isoform 1 unmodified form
+chordin isoform 1 cleaved 1
+chordin isoform 1 cleaved form
+chordin isoform 1 cleaved 2
+cartilage oligomeric matrix protein
+cartilage oligomeric matrix protein sequence variant 1
+cartilage oligomeric matrix protein sequence variant 13
+cartilage oligomeric matrix protein sequence variant 3
+cartilage oligomeric matrix protein sequence variant 31
+cartilage oligomeric matrix protein sequence variant 5
+cartilage oligomeric matrix protein sequence variant 30
+cartilage oligomeric matrix protein sequence variant 9
+cartilage oligomeric matrix protein sequence variant 24
+cartilage oligomeric matrix protein sequence variant 28
+cartilage oligomeric matrix protein sequence variant 21
+DNA-binding protein inhibitor ID-3 isoform 1 phosphorylated form
+DNA-binding protein inhibitor ID-3 isoform 1 phosphorylated 1
+DNA-binding protein inhibitor ID-3 isoform 1 ubiquitinated 1
+DNA-binding protein inhibitor ID-3 isoform 1 unmodified form
+DNA-binding protein inhibitor ID-3 isoform 1 ubiquitinated form
+DNA-binding protein inhibitor ID-3 isoform 1
+DNA-binding protein inhibitor ID-4
+DNA-binding protein inhibitor ID-4 isoform 1
+DNA-binding protein inhibitor ID-4 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 1
+voltage-gated potassium channel subunit KCNQ2 isoform 1 unmodified form
+RING-box protein 1
+RING-box protein 1 isoform 1
+RING-box protein 1 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 9
+RING-box protein 2
+RING-box protein 2 isoform 2 unmodified form
+RING-box protein 2 isoform 1
+RING-box protein 2 isoform 1 unmodified form
+RING-box protein 2 isoform 1 phosphorylated 1
+RING-box protein 2 isoform 2
+RING-box protein 2 isoform 1 phosphorylated form
+voltage-gated potassium channel subunit KCNQ2 isoform 11
+anti-Muellerian hormone sequence variant 7
+anti-Muellerian hormone isoform 1 unmodified form
+anti-Muellerian hormone sequence variant 6
+activin/inhibin beta subunit
+inhibin beta C chain isoform 1 cleaved 1
+activin/inhibin beta B chain isoform 1
+activin/inhibin beta E chain
+inhibin beta C chain isoform 1
+activin/inhibin beta C chain
+activin/inhibin beta B chain
+activin/inhibin beta E chain isoform 1 cleaved form
+inhibin beta C chain isoform 1 unmodified form
+inhibin beta C chain isoform 1 cleaved form
+activin/inhibin beta A chain isoform 1
+activin/inhibin beta B chain isoform 1 cleaved form
+activin/inhibin beta A chain isoform 1 cleaved 1
+activin/inhibin beta A chain isoform 1 cleaved form
+activin/inhibin beta E chain isoform 1 unmodified form
+activin/inhibin beta B chain isoform 1 unmodified form
+activin/inhibin beta E chain isoform 1 cleaved 1
+activin/inhibin beta A chain
+activin/inhibin beta B chain isoform 1 cleaved 1
+activin/inhibin beta A chain isoform 1 unmodified form
+ATP-sensitive inward rectifier potassium channel 12
+G protein-activated inward rectifier potassium channel 2
+inward rectifier potassium channel 2
+ATP-sensitive inward rectifier potassium channel 1
+ATP-sensitive inward rectifier potassium channel 10
+GPI-linked NAD(P)(+)--arginine ADP-ribosyltransferase 1
+HGF/MSP receptor type tyrosine-protein kinase
+macrophage-stimulating protein receptor
+CSF-1/PDGF receptor-type tyrosine-protein kinase
+alpha-type platelet-derived growth factor receptor isoform 1
+mast/stem cell growth factor receptor
+alpha-type platelet-derived growth factor receptor isoform 3
+beta-type platelet-derived growth factor receptor isoform 2
+alpha-type platelet-derived growth factor receptor isoform 2 unmodified form
+alpha-type platelet-derived growth factor receptor isoform 1 unmodified form
+beta-type platelet-derived growth factor receptor isoform 1
+beta-type platelet-derived growth factor receptor isoform 1 unmodified form
+alpha-type platelet-derived growth factor receptor isoform 3 unmodified form
+alpha-type platelet-derived growth factor receptor
+beta-type platelet-derived growth factor receptor isoform 2 cleaved 1
+beta-type platelet-derived growth factor receptor isoform 2 cleaved form
+beta-type platelet-derived growth factor receptor isoform 2 unmodified form
+beta-type platelet-derived growth factor receptor
+alpha-type platelet-derived growth factor receptor isoform 2
+macrophage colony-stimulating factor 1 receptor
+cartilage oligomeric matrix protein sequence variant 17
+cartilage oligomeric matrix protein isoform 1 unmodified form
+cartilage oligomeric matrix protein sequence variant 4
+cartilage oligomeric matrix protein sequence variant 26
+cartilage oligomeric matrix protein isoform 1 cleaved 1
+cartilage oligomeric matrix protein sequence variant 19
+cartilage oligomeric matrix protein sequence variant 10
+cartilage oligomeric matrix protein sequence variant 15
+cartilage oligomeric matrix protein sequence variant 8
+cartilage oligomeric matrix protein sequence variant 14
+cartilage oligomeric matrix protein sequence variant 27
+cartilage oligomeric matrix protein sequence variant 16
+cartilage oligomeric matrix protein sequence variant 33
+cartilage oligomeric matrix protein sequence variant 18
+cartilage oligomeric matrix protein sequence variant 6
+cartilage oligomeric matrix protein sequence variant 25
+cartilage oligomeric matrix protein sequence variant 7
+cartilage oligomeric matrix protein sequence variant 32
+cartilage oligomeric matrix protein isoform 1
+cartilage oligomeric matrix protein sequence variant 12
+voltage-gated potassium channel subunit KCNQ2 isoform 11 unmodified form
+S-phase kinase-associated protein 1A
+S-phase kinase-associated protein 1A isoform 2
+S-phase kinase-associated protein 1A isoform 1 unmodified form
+S-phase kinase-associated protein 1A isoform 2 unmodified form
+S-phase kinase-associated protein 1A isoform 1
+voltage-gated potassium channel subunit KCNQ2 isoform 10
+voltage-gated potassium channel subunit KCNQ2 isoform 10 unmodified form
+TGF-beta
+TGF-beta 1
+TGF-beta 1 sequence variant 6 cleaved form
+TGF-beta 2 isoform 1
+TGF-beta 1 isoform 1 cleaved form
+TGF-beta 1 sequence variant 5 cleaved 1
+TGF-beta 2 isoform 2 cleaved 2
+TGF-beta 2 isoform 1 cleaved form
+TGF-beta 1 sequence variant 3 cleaved form
+TGF-beta 1 isoform 1 cleaved and glycosylated 2
+TGF-beta 3 isoform 1 cleaved 1
+TGF-beta 2 isoform 1 cleaved 2
+TGF-beta 1 sequence variant 2 cleaved 2
+TGF-beta 1 isoform 1
+activin/inhibin beta E chain isoform 1
+activin receptor type-1
+activin receptor type-1 isoform 1 cleaved and phosphorylated 1
+activin receptor type-1 isoform 1 cleaved and phosphorylated form
+activin receptor type-1 isoform 1
+activin receptor type-1 isoform 1 unmodified form
+activin receptor type-1 sequence variant 1
+activin receptor type-1B
+activin receptor type-1B isoform 2
+activin receptor type-1B isoform 1 phosphorylated form
+activin receptor type-1B isoform 3
+activin receptor type-1B isoform 2 unmodified form
+activin receptor type-1B isoform 1 phosphorylated 2
+activin receptor type-1B isoform 1 unmodified form
+activin receptor type-1B isoform 1 phosphorylated 1
+activin receptor type-1B isoform 1
+activin receptor type-1B isoform 3 unmodified form
+activin receptor type-1C
+activin receptor type-1C isoform 3
+activin receptor type-1C isoform 3 unmodified form
+activin receptor type-1C isoform 1
+activin receptor type-1C isoform 1 phosphorylated 1
+FL cytokine receptor
+DNA-binding protein Ikaros
+DNA-binding protein Ikaros isoform 1
+DNA-binding protein Ikaros isoform 4 unmodified form
+DNA-binding protein Ikaros isoform 2 unmodified form
+DNA-binding protein Ikaros isoform 6 unmodified form
+DNA-binding protein Ikaros isoform 2
+DNA-binding protein Ikaros isoform 5
+DNA-binding protein Ikaros isoform 4
+DNA-binding protein Ikaros isoform 6
+DNA-binding protein Ikaros isoform 5 unmodified form
+DNA-binding protein Ikaros isoform 3 unmodified form
+DNA-binding protein Ikaros isoform 3
+DNA-binding protein Ikaros isoform 1 unmodified form
+EGF receptor type tyrosine-protein kinase
+receptor tyrosine-protein kinase erbB-2
+MHC class I histocompatibility antigen alpha chain
+HLA class I histocompatibility antigen Cw alpha chain
+HLA class I histocompatibility antigen A alpha chain
+H-2 class I histocompatibility antigen D alpha chain
+H-2 class I histocompatibility antigen K alpha chain
+H-2 class I histocompatibility antigen L alpha chain
+HLA class I histocompatibility antigen B alpha chain
+cartilage oligomeric matrix protein sequence variant 2
+cartilage oligomeric matrix protein sequence variant 20
+cartilage oligomeric matrix protein sequence variant 29
+cartilage oligomeric matrix protein sequence variant 22
+cartilage oligomeric matrix protein isoform 1 cleaved form
+cartilage oligomeric matrix protein sequence variant 11
+cartilage oligomeric matrix protein sequence variant 23
+chordin isoform 3
+chordin isoform 3 unmodified form
+chordin isoform 2
+chordin isoform 2 unmodified form
+chordin isoform 4
+chordin isoform 4 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 4
+voltage-gated potassium channel subunit KCNQ1 sequence variant 40
+voltage-gated potassium channel subunit KCNQ1 sequence variant 39
+voltage-gated potassium channel subunit KCNQ1 sequence variant 33
+voltage-gated potassium channel subunit KCNQ1 sequence variant 34
+voltage-gated potassium channel subunit KCNQ1 sequence variant 31
+voltage-gated potassium channel subunit KCNQ1 sequence variant 32
+TGF-beta 1 sequence variant 4 cleaved 1
+TGF-beta 1 sequence variant 5 cleaved 2
+TGF-beta 3 isoform 1
+TGF-beta 1 sequence variant 5 cleaved form
+TGF-beta 2 isoform 2 unmodified form
+TGF-beta 2 isoform 2 cleaved 1
+TGF-beta 1 sequence variant 4 cleaved 2
+TGF-beta 1 sequence variant 3 cleaved 1
+TGF-beta 2
+TGF-beta 2 isoform 2 cleaved form
+TGF-beta 1 sequence variant 2
+TGF-beta 3 isoform 1 cleaved form
+TGF-beta 1 sequence variant 3
+TGF-beta 2 isoform 1 cleaved 1
+TGF-beta 3 isoform 1 cleaved 2
+TGF-beta 3
+TGF-beta 1 sequence variant 6
+TGF-beta 1 sequence variant 6 cleaved 2
+TGF-beta 1 sequence variant 4
+TGF-beta 1 isoform 1 cleaved 1
+TGF-beta 2 isoform 2
+TGF-beta 1 sequence variant 5
+TGF-beta 1 sequence variant 2 cleaved form
+TGF-beta 3 isoform 1 cleaved 3
+TGF-beta 1 isoform 1 cleaved and glycosylated form
+activin receptor type-1C isoform 4
+activin receptor type-1C isoform 2 unmodified form
+activin receptor type-1C isoform 2
+activin receptor type-1C isoform 4 unmodified form
+activin receptor type-1C isoform 1 phosphorylated form
+activin receptor type-1C isoform 1 unmodified form
+TGF-beta receptor type-2 sequence variant 7
+TGF-beta receptor type-2 sequence variant 8
+TGF-beta receptor type-2 sequence variant 9
+TGF-beta receptor-regulated smad protein
+smad2 isoform 1 acetylated and phosphorylated form
+smad2 isoform 2 unmodified form
+smad2 isoform 1 phosphorylated 1
+smad3 isoform 1 phosphorylated 3
+smad2 isoform 1 phosphorylated and ubiquitinated 1
+smad2 isoform 1 phosphorylated form
+smad3 isoform 1 phosphorylated form
+smad2 isoform 1 unmodified form
+smad3
+smad2 isoform 1 phosphorylated 2
+smad2 isoform 2
+smad3 isoform 1 unmodified form
+smad2
+smad3 isoform 1 acetylated and phosphorylated form
+smad2 sequence variant 5
+smad3 isoform 1
+LDL receptor-related protein
+low-density lipoprotein receptor-related protein 1
+MHC class I-related gene protein
+arginase-1
+band 3-like protein
+band 3 anion transport protein isoform 3 unmodified form
+band 3 anion transport protein isoform 1 unmodified form
+band 3 anion transport protein
+band 3 anion transport protein isoform 2 unmodified form
+band 3 anion transport protein isoform 1
+band 3 anion transport protein isoform 3
+band 3 anion transport protein isoform 2
+T-lymphocyte surface antigen Ly-9
+Thy-1 membrane glycoprotein
+butyrophilin
+butyrophilin subfamily 3 member A1
+calcium-activated potassium channel subunit alpha-1
+basigin isoform 1
+basigin isoform 1 cleaved form
+basigin isoform 1 unmodified form
+basigin isoform 2
+basigin isoform 2 unmodified form
+T-cell surface protein tactile
+T-cell-specific surface glycoprotein CD28
+PR-domain zinc finger protein 1
+SIRP/SHPS-1 family protein
+signal regulatory protein beta-1
+SLAM family member 1
+SLAM family member 7
+T-box transcription factor TBX21
+T-cell antigen CD7
+T-cell differentiation antigen CD6
+voltage-gated potassium channel subunit KCNQ1 sequence variant 37
+voltage-gated potassium channel subunit KCNQ1 sequence variant 38
+voltage-gated potassium channel subunit KCNQ1 sequence variant 35
+voltage-gated potassium channel subunit KCNQ1 sequence variant 36
+inhibitory smad protein
+smad6 isoform 1
+smad6 isoform 2 unmodified form
+smad6 isoform 2
+smad6 isoform 1 methylated 1
+smad7 isoform 1 ubiquitinated form
+smad6 isoform 1 unmodified form
+smad7 isoform 1 acetylated 1
+smad7
+smad7 isoform 1 phosphorylated 1
+smad7 isoform 1
+smad6 isoform 1 methylated form
+smad7 isoform 1 acetylated form
+smad7 isoform 1 phosphorylated form
+smad7 isoform 1 unmodified form
+smad6
+smad7 isoform 1 ubiquitinated 1
+growth/differentiation factor
+growth/differentiation factor 5 sequence variant 2
+growth/differentiation factor 7 isoform 2
+TGF-beta 1 sequence variant 3 cleaved 2
+TGF-beta 2 isoform 1 unmodified form
+TGF-beta 1 sequence variant 1
+TGF-beta 3 isoform 1 unmodified form
+TGF-beta 1 isoform 1 unmodified form
+TGF-beta 1 sequence variant 4 cleaved form
+TGF-beta 1 sequence variant 2 cleaved 1
+TGF-beta 1 isoform 1 cleaved and glycosylated 1
+TGF-beta 1 sequence variant 6 cleaved 1
+TGF-beta 2 isoform 1 cleaved 3
+voltage-gated potassium channel subunit KCNQ2 isoform 13
+voltage-gated potassium channel subunit KCNQ2 isoform 13 unmodified form
+TGF-beta receptor type-1
+TGF-beta receptor type-1 isoform 1 cleaved 1
+TGF-beta receptor type-1 sequence variant 1
+TGF-beta receptor type-1 sequence variant 2
+TGF-beta receptor type-1 isoform 1 cleaved and phosphorylated 1
+TGF-beta receptor type-1 isoform 1
+TGF-beta receptor type-1 sequence variant 6
+TGF-beta receptor type-1 sequence variant 9
+TGF-beta receptor type-1 isoform 1 cleaved form
+TGF-beta receptor type-1 sequence variant 11
+smad2 sequence variant 3
+smad2 isoform 1 phosphorylated and ubiquitinated form
+smad2 sequence variant 2
+smad2 isoform 2 phosphorylated 1
+smad3 isoform 1 phosphorylated 1
+smad2 isoform 1 phosphorylated 4
+smad2 isoform 2 acetylated and phosphorylated 1
+smad2 sequence variant 1
+smad2 isoform 2 phosphorylated form
+smad2 isoform 1 acetylated and phosphorylated 1
+smad2 isoform 1
+smad3 isoform 1 acetylated and phosphorylated 1
+smad2 sequence variant 4
+smad3 isoform 1 phosphorylated 2
+smad2 isoform 1 phosphorylated 3
+smad2 isoform 2 acetylated and phosphorylated form
+BH3-interacting domain death agonist isoform 1 cleaved 2
+caspase-1 isoform 1 cleaved form
+caspase-1 isoform 1 cleaved 1
+BH3-interacting domain death agonist isoform 1 cleaved 3
+c-myc protein
+c-myc isoform 1 phosphorylated form
+c-myc protein isoform 1 unmodified form
+c-myc isoform 1 glycosylated 1
+c-myc protein isoform 2
+T-cell surface glycoprotein CD1
+T-cell surface glycoprotein CD1a
+T-cell surface glycoprotein CD1b
+T-cell surface glycoprotein CD1e
+T-cell surface glycoprotein CD1c
+T-cell surface glycoprotein CD1d
+P-selectin glycoprotein ligand 1
+T-cell surface glycoprotein CD5
+interferon regulatory factor 3-9
+interferon regulatory factor 7
+interferon regulatory factor 5
+interferon regulatory factor 9
+interferon regulatory factor 6
+interferon regulatory factor 8
+interferon regulatory factor 3
+interferon regulatory factor 4
+interferon regulatory factor 1/2
+interferon regulatory factor 2
+interferon regulatory factor 1
+integrin beta
+integrin beta-1
+integrin beta-2
+integrin beta-3
+inducible T-cell costimulator
+interleukin-7 receptor subunit alpha
+interleukin-6 receptor subunit beta
+interleukin-5 receptor subunit alpha
+interleukin-4 receptor alpha chain
+interleukin-3 receptor class 2 alpha chain
+interferon-induced transmembrane protein
+interferon-induced transmembrane protein 2
+interferon-induced transmembrane protein 1
+cathepsin K
+cytotoxic T-lymphocyte protein 4
+cell surface antigen 4F2 heavy chain
+growth/differentiation factor 5 sequence variant 3
+growth/differentiation factor 5 isoform 1
+growth/differentiation factor 7 isoform 1 cleaved form
+growth/differentiation factor 7 isoform 2 unmodified form
+growth/differentiation factor 5 sequence variant 5
+growth/differentiation factor 5 sequence variant 1
+growth/differentiation factor 5 cleaved form
+growth/differentiation factor 5
+growth/differentiation factor 7 isoform 1 cleaved 1
+growth/differentiation factor 7 isoform 1
+growth/differentiation factor 7 isoform 1 unmodified form
+growth/differentiation factor 5 isoform 1 unmodified form
+growth/differentiation factor 5 sequence variant 4
+growth/differentiation factor 7
+growth/differentiation factor 5 cleaved 1
+follistatin isoform 2
+follistatin isoform 2 cleaved and glycosylated form
+follistatin isoform 2 cleaved and glycosylated 1
+follistatin isoform 2 unmodified form
+follistatin isoform 1
+follistatin isoform 1 cleaved and glycosylated 2
+follistatin isoform 1 cleaved and glycosylated 1
+follistatin isoform 1 cleaved and glycosylated form
+follistatin isoform 1 unmodified form
+TGF-beta receptor type-1 sequence variant 5
+TGF-beta receptor type-1 sequence variant 10
+TGF-beta receptor type-1 isoform 1 unmodified form
+TGF-beta receptor type-1 isoform 1 cleaved and phosphorylated form
+TGF-beta receptor type-1 sequence variant 3
+TGF-beta receptor type-1 sequence variant 8
+TGF-beta receptor type-1 sequence variant 7
+TGF-beta receptor type-1 sequence variant 4
+voltage-gated potassium channel subunit KCNQ2 isoform 12
+voltage-gated potassium channel subunit KCNQ2 isoform 12 unmodified form
+TGF-beta receptor type-2 isoform 1
+TGF-beta receptor type-2 isoform 1 cleaved form
+TGF-beta receptor type-2 isoform 1 unmodified form
+TGF-beta receptor type-2 isoform 1 phosphorylated form
+TGF-beta receptor type-2 isoform 1 cleaved 1
+TGF-beta receptor type-2 isoform 1 phosphorylated 1
+voltage-gated potassium channel subunit KCNQ2 isoform 15
+voltage-gated potassium channel subunit KCNQ2 isoform 15 unmodified form
+TGF-beta receptor type-2 isoform 2
+TGF-beta receptor type-2 isoform 2 unmodified form
+c-myc isoform 1 acetylated form
+c-myc isoform 1 phosphorylated 1
+c-myc isoform 1 phosphorylated 2
+c-myc isoform 1 acetylated 1
+c-myc isoform 1 phosphorylated 3
+c-myc protein isoform 2 unmodified form
+c-myc protein isoform 1
+c-myc isoform 1 glycosylated form
+anti-Muellerian hormone type-2 receptor sequence variant 9
+anti-Muellerian hormone type-2 receptor sequence variant 8
+anti-Muellerian hormone type-2 receptor sequence variant 7
+anti-Muellerian hormone type-2 receptor sequence variant 6
+anti-Muellerian hormone type-2 receptor sequence variant 4
+anti-Muellerian hormone type-2 receptor sequence variant 5
+anti-Muellerian hormone type-2 receptor sequence variant 2
+anti-Muellerian hormone type-2 receptor sequence variant 3
+anti-Muellerian hormone type-2 receptor isoform 1
+anti-Muellerian hormone type-2 receptor isoform 1 unmodified form
+anti-Muellerian hormone type-2 receptor sequence variant 1
+phosphorylated residue
+voltage-gated potassium channel KCNC1 isoform 2 phosphorylated form
+has_modification
+voltage-gated potassium channel KCND2 isoform 1 phosphorylated form
+cGMP-gated cation channel alpha-1 isoform 1 phosphorylated form
+immunoglobulin iota chain
+immunoglobulin alpha Fc receptor
+immunoglobulin lambda-like polypeptide 1
+ectonucleoside triphosphate diphosphohydrolase 1
+ecto-ADP-ribosyltransferase 4
+hyaluronan mediated motility receptor
+fractalkine
+lymphocyte activation gene 3 protein
+low affinity immunoglobulin epsilon Fc receptor
+macrophage scavenger receptor types I and II
+macrophage receptor MARCO
+lysosome-associated membrane protein
+lysosome-associated membrane glycoprotein 1
+lysosome-associated membrane glycoprotein 2
+macrosialin
+lysosome-associated membrane glycoprotein 3
+monocyte differentiation antigen CD14
+monocyte differentiation antigen CD14 isoform 1 cleaved and GPI-anchored 1
+monocyte differentiation antigen CD14 isoform 1 cleaved form
+monocyte differentiation antigen CD14 isoform 1
+monocyte differentiation antigen CD14 isoform 1 cleaved and GPI-anchored form
+monocyte differentiation antigen CD14 isoform 1 cleaved 2
+monocyte differentiation antigen CD14 isoform 1 cleaved 1
+monocyte differentiation antigen CD14 isoform 1 unmodified form
+membrane alanyl aminopeptidase-like metallopeptidase
+aminopeptidase N
+glutamyl aminopeptidase
+melanotransferrin
+major prion protein
+islet cell autoantigen 1
+junctional adhesion molecule B
+junctional adhesion molecule A
+killer cell lectin-like receptor subfamily B member 1
+voltage-gated potassium channel subunit KCNQ1 sequence variant 30
+caspase-8 isoform 7
+caspase-8 isoform 7 unmodified form
+caspase-8 isoform 8
+caspase-8 isoform 8 unmodified form
+caspase-8 isoform 5
+caspase-8 isoform 5 unmodified form
+caspase-8 isoform 6
+caspase-8 isoform 6 unmodified form
+caspase-8 isoform 3
+caspase-8 isoform 3 unmodified form
+caspase-8 isoform 4
+caspase-8 isoform 4 unmodified form
+caspase-8 isoform 1
+caspase-8 isoform 1 unmodified form
+caspase-8 isoform 2
+caspase-8 isoform 2 unmodified form
+caspase-7 isoform 2
+caspase-7 isoform 2 unmodified form
+caspase-7 isoform 3
+caspase-7 isoform 3 unmodified form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 65
+voltage-gated potassium channel subunit KCNQ1 sequence variant 66
+voltage-gated potassium channel subunit KCNQ1 sequence variant 61
+voltage-gated potassium channel subunit KCNQ1 sequence variant 62
+voltage-gated potassium channel subunit KCNQ2 isoform 14
+voltage-gated potassium channel subunit KCNQ2 isoform 14 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 2
+voltage-gated potassium channel subunit KCNQ2 isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 16
+voltage-gated potassium channel subunit KCNQ2 isoform 16 unmodified form
+caspase-8 isoform 9
+caspase-8 isoform 9 unmodified form
+caspase-9 isoform 2
+caspase-9 isoform 2 unmodified form
+caspase-9 isoform 1
+caspase-9 isoform 1 cleaved 1
+caspase-9 isoform 1 unmodified form
+caspase-9 isoform 1 cleaved 2
+caspase-9 isoform 1 cleaved form
+cytochrome c, testis-specific isoform 1
+cytochrome c, testis-specific isoform 1 unmodified form
+cytochrome c, somatic isoform 1
+cytochrome c, somatic isoform 1 unmodified form
+dynein light chain 2, cytoplasmic isoform 1
+dynein light chain 2, cytoplasmic isoform 1 unmodified form
+dynein light chain 1, cytoplasmic isoform 1
+ribosomal protein S6 kinase beta 1 isoform 2 phosphorylated form
+cftr isoform 1 phosphorylated form
+voltage-gated potassium channel subunit KCNA2 isoform 1 phosphorylated form
+transcription factor Sp1 isoform 1 phosphorylated form
+smad1 isoform 1 phosphorylated form
+mitogen-activated protein kinase 3 isoform 1 phosphorylated form
+nuclear factor NF-kappa-B p105 subunit isoform 2 phosphorylated form
+voltage-gated potassium channel KCNA4 isoform 1 phosphorylated form
+tumor necrosis factor alpha isoform 1 phosphorylated form
+smad1 isoform 1 phosphorylated and ubiquitinated form
+rho-associated protein kinase 2 isoform 1 phosphorylated form
+ribosomal protein S6 kinase beta 1 isoform 1 phosphorylated form
+retinoblastoma-like protein 2 isoform 1 phosphorylated form
+retinoblastoma-like protein 1 isoform 1 phosphorylated form
+smad4 isoform 1 phosphorylated form
+interleukin-1 alpha isoform 1 phosphorylated form
+ezrin isoform 1 phosphorylated form
+smad9 isoform 1 phosphorylated form
+mitogen-activated protein kinase 1 isoform 1 phosphorylated form
+smad9 isoform 3 phosphorylated form
+ribosomal protein S6 kinase beta 2 isoform 1 phosphorylated form
+BMP receptor type-1A isoform 1 phosphorylated form
+voltage-gated potassium channel KCNC4 isoform 2 phosphorylated form
+smad5 isoform 1 phosphorylated form
+BMP receptor type-1B isoform 1 phosphorylated form
+DNA-binding protein inhibitor ID-2 isoform 1 phosphorylated form
+glycosylated residue
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1 isoform 1 glycosylated form
+T-cell surface antigen CD2 isoform 1 cleaved and glycosylated form
+kell blood group glycoprotein
+leukemia inhibitory factor receptor
+leptin receptor
+leukocyte-associated immunoglobulin-like receptor 2
+leukocyte-associated immunoglobulin-like receptor 1
+leukosialin
+serine/threonine-protein kinase 25
+BMP receptor type-1A sequence variant 2
+BMP receptor type-1A sequence variant 1
+BMP receptor type-1A sequence variant 3
+tumor necrosis factor alpha
+tumor necrosis factor alpha isoform 1 cleaved form
+tumor necrosis factor alpha isoform 1 cleaved 1
+tumor necrosis factor alpha isoform 1
+tumor necrosis factor alpha isoform 1 myristoylated 1
+tumor necrosis factor alpha isoform 1 myristoylated form
+tumor necrosis factor alpha isoform 1 phosphorylated 1
+tumor necrosis factor alpha isoform 1 cleaved 2
+tumor necrosis factor alpha isoform 1 unmodified form
+transcription factor Sp1
+transcription factor Sp1 isoform 1
+transcription factor Sp1 isoform 1 phosphorylated 1
+transcription factor Sp1 isoform 1 unmodified form
+transcription factor Sp1 isoform 1 phosphorylated 4
+transcription factor Sp1 isoform 1 cleaved form
+voltage-gated potassium channel subunit KCNQ1 sequence variant 63
+voltage-gated potassium channel subunit KCNQ1 sequence variant 64
+voltage-gated potassium channel subunit KCNQ1 sequence variant 58
+voltage-gated potassium channel subunit KCNQ1 sequence variant 59
+voltage-gated potassium channel subunit KCNQ1 sequence variant 6
+voltage-gated potassium channel subunit KCNQ1 sequence variant 60
+caspase-6 isoform 2
+caspase-6 isoform 2 unmodified form
+caspase-6 isoform 3
+caspase-6 isoform 3 unmodified form
+caspase-7 isoform 1
+caspase-7 isoform 1 cleaved form
+caspase-7 isoform 1 unmodified form
+caspase-7 isoform 1 cleaved 1
+caspase-7 isoform 2 cleaved 2
+caspase-4 isoform 1
+caspase-4 isoform 1 unmodified form
+caspase-4 isoform 2
+caspase-4 isoform 2 unmodified form
+caspase-5 isoform 1
+caspase-5 isoform 1 unmodified form
+caspase-6 isoform 1
+caspase-6 isoform 1 cleaved form
+caspase-6 isoform cleaved 2
+caspase-6 isoform cleaved 1
+dynein light chain 1, cytoplasmic isoform 1 unmodified form
+protein kinase C delta type isoform 2
+protein kinase C delta type isoform 2 unmodified form
+protein kinase C delta type isoform 1
+protein kinase C delta type isoform 1 unmodified form
+TGF-beta receptor type-2 sequence variant 6
+TGF-beta receptor type-2 sequence variant 5
+protein kinase C epsilon isoform 1
+protein kinase C epsilon isoform 1 unmodified form
+TGF-beta receptor type-2 sequence variant 4
+voltage-gated potassium channel subunit KCNQ1 sequence variant 67
+TGF-beta receptor type-2 sequence variant 13
+TGF-beta receptor type-2 sequence variant 14
+TGF-beta receptor type-2 sequence variant 11
+TGF-beta receptor type-2 sequence variant 12
+voltage-gated potassium channel subunit KCNQ1 sequence variant 70
+TGF-beta receptor type-2 sequence variant 2
+voltage-gated potassium channel subunit KCNQ1 sequence variant 7
+TGF-beta receptor type-2 sequence variant 3
+voltage-gated potassium channel subunit KCNQ1 sequence variant 69
+TGF-beta receptor type-2 sequence variant 15
+inhibin alpha chain isoform 1 cleaved and glycosylated form
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 isoform 1 glycosylated form
+thrombospondin 1 isoform 1 cleaved and glycosylated form
+transcription factor Sp1 isoform 1 glycosylated form
+transient receptor potential cation channel TRPM8 isoform 1 glycosylated form
+inhibin alpha chain isoform 1 glycosylated form
+prominin-1 isoform 6 glycosylated form
+prominin-1 isoform 3 glycosylated form
+cftr isoform 1 glycosylated form
+voltage-gated potassium channel KCNH2 isoform 1 glycosylated form
+interferon gamma isoform 1 cleaved and glycosylated form
+BMP7 isoform 1 cleaved and glycosylated form
+C-type lectin domain family 6 member A
+C-type lectin domain family 7 member A
+C/C-C motif small inducible chemokine
+eotaxin-like cytokine
+C-C motif chemokine 7
+C-C motif chemokine 8
+C-C motif chemokine 24
+C-C motif chemokine 21
+lymphotactin-like chemokine
+C-C motif chemokine 3
+C-C motif chemokine 13
+C-C motif chemokine 1
+cytokine SCM-1 beta
+lymphotactin
+C-C motif chemokine 22
+C-C motif chemokine 14
+eotaxin
+C-C motif chemokine 20
+C-C motif chemokine 2
+creb-binding protein
+related
+creb-binding protein isoform 1
+is_a
+creb-binding protein isoform 1 methylated form
+creb-binding protein isoform 1 unmodified form
+develops_from
+creb-binding protein isoform 1 methylated 1
+part_of
+creb-binding protein sequence variant 1
+creb-binding protein/zinc finger protein HRX
+cullin 1
+cullin 1 isoform 1 unmodified form
+cullin 1 isoform 1 neddylated form
+cullin 1 isoform 1 neddylated 1
+cullin 1 isoform 1
+cyclin-dependent kinase 4 inhibitor
+exact
+cyclin-dependent kinase 4 inhibitor B isoform 1
+cyclin-dependent kinase 4 inhibitor B isoform 1 phosphorylated 1
+cyclin-dependent kinase 4 inhibitor B sequence variant 2
+cyclin-dependent kinase 4 inhibitor B sequence variant 1
+cyclin-dependent kinase 4 inhibitor B isoform 1 phosphorylated form
+cyclin-dependent kinase 4 inhibitor B isoform 1 unmodified form
+decorin
+decorin isoform 5 unmodified form
+decorin isoform 3
+decorin isoform 1 cleaved 2
+decorin isoform 1 cleaved 1
+decorin isoform 1 unmodified form
+decorin isoform 3 unmodified form
+tumor necrosis factor ligand superfamily member 13B
+voltage-gated potassium channel KCNB1 isoform 1
+caspase-9
+cytoplasmic tyrosine-protein kinase BMX isoform 2
+transient receptor potential cation channel TRPV4 isoform 5 unmodified form
+sodium channel type 8 subunit alpha
+B-cell differentiation antigen CD72
+glycophorin
+voltage-gated potassium channel KCNC1 isoform 2 unmodified form
+neuropilin
+inhibitor of nuclear factor kappa-B kinase complex alpha/beta subunits
+ezrin isoform 1 phosphorylated 5
+tyrosine-protein kinase BTK isoform 1
+P2RY12-like receptor
+voltage-gated potassium channel subunit KCNQ5 isoform 1
+probable G protein-coupled receptor 142
+ecto-ADP-ribosyltransferase 5 isoform 5
+tumor necrosis factor receptor superfamily member 10A isoform 1
+Bcl-2-like protein 11 isoform 12
+DNA fragmentation factor subunit alpha isoform 1
+mas-related G protein-coupled receptor B1
+cysteinyl leukotriene receptor 2
+low affinity immunoglobulin gamma Fc region receptor II-a
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 isoform 1 unmodified form
+Bcl-2-like protein 11 isoform 15
+proteinase-activated receptor 3
+P2Y purinoceptor 11
+G protein-coupled receptor PGR12
+TNF receptor-associated factor
+mas-related G protein-coupled receptor B
+modulatory voltage-gated potassium channel subunit KCNG
+tumor necrosis factor receptor superfamily member 10B isoform 2
+angiotensin II receptor 1A
+tumor necrosis factor ligand superfamily member 13
+lymphocyte function-associated antigen 3
+frizzled-9
+protein kinase C, delta-like
+alpha-(1,3)-fucosyltransferase
+probable G protein-coupled receptor 87
+transient receptor potential cation channel TRPV4 isoform 1 unmodified form
+gamma-glutamyltranspeptidase 1
+interferon gamma receptor alpha chain
+interleukin-1 beta
+CD97 antigen
+muscarinic acetylcholine receptor 3
+interleukin-18 receptor accessory protein
+chemokine receptor CCR4
+D(1B) dopamine receptor
+voltage-gated potassium channel KCND2
+apoptosis regulator BAX isoform 2
+TNF receptor-associated factor 4
+carcinoembryonic antigen-related cell adhesion molecule 1
+interleukin-22
+chemokine receptor-like protein CCRL2
+membrane cofactor protein
+trans-actingT-cell-specific transcription factor GATA-3
+small conductance calcium-activated potassium channel protein 1 isoform III unmodified form
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3 isoform 1 unmodified form
+endothelial protein C receptor
+probable G protein-coupled receptor 27/85/173
+TNF receptor-associated factor 2
+occludin
+L-selectin
+interleukin-1 receptor type I
+apoptosis regulator BAX isoform 8
+cGMP-gated cation channel alpha-1 isoform 1
+voltage-gated potassium channel Eag alpha subunit
+animal opsins
+angiopoietin-1 receptor sequence variant 1
+cyclic nucleotide-gated cation channel beta-3 isoform 1
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 sequence variant 2
+tumor necrosis factor ligand superfamily member 11
+DNA fragmentation factor subunit alpha isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNQ4 sequence variant 5
+probable G protein-coupled receptor 88
+low affinity immunoglobulin gamma Fc region receptor III-A
+prostaglandin F2 receptor negative regulator
+transient receptor potential cation channel TRPV3 isoform 2 unmodified form
+syndecan-3
+C3a anaphylatoxin chemotactic receptor
+cftr isoform 3
+ecto-ADP-ribosyltransferase 5 isoform 4 unmodified form
+2-oxoglutarate receptor 1
+transient receptor potential cation channel TRPV4 isoform 2
+cytochrome c, testis-specific
+5-hydroxytryptamine receptor 6
+transient receptor potential cation channel TRPC7 isoform 1 unmodified form
+prostaglandin D2 receptor
+26S proteasome non-ATPase regulatory subunit 4 isoform 5
+transient receptor potential cation channel TRPA1 isoform 1
+voltage-gated potassium channel KCNC2 isoform 3
+P2Y purinoceptor 4
+BH3-interacting domain death agonist isoform 1 unmodified form
+bombesin receptor
+T-cell surface glycoprotein CD8 beta chain
+ww domain-containing oxidoreductase isoform 3 unmodified form
+caspase-5
+G protein-coupled bile acid receptor 1
+endothelin receptor B
+mitogen-activated protein kinase 8 isoform 2
+P2Y purinoceptor 14
+cftr isoform 1 glycosylated 1
+ezrin isoform 1
+duffy antigen chemokine receptor
+probable G protein-coupled receptor 45
+proteasome subunit beta type-4
+tumor necrosis factor ligand superfamily member 11 isoform 5
+carcinoembryonic antigen-related cell adhesion molecule 6
+glycylpeptide N-tetradecanoyltransferase 1 isoform 2
+latrophilin-1 isoform 1
+leukotriene B4 receptor 2
+signal transducer and activator of transcription 1
+signal transducer and activator of transcription 5b
+apoptosis regulator BAX isoform 4 unmodified form
+potassium channel subfamily K member 12
+D(3) dopamine receptor
+P-selectin
+cyclic nucleotide-gated cation channel beta-3 isoform 2
+probable G protein-coupled receptor 149
+proteinase-activated receptor 2
+latrophilin-1 isoform 4 cleaved 1
+erythrocyte membrane protein Rh
+neuropeptide FF receptor
+transcription factor PU.1
+growth hormone secretagogue receptor
+sodium channel type 5 subunit alpha
+Bcl-2-like protein 11 isoform 9
+vascular endothelial growth factor receptor 2
+GPR6-like G protein-coupled receptor
+chemokine receptor CCR7
+probable G protein-coupled receptor 83
+small conductance calcium-activated potassium channel protein 1 isoform 2 unmodified form
+zinc finger protein aiolos isoform 4 unmodified form
+transient receptor potential cation channel TRPC3 isoform 1
+neuropeptide S receptor
+signal transducer CD24
+fibroblast growth factor receptor 4
+26S proteasome non-ATPase regulatory subunit 13
+red-sensitive opsin
+tumor necrosis factor receptor superfamily member 16
+probable G protein-coupled receptor 55
+26S proteasome non-ATPase regulatory subunit 2
+probable G-protein coupled receptor 157
+cyclic nucleotide-gated channel beta subunit
+26S proteasome non-ATPase regulatory subunit 13 isoform 1 unmodified form
+Bcl-2-like protein 11 isoform 13
+Bcl2 antagonist of cell death
+interleukin-29
+N-formyl peptide receptor 2
+LPAR4-like receptor
+trace amine associated receptor
+tumor necrosis factor ligand superfamily member 11 isoform 4 unmodified form
+26S proteasome non-ATPase regulatory subunit 11
+B- and T-lymphocyte attenuator
+cation channel sperm-associated protein, subunit beta isoform 1
+immunoglobulin superfamily member 2
+glycophorin-C
+voltage-gated potassium channel KCNC1 isoform 1 unmodified form
+high affinity immunoglobulin gamma Fc receptor IB
+interleukin-17D
+neurotensin receptor 2
+B-cell surface antigen CD20
+serine/threonine-protein kinase tbk1
+voltage-gated potassium channel KCNH2
+interleukin-1 receptor antagonist protein isoform 1 cleaved 1
+potassium channel subfamily T member 1
+muscarinic acetylcholine receptor 5
+cannabinoid receptor 2
+signal transducer and activator of transcription 2
+low affinity immunoglobulin gamma Fc region receptor II-c
+apelin receptor
+B-cell antigen receptor complex-associated protein beta-chain
+cadherin-2
+natural killer cells antigen CD94
+mas-related G protein-coupled receptor A2
+neural cell adhesion molecule 1
+latrophilin-1 isoform 4 cleaved 2
+cftr isoform 1
+probable G protein-coupled receptor 12
+voltage-gated potassium channel subunit KCNQ1
+thyrotropin receptor
+CD3 delta
+transient receptor potential cation channel TRPC4 isoform 2
+probable P2Y purinoceptor 10
+epithelial cadherin
+glycophorin-B
+cyclic nucleotide-gated cation channel beta-3 isoform 3
+blood group RhD polypeptide
+poliovirus receptor-related protein 3
+Bcl-2-like protein 11 isoform 1 unmodified form
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 1
+transient receptor potential cation channel TRPV1
+probable G protein-coupled receptor 61
+tyrosine-protein kinase ITK/TSK
+CD86 antigen
+ADAM 10 endopeptidase
+ADAM 8 endopeptidase
+plexin-C1
+BH3-interacting domain death agonist isoform 4
+transient receptor potential cation channel TRPC3/6/7
+prostaglandin E2 receptor EP3
+CD247
+programmed cell death protein 1
+sodium channel type 4 subunit alpha
+Bcl2 antagonist of cell death isoform 1
+bradykinin receptor
+protein jagged-1
+tyrosine-protein kinase ITK/TSK isoform 2
+voltage-gated potassium channel alpha subunit with PAS domain
+lysophosphatidic acid receptor 1
+caspase-2
+transcription factor COE1
+26S proteasome non-ATPase regulatory subunit 1 isoform 2 unmodified form
+GPR4-like G protein-coupled receptor
+inhibitor of nuclear factor kappa-b kinase subunit beta
+interleukin-2 receptor subunit alpha
+neuropeptide Y receptor 2
+proteinase-activated receptor 4
+mas-related G protein-coupled receptor G
+zinc finger protein aiolos isoform 4
+signal transducer and activator of transcription 4
+CD109 antigen
+cftr isoform 1 phosphorylated 1
+vasopressin/oxytocin receptor
+apoptosis regulator BAX isoform 5
+somatostatin receptor
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1
+voltage-gated potassium channel KCNH2 isoform 1 unmodified form
+probable G protein-coupled receptor 39
+Bcl-2-like protein 11 isoform 6 unmodified form
+potassium channel subfamily K member 6
+small conductance calcium-activated potassium channel protein 3
+voltage-gated potassium channel subunit KCNQ5 isoform 2 unmodified form
+voltage-gated potassium channel KCNC4 isoform 2 unmodified form
+cation channel sperm-associated protein 2 isoform 3
+cyclic nucleotide-gated cation channel beta-3 isoform 1 unmodified form
+glycophorin-A
+CD99 antigen
+H3/H4 histamine receptor
+voltage-gated potassium channel subunit KCNA4 isoform 1 unmodified form
+potassium channel subfamily K member 13
+vasopressin receptor 2
+succinate receptor 1
+probable G protein-coupled receptor 19
+chemokine receptor CXCR7
+toll-like receptor 4
+Bcl-2-like protein 11 isoform 7
+Fc receptor-like protein 5
+tumor necrosis factor receptor superfamily member 10B
+C-type lectin domain family 4 member C
+cytoplasmic tyrosine-protein kinase BMX isoform 1 unmodified form
+voltage-gated potassium channel KCNS2
+sodium leak channel non-selective protein isoform 3 unmodified form
+adenosine receptor A2a
+cGMP-gated cation channel alpha-1
+interleukin-1 receptor antagonist protein isoform 4 unmodified form
+voltage-gated potassium channel KCNH2 isoform 2 unmodified form
+Bcl-2-like protein 11 isoform 4 unmodified form
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 6
+voltage-gated potassium channel KCNG4 isoform 1 unmodified form
+tumor necrosis factor ligand superfamily member 11 isoform 4
+potassium channel subfamily K member 17
+apoptosis protease-activating factor 1 isoform 5
+voltage-gated potassium channel Elk alpha subunit
+interleukin-23 subunit alpha
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+small conductance calcium-activated potassium channel protein 1 isoform VII unmodified form
+cation channel sperm-associated protein 2 isoform 2
+leukotriene B4 receptor 1
+cystic fibrosis transmembrane conductance regulator (cftr)
+ecto-ADP-ribosyltransferase 5 isoform 1 unmodified form
+prostaglandin F2-alpha receptor
+nicotinic acid receptor 1
+voltage-gated potassium channel KCNC2 isoform 2
+probable G protein-coupled receptor 34
+apoptosis regulator BAX isoform 7
+interleukin-34
+signal transducer and activator of transcription 3
+neuropeptide Y receptor 1/4/6
+lutropin/choriogonadotropin receptor
+chemokine receptor CXCR5
+5-hydroxytryptamine receptor 2B
+interleukin-2 receptor subunit beta
+cyclic nucleotide-gated cation channel alpha-3 isoform 1
+transient receptor potential cation channel TRPV3 isoform 2
+glucose-dependent insulinotropic receptor
+EBV-induced G protein-coupled receptor 2
+cannabinoid receptor 1
+RAC-alpha serine/threonine-protein kinase isoform 1
+transient receptor potential cation channel TRPC7
+mas-related G protein-coupled receptor D
+ecto-ADP-ribosyltransferase 5 isoform 6 unmodified form
+Bcl-2-like protein 11 isoform 8
+probable G protein-coupled receptor 152
+poliovirus receptor-related protein 2
+complement component C1q receptor
+FADD protein isoform 1 unmodified form
+dynein light chain 2, cytoplasmic
+apoptosis protease-activating factor 1 isoform 3
+MT1-like melatonin receptor
+ezrin-radixin-moesin-binding phosphoprotein 50 isoform 1
+ecto-ADP-ribosyltransferase 5 isoform 6
+adenosine receptor
+small conductance calcium-activated potassium channel protein 1 isoform II
+BH3-interacting domain death agonist isoform 4 unmodified form
+voltage-gated potassium channel KCNH2 isoform 3 unmodified form
+5-hydroxytryptamine receptor 5B
+ADP-ribosyl cyclase
+voltage-dependent R-type calcium channel subunit alpha-1E
+probable G protein-coupled receptor 62
+small conductance calcium-activated potassium channel protein 1 isoform VII
+TNF receptor-associated factor 5
+blue-sensitive opsin
+P2Y purinoceptor 6
+apoptosis regulator BAX isoform 2 unmodified form
+voltage-gated potassium channel KCNC2 isoform 4 unmodified form
+gelsolin
+voltage-gated potassium channel KCNG3 isoform 2 unmodified form
+14-3-3 protein
+trace amine associated receptor 5
+apoptosis regulator BAX isoform 7 unmodified form
+endothelin receptor A
+probable G protein-coupled receptor 150
+zinc finger protein helios isoform 2 unmodified form
+voltage-gated potassium channel KCNH5
+proteinase-activated receptor
+tartrate-resistant acid phosphatase type 5
+catenin beta-1
+small conductance calcium-activated potassium channel protein 2 isoform 2
+interleukin-1 receptor antagonist protein
+transient receptor potential cation channel TRPC4 isoform 3 unmodified form
+BH3-interacting domain death agonist
+chemokine receptor CCR8
+relaxin receptor 1
+transient receptor potential cation channel TRPC4 isoform 4
+B7-related protein
+voltage-gated potassium channel KCNG3 isoform 1
+modulatory voltage-gated potassium channel subunit KCNS
+voltage-dependent L-type calcium channel subunit alpha-1F
+granulocyte-macrophage colony-stimulating factor receptor subunit alpha
+tumor necrosis factor receptor superfamily member 12A
+platelet glycoprotein IX
+neuropeptide Y receptor 4
+latrophilin-1 isoform 4 unmodified form
+tumor necrosis factor receptor superfamily member 8
+B-cell receptor CD22
+potassium channel subfamily K member 15
+caspase-8-like protease
+probable G protein-coupled receptor 37
+interleukin-2
+tumor necrosis factor receptor superfamily member 13C
+T-cell surface antigen CD2 isoform 1
+transient receptor potential cation channel TRPV4 isoform 1
+interleukin-17A isoform 1
+CD160 antigen
+interleukin-18
+FADD protein isoform 1
+thrombomodulin
+mas-related G protein-coupled receptor
+26S proteasome non-ATPase regulatory subunit 2 isoform 1 unmodified form
+carcinoembryonic antigen-related cell adhesion molecule 5
+voltage-gated potassium channel KCNB2 isoform 1 unmodified form
+occludin isoform 1 unmodified form
+NAD(P)+--arginine ADP-ribosyltransferase
+neuromedin U receptor 1
+voltage-gated potassium channel KCNG4 isoform 1
+growth hormone secretagogue/motilin receptor
+complement receptor type 2
+tumor necrosis factor receptor superfamily member 6
+T-cell surface glycoprotein CD8 alpha chain
+tumor necrosis factor ligand superfamily member 10 isoform 1
+interleukin-9
+interleukin-10 receptor alpha chain
+ww domain-containing oxidoreductase isoform 5
+ww domain-containing oxidoreductase isoform 1
+melatonin receptor 1B
+CD247 isoform CD3 zeta unmodified form
+N-formyl peptide receptor 3
+mas-related G protein-coupled receptor F
+voltage-dependent L-type calcium channel subunit alpha-1C
+ezrin-radixin-moesin-binding phosphoprotein 50 isoform 2 unmodified form
+alpha-taxilin
+tumor necrosis factor receptor superfamily member 4
+ezrin isoform 1 phosphorylated 1
+interleukin-17C
+26S proteasome non-ATPase regulatory subunit 11 isoform 1
+sodium/potassium-transporting ATPase subunit beta-3
+ADP-ribosyl cyclase 2
+T-cell surface antigen CD2 isoform 1 unmodified form
+angiotensin II receptor 1
+beta-1 adrenergic receptor
+Bcl-2-like protein 11 isoform 12 unmodified form
+alpha-latrotoxin
+high affinity interleukin-8 receptor
+5-hydroxytryptamine receptor 1A
+transient receptor potential cation channel TRPC4 isoform 3
+probable G protein-coupled receptor 75
+leucine-rich repeat-containing G protein-coupled receptor 4/5/6
+P2Y purinoceptor 2
+mas-related G protein-coupled receptor A7
+nicotinic acid receptor 2
+gonadotropin-releasing hormone I receptor
+cholecystokinin receptor
+intercellular adhesion molecule 1/3
+tumor necrosis factor receptor superfamily member 1B
+tyrosine-protein kinase ITK/TSK isoform 1 unmodified form
+ww domain-containing oxidoreductase isoform 1 unmodified form
+oxoeicosanoid receptor 1
+chemokine receptor CX3CR1
+cation channel sperm-associated protein 3 isoform 2 unmodified form
+transient receptor potential cation channel TRPV3 isoform 1 unmodified form
+angiopoietin-1 receptor isoform 1 unmodified form
+transient receptor potential cation channel TRPV1 isoform 1 unmodified form
+bone marrow stromal antigen 2
+galanin receptor
+free fatty acid receptor 2
+26S proteasome non-ATPase regulatory subunit 4 isoform 4 unmodified form
+shab-related voltage-gated potassium channel alpha subunit
+voltage-gated potassium channel KCND3 isoform 1 unmodified form
+CD83 antigen
+voltage-gated potassium channel KCNG3 isoform 2
+interleukin-1 alpha isoform 1 myristoylated form
+programmed cell death 1 ligand 1
+probable G protein-coupled receptor 173
+signal transducer and activator of transcription 5a
+interleukin-32
+interleukin-1 alpha isoform 1 phosphorylated 1
+discoidin domain-containing receptor 1
+orexin receptor 2
+mas-related G protein-coupled receptor X
+platelet-derived growth factor with CUB domain
+ww domain-containing oxidoreductase isoform 4
+sialic acid-binding Ig-like lectin 6
+adenosine receptor A2b
+cation channel sperm-associated protein 2 isoform 4
+cftr isoform 3 unmodified form
+glycoprotein hormone receptor
+IKK-related kinase
+leucine-rich repeat-containing G protein-coupled receptor 6
+Bcl-2-like protein 11 isoform 3
+probable G protein-coupled receptor 32
+transient receptor potential cation channel TRPC with PDZ-binding motif
+probable G protein-coupled receptor 35
+tumor necrosis factor ligand superfamily member 10
+tumor necrosis factor receptor superfamily member 9
+cation channel sperm-associated protein 3 isoform 1 unmodified form
+tumor-associated calcium signal transducer
+potassium channel subfamily K member 5
+cftr isoform 2 unmodified form
+transient receptor potential cation channel TRPV4 isoform 2 unmodified form
+interleukin-15
+angiopoietin-1 receptor isoform 1
+voltage-gated potassium channel KCNC1 isoform 2
+muscarinic acetylcholine receptor 4
+mitogen-activated protein kinase 8 isoform 4
+tyrosine-protein kinase ITK/TSK isoform 1
+voltage-gated potassium channel KCNG3
+frizzled-10
+toll-like receptor 2
+lysophosphatidic acid receptor 5
+early activation antigen CD69
+T-cell surface antigen CD2 isoform 1 cleaved and glycosylated 1
+transient receptor potential cation channel TRPA1 isoform 1 unmodified form
+platelet-derived growth factor D
+gelsolin isoform 1 unmodified form
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 3
+neuropeptides B/W receptor
+oxytocin receptor
+CD209 antigen-like protein A
+discoidin domain-containing receptor
+small conductance calcium-activated potassium channel protein 1 isoform VIII unmodified form
+LPAR1/S1PR1-like lysophospholipid receptor
+ecto-ADP-ribosyltransferase 5 isoform 5 unmodified form
+apoptosis protease-activating factor 1 isoform 5 unmodified form
+high affinity interleukin-8 receptor B
+ww domain-containing oxidoreductase isoform 6
+opioid receptor
+apoptosis protease-activating factor 1 isoform 2 unmodified form
+voltage-gated potassium channel KCNC4 isoform 1
+caspase-1-like protease
+ezrin isoform 1 phosphorylated 4
+zinc finger protein aiolos isoform 5 unmodified form
+apoptosis protease-activating factor 1 isoform 4 unmodified form
+Bcl-2-like protein 11 isoform 8 unmodified form
+prostaglandin E2 receptor EP2
+interleukin-33
+probable G protein-coupled receptor 85
+ecto-ADP-ribosyltransferase 5 isoform 2 unmodified form
+small conductance calcium-activated potassium channel protein 3 variant 1
+probable G protein-coupled receptor 31
+follitropin receptor
+toll-like receptor 5
+voltage-gated potassium channel alpha subunit
+voltage-gated potassium channel KCNH4
+adrenocorticotropic hormone receptor
+chemokine receptor CCR2
+chemokine receptor 1-like protein CCR1L1
+zinc finger protein aiolos isoform 6 unmodified form
+neuropeptides B/W receptor 2
+Bcl-2-like protein 11 isoform 16 unmodified form
+calcium-activated calmodulin-binding potassium channel alpha subunit
+CASP8 and FADD-like apoptosis regulator
+intercellular adhesion molecule 2
+small conductance calcium-activated potassium channel protein 1 isoform III
+urotensin II receptor
+carcinoembryonic antigen-related cell adhesion molecule 8
+tumor necrosis factor receptor superfamily member 10A/B
+thyrotropin-releasing hormone receptor
+small conductance calcium-activated potassium channel protein 2
+glycosylphosphatidylinositolated residue
+methylated residue
+myristoylated residue
+lacks_modification
+secretin receptor-like G protein-coupled receptor
+adhesion G protein-coupled receptor
+narrow
+protein cleavage
+acetylated residue
+modified protein residue
+post-translational protein modification
+mannose receptor
+anti-Muellerian hormone isoform 1 cleaved and glycosylated 1
+L-selenocysteine residue
+N-formyl-L-methionine residue
+synonym
+natural, non-standard encoded residue
+interleukin-21
+T-lymphocyte activation antigen CD80
+voltage-gated potassium channel subunit KCNQ4 sequence variant 4
+ICOS ligand
+tumor necrosis factor receptor superfamily member 10B isoform 2 unmodified form
+Bcl-2-like protein 11 isoform 10
+prokineticin receptor 2
+semaphorin
+interleukin-5
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 isoform 1
+Bcl2 antagonist of cell death isoform 2
+interleukin-1 receptor antagonist protein isoform 2 unmodified form
+small conductance calcium-activated potassium channel protein 1 isoform 1
+apoptosis protease-activating factor 1 isoform 1
+C-type lectin domain family 4 member K
+tumor necrosis factor receptor superfamily member 5
+small conductance calcium-activated potassium channel protein 1 isoform VI unmodified form
+toll-like receptor 7
+26S proteasome non-ATPase regulatory subunit 12 isoform 1
+apoptosis protease-activating factor 1 isoform 6
+voltage-gated potassium channel subunit KCNQ5 isoform 3
+zinc finger protein aiolos
+26S proteasome non-ATPase regulatory subunit 12
+voltage-gated potassium channel KCNH6
+cyclic nucleotide-gated cation channel alpha-3 isoform 2 unmodified form
+BH3-interacting domain death agonist isoform 3
+5-hydroxytryptamine receptor 1B
+interleukin-13 receptor alpha-2 chain
+interleukin-11
+voltage-gated potassium channel KCNC4 isoform 1 unmodified form
+small conductance calcium-activated potassium channel protein 3 isoform 1
+voltage-gated potassium channel KCNG1 isoform 2 unmodified form
+voltage-gated potassium channel subunit KCNQ4 sequence variant 2
+P2Y purinoceptor 1/2/3/4/6
+somatostatin receptor 2
+Bcl2-like apoptosis inhibitor
+sodium channe type 1 subunit alpha
+prostacyclin receptor
+toll-like receptor 6
+interleukin-1
+rhesus blood group-associated glycoprotein
+tetraspanin
+CAMPATH-1 antigen
+26S proteasome non-ATPase regulatory subunit 4 isoform 2
+zinc finger protein helios isoform 1
+calcium-independent alpha-latrotoxin receptor
+G protein-coupled receptor 15
+melanocortin receptor 4
+cation channel sperm-associated protein 3 isoform 2
+voltage-gated potassium channel subunit KCNQ5 isoform 1 unmodified form
+glycylpeptide N-tetradecanoyltransferase 1
+high affinity interleukin-8 receptor A
+voltage-gated potassium channel KCNH2 isoform 2
+sodium channel type 3 subunit alpha
+voltage-dependent L-type calcium channel subunit alpha-1S
+neuromedin U receptor 2
+tachykinin receptor
+5-hydroxytryptamine receptor 1F
+oleoyl-L-alpha-lysophosphatidic acid receptor
+chemokine receptor CXCR3
+CD247 isoform CD3 eta
+mu-opioid receptor
+TGF-beta superfamily receptor type-1
+fibroblast growth factor receptor
+lysophosphatidic acid receptor 4
+apoptosis regulator Bcl-2
+14-3-3 protein beta/alpha isoform 1
+occludin isoform 1
+rhodopsin-like G protein-coupled receptor
+transient receptor potential cation channel TRPV1 isoform 1
+neuropeptides B/W receptor 1
+Bcl-2-like protein 11 isoform 17 unmodified form
+sialic acid-binding Ig-like lectin 7
+26S proteasome non-ATPase regulatory subunit 11 isoform 1 unmodified form
+cation channel sperm-associated protein 1
+cytokine receptor common gamma chain
+ADP-ribosyl cyclase 1
+G protein-coupled receptor frizzled
+receptor-type tyrosine-protein phosphatase eta
+voltage-gated potassium channel KCNC4 isoform 2
+Bcl2 antagonist of cell death isoform 1 unmodified form
+26S proteasome non-ATPase regulatory subunit 6 isoform 1
+receptor-type tyrosine-protein kinase Tie
+TNF receptor-associated factor 1
+voltage-gated potassium channel KCNV2
+relaxin receptor
+forkhead box protein P3
+prokineticin receptor
+ecto-ADP-ribosyltransferase 5
+intermediate conductance calcium-activated potassium channel protein 4 isoform 1
+potassium channel subfamily T member 2
+26S proteasome non-ATPase regulatory subunit 4 isoform 1 unmodified form
+voltage-gated potassium channel KCND3 isoform 1
+probable G protein-coupled receptor 82
+probable G protein-coupled receptor 21/52
+sodium leak channel non-selective protein isoform 1 unmodified form
+small conductance calcium-activated potassium channel protein 1
+visual pigment-like receptor peropsin
+26S proteasome non-ATPase regulatory subunit 4 isoform 2 unmodified form
+alpha-1A adrenergic receptor
+T-cell ecto-ADP-ribosyltransferase
+intermediate conductance calcium-activated potassium channel protein 4
+voltage-dependent P/Q-type calcium channel subunit alpha-1A
+alpha-2B adrenergic receptor
+interleukin-17A isoform 1 unmodified form
+free fatty acid receptor 3
+vascular endothelial growth factor receptor
+motilin receptor
+chemokine receptor-like protein CCRL1
+TNF receptor-associated factor 6
+catenin beta-1 isoform 2 unmodified form
+mas-related G protein-coupled receptor E
+voltage-gated potassium channel KCNB1
+voltage-gated potassium channel KCNC1 isoform 1
+D(2)-like dopamine receptor
+voltage-gated potassium channel subunit KCNQ4 sequence variant 1
+probable G protein-coupled receptor 153
+neuromedin-K receptor
+gelsolin isoform 2 unmodified form
+voltage-gated potassium channel KCNB2
+cyclic nucleotide-gated cation channel alpha-3 isoform 2
+E/P-selectin
+Bcl-2-like protein 11 isoform 1
+mas-related G protein-coupled receptor A1
+cation channel sperm-associated protein 2 isoform 1
+tumor necrosis factor receptor superfamily member 10C
+G protein-coupled neurotensin receptor
+26S proteasome non-ATPase regulatory subunit 1 isoform 1 unmodified form
+voltage-gated potassium channel KCND3
+proteasome subunit beta type-2 isoform 1
+gelsolin isoform 1
+interleukin-8
+voltage-gated potassium channel KCNG1 isoform 1 unmodified form
+14-3-3 protein beta/alpha isoform 2 unmodified form
+latrophilin-3
+sodium channel type 11 subunit alpha
+toll-like receptor
+small conductance calcium-activated potassium channel protein 1 isoform V unmodified form
+interleukin-12 subunit beta
+Bcl2 homologous antagonist/killer
+Bcl-2-like protein 11 isoform 11
+mitogen-activated protein kinase 8 isoform 3
+caspase-10
+beta-1,3-glucuronyltransferase 1
+probable G protein-coupled receptor 161
+interleukin-18 receptor 1
+zinc finger protein aiolos isoform 1
+apoptosis regulator BAX
+tumor necrosis factor receptor superfamily member 10B isoform 1
+interleukin-13 receptor alpha-1 chain
+transient receptor potential cation channel TRPV5
+interleukin-10
+Na(+)/H(+) exchange regulatory cofactor with ERM-binding domain
+low affinity immunoglobulin gamma Fc region receptor III-B
+tumor necrosis factor receptor superfamily member 10B isoform 3
+alpha-2A adrenergic receptor
+mitogen-activated protein kinase 8 isoform 2 unmodified form
+discoidin domain-containing receptor 2
+poliovirus receptor-related protein
+paired box protein PAX-5
+G protein-coupled receptor 182
+proteasome subunit beta type-2 isoform 1 unmodified form
+voltage-gated potassium channel KCNH1 isoform 2 unmodified form
+Bcl-2-like protein 11 isoform 5
+immunoglobulin superfamily member 8
+CD70 antigen
+interleukin-9 receptor
+probable G protein-coupled receptor 3
+nuclear receptor ROR-gamma
+apoptosis protease-activating factor 1 isoform 6 unmodified form
+cation channel sperm-associated protein subunit beta isoform 1 unmodified form
+alpha-1 adrenergic receptor
+chemokine receptor CCR6
+Bcl-2-like protein 11 isoform 17
+BMP7
+BMP8B isoform 1
+BMP4
+BMP6 isoform 1 cleaved 1
+BMP5 isoform 1
+BMP7 isoform 1 cleaved form
+BMP5
+BMP4 isoform 1 cleaved form
+BMP2 isoform 1
+BMP8B
+BMP receptor type-2
+BMP receptor type-2 sequence variant 9
+BMP receptor type-1B
+DNA-binding protein inhibitor ID-1
+DNA-binding protein inhibitor ID-1 isoform 1 unmodified form
+DNA-binding protein inhibitor ID-1 isoform 2 unmodified form
+DNA-binding protein inhibitor ID-1 isoform 2
+DNA-binding protein inhibitor ID-1 isoform 1
+BMP receptor-regulated smad protein
+smad1 isoform 1
+smad9 isoform 3 phosphorylated 1
+smad1
+smad5 isoform 2
+smad1 isoform 1 phosphorylated 1
+smad5 isoform 1 phosphorylated 1
+smad9 isoform 1
+melanocortin receptor
+erm protein
+platelet endothelial cell adhesion molecule
+CD247 isoform CD3 eta unmodified form
+zinc finger protein aiolos isoform 2 unmodified form
+CMRF35-like molecule 2
+tumor necrosis factor receptor superfamily member 17
+chemokine receptor CCR9
+small conductance calcium-activated potassium channel protein 2 isoform 1 unmodified form
+galanin receptor 1
+dynein light chain
+neuromedin-B receptor
+5-hydroxytryptamine receptor 2C
+receptor-type tyrosine-protein phosphatase eta isoform 1 unmodified form
+poliovirus receptor-related protein 1
+transient receptor potential cation channel TRPV4 isoform 5
+ezrin isoform 1 phosphorylated 3
+G protein-coupled receptor 37-like 1
+lysophosphatidic acid receptor 3
+probable G protein-coupled receptor 84
+CD44 antigen
+interleukin-1 alpha isoform 1 cleaved form
+CD3 subunit with immunoglobulin domain
+transient receptor potential cation channel TRPV
+C5a anaphylatoxin chemotactic receptor C5L2
+two pore calcium channel protein 2
+voltage-gated potassium channel KCNB2 isoform 1
+voltage-gated potassium channel KCNG1 isoform 2
+melanocortin receptor 5
+shal-related voltage-gated potassium channel
+rhodopsin
+sodium leak channel non-selective protein isoform 2 unmodified form
+26S proteasome non-ATPase regulatory subunit 4
+cysteinyl leukotriene receptor 1
+pre T-cell antigen receptor alpha
+immunoglobulin gamma Fc receptor I
+cyclic nucleotide-gated cation channel alpha-3
+5-hydroxytryptamine receptor 1E
+programmed cell death 1 ligand 2
+tumor necrosis factor receptor type 1-associated DEATH domain protein
+chemokine receptor CCR3
+G protein-coupled estrogen receptor 1
+TGF-beta receptor type-2
+voltage-gated potassium channel KCNC4
+transient receptor potential cation channel TRPC4 isoform 2 unmodified form
+transient receptor potential cation channel TRPV6
+mas-related G protein-coupled receptor C11
+probable G protein-coupled receptor 81
+interleukin-1 receptor antagonist protein isoform 2
+potassium channel subfamily K member 3
+latrophilin-1 isoform 2 unmodified form
+voltage-dependent T-type calcium channel subunit alpha-1G
+fMet-Leu-Phe receptor
+ecto-ADP-ribosyltransferase 5 isoform 3 unmodified form
+mas-related G protein-coupled receptor MRG
+voltage-gated potassium channel KCNH1
+apoptosis regulator BAX isoform 1
+voltage-gated potassium channel subunit KCNQ4 sequence variant 6
+probable G protein-coupled receptor 4
+mas-related G protein-coupled receptor A3
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1 isoform 1
+CD48 antigen
+latrophilin-1 isoform 4 cleaved form
+nitric-oxide synthase, inducible
+tyrosine-protein phosphatase non-receptor type substrate 1
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3
+vascular cell adhesion protein 1
+mas-related G protein-coupled receptor B3
+voltage-gated potassium channel KCNH3
+probable G protein-coupled receptor 151
+transient receptor potential cation channel TRPC3
+thrombomodulin-like receptor
+caspase-3-like protease
+smad1 isoform 1 phosphorylated and ubiquitinated 1
+smad5 isoform 1
+smad5
+smad9
+smad9 isoform 3
+smad9 isoform 2
+smad9 isoform 1 phosphorylated 1
+voltage-gated potassium channel subunit KCNQ2 isoform 3
+voltage-gated potassium channel subunit KCNQ2 isoform 3 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 4
+voltage-gated potassium channel subunit KCNQ2 isoform 4 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 5
+voltage-gated potassium channel subunit KCNQ2 isoform 5 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 6
+voltage-gated potassium channel subunit KCNQ2 isoform 6 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 8
+voltage-gated potassium channel subunit KCNQ2 isoform 8 unmodified form
+ecto-ADP-ribosyltransferase 5 isoform 1
+tumor necrosis factor receptor superfamily member 10A
+5-hydroxytryptamine receptor 2A
+melatonin-related receptor
+voltage-gated potassium channel KCNC2 isoform 1 unmodified form
+interleukin-17
+tissue factor
+apoptosis protease-activating factor 1 isoform 2
+26S proteasome non-ATPase regulatory subunit 6
+ALK receptor tyrosine kinase
+D(2) dopamine receptor
+potassium channel, TWIK-1-related
+26S proteasome non-ATPase regulatory subunit 13 isoform 2
+caspase-1
+transcription factor E2-alpha
+E-selectin
+angiotensin-converting enzyme, somatic isoform
+26S proteasome non-ATPase regulatory subunit 4 isoform 4
+BH3-interacting domain death agonist isoform 2 unmodified form
+D(1)-like dopamine receptor
+angiopoietin-1 receptor sequence variant 2
+vasopressin receptor 1A
+transient receptor potential cation channel TRPV2
+mitogen-activated protein kinase 8
+5-hydroxytryptamine receptor 4
+tyrosine-protein kinase TEC-type
+probable G protein-coupled receptor 25
+CD3 gamma
+high affinity immunoglobulin gamma Fc receptor I
+cytoplasmic tyrosine-protein kinase BMX
+apoptosis regulator BAX isoform 5 unmodified form
+catenin beta-1 isoform 1
+interleukin-17A
+cysteinyl leukotriene receptor
+lymphocyte antigen 75
+granulocyte colony-stimulating factor receptor
+interleukin-4
+thromboxane A2 receptor
+signal transducer and activator of transcription 6
+ezrin-radixin-moesin-binding phosphoprotein 50 isoform 2
+latrophilin-1 isoform 3 unmodified form
+apoptosis regulator BAX isoform 3.
+cGMP-gated cation channel alpha-1 sequence variant 1
+mas-related G protein-coupled receptor A5
+blood group Rh(CE) polypeptide
+C-type asialoglycoprotein receptor
+14-3-3 protein beta/alpha isoform 1 unmodified form
+voltage-gated potassium channel KCND2 isoform 1 unmodified form
+interleukin-1 receptor antagonist protein isoform 3
+voltage-gated sodium channel subunit alpha
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 5
+apoptosis protease-activating factor 1 isoform 3 unmodified form
+intermediate conductance calcium-activated potassium channel protein 4 isoform 1 unmodified form
+beta-2 adrenergic receptor
+small conductance calcium-activated potassium channel protein 1 isoform 1 unmodified form
+semaphorin-7A
+chemokine receptor CXCR6
+N-arachidonyl glycine receptor
+caspase-8
+potassium channel subfamily K member 2
+glycylpeptide N-tetradecanoyltransferase 1 isoform 2 unmodified form
+adenosine receptor A3
+Bcl-2-like protein 11 isoform 10 unmodified form
+galanin receptor 3
+5-hydroxytryptamine receptor 1D
+Bcl2-like protein 11
+interleukin-1 receptor antagonist protein isoform 4
+chemokine receptor
+gastrin-releasing peptide receptor
+mas-related G protein-coupled receptor B10
+relaxin receptor 2
+tumor necrosis factor receptor superfamily member 10B isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ2 isoform 7
+voltage-gated potassium channel subunit KCNQ2 isoform 7 unmodified form
+voltage-gated potassium channel subunit KCNQ2 sequence variant 1
+voltage-gated potassium channel subunit KCNQ2 isoform 9
+voltage-gated potassium channel subunit KCNQ2 isoform 9 unmodified form
+voltage-gated potassium channel subunit KCNQ2 sequence variant 2
+voltage-gated potassium channel subunit KCNQ2 sequence variant 10
+DNA-binding protein inhibitor ID-2
+DNA-binding protein inhibitor ID-2 isoform 1 unmodified form
+DNA-binding protein inhibitor ID-2 isoform 1 phosphorylated 1
+DNA-binding protein inhibitor ID-2 isoform 1
+ptx homeobox protein
+noggin protein
+myc protein
+smad anchor for receptor activation
+ribosomal protein S6 kinase beta
+rho-associated protein kinase
+H1 histamine receptor
+voltage-gated potassium channel KCNC2
+ezrin-radixin-moesin-binding phosphoprotein 50
+neuropeptide FF receptor 2
+voltage-dependent N-type calcium channel subunit alpha-1B
+fucosyltransferase FUT4
+neuromedin U receptor
+interleukin-17 receptor A
+CD3 epsilon
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 7
+ww domain-containing oxidoreductase isoform 4 unmodified form
+cftr isoform 2
+probable G protein-coupled receptor 1
+small conductance calcium-activated potassium channel protein 2 isoform 2 unmodified form
+interleukin-1 alpha
+mas-related G protein-coupled receptor A6
+toll-like receptor 9
+26S proteasome non-ATPase regulatory subunit 1 isoform 2
+tumor necrosis factor receptor superfamily member 10B isoform 3 unmodified form
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 isoform 1
+alpha-1D adrenergic receptor
+immunoglobulin gamma Fc receptor II/III/IV
+P2Y purinoceptor 13
+cftr isoform 1 phosphorylated 2
+cyclic nucleotide-gated cation channel alpha-3 isoform 1 unmodified form
+DNA fragmentation factor subunit alpha
+RAC-alpha serine/threonine-protein kinase isoform 1 unmodified form
+TGF-beta superfamily receptor type-2 with activin receptor domain
+substance-K receptor
+26S proteasome non-ATPase regulatory subunit 4 isoform 1
+tumor necrosis factor receptor superfamily member 1A
+interleukin-1 alpha isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ2
+dipeptidyl-peptidase IV
+angiotensin II receptor 1B
+ww domain-containing oxidoreductase isoform 3
+syndecan-1
+mas-related G protein-coupled receptor A4
+ezrin
+Bcl-2-like protein 11 isoform 9 unmodified form
+26S proteasome non-ATPase regulatory subunit 13 isoform 2 unmodified form
+sphingosylphosphorylcholine receptor
+SLAM family member 5
+latrophilin-1 isoform 3
+voltage-gated potassium channel KCNS1
+probable G protein-coupled receptor 148
+probable G protein-coupled receptor 139
+RAC-alpha serine/threonine-protein kinase
+tumor necrosis factor ligand superfamily member 11 isoform 1 unmodified form
+small conductance calcium-activated potassium channel protein 1 isoform V
+ezrin isoform 1 phosphorylated 2
+26S proteasome non-ATPase regulatory subunit 4 isoform 3
+ww domain-containing oxidoreductase isoform 2
+kappa-opioid receptor
+G protein-coupled receptor MAS
+voltage-gated potassium channel subunit KCNQ4
+shaw-related voltage-gated potassium channel alpha subunit
+platelet-derived growth factor C isoform 1 unmodified form
+probable G protein-coupled receptor 45/63
+26S proteasome non-ATPase regulatory subunit 1
+voltage-gated potassium channel KCND1
+cation channel sperm-associated protein 2 isoform 4 unmodified form
+small conductance calcium-activated potassium channel protein 3 isoform 1 unmodified form
+prostaglandin E2 receptor EP1
+voltage-gated potassium channel KCND2 isoform 1
+chemokine receptor CCR1/3/1L
+low affinity immunoglobulin gamma Fc region receptor III
+melanocyte-stimulating hormone receptor
+retinoblastoma-like protein
+voltage-gated potassium channel subunit KCNQ2 sequence variant 3
+thrombospondin subgroup A
+small GTPase
+smad protein
+voltage-gated potassium channel subunit KCNQ2 sequence variant 6
+voltage-gated potassium channel subunit KCNQ2 sequence variant 7
+voltage-gated potassium channel subunit KCNQ2 sequence variant 4
+voltage-gated potassium channel subunit KCNQ2 sequence variant 5
+voltage-gated potassium channel subunit KCNQ4 isoform 1
+voltage-gated potassium channel subunit KCNQ4 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ3 isoform 1
+voltage-gated potassium channel subunit KCNQ3 isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ2 sequence variant 9
+prominin-1 isoform 5
+prominin-1 isoform 5 unmodified form
+voltage-gated potassium channel subunit KCNQ2 sequence variant 8
+prominin-1 isoform 6
+prominin-1 isoform 6 unmodified form
+tumor necrosis factor ligand superfamily member 10/11
+scavenger receptor cysteine-rich type 1 protein M130
+chemokine receptor XCR1
+transient receptor potential cation channel TRPV4 isoform 3
+endothelin receptor
+ww domain-containing oxidoreductase isoform 5 unmodified form
+DNA fragmentation factor subunit alpha isoform 2
+probable G protein-coupled receptor 141
+tumor necrosis factor ligand superfamily member 10 isoform 1 unmodified form
+C-type lectin domain family 10 member A
+poliovirus receptor
+toll-like receptor 3
+cGMP-gated cation channel alpha-1 isoform 1 unmodified form
+prostanoid receptor
+tyrosine-protein kinase BTK
+mas-related G protein-coupled receptor A
+cadherin-5
+voltage-gated potassium channel KCNC2 isoform 1
+carcinoembryonic antigen-related cell adhesion molecule 3
+small conductance calcium-activated potassium channel protein 1 isoform IV
+intercellular adhesion molecule 5
+toll-like receptor 10
+latrophilin-1 isoform 4
+CD180 antigen
+interleukin-1 receptor antagonist protein isoform 1 cleaved form
+interleukin-17B
+cytokine receptor common beta chain
+probable G protein-coupled receptor 123
+tumor necrosis factor receptor superfamily member 6
+TGF-beta-like cystine-knot cytokine
+melanocortin receptor 3
+sialoadhesin
+caspase-4
+chemokine receptor CCR10
+26S proteasome non-ATPase regulatory subunit 13 isoform 1
+N-formyl peptide receptor
+somatostatin receptor 3
+5-hydroxytryptamine receptor 1
+platelet glycoprotein V
+alpha-latrotoxin isoform 1 cleaved 1
+H4 histamine receptor
+voltage-gated potassium channel KCNG1 isoform 1
+apoptosis regulator BAX isoform 4
+BH3-interacting domain death agonist isoform 1
+sodium channe type 10 subunit alpha
+angiotensin II receptor 2
+transient receptor potential cation channel TRPV4 isoform 3 unmodified form
+receptor-type tyrosine-protein phosphatase eta isoform 1
+CD320 antigen
+endosialin
+26S proteasome non-ATPase regulatory subunit 4 isoform 6 unmodified form
+complement receptor type 1
+14-3-3 protein beta/alpha isoform 2
+probable G protein-coupled receptor 26
+interleukin-27 subunit beta
+beta-3 adrenergic receptor
+CD247 isoform CD3 zeta
+voltage-gated potassium channel subunit KCNQ4 sequence variant 3
+cholecystokinin receptor 1
+interleukin-6 receptor subunit alpha
+neuropeptide FF receptor 1
+thrombopoietin receptor
+urokinase plasminogen activator surface receptor
+muscarinic acetylcholine receptor 2
+platelet-derived growth factor C isoform 1
+tumor-associated calcium signal transducer 1
+Bcl-2-like protein 11 isoform 2 unmodified form
+latrophilin-1 isoform 1 unmodified form
+voltage-gated potassium channel KCNC2 isoform 4
+transient receptor potential cation channel TRPC4 isoform 1
+prostaglandin E2 receptor EP4
+ezrin isoform 1 unmodified form
+voltage-gated potassium channel KCNF1
+tumor necrosis factor ligand superfamily member 11 isoform 1
+cytochrome c, somatic
+somatostatin receptor 4
+DNA fragmentation factor subunit alpha isoform 1 unmodified form
+interleukin-6 receptor subunit alpha isoform 3
+interleukin-6 receptor subunit alpha isoform 3 unmodified form
+interleukin-6 receptor subunit alpha isoform 1 cleaved form
+interleukin-6 receptor subunit alpha isoform 1 soluble form
+interleukin-6 receptor subunit alpha isoform 1
+interleukin-6 receptor subunit alpha isoform 1 unmodified form
+voltage-gated potassium channel subunit KCNQ4 isoform 2
+voltage-gated potassium channel subunit KCNQ4 isoform 2 unmodified form
+interleukin-6 receptor subunit alpha isoform 2
+interleukin-6 receptor subunit alpha isoform 2 unmodified form
+cullin
+creb-binding protein/zinc finger protein HRX chimera
+follistatin
+cyclin-dependent kinase inhibitor
+class 1 small leucine-rich proteoglycan
+chordin
+interferon gamma
+HECT-domain-containing E3 ubiquitin-protein ligase with WW domains
+mitogen-activated protein kinase
+latent TGF-beta-binding protein
+interleukin-1 receptor-associated kinase-like 2
+interleukin-1 receptor-associated kinase 3
+cadherin
+toll-like receptor 1
+CD209 antigen
+psychosine receptor
+transient receptor potential cation channel TRPC4
+voltage-gated potassium channel KCNB1 isoform 1 unmodified form
+sialic acid-binding Ig-like lectin 5
+small conductance calcium-activated potassium channel protein 1 isoform VI
+ecto-ADP-ribosyltransferase 5 isoform 3
+autoimmune regulator
+adenosine receptor A1
+interleukin-17A isoform 1 cleaved 1
+mas-related G protein-coupled receptor H
+inhibitor of nuclear factor kappa-b kinase subunit alpha
+Bcl-2-like protein 11 isoform 11 unmodified form
+anti-Muellerian hormone type-2 receptor
+CD177 antigen
+caspase-3
+tyrosine-protein kinase BTK isoform 1 unmodified form
+gonadotropin-releasing hormone II receptor
+potassium channel subfamily T
+tumor necrosis factor ligand superfamily member 11 isoform 3 unmodified form
+interleukin-1 receptor antagonist protein isoform 3 unmodified form
+interleukin-13
+apoptosis regulator BAX isoform 6 unmodified form
+transient receptor potential cation channel TRPV3 isoform 3
+transient receptor potential cation channel TRPV4
+alpha-latrotoxin isoform 1
+probable G protein-coupled receptor 146
+transient receptor potential cation channel TRPC7 isoform 1
+probable G protein-coupled receptor 153/162
+class 2 cytokine, IL-10 type
+delta-opioid receptor
+cation channel sperm-associated protein 3
+ww domain-containing oxidoreductase isoform 2 unmodified form
+tumor necrosis factor ligand superfamily member 11 isoform 3
+B-cell antigen receptor complex-associated protein alpha-chain
+sodium channel type 7 subunit alpha
+probable G protein-coupled receptor 101
+tyrosine-protein kinase Tec
+cytoplasmic tyrosine-protein kinase BMX isoform 1
+voltage-gated potassium channel KCNA4 isoform 1 phosphorylated 1
+small conductance calcium-activated potassium channel protein 1 isoform VIII
+D(4) dopamine receptor
+voltage-gated potassium channel KCNH1 isoform 1 unmodified form
+mas-related G protein-coupled receptor A8
+Bcl-2-like protein 11 isoform 3 unmodified form
+caspase-7
+cyclic nucleotide-gated channel alpha subunit
+zinc finger protein aiolos isoform 1 unmodified form
+ezrin-radixin-moesin-binding phosphoprotein 50 isoform 1 unmodified form
+transient receptor potential cation channel TRPA
+serine/threonine-protein kinase, MST4-like
+voltage-gated potassium channel KCNC1
+sodium leak channel non-selective protein isoform 3
+trace amine associated receptor 6-9
+frizzled-4
+green-sensitive opsin
+TNF receptor-associated factor 3
+relaxin-3 receptor 2
+angiotensin II receptor
+interleukin-6
+fibroblast growth factor receptor 3
+tumor necrosis factor ligand superfamily member 8
+Bcl-2-like protein 11 isoform 6
+apoptosis protease-activating factor 1 isoform 1 unmodified form
+P2RY10-like receptor
+CMRF35-like molecule 8
+CD300 antigen-like protein
+prominin
+prominin-1
+prominin-1 isoform 3
+prominin-1 isoform 1
+prominin-1 isoform 4 unmodified form
+prominin-1 isoform 4
+prominin-1 isoform 3 unmodified form
+prominin-1 isoform 1 unmodified form
+interleukin-1 receptor-associated kinase 4
+interleukin-1 receptor-associated kinase IRAK1/3
+interleukin-1 receptor-associated kinase 1
+RING-box protein
+HLH DNA-binding protein inhibitor
+E3 ubiquitin ligase SFC complex Skp1 subunit
+protein
+leucine-rich repeat-containing G protein-coupled receptor 4
+C5a anaphylatoxin chemotactic receptor
+Bcl-2-like protein 11 isoform 4
+26S proteasome non-ATPase regulatory subunit 2 isoform 1
+nociceptin receptor
+platelet-activating factor receptor
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 4
+zinc finger protein aiolos isoform 2
+cell surface glycoprotein MUC18
+transient receptor potential cation channel TRPC
+neuropeptide Y receptor 5
+zinc finger protein aiolos isoform 6
+lipopolysaccharide-binding protein
+angiopoietin-1 receptor
+sphingosine 1-phosphate receptor 1-5
+latrophilin-1
+interleukin-7
+voltage-gated potassium channel KCNV1
+melanin-concentrating hormone receptor 2
+B2 bradykinin receptor
+alpha-2 adrenergic receptor
+orexin receptor
+CD302 antigen
+interleukin-24
+platelet glycoprotein Ib alpha chain
+transient receptor potential cation channel TRPV4 isoform 4
+26S proteasome non-ATPase regulatory subunit 4 isoform 3 unmodified form
+voltage-gated potassium channel subunit KCNQ5
+catenin beta-1 isoform 1 unmodified form
+sodium leak channel non-selective protein isoform 2
+interleukin-28B
+probable G protein-coupled receptor 22
+H2 histamine receptor
+interleukin-1 alpha isoform 1 myristoylated 1
+melatonin receptor 1A
+prolactin-releasing peptide receptor
+Bcl-2-like protein 11 isoform 14
+free fatty acid receptor 1
+tumor necrosis factor receptor superfamily member 13B
+mitogen-activated protein kinase kinase kinase 7-interacting protein 1
+probable G protein-coupled receptor 20
+interleukin-1 alpha isoform 1 myristoylated 2
+voltage-gated potassium channel subunit KCNQ3
+voltage-gated potassium channel subunit KCNA4 isoform 1
+cation channel sperm-associated protein 2 isoform 3 unmodified form
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2 isoform 1 unmodified form
+neuropeptide Y receptor 6
+fibroblast growth factor receptor 1
+glycylpeptide N-tetradecanoyltransferase 1 isoform 1 unmodified form
+5-hydroxytryptamine receptor 7
+lysophosphatidic acid receptor 2
+interleukin-19
+sodium channel type 2 subunit alpha
+interleukin-17A isoform 1 cleaved form
+ADAM 17 endopeptidase
+probable G protein-coupled receptor 160
+intercellular adhesion molecule 3
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+Bcl-2 homologous antagonist/killer isoform 1 (human)
+G protein-coupled receptor 120
+voltage-gated potassium channel KCNH2 isoform 1
+5-hydroxytryptamine receptor 5
+C-type lectin domain family 4 member M
+FADD protein
+neural cell adhesion molecule
+interleukin-17F
+cyclic nucleotide-gated cation channel beta-3 isoform 2 unmodified form
+cyclic nucleotide-gated cation channel beta-3 sequence variant 1
+voltage-gated calcium channel subunit alpha
+zinc finger protein helios isoform 2
+gamma-glutamyltranspeptidase
+zinc finger protein aiolos isoform 3
+inhibitor of nuclear factor kappa-b kinase subunit epsilon
+endoglin
+low affinity immunoglobulin gamma Fc region receptor II
+mitogen-activated protein kinase 8 isoform 1
+voltage-gated potassium channel KCND3 isoform 2 unmodified form
+prostaglandin D2 receptor DP2
+cytochrome c
+voltage-gated potassium channel KCNG1
+small conductance calcium-activated potassium channel protein 1 isoform I unmodified form
+dynein light chain 1, cytoplasmic
+interleukin-28A
+CD276 antigen
+putative mucin core protein 24
+small conductance calcium-activated potassium channel protein 2 isoform 1
+ecto-ADP-ribosyltransferase 5 isoform 2
+probable G protein-coupled receptor 26/78
+opsin-4
+melanin-concentrating hormone receptor 1
+voltage-gated potassium channel Erg alpha subunit
+potassium channel subfamily K member 9
+fibroblast growth factor receptor 2
+voltage-dependent L-type calcium channel subunit alpha-1D
+interleukin-26
+voltage-gated potassium channel KCNG3 isoform 1 unmodified form
+probable G protein-coupled receptor 176
+trace amine associated receptor 1-4
+beta-1,3-glucuronyltransferase
+apoptosis regulator BAX isoform 6
+mitogen-activated protein kinase 8 isoform 1 unmodified form
+chemokine receptor CCR1
+proteasome subunit beta type-2
+cation channel sperm-associated protein 1 isoform 1
+probable G protein-coupled receptor 162
+muscarinic acetylcholine receptor
+sphingosine 1-phosphate receptor GPR6
+probable G protein-coupled receptor 135
+transient receptor potential cation channel TRPC3 isoform 1 unmodified form
+probable G protein-coupled receptor 78
+tumor necrosis factor receptor superfamily member 1A isoform 1
+ww domain-containing oxidoreductase
+mitogen-activated protein kinase 8 isoform 3 unmodified form
+latrophilin-2
+latrophilin-1 isoform 2
+potassium channel subfamily K member 7
+interleukin-12 subunit alpha
+alpha-2C adrenergic receptor
+alpha-1B adrenergic receptor
+cation channel sperm-associated protein 3 isoform 1
+Bcl-2-like protein 11 isoform 5 unmodified form
+vasopressin receptor 1B
+orexigenic neuropeptide QRFP receptor
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 sequence variant 1
+transient receptor potential cation channel TRPC4 isoform 4 unmodified form
+proteinase-activated receptor 1
+chemokine receptor CXCR4
+potassium channel subfamily K member 1
+ATP-binding cassette sub-family G member 2
+basigin
+signal transducer and transcription activator STAT
+leucine-rich repeat-containing G protein-coupled receptor 5
+bombesin receptor subtype-3
+substance-P receptor
+interleukin-12 receptor beta 1
+Bcl-2-like protein 11 isoform 7 unmodified form
+leukotriene B4 receptor
+alpha-latrotoxin isoform 1 unmodified form
+cytoplasmic tyrosine-protein kinase BMX isoform 2 unmodified form
+interleukin-1 receptor antagonist protein isoform 1 unmodified form
+interleukin-20
+zinc finger protein helios
+potassium channel subfamily K member 10
+mas-related G protein-coupled receptor B4
+P2Y purinoceptor 12
+26S proteasome non-ATPase regulatory subunit 4 isoform 6
+26S proteasome non-ATPase regulatory subunit 4 isoform 5 unmodified form
+CD166 antigen
+transient receptor potential cation channel TRPV4 isoform 4 unmodified form
+voltage-gated potassium channel subunit KCNQ5 isoform 3 unmodified form
+cholecystokinin receptor 2
+leukocyte immunoglobulin-like receptor subfamily A member 4
+cation channel sperm-associated protein 2 isoform 1 unmodified form
+tumor necrosis factor ligand superfamily member 11 isoform 2 unmodified form
+BH3-interacting domain death agonist isoform 3 unmodified form
+complement decay-accelerating factor
+Bcl-2-like protein 11 isoform 14 unmodified form
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1 isoform 1 unmodified form
+RPE-retinal G protein-coupled receptor
+lysophosphatidic acid receptor 1/2/3
+cyclic nucleotide-gated cation channel beta-3
+tyrosine-protein kinase ITK/TSK isoform 2 unmodified form
+lutheran blood group glycoprotein
+voltage-gated potassium channel KCND3 isoform 2
+calcium-selective transient receptor potential cation channel TRPV
+voltage-gated potassium channel KCNH7
+gonadotropin-releasing hormone receptor
+interleukin-1 receptor antagonist protein isoform 1
+intercellular adhesion molecule 1
+chemokine receptor-like protein CMKLR1
+transient receptor potential cation channel TRPC4 isoform 1 unmodified form
+free fatty acid receptor
+interleukin-1 receptor type II
+sodium leak channel non-selective protein
+tumor necrosis factor receptor superfamily member 1A isoform 1 unmodified form
+somatostatin receptor 5
+neurotensin receptor 1
+interleukin-27 subunit alpha
+mitogen-activated protein kinase 8 isoform 4 unmodified form
+sodium leak channel non-selective protein isoform 1
+probable G protein-coupled receptor 52
+apoptosis regulator Bcl-X
+sodium channel type 9 subunit alpha
+probable G protein-coupled receptor 63
+tumor necrosis factor ligand superfamily member 4
+chemokine-binding protein 2
+Bcl-2-like protein 11 isoform 2
+Bcl-2-like protein 11 isoform 16
+cation channel sperm-associated protein 2 isoform 2 unmodified form
+galanin receptor 2
+platelet glycoprotein Ib beta chain
+transient receptor potential cation channel TRPV3 isoform 3 unmodified form
+muscarinic acetylcholine receptor 1
+prokineticin receptor 1
+low affinity immunoglobulin gamma Fc region receptor II-b
+platelet-derived growth factor C isoform 1 cleaved form
+interferon lambda
+relaxin-3 receptor 1
+voltage-gated potassium channel subunit KCNQ5 isoform 4
+voltage-gated potassium channel subunit KQT
+tumor necrosis factor ligand superfamily member 11 isoform 2
+voltage-gated potassium channel subunit KCNQ5 isoform 4 unmodified form
+C5a anaphylatoxin chemotactic receptor C5AR1
+glycylpeptide N-tetradecanoyltransferase 1 isoform 1
+tumor necrosis factor ligand superfamily member 11 isoform 5 unmodified form
+zinc finger protein helios isoform 1 unmodified form
+neuropeptide Y receptor 1
+probable G protein-coupled receptor 174
+26S proteasome non-ATPase regulatory subunit 1 isoform 1
+platelet-derived growth factor C
+probable P2Y purinoceptor 8
+BH3-interacting domain death agonist isoform 2
+D(1A) dopamine receptor
+probable G protein-coupled receptor 33
+H3 histamine receptor
+encephalopsin
+voltage-gated potassium channel KCNC2 isoform 2 unmodified form
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 8
+voltage-gated potassium channel KCNH2 isoform 3
+potassium channel subfamily K member 16 (human)
+ww domain-containing oxidoreductase isoform 6 unmodified form
+P2Y purinoceptor 1
+transient receptor potential cation channel TRPV3 isoform 1
+beta adrenergic receptor
+voltage-gated potassium channel KCNG4
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel protein
+Bcl-2-like protein 11 isoform 13 unmodified form
+cation channel sperm-associated protein 2
+interleukin-1 alpha isoform 1
+voltage-gated potassium channel KCNH8
+cation-independent mannose 6-phosphate receptor
+5-hydroxytryptamine receptor 2
+probable G protein-coupled receptor 171
+probable G protein-coupled receptor 27
+nicotinic acid receptor
+rho GTPase-activating protein 10
+voltage-gated potassium channel KCNH1 isoform 1
+KiSS-1 receptor
+uracil nucleotide/cysteinyl leukotriene receptor
+CD226 antigen
+potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3 isoform 1
+platelet glycoprotein 4
+voltage-gated potassium channel KCNC2 isoform 3 unmodified form
+probable G protein-coupled receptor 132
+ecto-ADP-ribosyltransferase 3
+chemokine receptor CCR5
+zinc finger protein aiolos isoform 3 unmodified form
+B1 bradykinin receptor
+interleukin-3
+26S proteasome non-ATPase regulatory subunit 6 isoform 1 unmodified form
+cftr isoform 1 unmodified form
+tumor necrosis factor receptor superfamily member 10D
+transient receptor potential cation channel TRPV2 isoform 1
+cyclic nucleotide-gated cation channel alpha-3 sequence variant 2
+T-cell surface glycoprotein CD2
+voltage-gated potassium channel subunit KCNQ5 isoform 2
+transient receptor potential cation channel TRPV3
+Bcl-2-like protein 11 isoform 15 unmodified form
+zinc finger protein aiolos isoform 5
+catenin beta-1 isoform 2
+ecto-ADP-ribosyltransferase 5 isoform 4
+leukocyte surface antigen CD47
+tumor necrosis factor ligand superfamily member 5
+voltage-gated potassium channel alpha subunit KCNA4
+C-type lectin with multiple lectin domains
+semaphorin-4D
+ectonucleotide pyrophosphatase/phosphodiesterase 3
+small conductance calcium-activated potassium channel protein 1 isoform II unmodified form
+Bcl2 antagonist of cell death isoform 2 unmodified form
+neural cell adhesion molecule NCAM
+interleukin-31
+26S proteasome non-ATPase regulatory subunit 12 isoform 1 unmodified form
+alpha-latrotoxin isoform 1 cleaved form
+intercellular adhesion molecule 4
+mas-related G protein-coupled receptor B2
+orexin receptor 1
+toll-like receptor 8
+voltage-dependent T-type calcium channel subunit alpha-1I
+interleukin-16
+small conductance calcium-activated potassium channel protein 1 isoform I
+shaker-related voltage-gated potassium channel alpha subunit
+cyclic nucleotide-gated cation channel beta-3 isoform 3 unmodified form
+somatostatin receptor 1
+5-hydroxytryptamine receptor 5A
+choline transporter-like protein 1
+apoptosis regulator BAX isoform 1 unmodified form
+caspase-6
+tumor necrosis factor receptor superfamily member 10A isoform 1 unmodified form
+voltage-gated potassium channel KCNH1 isoform 2
+VVC2C2C2 Ig-like domain arrangement-containing protein
+transient receptor potential cation channel TRPA1
+tumor necrosis factor receptor superfamily member 11A
+sialic acid-binding Ig-like lectin 8
+transferrin receptor protein 1
+interleukin-1 alpha isoform 1 cleaved 1
+transient receptor potential cation channel TRPV2 isoform 1 unmodified form
+interleukin-17E
+apoptosis regulator BAX isoform 8 unmodified form
+cation channel sperm-associated protein, subunit beta
+cyclic nucleotide-gated olfactory channel
+apoptotic protease-activating factor 1
+small conductance calcium-activated potassium channel protein 1 isoform 2
+gelsolin isoform 2
+small conductance calcium-activated potassium channel protein 1 isoform IV unmodified form
+apoptosis protease-activating factor 1 isoform 4
+tumor necrosis factor receptor superfamily member 7

@@ -1,0 +1,472 @@
+is_a
+develops_from
+fin bud
+neurectoderm
+tail bud
+extraembryonic tissue
+mesonephros
+segment - embryonic
+pronephros
+cranial placode
+amniotic fluid
+branchial arch
+tadpole
+somite
+limb bud - hindlimb
+mesectoderm
+neural tube
+rhombomere
+early tissues
+primordial germ cells
+dorsal root ganglion
+stem cell
+gastrula
+imaginal disc
+notochord
+neural crest - early
+zeugopod
+vein
+smooth muscle
+right
+hard palate
+lymph
+invertebrate
+Drosophila development
+C elegans (WBbt)
+mosquito (TGMA)
+C elegans development (WBIs)
+Drosophila (FBbt)
+developmental tissue - plant
+meristem
+seed
+plant zygote
+cerebellum
+cerebral cortex
+haltere
+anlage
+dorsal
+faeces
+carotid artery
+bulb
+root meristem - lateral
+sap
+diencephalon
+body part
+thorax
+head
+abdomen
+tail
+appendage
+neck
+white fat
+limb sensu vertebrata
+autopod
+limb bone
+digit
+forelimb
+stylopod
+hindlimb
+nectar
+inner ear
+girdle - pelvic
+aorta
+ectoderm
+adrenal medulla
+narrower
+adrenal cortex
+mating cell
+mesonephros - adult
+globus pallidus
+&lt;new term&gt;
+biopsy
+fertilized egg stage
+reproductive system - male
+epididymus
+ductus deferens
+testis
+seminal vesicle
+spermatazoon
+penis
+tuber
+PNS - parasympathetic
+fruit development stages
+lymph vessel
+eubacterium
+gram-positive eubacterium
+cyanobacterium
+gram-negative eubacterium
+blastoderm
+skin
+taste system
+myocardium
+juvenile stage
+ectoderm
+fission yeast
+milk
+cartilage
+temporal lobe
+mouth
+tongue
+tooth
+soft palate
+liver
+ventricle
+amygdala
+lateral
+sensillum
+head sensillum
+thoracic sensillum
+decidua
+definitive endoderm
+body ganglion
+yolk
+seed development stages
+hemolymph
+ovary - plant
+pleural fluid
+cranial ganglion
+trigeminal ganglion
+basal ganglion
+anatomy basic component
+plant component
+animal component
+pollen
+medial
+pupal stage
+axial skeleton
+placode
+placenta
+girdle - pectoral
+brown fat
+root nodule
+PNS - sympathetic
+reproductive system - animals
+hermaphrodite gonad
+whole (mature) plant growth stages
+endoderm
+saliva
+nervous system
+ventral nerve cord
+ganglion
+invertebrate ganglion
+central nervous system
+pharyngeal nervous system
+somatic nervous system
+peripheral nervous system
+time stages
+animal stage
+plant stage
+Plant growth and development (GRO)
+basal
+craniofacial tissue
+cranium
+ear
+eye
+craniofacial skeleton bone
+brain
+meninges
+mushroom body
+hindbrain
+forebrain
+amphibia (AAO)
+accumbens nucleus
+caudate nucleus
+olfactory epithelium
+atrioventricular node
+gametophyte stage
+xenopus (XAO)
+epidermis
+embryo
+prokaryote
+archaeobacterium
+influorescence development stages
+leaf development stages
+sporophyte stage
+zygotic stage
+root development stages
+flower development stages
+wood parenchyma
+seminiferous tubule
+anal region
+tepal
+PNS - enteric
+PNS - somatic
+exact
+Minimal Anatomical Terminology
+taxon ontology
+anatomical modifier
+antenna
+corpus callosum
+liver and biliary system
+fat body sensu invertebrata
+kidney
+tissue modifier
+geometric modifier
+pollen tube
+outer ear
+root
+rhizome
+root cap
+root hair
+root meristem - apical
+taproot
+budding yeast
+eVOC human development stage (EV)
+plant (PO)
+maize (ZEA)
+ovarian follicle
+vascular tissue
+leaf vscular tissue
+lateral line system
+heart
+atrium
+pericardium
+mesoderm
+gastrula stage
+distal
+eVOC CV (EV)
+digestive system
+oesophagus
+intestine
+stomach
+fluid - plant
+apoplasm
+renal system
+urethra
+ureter
+Malpighian tubules
+fat body sensu amphibia
+bladder
+larval stage
+seed coat
+endosperm
+cotyledon
+limb sensu invertebrata
+cochlea
+skeletal muscle
+blood vessel
+megaspore
+hypothalamus
+human - early development (EHDAA)
+median fin skeleton
+retina
+lens
+eyeball
+umbilical cord
+lymph node
+wing
+chordotonal organ
+primordium
+precursor
+vegetative cell
+muscle system
+spinal cord
+telencephalon
+occipital lobe
+frontal lobe
+radicle
+large intestine
+embryo late (growth) stage
+olfactory lobe
+hippocampus
+epithalamus
+integumental system
+segment - adult
+pigment
+dermis
+hair
+scale
+nail
+feather
+exoskeleton
+fat tissue
+bone
+fungus (FAO)
+Dictyostelium discoideum (DDANA)
+pole cell
+medaka (MFO)
+human adult  (FMA)
+blastula stage
+medulla oblonmgata
+corm
+DNA virus
+ventral
+caecum
+sensory system
+&lt;new term&gt;
+reproductive system - plant
+carpel
+stigma
+embryo mid-stage
+apical
+left
+proximal
+haemopoietic system
+spleen
+lymphatic system
+bone marrow
+petal
+artery
+Xenopus anatomy and development (XAO)
+synonym
+hypoblast
+germ ring
+fetilized egg
+epiblast
+inner cell mass
+cardiovascular system
+vertebrate
+mammalian phenotype (MP)
+zebrafish (ZFA)
+teleost (TAO)
+mouse development (EMAPA)
+eVOC mouse development stage (EVM)
+blood plasma
+fin
+gall tissue
+neurula stage
+adult stage
+new-born stage
+nasopharynx
+virus
+skeleton
+joint
+connective tissue
+storage organ
+rectum
+gametophyte
+egg
+islet of Langerhans
+seminal fluid
+thallus
+fluid - animal
+urine
+blood
+palatine tonsil
+narrow
+sperm
+colon
+alt_id
+broad
+sigmoid colon
+broader
+ascending colon
+transverse colon
+descending colon
+pharyngeal arch
+pars intercerebralis
+blastula
+parietal lobe
+stamen
+sepal
+gland
+pineal gland
+mammary gland
+prostate
+parathyroid
+neurohemal organ
+adrenal gland
+pancreas
+salivary gland
+corpus cardiacum
+pituitary
+thymus
+hatching gland
+thyroid
+gall bladder
+corpus allatum
+egg - unfertilized
+related
+blood cells
+appendix
+inflorescence
+female inflorescence
+male inflorescence
+fungal component
+aggregation territory
+unicellular fungus
+late culminant
+hypha
+spore - sexual
+spore - asexual
+standing slug
+stalk
+mycelium
+early culminant
+mid culminant
+fruiting body
+mound
+loose aggregate
+migratory slug
+sporophore
+tipped mound
+phloem
+thalamus
+limb bud - forelimb
+middle ear
+stomatal complex
+oropharynx
+small intestine
+duodenum
+ileum
+jejunum
+RNA virus
+cerebrospinal fluid
+respiratory system
+diaphragm
+larynx
+spiracle
+nose
+pharynx
+bronchus
+gill
+trachea
+lung
+ejaculatory duct
+mouse adult (MA)
+vulva
+trunk
+endocardium
+uterus
+reproductive system - female
+endometrium
+cervix
+ovary - animal
+vagina
+oviduct
+spermathecum
+microspore
+tick (TADS)
+Zebrafish anatomy and development (ZFA)
+shoot meristem - apical
+histoblast
+midbrain
+substantia nigra
+tegmentum
+tectum
+part_of
+pons
+unicellular eukaryotes - non-fungal
+shoot
+phyllid
+fruit
+sepal
+leaf
+xylem
+bark
+petal
+cotyledon
+shoot meristem - lateral
+stem
+cambium
+flower
+seedhead
+bud
+SAEL CV (SAEL)
+omatidium
+sensory bristle
+embryo development stages
+paired fin skeleton
+visual cortex
+abdominal sensillum
+developmental tissue - animal

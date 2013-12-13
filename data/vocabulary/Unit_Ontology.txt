@@ -1,0 +1,2255 @@
+water sensitivity value
+absolute intensity value
+f2 sterile
+nutritional value
+sporophytic compatability
+absolute auditory ability value
+color pattern value
+absolute distance value
+weight value
+intercross fertility
+drug sensitive
+high yield
+absolute locomotor_activity
+relative momentum value
+tactile hyperresponsive
+deviation(from_normal) value
+visual value
+composition
+amylose composition
+non-glutinous
+shattering value
+dorsalized
+irregular thickness
+position value
+relative viscosity value
+opacity value
+plant growth hormone sensitivity
+pattern
+regular
+irregular
+relative response
+medium acidity
+acidic
+relative pressure value
+defecation value
+monadic quality of occurrent
+progressive
+irregular sleep pattern
+continuous
+synchronous
+non-ictal
+amplitude
+growth quality of occurrent
+recurrent
+ictal
+sleep pattern
+behavioral quality of a process
+balance
+hypoactive
+occurrence quality
+sporadic
+physiological state
+abolished
+disrupted
+active
+absolute length
+neurobehavioral function
+relative temporal value
+abdominal tone
+incompatible
+overlap with
+clavate
+dilated
+uncoiled
+increased curvature
+asymmetrically curved
+decurrent
+villiform
+blunt
+raised
+rotational curvature
+flat
+spiny
+curved rostral
+curved
+pointed
+square
+rhomboid
+ruffled
+splitted
+undulate
+rhizoidal
+rod-shaped
+cleft
+curvature
+curved lateral
+tripartite
+spindle-shaped
+cladodromous
+ovate
+loose
+brochidodromous
+erose
+pleomorphic
+rugose
+decreased curvature
+tight
+coiling
+Y-shaped
+serration
+discoid
+crescent-shaped
+branched
+cut
+sigmoid
+sharp
+absolute auditory acuity
+time_quantity
+relative auditory ability
+relative resistance
+spontaneous activity value
+ig d concentration
+edematous
+relative_quality
+gel consistency
+absolute taste_acuity
+absolute sensitivity
+absolute stiffness
+fertility value
+decreased percentage
+circumference
+increased circumference
+absolute thickness
+viability value
+absolute thickness value
+frequency value
+pupillary reflex
+auditory
+visual placing value
+water content value
+1-D extent
+height
+elongated
+thickness
+decreased height
+decreased diameter
+length
+diameter
+increased height
+dystrophic
+absolute orientation value
+color value
+intolerant value
+auditory value
+respiratory function value
+absolute visual_acuity
+mass_unit
+relative amplitude value
+absolute ratio
+drought sensitivity
+stress sensitivity
+germ line dependent fertility
+absolute activity value
+relative visual ability value
+efficiency value
+increased sensitivity of occurrent to oxygen
+relative weight value
+healing
+litter size value
+bouts
+towards
+quantity
+absolute temperature value
+cataleptic
+decayed
+relative length value
+permeability value
+absolute number
+absolute impulse value
+turgor
+increased turgor
+decreased turgor
+dorsal-ventral polarity
+startle response
+contractility
+increased contractility
+contractile
+gestational period
+brood quality
+reniform
+elliptic
+digitate
+shrunken
+fasciated
+unserrated
+round
+angular
+sloped
+convex
+notched
+domed
+cylindrical
+bifid
+curved caudal
+orbicular
+3-D shape with prominent features
+absolute flux value
+increased acidity
+relative compatability
+insomnia
+absolute flux
+persistence value
+pathological
+f1 fertility
+immune
+absolute temperature sensitivity
+f1 fertility value
+relative intensity
+photosensitivity
+photoinsensitive
+phototoxic
+macromolecular composition value
+presence
+conspicuous
+inconspicuous
+glutinous
+rate value
+relative respiratory rate
+femtogram
+increased thickness
+relative permeability
+absolute temperature
+thickness value
+permeability
+occurence value
+spontaneous_activity
+auditory threshold value
+carbohydrate composition
+deciliter
+piloerection
+fused with
+meter
+semi-viable
+plaque forming unit per volume
+katal
+overdeveloped
+micrometer
+brood viability
+defasciculated
+odor value
+dry
+proportionality to
+reflex
+condensed
+relative pilosity
+direction value
+hyperplastic
+relative susceptibility
+blind
+body tone value
+acidity
+urine composition
+mass value
+stenosis
+relative intensity value
+ocular reflex value
+relative alternation value
+relative sensitivity
+relative opacity value
+auxotroph
+quinine taste
+startle reflex value
+heat insentive
+osmotic response sensitivity
+absolutedistance
+perimeter
+increased perimeter
+decreased perimeter
+distance value
+vacuolated
+quality of continuant
+reproductive quality
+posterioralized
+increased tonicity
+female semi-fertile
+morbidity
+increased size
+immortal
+decreased size
+cartilaginous
+dissociated from
+deformed
+size
+malformed
+female fertile
+female fertility
+wholeness
+fatigability
+relational shape quality
+hydrocephalic
+delaminated
+regeneration
+relative speed
+coordination value
+radiation sensitivity value
+odor acuity value
+flux
+abstract
+relative visual threshold
+auditory threshold
+texture
+coarse
+wrinkled
+scaly
+flaky
+rough
+blistered
+absolute_angle
+marked
+absolute temporal value
+relative color value
+muscle function
+enzyme function value
+low yield
+u v light sensitivity
+righting reflex
+coulomb
+concentration_unit
+relative angle value
+quantitative value
+increased female fertility
+relational behavioral quality
+moderate response
+picovolt
+physical quality
+catalytic activity
+flow
+direction
+radiation exposure
+wavelength
+hydrophobic
+efficiency
+sound amplitude
+decreased age
+young
+temperature
+unidirectional
+decreased frequency
+radiation absorbed dose
+energy
+efficient
+frozen
+decreased time
+sound speed
+heat conduction
+wetness
+ossified
+monadic quality of continuant
+nutritional quality
+extra or missing physical and functional parts
+morphology
+flavor
+relational quality of continuant
+compressed
+odorless
+vestigial
+broken
+saccular
+female semi-sterile
+viability
+decreased fatigability
+sensitivity toward
+lumenized
+fertility
+multi-cellular organismal disposition
+imperforate
+unfused from
+relational structural quality
+polarity
+distended
+tangled
+odor
+disposition
+compatibility
+abrased
+constricted
+cellularity
+necessity (continuant)
+compatible
+structure
+necessary (continuant)
+unlumenized
+strength
+having decreased function
+tonicity
+magnetism
+inefficient
+conduction
+impulse
+age
+increased frequency
+nerve conduction
+sound quality
+senescent
+surface tension
+back
+front
+hydrophilicity
+radiation effective dose
+hydrophobicity
+time
+hydrophilic
+bi-directional
+electrical conduction
+latency
+decreased temperature
+cold
+elasticity
+sound wavelength
+frequency
+down
+molar mass
+decreased flow
+radiation quality
+mass
+increased efficiency
+power
+chronological age
+relative impulse value
+relative latency value
+relative sensitivity value
+molar volume unit
+respiratory rate value
+bouts value
+absolute visual ability value
+long term memory
+gigantic
+relative life span
+perfoliate
+minute
+year
+having decreased physical parts
+viable
+2-D extent
+having extra physical parts
+semi-lethal (sensu genetics)
+perforated
+underdeveloped
+concentration of
+organized
+lacking function
+multicellular
+collapsed
+sterile
+spongy
+flavourless
+fractured
+area_unit
+light_quality sensitivity value
+contact righting reflex
+absolute density
+absolute disease sensitivity
+not enlarged
+gestational period value
+relative amplitude
+stiffness value
+taste acuity value
+absolute enzyme function
+respiratory rate
+autonomic function value
+yield
+body temperature
+fecundity value
+not arrested value
+placement value
+tactile hyporesponsive
+late
+far red light sensitivity
+amplitude value
+absolute density value
+salt sensitivity value
+ratio value
+macromolecular composition
+absolute efficiency
+threshability value
+limb tone
+auditory acuity value
+sensitivity of occurrent
+aerobic (for occurrence)
+decreased sensitivity of occurrent to oxygen
+sensitivity of occurrent to oxygen
+anaerobic (for occurrence)
+absolute width value
+memory
+muscle elevation
+gait value
+relative age value
+absolute locomotor activity value
+unmodified direction
+absolute strain
+auditory acuity
+absolute activity
+high percentage
+perseverative
+relative threshold value
+none
+relative thickness
+absolute incidence value
+parental quality
+latency value
+pinna reflex
+synonym
+century
+ig a concentration
+absolute pressure value
+healing value
+long term memory value
+fasciculated
+increased length
+radiation sensitivity
+absolute response value
+gametophyte compatible value
+pascal
+absolute frequency value
+relative power
+solubility
+dissolved
+soluble in
+insoluble in
+increased solubility
+decreased solubility
+sensory function value
+effective dose unit
+absolute litter size
+adolescent
+relative number value
+absolute incidence
+learning and memory value
+hybrid fertility
+speed value
+absolute threshold value
+absolute temporal
+temperature value
+absolute volume
+relative drug sensitivity
+increased strength
+sensory function
+catalytic (activity) concentration
+lordosis reflex
+stubby
+pilosity value
+decreased sensitivity of occurrent
+unit
+nanovolt
+candela per square meter
+electronvolt
+concentration unit
+joule
+power unit
+microliter
+volume per unit volume
+volt
+nanomolal
+cubic decimeter
+millisecond
+absolute orientation
+edematous (sensu botany)
+length_quantity
+absolute resistance
+abiotic stress sensitivity value
+odor type
+absolute response
+ig e concentration
+relative momentum
+vibrissae reflex
+cytoplasmic sterility
+absolute length value
+energy_quantity
+relative texture
+acute
+vigorous response
+heart rate
+relative temperature sensitivity value
+motor performance value
+relative neurobehavioral function
+length_unit
+visual threshold
+reproductive function value
+female fertility value
+porosity value
+body temperature value
+fearful
+relative acceleration
+vocalization
+relative consistency value
+momentum value
+morphology value
+macronutrient sensitivity
+physiological function
+absolute weight value
+absolute viscosity value
+absolute force value
+absolute height
+absolute amplitude value
+vigorous
+ratio
+metabolite composition
+work value
+circulatory function
+absolute drug sensitivity value
+urination value
+absolute threshold
+absolute permeability value
+absolute temperature sensitivity value
+substance_unit
+light intensivity sensitivity value
+urine composition
+absolute consistency
+spinal reflex
+limited
+body position
+bizarre gate
+relative energy
+functional value
+red light sensitivity
+relational quality of occurrent
+heart rate value
+digestive function value
+consumption value
+absolute concentration
+drug sensitivity value
+relative_angle
+chemical sensitivity
+lordosis reflex value
+pupillary reflex value
+cold insensitive
+arousal
+p h sensitivity value
+function value
+negative regulation
+relative viscosity
+threshold value
+absolute amplitude
+relative density value
+absolute ratio value
+odor type value
+quality value
+mating value
+absolute stiffness value
+immunoglobulin concentration value
+absolute time value
+taste type value
+deaf
+absolute yield
+absolute age value
+length value
+f1 sterile
+relative occurence
+dim
+relative elasticity
+humidity sensitivity
+auditory ability value
+circulatory function value
+gametophytic compatability
+relative enzyme function
+metamphetamine value
+relative frequency value
+cytoplasmic male sterility
+blinking reflex
+surface tension unit
+kilodalton
+radian per second per second
+gram
+second
+milliampere
+ampere
+sievert
+catalytic activity unit
+degree fahrenheit
+luminance unit
+megavolt
+base unit
+kilowatt-hour
+radiation unit
+square meter
+milligram
+cubic centimeter per mole
+meter per second per second
+watt per steradian per square meter
+nanosecond
+watt
+specific volume unit
+cubic centimeter
+rotational frequency unit
+picosecond
+cubic meter
+electric charge
+newton
+microampere
+Roentgen equivalent man
+hertz
+light unit
+threshability
+relative temperature value
+relative strain
+visual_ability
+electrolyte composition
+absolute visual threshold
+motor function
+susceptibility value
+liquid substance value
+chemical sensitivity value
+relative percentage value
+continuant
+color intensity value
+variegated
+intensity value
+stiffness
+viscosity value
+dull
+relative response
+transfer_arousal
+process
+drought sensitivity value
+rhythym value
+auditory ability
+respiratory function
+concrete
+solid_angle_quantity
+absolute pressure
+relative work
+absolute sensitivity value
+relative auditory threshold
+absolute susceptibility value
+ig g concentration
+aggressive
+secondary product composition value
+absolute latency
+absolute momentum value
+touch
+intercross fertility value
+modified direction
+relative disease sensitivity value
+relative force value
+slight
+enzyme composition
+proprioreception value
+absolute work value
+salt sensitivity
+absolute acceleration
+relative incidence value
+relative activity value
+shape value
+gait
+abiotic stress sensitivity
+energy_unit
+gender value
+left-right symmetry
+absolute photosensitivity value
+digestive function
+startle reflex
+arousal value
+plant growth hormone sensitivity value
+flinch reflex
+visual_acuity
+high
+angle_quantity
+bi-directional
+relative neurobehavioral function value
+relative concentration
+metabolic function value
+u v light sensitivity value
+defensive function value
+pain threshold
+abdominal tone value
+light_quality sensitivity
+urine enzyme composition value
+closure value
+relative pattern
+energy value
+relative_quality value
+visual ability value
+absolute elasticity
+vocalization value
+righting reflex value
+osmotic response sensitivity
+absolute occurence
+relative weight
+acid sensitivity
+plane_angle_unit
+narrow
+stress sensitivity value
+quality of occurrent
+f1 fertile
+short term memory
+quality
+power value
+absolute elasticity value
+ig a concentration value
+relative locomotor activity value
+relative yield
+relative speed value
+relative width
+sporophyte incompatible value
+height value
+intense
+count value
+neural function
+mass per unit volume
+derived unit
+picometer
+electric current unit
+temperature derived unit
+kilogram
+picomolal
+milliliter
+dalton
+degree celsius
+kilovolt
+microsievert
+milliliter per kilogram
+radiance unit
+magnetic flux density
+milliliter per cubic meter
+angstrom
+micromolal
+square millimeter
+nanometer
+millisievert
+unit of molality
+microvolt
+dyne per cm
+millivolt
+visual
+amphetamine value
+drug insensitive
+relative locomotor_activity
+piloerection value
+relative activity
+suckling reflex
+adhesivity
+relative number
+abnormal
+density value
+physical quantity
+paternal
+coordination
+uncoordinated
+coordinated
+decreased coordination
+increased coordination
+ig g concentration value
+low enzyme function value
+substance_quantity
+urine glucose composition value
+relative size
+heat sensitive
+neural function value
+urination
+continual
+absolute visual threshold value
+absolute rate value
+proboscis extension reflex
+motor performance
+temparature_quantity
+color hue value
+absolute viscosity
+absolute consumption
+albino value
+deposition defective
+sleep pattern value
+taste type
+absolute auditory threshold value
+relative orientation value
+relative resistance value
+relative stiffness value
+relative pressure
+mass_quantity
+relative odor acuity value
+relative opacity
+relative mass
+response value
+yield value
+relative visual_ability
+compatability value
+absolute size value
+sensitivity value
+cytoplasmic male sterility value
+anxious
+relative efficiency
+concentration value
+phase value
+relative efficiency value
+mobility value
+relative frequency
+disease sensitivity
+physical measure value
+absolute auditory threshold
+absolute susceptibility
+unconcentrated
+relative susceptibility value
+relative work value
+vibrissae reflex value
+muscle elevation value
+ig m concentration
+assay
+water sensitivity
+f2 fertility
+structure value
+absolute energy
+absolute function
+absolute percentage value
+olfactory value
+soma dependent fertility value
+repair function
+shattering
+relative height value
+absolute time
+rhythm quality
+rhythmic
+maturity
+juvenile
+prepupal
+pubescent
+prepubescent
+pupal
+mature
+qualitative
+deviation(from_normal)
+temparature_unit
+fertile
+decreased fertility
+increased fertility
+male fertility value
+unidirectional
+limb tone value
+relative width value
+absolute speed value
+force value
+congested
+relative size value
+balance value
+number
+gametophytic compatability value
+insecticide sensitivity value
+unique
+proprioreception
+corneal reflex value
+apoptotic
+relative temporal
+spinal reflex value
+away
+absolute opacity
+protein composition value
+glutinous
+cold sensitive
+discontinuous
+relative photosensitivity value
+unbalanced
+extreme
+backcross fertile
+decreased circumference
+calcified
+wet
+absolute taste acuity value
+absolute opacity value
+sensitivity to irradiation
+decreased sensitivity to irradiation
+absolute alternation value
+relative distance
+relative stiffness
+necrotic
+alkali sensitivity
+separated from
+diastatic
+solid_angle_unit
+heterochronic
+angle value
+relative photosensitivity
+absolute rhythym value
+irregular shape
+soil nutrient sensitivity
+muscle function value
+function
+hardness value
+temperature sensitivity value
+increased duration of temperature
+texture value
+liter
+exact
+male receptivity
+decreased male receptivity
+develops_from
+increased male receptivity
+part_of
+is_a
+light yellow
+filamentous
+blue light sensitivity
+monosomy
+speed/velocity unit
+meter per second
+hour
+relative color
+discolored
+variable color
+colorless
+colored
+oligopotent
+molar mass unit
+gram per mole
+kilogram per mole
+volume_unit
+lanceolate
+decreased density
+gram per deciliter
+micronutrient sensitivity value
+associated with
+activity (of a radionuclide)
+increased radioactivity
+radioactive
+decreased radioactivity
+activity (of a radionuclide) unit
+unit_of
+black
+behavioral function value
+partial functionality
+plane_angle_quantity
+area density
+area density unit
+relative temperature sensitivity
+semi-deciduous(plant)
+angle_unit
+striated
+absolute porosity
+porous
+candela
+craspedodromous
+responsive to
+hyperresponsive to
+hyporesponsive to
+urine enzyme composition
+microcurie
+becquerel
+disintegrations per second
+millicurie
+curie
+counts per minute
+disintegrations per minute
+lacking physical part
+bright grey
+gram per liter
+microgram
+bright pink
+disassembled
+variant shape
+spherical
+alt_id
+saccharin versus water value
+Saccharomyces cerevisiae mating type
+alpha mating type (yeast)
+a mating type (yeast)
+related
+micron
+decreased pressure
+poor value
+irregular rhythm
+functionality
+non-functional
+decreased functionality
+functional failure
+increased functionality
+functional
+disfunctional
+defecation
+dark red brown
+variability of size
+decreased variability of size
+increased variability of size
+haplodiploid
+watt-hour
+vicinity of
+protein composition
+strength value
+volume percentage
+absolute enzyme function value
+immunodeficient value
+flavourful
+limaciform
+decreased variability of rate
+larval
+unilateral
+old
+quiet
+rosy
+absolute percentage
+femtomolar
+behavioral quality
+circling
+paralysed
+impaired
+passive
+partially paralysed
+lethargic
+enhanced
+bang sensitive
+discrimination value
+absolute power value
+increased male fertility
+newton per meter
+permeable
+decreased permeability
+increased permeability
+non-magnetic
+necessary (occurent)
+electrolyte composition value
+relative incidence
+retuse
+absolute concentration value
+pinna reflex value
+unicellular
+relative flux
+variability
+increased variability of color
+increased variability
+variability of temperature
+variant
+increased variability of temperature
+variant temperature
+invariant temperature
+invariant shape
+increased variability of rate
+decreased variability
+invariant color
+variability of shape
+decreased variability of color
+decreased variability of temperature
+variability of rate
+invariant
+variability of color
+variant color
+relative elasticity value
+postural reflex value
+polyploid
+pentaploid
+allopolyploidy
+triploid
+hexaploid
+paleopolyploid
+tetraploid
+autopolyploid
+endopolyploid
+scarred
+absolute power
+shallow
+decreased mass
+dark blue
+temperature unit
+kelvin
+relative density
+lilac
+far red light sensitivity value
+wild abortive value
+sporophyte compatible value
+mild
+inconsistent
+repair function value
+value
+red light sensitivity value
+persistence
+color saturation
+pale
+bright
+enzyme unit
+waved
+relative alternation
+auriculate
+startle response
+relative time value
+ig d concentration value
+water taste
+age value
+relative orientation
+increased amount
+gray
+curved ventral
+herniated
+increased rate
+motor function value
+water composition
+dehydrated
+intercross fertile
+flourescence value
+discriminate
+biological sex
+female
+female pseudohermaphrodite
+yeast mating type
+male
+hermaphrodite
+h plus
+h minus
+mixed sex
+bacterial mating type
+male pseudohermaphrodite
+mating type
+Schizosaccharomyces pombe mating type
+F minus
+unknown sex
+pseudohermaphrodite
+high frequency recombinant
+F
+phenotypic sex
+force
+increased weight
+weight
+decreased weight
+force unit
+tapered
+cuspidate
+regular shape
+one turn per second
+heart shaped
+atonicity
+bifurcated
+sufficiency
+sufficient
+insufficient
+absolute angle value
+diffuse
+temperature sensitivity
+quantitative
+amount
+increased number
+decreased number
+decreased amount
+count
+duplicated
+supernumerary
+clubbed
+acid sensitivity value
+arrested
+mislocalised medially
+molal
+wavy
+spatial resolution unit
+pixels per millimeter
+pixels per inch
+dots per inch
+pulvinate
+in contact with
+decreased action potential
+serrated
+dentated
+relative visual threshold value
+cell concentration unit
+cells per milliliter
+absolute drug sensitivity
+illuminance unit
+foot candle
+lux
+absolute work
+spatulate
+absolute number value
+binucleate
+relative pilosity value
+relative litter size
+multinucleate
+trinucleate
+pain threshold value
+absolute mass
+male fertility
+male sterile
+male semi-sterile
+male semi-fertile
+male fertile
+decreased male fertility
+absolute width
+bright cyan
+weber
+having extra function
+absolute litter size value
+enzyme function
+invaginated
+white
+relative drug sensitivity value
+inserted into
+absolute energy value
+relative mass value
+bright red
+angular velocity unit
+radian per second
+absolute respiratory rate value
+learning_and memory
+tactile response
+decreased strength
+dark yellow
+strain value
+hot
+absolute resistance value
+normal
+absolute odor acuity value
+opaque
+diluted
+f2 fertility value
+secondary product composition
+relative volume value
+pink
+dark pink
+pale pink
+light pink
+absolute efficiency value
+viscid
+proximal to
+response to
+unresponsive to
+odor_acuity
+sensitivity to oxygen
+aerobic
+anaerobic
+bright violet
+hypotrophic
+osmolarity
+increased osmolarity
+decreased osmolarity
+mobility
+mobile
+immobile
+quadrangular
+rectangular
+full-spectrum EM radiation quality
+refractile
+albedo
+absorption quality
+glistening
+reflectivity
+refractivity
+radiation emitting intensity quality
+radiation emitting quality
+radiation reflective quality
+absolute height value
+relative rhythym value
+relative auditory threshold value
+work
+energy unit
+relative consumption
+growth rate
+hypotrophic growth
+hypertrophic growth
+cellular polarity
+life span value
+decreased wetness
+maternal
+relative rate value
+action potential
+increased action potential
+electric potential difference
+liter per kilogram
+sporophytic compatability value
+nanoliter
+absolute consistency value
+cellular adhesivity
+homophilic
+heterophilic
+damage value
+relative rate
+numerical value
+arrhythmic
+decreased depth
+photosensitivity value
+flexible
+increased flexibility
+decreased flexibility
+kilogram per square meter
+contact righting reflex value
+relative distance value
+biomaterial purity
+radiant intensity unit
+colony forming unit per milliliter
+accelerated growth
+prepulse inhibition value
+susceptible toward
+increased susceptibility toward
+decreased susceptibility toward
+half life
+regular sleep pattern
+urine glucose composition
+substance value
+size value
+arched
+kilogram per meter
+light violet
+relative occurence value
+greasy
+memory value
+absolute latency value
+swallowing reflex
+solid substance value
+relative impulse
+enzyme composition value
+anterioralized
+discrimination
+preference
+indifference
+indiscriminate
+aversion
+decreased contractility
+narcolepsy
+absolute frequency
+nanomole
+addictive substance
+ocular reflex
+spatial pattern
+orientation
+distichous
+bent
+dispersed
+increased elevation
+mislocalised anteriorly
+increased distribution
+alternate placement
+closed
+elevation
+position
+distributed
+superficial
+mislocalised laterally
+opposite
+rotation
+disoriented
+unlocalised
+retracted
+misrouted
+protruding
+atresia
+introverted
+crowded
+closure
+decreased elevation
+distribution
+obtuse angle
+mislocalised dorsally
+closure incomplete
+internal angle
+decreased position
+ventrally rotated
+everted
+actinomorphic
+exserted
+acute angle
+whorled
+vertical
+undistributed
+asymmetrical
+straight angle
+mislocalised ventrally
+radial symmetry
+disheveled
+open
+reflex angle
+decussate
+increased position
+decreased distribution
+oriented
+convex angle
+bilateral
+anteriorly rotated
+horizontal
+sparse
+angle
+isometrical
+dorsally rotated
+lateralized
+zygomorphic
+placement
+inverted
+dislocated
+patchy
+uncrowded
+mislocalised posteriorly
+symmetrical
+prostrate
+right angle
+aggregated
+localised
+erect
+punctate
+posteriorly rotated
+amorphous
+sphericality
+oblate
+spheroid
+prolate
+cystic
+mislocalised
+symmetry
+bilateral symmetry
+anteverted
+unit of molarity
+millimolar
+nanomolar
+picomolar
+micromolar
+molar
+aneuploid
+uniparental disomy
+trisomy
+partial trisomy
+mosaic trisomy
+disomy
+touch value
+taste value
+attached to
+T-shaped
+life span
+increased life span
+decreased life span
+time unit
+time derived unit
+day
+visual placing
+volume_quantity
+information unit
+megabyte
+bit
+kilobyte
+byte
+dynamic range unit
+kibibyte
+relative function value
+muscle strength
+learning
+temporal value
+blotchy
+absolute visual acuity value
+coiled
+increased coiling
+decreased coiling
+glabrous
+immubocompetent value
+increased fatigability
+decreased sensitivity toward
+splayed
+elasticity value
+immature
+strain
+duration
+delayed
+light phase
+irregular duration
+polyphasic
+recent
+delayed phase
+monophasic
+temporally extended
+phase
+premature
+advanced phase
+duration of temperature
+decreased duration of temperature
+duration of disease
+relative power value
+relative length
+electromagnetic (EM) radiation quality
+luminous flux
+blurry
+fluorescent
+autofluorescence
+banded
+netted
+multi-colored
+mono-colored
+spotted
+optical quality
+opacity
+focus
+color brightness
+fluorescence
+orientation value
+viscosity unit
+poise
+real number
+absolute porosity value
+unbranched
+alkali sensitivity value
+absolute auditory ability
+color saturation value
+absolute permeability
+prototroph
+relative ratio
+compound acidity
+luminous intensity unit
+body tone
+up
+concentrated
+decreased concentration
+relative rhythym
+mass unit
+increased threshold
+immunoglobulin concentration
+absolute yield value
+locomotor activity value
+linear
+momentum unit
+kilogram meter per second
+hybrid fertility value
+bright
+pato
+visual acuity value
+increased time
+protein concentration value
+irritable
+impulse value
+relative strain value
+anosmia
+movement quality
+angular acceleration
+speed/velocity
+increased speed
+acceleration
+angular velocity
+momentum
+square centimeter
+inactive
+regeneration value
+intensity
+decreased intensity
+increased intensity
+severe
+moderate
+remittent
+tactile response value
+complexity
+complex
+f2 fertile
+absolute odor_acuity
+mebibyte
+chroma sampling unit
+image resolution unit
+picomole
+decreased tonicity
+relational attachment quality
+sessile (sensus botany)
+pedicellate
+sessile (sensus zoology)
+detached from
+structured
+relative porosity
+evergreen (plant)
+backcross fertility
+autonomic function
+balanced
+phosphorescence
+spatial value
+pale grey
+excretory function value
+relative texture value
+female receptivity
+decreased female receptivity
+increased female receptivity
+pale orange
+light intensivity sensitivity
+nanogram
+herbicide sensitivity value
+regulation value
+vermilion
+water value
+increased pressure
+absorbed dose unit
+milligray
+rad
+nanogray
+microgray
+nanosievert
+relative auditory ability value
+prepulse inhibition
+mass density unit
+gram per milliliter
+gram per cubic centimeter
+kilogram per liter
+milligram per milliliter
+kilogram per cubic meter
+substance unit
+increased fluorescence
+motley
+dark
+dappled
+decreased fluorescence
+light
+focused
+color hue
+luminance
+color pattern
+transparent
+chromatic property
+translucent
+parts per billion
+absolute auditory acuity value
+pressure
+pressure unit
+odorous
+decreased odor
+increased odor
+body position value
+chronic
+absolute speed
+pattern value
+pH
+electric potential
+membrane potential
+absolute impulse
+relative compatability value
+degenerate
+resistance value
+picoliter
+absent
+relative enzyme function value
+learning value
+obstructed
+elastic
+percentage value
+scalloped
+inflexible
+germ line dependent fertility value
+absolute force
+regulation
+relative time
+hypertrophic
+insecticide sensitivity
+increased photosensitivity
+pilosity
+pubescent hair
+hairy
+width value
+sensitive toward
+increased sensitivity toward
+pressure value
+conical
+dwarf
+lack of fertily in offspring
+density
+dense
+mass density
+increased density
+density unit
+monstrous
+water content
+relative visual acuity value
+gametophyte incompatible value
+fragility
+fragile
+fraction
+mole fraction
+resistance to
+tolerant to
+increased resistance to
+resistant to
+decreased resistance to
+curled
+circinate
+convolute
+reclinate
+involute
+revolute
+low percentage
+radiation equivalent dose
+dose equivalent unit
+quality of a solid
+hard
+soft
+hardness
+solid configuration
+flexibility
+relational protruding quality
+protruding out of
+femtomole
+mole
+millimole
+micromole
+attomole
+macronutrient sensitivity value
+increased mass
+diploid
+surrounding
+centimeter
+electrical conduction unit
+siemens
+impermeable
+unit of normality
+normal
+absolute age
+absolute volume value
+parallelodromous
+unit per milliliter
+warty
+linear density
+linear density unit
+behavioral quality value
+ruptured
+base pair
+flux value
+present
+growth timing quality
+hypermorphic growth
+progenetic growth
+predisplaced growth
+postdisplaced growth
+heterochronic growth
+paedomorphic growth
+neotenous growth
+peramorphic growth
+quality of a gas
+gaseus configuration
+exposure unit
+roentgen
+presence value
+swollen
+relative auditory acuity
+watt per steradian
+right
+matted
+sugar concentration value
+relative threshold
+asynchronous
+relative latency
+lethal (sensu genetics)
+substance
+dumbbell-shaped
+drug sensitivity
+buoyancy
+relaxation
+increased relaxation
+decreased relaxation
+relative disease sensitivity
+corneal reflex
+acceleration value
+process value
+taste
+increased diameter
+increased concentration
+flooding sensitivity value
+colony forming unit per volume
+blinking reflex value
+disposition to shed
+deciduous (plant)
+non-deciduous (any body part)
+deciduous (generic)
+symmetry value
+addictive substance value
+flavor value
+tough
+carbohydrate concentration
+mucoid
+having physical part
+dystonicity
+insensitive toward
+misaligned with
+sinuous
+prominent
+suckling reflex value
+unstructured
+metabolite composition value
+physiological function value
+relative acceleration value
+increased sensitivity to irradiation
+female sterile
+chinsurah boro type value
+transfer arousal value
+actinodromous
+unit per volume unit
+unit per liter
+mild response
+alternation value
+bad value
+gel consistency value
+protruding into
+relative function
+thermoinsensitive
+immune function
+receptivity
+relative volume
+fecundity
+decreased fecundity
+increased fecundity
+incidence value
+microliter per kilogram
+decreased thickness
+alcochol value
+increased sensitivity of occurrent
+left
+soil composition sensitivity value
+dimensionless unit
+confluence percentage
+mass volume percentage
+parts per thousand
+colony forming unit
+count
+pi
+molecule count
+mass percentage
+ratio
+parts per notation
+parts per trillion
+decibel
+percent
+plaque forming unit
+purity percentage
+parts per million
+parts per quadrillion
+defensive function
+taste_acuity
+short term memory value
+unit
+alkaline
+decreased length
+absolute momentum
+sound frequency
+ultrasonic
+relative concentration value
+non-contractile
+cuneate
+dysfunctional value
+increased percentage
+maturity value
+carbohydrate composition value
+loud
+arrow-shaped
+percentage
+immune function value
+consistent
+maximal
+liquid substance
+damaged
+consumption quality
+increased consumption
+decreased consumption
+smooth
+necessity of occurent
+unnecessary (occurent)
+magnetic
+increased magnetism
+decreased magnetism
+pascal second
+lobate
+relative porosity value
+susceptibility toward
+insusceptible toward
+relative consumption value
+milliliter per liter
+absolute occurence value
+attenuate
+decreased speed
+maroon
+visual threshold value
+proboscis extension reflex value
+dysplastic
+multi-localised
+low
+time value
+qualitative value
+olfactory
+distal to
+disease sensitivity value
+brown green
+relative ratio value
+epinastic
+cms-hl type value
+blue light sensitivity value
+dark magenta
+rate
+decreased rate
+period
+increased period
+decreased period
+absolute mass value
+millimolal
+pointleted
+decreased acidity
+alive
+damage
+undamaged
+p h sensitivity
+distance
+decreased distance
+increased distance
+reflex value
+depth
+deep
+increased depth
+hypoplastic
+aplastic
+period value
+cytoplasmic sterility value
+punctiform
+conduction unit
+watt per meter kelvin
+heat conduction unit
+parts per hundred
+lateral to
+area
+area unit
+relative age
+ventralized
+floury
+increased wetness
+absolute respiratory rate
+absolute rate
+volume value
+relative flux value
+week
+haploid
+folded
+3-D extent
+volume
+increased volume
+molar volume
+decreased volume
+specific volume
+extra or missing processual parts
+having extra processual parts
+lacking processual parts
+having decreased processual parts
+luminous flux unit
+intrasonic
+sonic
+frequency unit
+relative permeability value
+volume unit
+ig m concentration value
+increased flow
+occurent
+repetitive
+postural reflex
+relational spatial quality
+superficial to
+medial to
+alignment
+anterodorsal to
+anteroventral to
+anterior to
+posterodorsal to
+ventral to
+left side of
+posterior to
+aligned with
+right side of
+posteroventral to
+protein concentration
+absolute life span
+circling direction
+neurobehavioral function value
+absolute rhythym
+micronutrient sensitivity
+alternation
+relative thickness value
+time_unit
+relative percentage
+absolute visual_ability
+relative height
+relative force
+increased age
+acceleration unit
+tesla
+parental type value
+relative auditory acuity value
+ciliatedness
+threshold
+decreased threshold
+herbicide sensitivity
+triangular
+obtuse
+high enzyme function value
+femtoliter
+interdigitated
+relative visual_acuity
+magnetic flux
+volt-hour
+kilovolt-hour
+relative taste_acuity
+flooding sensitivity
+concentration_quantity
+umbonate
+positive regulation
+absolute compatability
+botryoidal
+unnecessary (continuant)
+humidity sensitivity value
+mononuclete
+absolute strain value
+obovate
+microsecond
+relative yield value
+regular duration
+absolute weight
+thermosensitive
+soma dependent fertility
+kinked
+dark phase
+relative odor_acuity
+width
+increased width
+decreased width
+length unit
+muscle strength value
+relational number
+color
+bright brown
+pale brown
+light grey
+bright orange
+light purple
+red
+light red
+magenta
+pale violet
+orange
+brown
+green
+pale blue
+dark cyan
+bright yellow
+purple
+light green
+violet
+lumen
+absolute intensity
+plaque forming unit per milliliter
+composition value
+porosity
+nonporous
+granular
+photosensitive
+decreased photosensitivity
+millimeter
+irradiance unit
+einstein per square meter per second
+watt per square meter
+microeinstein per square meter per second
+solid substance
+relative temperature
+picogram
+absolute photosensitivity
+absolute consumption value
+behavioral function
+quality of a liquid
+viscous
+decreased viscosity
+increased viscosity
+miscibility
+liquid configuration
+viscosity
+absolute size
+relative quantity value
+mating
+intercross sterile
+subulate
+excretory function
+dorsal to
+oblong
+caudate
+cubic meter per kilogram
+decreased female fertility
+increased temperature
+mild increased temperature
+moderate increased temperature
+severe increased temperature
+cellular spatiotemporal quality
+cellular motility
+simple
+disorganized
+reticulodromous
+catalytic (activity) concentration unit
+katal per liter
+katal per cubic meter
+relative consistency
+hyperactive
+inelastic
+soil nutrient sensitivity value
+decreased efficiency
+flinch reflex value
+absolute alternation
+consistency value
+whole
+ig e concentration value
+good value
+swallowing reflex value
+relative taste acuity value
+furrowed
+dead
+soil composition sensitivity
+angular acceleration unit
+absolute acceleration value
+cubic meter per mole
+backcross fertility value
+backcross sterile
+absolute disease sensitivity value
+cellular quality
+monoploid
+ploidy
+nucleate quality
+multipotent
+pluripotent
+euploid
+unipotent
+totipotent
+self-renewal
+cellular potency
+anucleate
+lobed
+concave
+metabolic function
+broad
+month
+shape
+curved dorsal
+U-shaped
+pinnate
+cuboid
+yellow
+light brown
+pale green
+pale purple
+pale red
+bright purple
+light cyan
+dark purple
+bright green
+dark green
+light blue
+dark orange
+pale magenta
+light red brown
+light magenta
+bright blue
+pale yellow
+dark brown
+bright magenta
+yellow orange
+dark violet
+dark red
+ochre
+dark grey
+yellow green
+light orange
+red brown
+cyan
+pale cyan
+blue
+grey
+relative litter size value
+truncated
+reproductive function
+angle unit
+plane angle unit
+solid angle unit
+steradian
+radian
+degree
+atrophied
+semi-fertile
+relative respiratory rate value
+relative energy value
+consistency
+brood size
+locomotor_activity

@@ -1,0 +1,1242 @@
+animal habitation
+nest of ant
+nest of bird
+rhizosphere
+bulk soil
+desert sand
+Tropical and subtropical coniferous forest biome
+diversionary dam
+weapons test site
+excreta
+feces
+urine
+sweat
+bile
+blood
+amniotic fluid
+chyme
+blood plasma
+aqueous humour
+bodily fluid
+vomit
+chyle
+sebum
+tears
+vitreous humor
+ear wax
+pleural effusion
+breast milk
+lymph
+shale
+sandstone
+chalk
+limestone
+travertine
+iron meteorite
+stony-iron meteorite
+warm seep
+extreme habitat
+extraterrestial habitat
+high osmolarity habitat
+acid habitat
+high pressure habitat
+endolithic habitat
+haline habitat
+high temperature habitat
+extreme high temperature habitat
+cold temperature habitat
+alkaline habitat
+aquatic biome
+Xeric basin biome
+Large river biome
+Large river headwater biome
+Temperate upwelling biome
+Polar biome
+marine biome
+Temperate shelf and sea biome
+Large river delta biome
+Tropical coral biome
+freshwater biome
+Tropical upwelling biome
+Small river biome
+Small lake biome
+Large lake biome
+carcass
+biofilm
+anthropogenic habitat
+sugar plantation
+rubber plantation
+plantation
+olive grove
+paddy field
+cotton plantation
+hedge
+planted forest
+banana plantation
+cultivated habitat
+garden
+oil palm plantation
+coffee plantation
+coconut plantation
+tea plantation
+orchard
+field
+rice field
+allotment garden
+garden soil
+sisal plantation
+allotment garden soil
+organism-associated habitat
+human-associated habitat
+animal-associated habitat
+plant-associated habitat
+mammalia-associated habitat
+insecta-associated habitat
+freshwater habitat
+WWF biome
+Flooded grasslands and savanna biome
+Mangrove biome
+Montane grasslands and shrubland biome
+Deserts and xeric shrubland biome
+Tundra biome
+Temperate grasslands, savannas, and shrubland biome
+Tropical and subtropical moist broadleaf forest biome
+Tropical and subtropical grasslands, savannas, and shrubland biome
+Mediterranean forests, woodlands, and shrub biome
+Temperate coniferous forest biome
+Temperate broadleaf and mixed forest biome
+Tropical and subtropical dry broadleaf forest biome
+meteorite
+habitat
+tundra
+roadside soil
+scrubland
+prairie
+kastanozem
+salicylate enriched soil
+aquatic habitat
+soil
+clearing
+alpine soil
+pantothenate enriched soil
+kynurenate enriched soil
+meadow
+fluvisol
+agricultural soil
+sarcosine enriched soil
+grassland
+vertisol
+terrestrial habitat
+forest
+chaparal
+savanna
+farm soil
+testosterone enriched soil
+paddy field soil
+plinthosol
+gypsisol
+planosol
+quinate enriched soil
+lixisol
+pasture
+trimethylamine enriched soil
+gleysol
+enriched soil
+steppe
+threonin enriched soil
+savanna soil
+nitisol
+podzol
+flood meadow
+phaeozem
+chalk soil
+canopy
+alluvial soil
+L-(+)-tartrate enriched soil
+poly-beta-hydroxybutyrate enriched soil
+heath
+leptosol
+umbrisol
+regosol
+woodland
+histosol
+forest soil
+arable soil
+abode soil
+ethanol enriched soil
+acetamide enriched soil
+loam
+skatole enriched soil
+stagnosol
+dry soil
+clay soil
+solonchak
+bone
+slope
+waste water
+sewage
+water
+distilled water
+bore hole water
+fresh water
+hypersaline water
+tap water
+brine
+brackish water
+bacon curing brine
+saline water
+drinking water
+hydrographic feature
+sediment
+dust
+food
+jeotgal
+fermented dairy product
+fish
+yeast cake
+beer
+fruit extract
+fermented apple
+beer wort
+wine
+nonfat dry milk
+orange juice
+miso
+sour milk
+pickle
+kefir
+evaporated milk
+seafood
+dried milk
+soy sauce
+milk
+brown sugar
+fermented food
+fermented millet
+buttermilk
+malt vinegar
+bovine milk
+must
+fermented soybean
+sake
+amasake
+awamori
+tape kefan
+fermented rice
+fermented fish
+millet beer
+bottled beer
+ovine milk
+fruit
+bottled fruit
+fermented fruit
+apple juice
+vineyard
+caprine milk
+sugar
+ice cream
+acifified beer wort
+canned fruit
+dairy product
+vinegar
+cane sugar
+salad
+mesoscopic physical object
+air conditioning unit
+grain of sand
+face cream product
+anthropogenic abiotic mesoscopic feature
+abiotic mesoscopic physical object
+currency note
+paper product
+biotic mesoscopic physical object
+piece of rock
+grain of sea sand
+medical instrument
+cosmetic product
+microbial feature
+piece of gravel
+fomite
+terrarium
+grain of acid dune sand
+particle of silt
+grain of rocky sand
+manufactured product
+microbial mat
+vivarium
+grain of desert sand
+air filter
+air
+metamorphic rock
+volcanic rock
+sedimentary rock
+dolomite
+igneous rock
+plutonic rock
+brine pool
+ephemeral island
+artificial lake
+flood control reservoir
+hydroelectric reservoir
+reservoir
+irrigation reservoir
+amenity lake
+drinking water reservoir
+canal head reservoir
+tuya
+complex volcano
+pyroclastic shield volcano
+geothermal field
+ice cap dome
+pyroclastic cone
+lock
+continental arc
+island arc
+volcanic field
+polygenetic volcanic field
+monogenetic volcanic field
+somma volcano
+volcanic arc
+ocean basin
+lake shore
+massif
+ice shelf
+intermittent wetland
+river mouth
+saline wedge estuary
+inverse estuary
+ria
+highly stratified estuary
+ferralsol
+humus
+solonetz
+technosol
+luvisol
+estuary
+vertically mixed estuary
+slightly stratified estuary
+delta
+stream mouth
+sound
+ice tongue
+channel
+navigation canal
+ditch
+strait
+irrigation canal
+aquaduct
+artificial channel
+irrigation ditch
+lake channel
+drainage ditch
+flume
+transvasement
+river bank
+marine channel
+drainage canal
+stream bank
+bank
+canal
+land bridge
+mountain spur
+wort
+butter
+mangrove swamp
+tidal creek
+coastal wetland
+coastal inlet
+fjord
+wave-cut platform
+cove
+mangrove island
+tidal mudflat
+lagoon
+stack
+tombolo
+sea beach
+bay
+sea cliff
+bajada
+alluvial fan
+blowout
+sandur
+kettle
+depression
+graben
+ocean trench
+stream valley
+dry valley
+dune slack
+wadi
+river valley
+hanging valley
+sinkhole
+valley
+glacial valley
+canyon
+submarine canyon
+cirque
+alas
+dell
+Nye channel
+tunnel valley
+icefall
+peninsula
+spit
+botanical garden
+zoological garden
+outlet glacier
+penplain
+pseudocrater
+mine drainage
+acid mine drainage
+hydroelectric dam
+rock
+sand
+gravel
+silt
+research facility
+ocean time series station
+research station
+marine hydrographic feature
+hydrothermal vent
+coral reef
+black smoker
+university campus
+artificial harbor
+natural harbor
+harbor
+marine water body
+pelagic zone
+sea
+photic zone
+mesopelagic zone
+coastal upwelling
+neritic zone
+landlocked sea
+hadalpelagic zone
+abyssalpelagic zone
+oceanic zone
+bathypelagic zone
+cold seep
+ocean
+aphotic zone
+ocean current
+upwelling
+irrigation dam
+flood control dam
+backwater
+mount
+mound
+hill
+guyot
+mountain
+dune soil
+dune
+seamount
+coastal dune
+monadnock
+range of mounts
+ash cone
+volcanic cone
+spatter cone
+cinder cone
+crevasse
+lava cave
+joint-plane cave
+outflow cave
+live cave
+sea cave
+polje
+intertidal zone
+tidal pool
+high tide zone
+low tide zone
+subjacent karst
+doline
+stalactite
+stalagmite
+doline karst
+polygonal karst
+syngenetic karst
+phreatic zone
+speleothem
+vadoze zone
+rift valley
+shore
+shoreline
+sea shore
+coast
+blowhole
+inland cliff
+mineral spring
+food processing factory
+sabkha
+karst
+chott
+badland
+quicksand area
+carr
+plateau
+medial moraine
+saline evaporation pond
+snow field
+building
+saline marsh
+lake
+strand crack
+nunatak
+alpine glacier
+hydromorphic/phreatic dambo
+mudflat
+administrative region
+isthmus
+flood plain
+dam
+artificial reef
+cave
+city
+floodway
+elevation
+caldera
+fish hatchery
+underground stream
+tannery
+ice rise
+fumarole
+undersea feature
+dry lake
+lacustrine mudflat
+sake brewery
+abyssal plain
+supranational geopolitical entity
+piggery
+hill range
+mountain range
+mountain pass
+mouth
+gravel pit
+cut
+inlet
+lake inlet
+plunge pool
+peak
+pinnacle
+paternoster lake
+polynya
+glacial lake
+subglacial lake
+proglacial lake
+periglacial lake
+palsa
+consequent stream
+subsequent stream
+resequent stream
+obsequent stream
+insequent stream
+tributary
+rill
+rincon
+volcanic dike
+trough
+till plan
+mesa
+mine tailing
+midden
+ice cap
+marsh
+geyser
+continental divide
+atoll
+political entity
+coastal plain
+tobacco warehouse
+moraine
+continental slope
+solfatara
+buffer zone
+beaver pond
+ridge
+water well
+warehouse
+abyssal feature
+constructed feature
+swamp
+creamery
+terminal moraine
+saline pan
+paisa mire
+tundra mire
+continental island
+beach
+bayou
+archipelago
+dry stream
+dry river
+underground water body
+foam
+sea foam
+mud volcano
+shield volcano
+sawmill
+kipuka
+pingo
+natural arch
+ford
+tidal watercourse
+subglacial volcano
+submarine volcano
+stratovolcano
+whirlpool
+maelstrom
+volcanic fissure
+river island
+limestone pavement
+lake island
+raised beach
+machair
+outwash fan
+drumlin field
+drumlin
+dirt cone
+biome
+terrestrial biome
+arete
+meander
+terracette
+rock shelter
+peatland
+watercourse
+first-order administrative region
+freshwater wetland
+cave system
+national geopolitical entity
+maar
+levee
+confluence
+stream
+rapids
+headwater
+water body
+farm
+horst
+cave floor
+karst cave
+transport feature
+ice piedmont
+cliff
+volcanic feature
+agricultural feature
+drainage basin
+stony desert
+second-order administrative region
+sandy desert
+anthropogenic feature
+hot spring
+fen
+string mire
+mine
+pocasin
+bar
+oxbow lake
+liman
+ribbon lake
+valley glacier
+plateau glacier
+tidewater glacier
+tarn
+emulsion
+aerosol
+surface
+lake surface
+waste
+agricultural waste
+fresh animal manure
+stable manure
+industrial waste
+pig manure
+farmyard manure
+animal waste
+organic waste
+bagasse
+animal manure
+chicken breeding waste
+horse manure
+sphagnum bog
+thermocline
+waste treatment plant
+sewage plant
+chemocline
+back-arc basin
+environmental feature
+aquifer
+polder
+dairy
+saline lake
+man-made tunnel
+wetland
+demilitiarized zone
+karst field
+tunnel
+well
+lava tunnel
+fluvial dambo
+fjord lake
+oil well
+endorheic lake
+anabranch
+third-order administrative region
+bakery
+causeway
+waterfall
+cave entrance
+desert oasis
+riffle
+flood fringe
+crater lake
+dead cave
+peat cut
+fourth-order administrative region
+mud
+potato silage
+hay
+scum
+rye grass silage
+synonym
+glue
+grass silage
+rice straw
+straw
+silage
+environmental matter
+lacustrine plain
+continental shelf
+lacustrine beach
+brewery
+alluvial plain
+iceberg
+saline wetland
+island
+bridge
+sand pit
+industrial building
+plain
+esker
+scroll plane
+lateral moraine
+oceanic island
+underground lake
+lava field
+artificial island
+railway
+alkaline flat
+cow shed
+pond
+spring
+permafrost
+glacier
+fault cave
+geographic feature
+volcanic hydrographic feature
+underground river
+ice mass
+butte
+land-tied island
+ice sheet
+fishpond
+river
+fish farm
+moor
+animal house
+quarry
+desert
+escarpment
+rocky desert
+asphalt lake
+bedding-plane cave
+dambo
+ground moraine
+rift lake
+peat swamp
+scree
+raised mire
+watershed
+ephemeral spring
+saline hydrographic feature
+fissure cave
+permanent spring
+volcano
+fault escarpment
+distributary
+freshwater marsh
+physiographic feature
+freshwater lake
+glacial feature
+populated place
+sulfur spring
+track
+road
+meromictoc lake
+reef
+continental rise
+saliva
+mucus
+synovial fluid
+oronasal secretion
+interstitial fluid
+pus
+cerebrospinal fluid
+zebra milk
+yak milk
+nuclear weapons test site
+park
+national park
+national forest
+ramsar site
+wildlife management area
+nature reserve
+site of special scientific interest
+protected area
+national nature reserve
+national wildlife refuge
+natural monument
+biosphere reserve
+world heritage site
+marine park
+military training area
+archeological site
+pier
+winter sports facility
+sports facility
+aerial habitat
+calanque
+arboreal habitat
+subterrestrial habitat
+moatan
+boulder field
+arrugado
+sill
+contaminated animal feed
+coastal water body
+calcareous ooze
+animal feed
+siliceous ooze
+red clay
+biological product
+leat
+swale
+lake sediment
+coal mine lake sediment
+shingle beach
+pebble
+brackish lake
+kame
+brackish pond
+unpasteurized milk
+unpasteurized ovine milk
+unpasteurized caprine milk
+unpasteurized camel milk
+umbrella
+intermittent water body
+turlough
+intermittent oxbow lake
+intermittent stream
+intermittent reservoir
+intermittent watercourse
+intermittent estuary
+intermittent pond
+intermittent lake
+intermittent saline lake
+waterhole
+gravel field
+chicken egg
+cloth
+surface soil
+hide
+bone meal
+plant feed
+egg
+dry dam
+wing dam
+check dam
+saddle dam
+multipurpose dam
+talik
+endorheic basin
+range of seamounts
+mid-ocean ridge
+ground beef
+custard
+chocolate
+cake icing
+duck
+poultry
+turkey
+chicken
+goose
+road cut
+crater
+narrow
+impact crater
+volcanic crater
+lost stream
+hammock
+agricultural terrace
+cake
+ditch mouth
+dessert
+unpasteurized orange juice
+apple cider
+landslide
+rockfall
+canal tunnel
+cutoff
+abandoned watercourse
+potato salad
+clam
+salad dressing
+oyster
+ice cap ridge
+interfluve
+cleft
+canalized stream
+cantaloupe
+beach ridge
+apron
+ice cap depression
+pothole
+weir
+tempeh
+intermittent saline evaporation pond
+unpasteruized cow milk cheese
+unpasteurized sheep milk cheese
+goat manure
+Pecorino cheese
+unpasteurized goat milk cheese
+letter
+shellfish
+beaver dam
+bed
+stream bed
+sea floor
+lake bed
+ocean floor
+pond bed
+river bed
+reservoir bed
+marine terrace
+terrace
+kame terrace
+wadi mouth
+underground irrigation canal
+meander neck
+blanket bog
+cell culture
+plant tissue culture
+cultured habitat
+tissue culture
+organ culture
+camel milk
+buffalo milk
+water buffalo milk
+reindeer milk
+horse milk
+donkey milk
+textile
+bedclothing
+hypodermic needle
+pockmark field
+livestock
+nesting material
+fossil
+fermenting Elaeis Palm sap
+sausage
+meat
+pork chop
+beef
+pork
+cured meat
+salt pork
+liver paste
+hot dog
+bacon
+prepared meat
+estuarine mud
+fermenting sugar cane juice
+fermenting agave juice
+gold mine
+platinum mine
+coal mine
+1,4-dioxane contaminated sludge
+underground water
+contaminated sludge
+oil sludge
+sterile water
+red soil
+hospital
+marine sludge
+marine mud
+hay compost
+water scum
+compost
+frozen compost soil
+mushroom compost
+compost soil
+muddy water
+rocky sand
+acid dune sand
+lake bottom mud
+intertidal sediment
+neutral hot spring
+underground physiographic feature
+oil reservoir
+oil tank
+contaminated water
+powdered milk formula
+milk formula
+cheese
+halloumi
+Brie
+vacherin Mont d&apos;Or
+Meshanger cheese
+Bondon cheese
+blue cheese
+Harzerkaese
+Camembert
+bitter cheese
+Bresse Blue
+Swiss
+Pont l&apos;Eveque
+Gouda
+Gorgonzola
+Cheddar
+New Zealand Cheddar
+Ementhal
+yogurt
+animal litter
+poultry deep litter
+poultry litter
+pyritic acid mine drainage
+oil field production water
+pulp-bleaching waste water
+sandy beach
+coarse beach sand
+beach sand
+grain of beach sand
+fresh water aquarium
+saline water aquarium
+aquarium
+stream sediment
+anaerobic stream sediment
+pond soil
+mesophilic sulfur spring
+anaerobic sludge
+anaerobic digester sludge
+limed soil
+manured soil
+bioreactor
+aerobic bioreactor
+anaerobic bioreactor
+anaerobic dechlorinating bioreactor
+orchid soil
+mountain forest soil
+acid hot spring
+alkaline salt lake
+arsenic-rich mud
+burned soil
+meadow soil
+chloropicrine-enriched soil
+humus-rich acidic ash soil
+field soil
+lawn soil
+urea enriched soil
+fertilized soil
+arsenate treated wood
+alluvial paddy field soil
+brackish estuary
+bacteria enriched soil
+treated wood
+alluvial swamp soil
+metalimnion
+anaerobic mud
+hypolimnion
+epilimnion
+jungle soil
+sawah soil
+alt_id
+grassland soil
+chromate contaminated soil
+xylene contaminated soil
+sea water
+coastal water
+upland soil
+eucalyptus forest soil
+rubber plantation soil
+blue-grass field soil
+ornithogenic soil
+leafy wood soil
+spruce forest soil
+cobble
+volcanic soil
+leachate
+borax leachate
+calcite hot spring
+greenhouse soil
+cave wall
+heat stressed soil
+ditch water
+drilling bore water
+vegetable garden soil
+stromatolite mat
+steppe soil
+tropical soil
+salt contaminated soil
+peaty paddy field soil
+pasture soil
+ocean water
+peat soil
+muddy soil
+orchard soil
+radioactive sediment
+sulfide-oxidizing bioreactor
+thermophilic granular sludge
+thermophilic anaerobic methanogenic reactor
+power plant
+nuclear power plant
+part_of
+geothermal power plant
+develops_from
+is_a
+anaerobic sludge blanket reactor
+vegetable
+cabbage
+mushroom
+bean plant
+pickled cabbage
+flour
+maize flour
+spinach
+peanut plant
+commercial yogurt
+broad
+cider
+saline lake sediment
+high-level radioactive sediment
+beech forest soil
+biofilter
+compost biofilter
+creosote contaminated soil
+contaminated soil
+oil contaminated soil
+metal contaminated soil
+alkaline hot spring
+sea sand
+marine sediment
+gold mine drainage
+contaminated sediment
+oil
+Temperate broad-leaf forests or woodlands and subpolar deciduous thickets
+Cold-winter (continental) deserts and semideserts
+Mixed mountain and highland systems with complex zonation
+Bailey biome
+Subtropical Division - Mountain Provinces (M230)
+Mediterranean Division (260)
+Prairie Division (250)
+Warm Continental Division (210)
+Tropical/Subtropical Desert Division (320)
+Subarctic Division (130)
+Hot Continental Division - Mountain Provinces (M220)
+Dry Domain (300)
+Warm Continental Division - Mountain Provinces (M210)
+Hot Continental Division (220)
+Rainforest Division (420)
+Polar Domain (100)
+Marine Division - Mountain Provinces (M240)
+Tundra Divsion (120)
+Savanna Division - Mountain Provinces (M410)
+Tropical/Subtropical Steppe Division (310)
+Marine Division (240)
+Savanna Division (410)
+Rainforest Division - Mountain Provinces (M420)
+Temperate Steppe Division - Mountain Provinces (M330)
+Temperate Steppe Division (330)
+Temperate Desert Division - Mountain Provinces (M340)
+Humid Tropical Domain (400)
+Humid Temperate Domain (200)
+Tropical/Subtropical Steppe Division - Mountain Provinces (M310)
+Subarctic Division - Mountain Provinces (M130)
+Mediterranean Division - Mountain Provinces (M260)
+Tundra Division - Mountain Provinces (M120)
+Temperate Desert Division (340)
+Subtropical Division (230)
+Warm deserts and semideserts
+Tropical humid forests
+activated sludge
+Temperate needle-leaf forests or woodlands
+stony meteorite
+chondrite
+achondrite
+Tundra communities and barren Arctic deserts
+Mixed island systems
+wastewater treatment plant
+surface water
+anaerobic sediment
+Subtropical and temperate rainforests or woodlands
+sludge
+raw primary sludge
+secondary sludge
+biosolids
+Tropical dry or deciduous forests (including Monsoon forests) or woodlands
+ground water
+wood
+Temperate grasslands
+Evergreen sclerophyllous forests, scrub, or woodlands
+Udvardy biome
+oil
+aviation fuel
+petroleum
+linseed oil
+vegetable oil
+fuel oil
+clay
+related
+inorganically contaminated sediment
+organically contaminated sediment
+petroleum contaminated sediment
+nitrobenzene contaminated sediment
+cis-dichloroethane contaminated sediment
+iron-reducing zone of petroleum contaminated sediment
+naphthalene contaminated sediment
+sea ice
+self-heating coal mine waste
+coal mine waste
+unexploded-ordnance dump
+contamination feature
+Superfund Site
+oil spill
+oil seep
+landfill
+anthrosol
+andosol
+alisol
+durisol
+chernozem
+calcisol
+acrisol
+albeluvisol
+cryosol
+cambisol
+shop
+food shop
+cheese spoilage
+arenosol
+exact
+pond water
+saline water habitat
+marine habitat
+brackish water habitat
+borehole
+mesotrophic water
+eutrophic water
+oligotrophic water
+cheese starter culture
