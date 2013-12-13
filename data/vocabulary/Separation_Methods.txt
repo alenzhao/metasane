@@ -1,0 +1,198 @@
+nitrocellulose memebrane
+exact
+pH range
+northern blot
+The Human Proteome Organisation Proteomics Standards Initiative
+lecturer
+blot module
+excised spot
+PSI MS
+social role
+reader
+researcher
+principle investigator
+position
+professor
+enzyme digestion
+biological stain product
+SimplyBlue SafeStain
+SYPRO Ruby
+SilverQuest Silver Stain
+difference gel electrophoresis
+transfer protocol
+protein transfer protocol
+unit of measure
+PSI MI
+loading buffer
+Parafilm
+gel matrix
+electrical power supply
+filter paper
+polyacrylamide gel
+device
+Cy3
+bisacrylamide
+substance
+gel excised analyte
+gel tank
+isoelectric focusing device
+immobilized pH gradient gel
+agarose gel
+gas substance
+chemical substance
+manufacturer
+DeCyder
+sep
+write access
+Uniform Resource Identifier
+attribute
+measurement range
+related
+data format
+image file format
+graphics interchange format
+Portable Network Graphics
+Tagged Image File Format
+Windows Bitmap
+Joint Photographic Experts Group
+Scalable Vector Graphics
+two dimensional gel electrophoresis
+gel dryer
+rehydration buffer
+agarose sealing solution
+capillary electrophoresis
+image acquistion software
+PSI SP
+staining
+Coomassie staining
+silver staining
+secondary antibody probing
+SameSpots
+image acquisition device
+physical
+software
+security access
+mode
+process
+molecular weight range
+software attribute
+role
+identifier
+state
+batch identifier
+product attribute
+permission
+Delta2D
+quantity
+abstract
+image analysis software
+data
+quality
+model identifier
+WordNet
+alt_id
+narrow
+synonym
+broad
+camera
+scanner
+sample loading protocol
+cup loading
+rehydration loading
+well loading
+paper bridge loading
+maximum parameter
+statistical distribution
+linear distribution
+logarithmic distribution
+carrier ampholyte buffer
+read access
+compound liquid
+solution
+Laemelli buffer
+transfer buffer
+electrophoresis buffer
+sample buffer
+suspension
+buffer solution
+fixation solution
+organization
+The Human Proteome Organisation
+PSI GEL
+university
+government organisation
+educational organisation
+PSI PI
+consortium
+proteomics standards initiative working group
+corporation
+PSI MOD
+progenisis
+progenisis PG200
+progenisis PG240
+progeniss PG220
+PubMed
+thermostatic circulator
+immuno detection
+Cy5
+sample
+colorimetric detection
+immobiline dry strip
+software version number
+one dimensional gel electrophoresis image analysis
+Cy2
+protocol
+radioactive detection
+image analysis
+sodium dodecyl sulfate polyacrylamide gel electrophoresis
+inter dimension protocol
+primary antibody probing
+indirect detection
+detection
+one dimensional gel electrophoresis
+excision
+Southern blot
+biological blot protocol
+protein blocking
+two dimensional gel electrophoresis image analysis
+electrophoresis
+western blot
+isoelectric focusing
+image acquisition
+chemilumninescent detect
+flourescent detection
+polyacrylamide gel electrohoresis
+equilibration
+first dimension gel equilibration
+part_of
+develops_from
+is_a
+electrical mode
+gradient mode
+step and hold mode
+hold mode
+direct detection
+agarose gel electrophoresis
+gelling agent
+catalogue identifier
+format
+collection
+group
+Coomassie blue
+substance role
+cross linker
+medium
+separation medium
+detection medium
+&lt;new term&gt;
+transfer medium
+label
+flourescent label
+parameter
+minimum parameter
+biological substance
+object
+membrane substance
+PolyVinylidine DiFluoride
+excised band
+gel

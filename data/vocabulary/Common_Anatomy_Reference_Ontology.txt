@@ -1,0 +1,55 @@
+asexual organism
+related
+portion of tissue
+multilaminar epithelium
+is_a
+simple cuboidal epithelium
+develops_from
+unilaminar epithelium
+part_of
+simple squamous epithelium
+epithelium
+simple columnar epithlium
+atypical epithelium
+immaterial anatomical entity
+anatomical line
+cell space
+anatomical surface
+anatomical point
+anatomical space
+solid compound organ
+multi-cellular organism
+hermaphroditic organism
+female organism
+protogynous hermaphroditic organism
+male organism
+protandrous hermaphroditic organism
+synchronous hermaphroditic organism
+sequential hermaphroditic organism
+gonochoristic organism
+acellular anatomical structure
+basal lamina
+portion of organism substance
+portion of cell substance
+multi-tissue structure
+simple organ
+compound organ component
+organism subdivision
+cell component
+exact
+extraembryonic structure
+material anatomical entity
+cell
+single cell organism
+cavitated compound organ
+compound organ
+anatomical system
+anatomical group
+anatomical structure
+anatomical cluster
+epithelial cell
+alt_id
+synonym
+anatomical entity
+narrow
+broad

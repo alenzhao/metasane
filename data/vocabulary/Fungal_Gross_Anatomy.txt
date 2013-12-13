@@ -1,0 +1,82 @@
+broad
+part_of
+alt_id
+oospore
+uninucleate blastconidium
+vegetative cell
+related
+uninucleate arthroconidium
+lichen thallus
+multinucleate conidium
+multinucleate macroconidium
+multinucleate blastoconidium
+develops_from
+multinucleate arthroconidium
+is_a
+macroconidium
+uninucleate macroconidium
+arthroconidium
+blastoconidium
+zygospore
+phialide
+exact
+sterigma
+metula
+conidiophore
+conidiophore stalk
+conidiophore vesicle
+Hulle cell
+cleistothecium
+ascospore
+ascospore in ascocarp-bound ascus
+ascospore in free ascus
+basidiospore
+uredospore
+teliospore
+asexual spore
+uninucleate conidium
+conidium
+microconidium
+conidium of conidiophore head
+mycelium
+sclerotium
+hyphal tip, aseptate hypha in mycelium
+rhizomorph
+aseptate hypha in mycelium
+mycelial cord
+stroma
+hyphal tip, hypha in mycelium
+hypha with dolipore septa, in mycelium
+hyphal tip, septate hypha in mycelium
+septate hypha in mycelium
+hypha in mycelium
+hyphal tip, hypha with dolipore septa in mycelium
+basidiocarp
+pileus
+stipe
+basidium
+sporophore
+ascocarp-bound ascus
+ascus
+free ascus
+spore
+sexual spore
+unicellular structure
+mating cell
+shmoo
+composite structure
+obsolete
+microbial structure ontology
+ascocarp
+aseptate hypha
+pseudohypha
+hyphal tip
+hyphal tip, aseptate hypha
+fruitbody
+hypha with dolipore septa
+hyphal tip, hypha with dolipore septa
+hyphal tip, septate hypha
+hypha
+septate hypha
+narrow
+synonym

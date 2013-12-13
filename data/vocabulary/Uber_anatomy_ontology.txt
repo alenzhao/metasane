@@ -1,0 +1,4958 @@
+central nervous system
+axon tract
+fascicle
+fasciculus of spinal cord
+fasciculus of brain
+nerve
+cell body
+dendrite
+neurite
+synapse
+motor nerve
+sensory nerve
+neuromuscular junction
+synaptic ribbon
+neurilemma
+entire sense organ system
+sensory system
+gustatory system
+photoreceptor
+socket
+strand of hair
+hair root
+hair follicle
+hair shaft
+hair medulla
+bulb of hair follicle
+infundibulum of hair follicle
+hair root sheath
+amnion
+blastula
+gastrula
+body wall
+breast
+cambium
+tibial cartilage
+cecum mucosa
+subarachnoid space
+cervical mucus
+cytotrophoblast
+duodenal mucosa
+cerebral lobe
+fetus
+embryo
+zygote cortex
+gastric gland
+pancreatic juice
+gut wall
+ileal mucosa
+yellow bone marrow
+intestinal gland
+throat
+organ component layer
+mucosa
+submucosa
+hair inner root sheath
+hair outer root sheath
+hair root sheath matrix
+dermal papilla
+papillary layer of dermis
+coat hair bulb
+chordotonal organ
+yolk sac
+salivary gland
+pharynx
+esophagus
+stomach
+digestive tract
+subdivision of digestive tract
+lower digestive tract
+upper digestive tract
+foregut
+lamina propria
+myelin
+myelin membrane
+myelin sheath
+ophthalmic nerve
+limbic system
+nuchal ligament
+parenchyma
+blastocyst
+sex gland
+reproductive gland
+female reproductive gland
+male reproductive gland
+preputial gland
+male preputial gland
+female preputial gland
+rectal gland
+rectal gland
+salt gland
+salt gland of cranial region
+gland of anal canal
+red bone marrow
+renal medulla
+midgut
+hindgut
+ectodermal gut
+endodermal gut
+anterior ectodermal midgut
+stomodeum
+proctodeum
+neural glomerulus
+primordium
+neural tube
+atrium
+rectum
+neurohemal organ
+malpighian tubule
+ureter
+corpus cardiacum
+corpus allatum
+mushroom body
+pars intercerebralis
+anatomical entity
+flocculus
+hepatopancreatic ampulla
+kidney pyramid
+reticuloendothelial system
+rootlet
+striatum
+corpus striatum
+neostriatum
+dorsal striatum
+caudate-putamen
+caudate nucleus
+putamen
+syncytiotrophoblast
+extensor muscle
+flexor muscle
+flexor carpi radialis
+flexor carpi ulnaris
+flexor digitorum profundus
+processual entity
+uterine cervix
+naris
+external naris
+posterior nasal aperture
+primary choana
+pair of nares
+nasal vestibule
+midnasal cavity
+olfactory apparatus
+nasal cavity
+olfactory pit
+nasal cavity epithelium
+olfactory mucosa
+nasal cavity mucosa
+olfactory epithelium
+nasal cavity respiratory epithelium
+chemosensory organ
+olfactory organ
+olfactory system
+chemosensory system
+nasopharynx
+flexor hallucis longus
+extensor digitorum brevis
+extensor digitorum longus
+extensor carpi radialis longus
+extensor carpi radialis brevis
+extensor carpi ulnaris
+tapetum of corpus callosum
+mandibular nerve
+maxillary nerve
+tongue muscle
+tracheal mucosa
+tuber
+detrusor
+apocrine sweat gland
+labial gland
+meniscus
+epiglottis
+lens cortex
+lens nucleus
+leptomeninx
+longissimus
+oropharynx
+hypopharynx
+islet of Langerhans
+pituitary gland
+peripheral nervous system
+parasympathetic nervous system
+somatic nervous system
+sympathetic nervous system
+anatomical boundary
+endocrine pancreas
+exocrine pancreas
+pancreas primordium
+pancreatic bud
+dorsal pancreatic bud
+ventral pancreatic bud
+compound eye
+camera-type eye
+sense organ
+cutaneous appendage
+feather
+wing
+forelimb wing
+cochlear ganglion
+colonic epithelium
+sternal cartilage
+jejunal mucosa
+jejunal epithelium
+mandibular ramus
+scalp
+sympathetic trunk
+vertebral ganglion
+serous gland
+bronchial mucosa
+visual cortex
+mucous gland
+artery wall
+subdural space
+tubercle
+myoepithelium
+eccrine sweat gland
+gastric pit
+extravillous trophoblast
+cytotrophoblastic cell
+ventral intermediate nucleus of thalamus
+ventral medial complex of thalamus
+endopeduncular nucleus
+posterior paraventricular nucleus of thalamus
+anterior paraventricular nucleus of thalamus
+lateral tuberal nucleus
+arachnoid barrier layer
+set of arachnoid trabecula
+arachnoid trabecula
+trabecula
+neurocranial trabecula
+reticulum trabeculare
+right testicular vein
+left testicular vein
+lymphoid follicle
+decidual cell
+corpus albicans
+tube
+epithelial tube
+endothelial tube
+appendage
+hind digit
+Drosophila lymph gland
+lymph node
+oral lamina propria
+lamina propria of trachea
+head
+primary ovarian follicle
+secondary ovarian follicle
+tertiary ovarian follicle
+follicular fluid
+follicular antrum
+Leydig's organ
+prefrontal cortex
+decidua basalis
+cerebral subcortex
+secretion
+cavernous artery
+endocervix
+uterine wall
+major vestibular gland
+minor vestibular gland
+villus
+portion of organism substance
+anatomical space
+material anatomical entity
+immaterial anatomical entity
+anatomical system
+multi-cellular organism
+cell part
+compound organ component
+simple organ
+testis
+female reproductive system
+cranial vagina
+internal female genitalia
+external female genitalia
+organism subdivision
+acellular anatomical structure
+serous membrane
+tendon
+dorsal root ganglion
+neural nucleus
+nucleus of brain
+ganglion
+stemma
+simple eye
+pinhole eye
+spherical lensed eye
+simple eye with multiple lenses
+fornix of vagina
+fornix of brain
+macula lutea
+macula
+vessel
+anatomical cluster
+extraembryonic structure
+extraembryonic tissue
+portion of tissue
+anatomical group
+multi-tissue structure
+basal lamina
+epithelium
+simple cuboidal epithelium
+simple columnar epithelium
+multilaminar epithelium
+simple squamous epithelium
+atypical epithelium
+ureter
+urethra
+duct
+large intestine
+anatomical wall
+anatomical structure
+organ
+organ part
+respiratory tract
+fully formed stage
+embryo stage part
+embryo stage
+larval stage
+amphibian larval stage
+nematode larval stage
+instar larval stage
+pupal stage
+death stage
+segment of respiratory tract
+organ segment
+organismal segment
+regional part of nervous system
+segmental subdivision of nervous system
+segmental subdivision of hindbrain
+neuromere
+cavitated compound organ
+unilaminar epithelium
+solid compound organ
+stroma
+hippocampal commissure
+cerebellum lobule VI
+chyme
+chyle
+mucus
+interstitial fluid
+interstitial tissue
+thorax
+abdomen
+abdominal segment
+yolk
+lipid droplet
+egg chorion
+pronucleus
+germ layer
+ectoderm
+endoderm
+mesoderm
+mesectoderm
+embryonic segment
+pharyngeal branch
+ventral longitudinal muscle
+pharyngeal muscle
+spinal cord
+nerve cord
+rhombomere
+hindbrain
+renal glomerulus
+glomerular tuft
+metanephric glomerulus
+pronephric glomerulus
+external ectoderm
+mixed endoderm/mesoderm-derived structure
+mixed ectoderm/mesoderm/endoderm-derived structure
+endoderm-derived structure
+mesoderm-derived structure
+ectoderm-derived structure
+male reproductive system
+mesonephros
+metanephros
+adult mammalian kidney
+urorectal septum
+mesonephric tubule
+ureteric bud
+dorsal nerve cord
+ventral nerve cord
+anterior commissure
+posterior commissure
+proneural cluster
+imaginal disc
+optic nerve
+cranial nerve II
+frontal nerve
+labial sensillum
+dorsal branch
+cardial valve
+aorta
+dorsal aorta
+ventral aorta
+endocrine system
+gracilis
+rotator muscle
+intestine muscle
+morula
+zona pellucida
+acellular membrane
+basement membrane
+inner cell mass
+trophoblast
+hypoblast
+blastocele
+bilaminar disc
+post-embryonic stage
+sulcus
+membrane organ
+cardiac neural crest
+vagal neural crest
+archenteron
+blastopore
+lobe of lung
+lung vasculature
+life cycle stage boundary
+life cycle
+life cycle stage
+zygote stage
+brain
+cerebral cortex
+lamina
+medulla
+optic chiasma
+pharyngeal nerve
+thoracic ganglion
+cervical nerve
+head sensillum
+cornea
+corneal primordium
+transparent eye structure
+lens
+compound eye corneal lens
+cellular lens
+photoreceptor array
+retina
+adult thoracic sensillum
+adult abdominal sensillum
+joint connecting hardened body parts
+cleavage stage
+blastula stage
+gastrula stage
+neurula
+neurula stage
+organogenesis stage
+pharyngula stage
+juvenile stage
+post-juvenile adult stage
+lung connective tissue
+lung epithelium
+lung saccule
+respiratory tube
+lung bud
+cell layer
+blood brain barrier
+perineurium
+endodeurium
+epineurium
+cranial nerve nucleus
+dorsal motor nucleus of vagus nerve
+olivary body
+pectoral fin
+pelvic fin
+anterior region of body
+posterior region of body
+theca cell layer
+cranial suture
+eye
+ommatidium
+antenna
+labrum
+insect labrum
+neck
+vertebrate sternum
+humerus
+pleura
+tibia
+trochanter
+femur
+joint
+skeletal joint
+eyelid tarsus
+superior eyelid tarsus
+inferior eyelid tarsus
+tarsal bone
+tarsus
+metatarsus
+imaginal disc-derived wing
+axillary vein
+haltere
+theca externa
+theca interna
+membranous layer
+anal region
+anal canal
+intestine
+anatomical conduit
+orifice
+cloaca
+embryonic cloaca
+primitive urogenital sinus
+mouth
+oral opening
+oral cavity
+segment of colon
+pair of lungs
+respiration organ
+vomit
+amniotic fluid
+excreta
+pleural effusion
+oronasal secretion
+pus
+blood
+haemolymphatic fluid
+gyrus
+endothelial blood brain barrier
+glial blood brain barrier
+pons
+penis
+genitourinary system
+reproductive system
+gonad
+ovary
+oviduct
+fallopian tube
+Mullerian duct
+spermathecum
+uterus
+embryonic uterus
+duplex uterus
+bipartite uterus
+bicornate uterus
+simplex uterus
+vagina
+vulva
+duct of male reproductive system
+epididymis
+seminal vesicle
+duct of seminal vesicle
+ejaculatory duct
+pallium
+subpallium
+echinoderm gill
+pharyngeal gill
+tetrapod frontal bone
+teleost parietal bone
+tetrapod parietal bone
+teleost frontal bone
+ligament
+toilet claw
+amniotic cavity
+adductor muscle
+adductor longus
+adductor brevis
+adductor magnus
+tendon sheath
+vas deferens
+chitin-based cuticle
+cuticle
+epidermis
+respiratory system
+respiratory airway
+trachea
+open tracheal system trachea
+open tracheal system
+spiracle
+urinary system
+circulatory system
+cardiovascular system
+lymphoid system
+hemolymphoid system
+hematopoietic system
+hemolymph
+adipose tissue
+fat pad
+arthropod fat body
+fat body
+nervous system
+central nervous system plus retina
+hip bone
+ilium
+ischium
+pubis
+epithelium of stomach
+intestinal epithelium
+epithelium of large intestine
+portal triad
+liver parenchyma
+sinusoid
+splenic sinusoid
+hepatic sinusoid
+intralobular bile duct
+bile canaliculus
+renal column
+papillary duct
+proximal convoluted tubule
+loop of Henle
+descending limb of loop of Henle
+descending thin limb of loop of Henle
+descending thick limb of loop of Henle
+ascending limb of loop of Henle
+thick ascending limb of loop of Henle
+loop of Henle ascending limb thin segment
+inguinal lymph node
+popliteal lymph node
+popliteal vein
+anterior tibial vein
+posterior tibial vein
+small saphenous vein
+lateral marginal vein
+dorsal metatarsal vein
+medial marginal vein
+sural vein
+arcuate artery
+medial tarsal artery
+skin of hip
+lower urinary tract
+upper respiratory tract
+lower respiratory tract
+head of organ
+neck of organ
+subcostal artery
+digastric
+longus capitis
+mylohyoid
+geniohyoid
+lacrimal canaliculus
+tapetum lucidum
+pupil
+corneal epithelium
+sclera
+muscle of trunk
+substantia propria of cornea
+epithelium of ciliary body
+iris stroma
+spinal nerve
+optic disc
+macula lutea
+cranial nerve
+ciliary ganglion
+submandibular ganglion
+femoral artery
+conotruncus
+bulbus cordis
+conotruncal ridge
+truncus arteriosus
+endocardial cushion
+sinus venosus
+cardinal vein
+common cardinal vein
+postcardinal vein
+anterior cardinal vein
+umbilical vein
+dermis
+layer of hippocampus
+hippocampus granule cell layer
+hippocampus molecular layer
+hippocampus stratum lacunosum
+hippocampus stratum oriens
+hippocampus stratum radiatum
+nasal mucus
+choroid plexus of lateral ventricle
+medial longitudinal fasciculus
+fimbria of hippocampus
+pyramid of medulla oblongata
+pyramis of vermis of cerebellum
+pyramidal layer of hippocampus
+gray matter of spinal cord
+white matter of neuraxis
+white matter of cerebellum
+mesangium
+glomerular mesangium
+extraglomerular mesangium
+periventricular nucleus
+muscle of back
+epithelium of urethra
+lamina propria of urethra
+trunk of intercostal nerve
+notochord
+exocrine system
+umbilical cord
+pulmonary trunk
+regional part of medullary reticular formation
+brachium of superior colliculus
+postcentral gyrus
+anterior calcarine sulcus
+commissure of superior colliculus
+regional part of vestibular nuclear complex
+central tegmental tract of midbrain
+calcarine sulcus
+nucleus subceruleus
+lateral corticospinal tract
+prepyriform area
+oral part of spinal trigeminal nucleus
+juxtarestiform body
+orbital operculum
+dentatothalamic tract
+orbital sulcus
+ventral posterior nucleus
+pontine nuclear group
+trigeminal nuclear complex
+trigeminal sensory nucleus
+principal sensory nucleus of trigeminal nerve
+spinal nucleus of trigeminal nerve
+otic placode
+otic capsule
+cartilaginous otic capsule
+bony otic capsule
+midbrain-hindbrain boundary
+brain vasculature
+tela choroidea
+tela choroidea of tectal ventricle
+tela choroidea of fourth ventricle
+tela choroidea of third ventricle
+tela choroidea of telencephalic ventricle
+choroid plexus
+brain ventricle/choroid plexus
+ventricle of nervous system
+brain ventricle
+ventricular system of central nervous system
+ventricular system of brain
+neuraxis cavity
+ventricular zone
+subventricular zone
+brain ventricular zone
+neural tube mantle layer
+neural tube ventricular layer
+neural tube marginal layer
+neural tube lateral wall mantle layer
+alar plate
+roof plate
+roof plate spinal cord region
+hand digit connective tissue
+hand connective tissue
+tail connective tissue
+neck cartilage
+lower respiratory tract cartilage
+trachea cartilage
+eye skin gland
+limb long bone
+forelimb long bone
+hindlimb long bone
+aorta elastic tissue
+heart elastic tissue
+respiratory system elastic tissue
+cardiovascular system elastic tissue
+blood vessel elastic tissue
+lung elastic tissue
+bronchus elastic tissue
+trachea elastic tissue
+aorta tunica media
+aorta tunica intima
+distal limb segment
+digit
+prepollex
+digit 1
+digit 2
+digit 3
+digit 4
+digit 5
+hand digit 1
+hand digit 2
+hand digit 3
+hand digit 4
+hand digit 5
+foot digit 1
+foot digit 2
+foot digit 3
+foot digit 4
+foot digit 5
+middle phalanx of finger
+distal phalanx of finger
+proximal phalanx of finger
+middle phalanx of toe
+distal phalanx of toe
+glomerulus vasculature
+glomus
+long nephron
+short nephron
+S1 portion of tubule
+S2 portion of tubule
+renal vesicle
+comma-shaped body
+S-shaped body
+inner stripe
+outer stripe
+cortical collecting duct
+outer medullary collecting duct
+inner medullary collecting duct
+long descending thin limb bend
+prebend segment
+mesenchyme of kidney
+nephrogenic mesenchyme
+nephron epithelium
+upper leg nerve
+back nerve
+lower arm nerve
+upper arm nerve
+lower leg nerve
+urethra smooth muscle
+large intestine smooth muscle
+intestine smooth muscle
+stomach smooth muscle
+vagina smooth muscle
+vas deferens smooth muscle
+respiratory system smooth muscle
+gastrointestinal system smooth muscle
+kidney pelvis smooth muscle
+urinary bladder smooth muscle
+urinary bladder trigone smooth muscle
+urinary bladder neck smooth muscle
+submucosa of sigmoid colon
+submucosa of fundus of stomach
+submucosa of body of stomach
+submucosa of cardia of stomach
+submucosa of pyloric antrum
+submucosa of pylorus
+submucosa of biliary tree
+submucosa of common bile duct
+submucosa of common hepatic duct
+submucosa of right hepatic duct
+submucosa of left hepatic duct
+submucosa of urinary bladder
+submucosa of trigone of urinary bladder
+submucosa of neck of urinary bladder
+submucosa of ileum
+submucosa of right main bronchus
+submucosa of left main bronchus
+submucosa of main bronchus
+submucosa of lobar bronchus
+submucosa of segmental bronchus
+submucosa of bronchiole
+mucosa of ureter
+mucosa of epiglottis
+mucosa of vagina
+mucosa of seminal vesicle
+mucosa of ejaculatory duct
+mucosa of deferent duct
+mucosa of laryngopharynx
+mucosa of cystic duct
+mucosa of appendix
+mucosa of ascending colon
+mucosa of transverse colon
+mucosa of descending colon
+mucosa of sigmoid colon
+mucosa of fundus of stomach
+mucosa of body of stomach
+mucosa of cardia of stomach
+mucosa of pyloric antrum
+mucosa of pylorus
+mucosa of biliary tree
+mucosa of common bile duct
+mucosa of common hepatic duct
+mucosa of right hepatic duct
+vitelline artery
+skin adnexa
+hair follicle matrix region
+hair follicle isthmus
+metoptic pilar
+pre-Botzinger complex
+fibrous ring of heart
+interdigital region
+hand interdigital region
+foot interdigital region
+webbed interdigital region
+interdigital region between digits 1 and 2
+interdigital region between digits 2 and 3
+interdigital region between digits 3 and 4
+interdigital region between digits 4 and 5
+interdigital region between fingers 1 and 2
+interdigital region between fingers 2 and 3
+interdigital region between fingers 3 and 4
+interdigital region between fingers 4 and 5
+interdigital region between toes 1 and 2
+interdigital region between toes 2 and 3
+interdigital region between toes 3 and 4
+interdigital region between toes 4 and 5
+proximal tubule
+proximal straight tubule
+distal tubule
+distal convoluted tubule
+intermediate tubule
+outer medulla of kidney
+inner medulla of kidney
+endometrium
+myometrium
+psoas major
+glans penis
+scrotum
+right uterine tube
+left uterine tube
+ovarian follicle
+cumulus oophorus
+capsule of ovary
+external iliac artery
+internal iliac artery
+umbilical artery
+inferior vesical artery
+superior vesical artery
+cricothyroid muscle
+cheek
+muscle of larynx
+constrictor muscle of pharynx
+inferior pharyngeal constrictor
+genioglossus
+hyoglossus
+styloglossus
+palatoglossus
+extrinsic muscle of tongue
+intrinsic muscle of tongue
+muscle of face
+fovea centralis
+layer of retina
+pigmented layer of retina
+retinal neural layer
+photoreceptor layer of retina
+retina photoreceptor layer inner segment
+retina photoreceptor layer outer segment
+outer limiting layer of retina
+outer nuclear layer of retina
+outer plexiform layer of retina
+inner nuclear layer of retina
+ganglionic layer of retina
+nerve fiber layer of retina
+optic fiber layer
+inner limiting layer of retina
+inner plexiform layer of retina
+aqueous humor of eyeball
+vitreous humor
+vitreous body
+vitreous chamber of eyeball
+primary vitreous humour
+sensory ganglion
+anterior segment of eyeball
+urachus
+granular layer of epidermis
+superior pancreaticoduodenal artery
+stratum lucidum of epidermis
+hypodermis
+viscus
+cuticle of hair
+cortex of hair
+right atrium
+left atrium
+right ventricle
+cardiac atrium
+cardiac ventricle
+ductus venosus
+left ventricle
+interatrial septum
+sinoatrial valve
+atrioventricular canal
+submandibular duct
+macula densa
+corpus callosum
+endometrial stroma
+lamina propria of bronchus
+epithelium of lobar bronchus
+epithelium of main bronchus
+epithelium of segmental bronchus
+neural crest
+descending thoracic aorta
+neural ectoderm
+epicardium
+visceral serous pericardium
+cardiac muscle tissue
+conducting system of heart
+sinuatrial node
+atrioventricular node
+atrioventricular bundle
+purkinje fiber
+pelvis
+perineum
+serous pericardium
+mesencephalic nucleus of trigeminal nerve
+paracentral sulcus
+medial olfactory gyrus
+limbic lobe
+fasciolar gyrus
+emboliform nucleus
+paraterminal gyrus
+ventral nucleus of lateral lemniscus
+precentral operculum
+neuropil
+superior rostral sulcus
+caudal part of ventral lateral nucleus
+spinothalamic tract of midbrain
+cochlear nuclear complex
+node of ranvier
+transverse orbital sulcus
+globose nucleus
+medial part of ventral lateral nucleus
+ventral tegmental decussation
+regional part of brain
+pars postrema of ventral lateral nucleus
+trochlear nerve fibers
+regional part of cerebral cortex
+tuber cinereum
+regional part of cochlear nuclear complex
+preoptic periventricular nucleus
+cerebral peduncle
+orbital part of inferior frontal gyrus
+spinal cord alar plate
+outermost layer of epidermis
+pre-chordal neural plate
+chordal neural plate
+hypochord
+somitomere
+somite
+presomitic mesoderm
+blood island
+primitive knot
+primitive node
+ciliary marginal zone
+dorsolateral placode
+axial mesoderm
+chordamesoderm
+intermediate mesoderm
+prechordal plate
+prechordal mesoderm
+proximal phalanx of toe
+phalanx of finger
+hand digit 1 phalanx
+hand digit 2 phalanx
+hand digit 3 phalanx
+hand digit 4 phalanx
+hand digit 5 phalanx
+phalanx of toe
+foot digit 1 phalanx
+foot digit 2 phalanx
+foot digit 3 phalanx
+foot digit 4 phalanx
+foot digit 5 phalanx
+respiratory system arterial blood vessel
+kidney arterial blood vessel
+metacarpal bone of digit 1
+metacarpal bone of digit 2
+metacarpal bone of digit 3
+metacarpal bone of digit 4
+metacarpal bone of digit 5
+metatarsal bone of digit 1
+metatarsal bone of digit 2
+metatarsal bone of digit 3
+metatarsal bone of digit 4
+metatarsal bone of digit 5
+molar tooth
+hip muscle
+foot digit muscle
+eyelid muscle
+limb muscle
+hindlimb muscle
+hand digit muscle
+tail muscle
+upper jaw molar
+lower jaw molar
+synovial bursa
+bursa of Fabricius
+bursal plica
+bursal follicle
+anal region smooth muscle
+lymphatic vessel smooth muscle
+lower respiratory tract smooth muscle
+iris smooth muscle
+mammary gland smooth muscle
+arteriole smooth muscle
+blood vessel smooth muscle
+spleen smooth muscle
+small intestine smooth muscle
+gall bladder smooth muscle
+main bronchus smooth muscle
+bronchus smooth muscle
+prostate gland smooth muscle
+oviduct smooth muscle
+outflow tract smooth muscle
+back bone
+foot digit bone
+hand digit bone
+upper arm bone
+lower leg bone
+upper leg muscle
+skin muscle
+lower arm muscle
+upper arm muscle
+lower leg muscle
+upper leg blood vessel
+back blood vessel
+lower arm blood vessel
+upper arm blood vessel
+lower leg blood vessel
+upper leg skin
+upper arm skin
+lower leg skin
+outflow tract myocardium
+upper leg connective tissue
+back connective tissue
+lower arm connective tissue
+upper arm connective tissue
+lower leg connective tissue
+outflow tract pericardium
+cartilaginous joint suture
+mucosa of left hepatic duct
+mucosa of right ureter
+mucosa of left ureter
+mucosa of renal pelvis
+mucosa of major calyx
+mucosa of minor calyx
+mucosa of trigone of urinary bladder
+mucosa of neck of urinary bladder
+mucosa of right uterine tube
+mucosa of left uterine tube
+mucosa of male urethra
+mucosa of female urethra
+mucosa of prostatic urethra
+mucosa of intermediate urethra
+mucosa of lacrimal sac
+mucosa of nasal septum
+mucosa of palate
+mucosa of tongue
+mucosa of sphenoidal sinus
+mucosa of nasopharynx
+mucosa of oropharynx
+mucosa of soft palate
+mucosa of uvula
+mucosa of middle ear
+mucosa of frontal sinus
+mucosa of maxillary sinus
+mucosa of lacrimal canaliculus
+mucosa of paranasal sinus
+mucosa of upper lip
+mucosa of lower lip
+mucosa of gallbladder
+mucosa of right main bronchus
+mucosa of left main bronchus
+mucosa of main bronchus
+mucosa of lobar bronchus
+mucosa of segmental bronchus
+mucosa of bronchiole
+mucosa of terminal bronchiole
+mucosa of respiratory bronchiole
+mucosa of tympanic membrane
+mucosa of nasolacrimal duct
+mucosa of pharyngotympanic tube
+mucosa of ethmoidal sinus
+mucosa of hard palate
+duodenal papilla
+liver papillary process
+sphincter of hepatopancreatic ampulla
+pancreatic duct
+parotid duct
+intervertebral disk
+vertebral arch joint
+skin of back
+head of pancreas
+superficial cervical artery
+vena cava
+inferior vena cava
+ileocecal junction
+pericardial cavity
+body of vertebra
+spinous process of vertebra
+pedicle of vertebra
+superior articular process of vertebra
+inferior articular process of vertebra
+endocardium of ventricle
+epicardium of ventricle
+myocardial layer
+iliolumbar artery
+obturator artery
+superior gluteal artery
+external iliac vein
+internal iliac vein
+inferior vesical vein
+vaginal vein
+iliolumbar vein
+obturator vein
+sciatic nerve
+tibial nerve
+common fibular nerve
+muscle of pelvis
+levator ani
+orbicularis oculi
+olfactory nerve
+levator labii superioris
+depressor labii inferioris
+buccinator
+extrinsic auricular muscle
+left subclavian artery
+superior vena cava
+subclavian vein
+vertebral vein
+internal thoracic vein
+pericardiacophrenic vein
+thymic vein
+posterior segment of eyeball
+epithelium of lens
+capsule of lens
+autonomic ganglion
+sympathetic ganglion
+paravertebral ganglion
+parasympathetic ganglion
+enteric ganglion
+nerve plexus
+serous sac
+conjunctival sac
+conjunctiva
+palpebral conjunctiva
+somatic nerve plexus
+brachial nerve plexus
+lumbosacral nerve plexus
+autonomic nerve plexus
+lacrimal gland
+lateral thoracic vein
+thoracodorsal vein
+axial skeleton
+postcranial axial skeleton
+appendicular skeleton
+cranial dura mater
+spinal dura mater
+interventricular septum
+mesentery
+apex of heart
+cardiac septum
+trunk
+multi-segment region
+multi-limb segment region
+arm
+leg
+locomotive weight-bearing appendage
+insect leg
+limb/fin
+limb/fin of posterior region of body
+limb/fin of anterior region of body
+jointed/prehensile appendage
+limb
+forelimb
+hindlimb
+hindlimb stylopod
+forelimb stylopod
+forelimb zeugopod
+abdominal cavity
+body cavity precursor
+intraembryonic coelom
+extraembryonic coelom
+body cavity
+peritoneal cavity
+peritoneum
+parietal peritoneum
+visceral peritoneum
+serosa of uterus
+fibrous pericardium
+meninx
+pia mater
+arachnoid mater
+brain arachnoid mater
+dura mater
+falx cerebri
+median preoptic nucleus
+head of caudate nucleus
+capsule of medial geniculate body
+tail of caudate nucleus
+triangular part of inferior frontal gyrus
+body of caudate nucleus
+cerebral crus
+medial part of medial mammillary nucleus
+motor nucleus of trigeminal nerve
+anterior nucleus of hypothalamus
+regional part of midbrain tegmentum
+lateral pulvinar nucleus
+ventral anterior nucleus
+medial pulvinar nucleus
+midbrain reticular formation
+oral pulvinar nucleus
+decussation of medial lemniscus
+intermediate orbital gyrus
+densocellular part of medial dorsal nucleus
+dorsal longitudinal fasciculus of medulla
+magnocellular part of medial dorsal nucleus
+anterior median eminence
+dorsolateral fasciculus of medulla
+paralaminar part of medial dorsal nucleus
+anterior horn of lateral ventricle
+posterior median eminence
+parvicellular part of medial dorsal nucleus
+body of lateral ventricle
+periamygdaloid area
+posterior parahippocampal gyrus
+medial lemniscus of midbrain
+superior medullary velum
+medial longitudinal fasciculus of midbrain
+superior frontal gyrus
+medial pes lemniscus
+trigeminal placode
+lens placode
+pronephric duct
+mesonephric duct
+neural plate
+posterior neural tube
+paraxial mesoderm
+epibranchial placode
+floor plate
+floor plate spinal cord region
+floor plate of neural tube
+anterior neural tube
+lateral plate mesoderm
+extraembryonic mesoderm
+somatic layer of lateral plate mesoderm
+splanchnic layer of lateral plate mesoderm
+splanchnopleure
+somatopleure
+genital tubercle
+fascia lata
+smegma
+anterior cruciate ligament
+ligamentum flavum
+cuspid
+tooth crown
+patellar ligament
+tooth root
+tooth apex
+mouth floor
+posterior cruciate ligament
+masticatory muscle
+palatal muscle
+rotator cuff
+tooth socket
+foramen magnum
+omentum
+sella turcica
+sacrum
+epidural space
+acromioclavicular joint
+retroperitoneal space
+atlanto-axial joint
+metacarpophalangeal joint
+metatarsophalangeal joint
+abdominal wall
+subtalar joint
+pubic symphysis
+temporomandibular joint
+achilles tendon
+lateral ventricle choroid plexus epithelium
+third ventricle choroid plexus epithelium
+fourth ventricle choroid plexus epithelium
+parasympathetic nerve
+glomerular capillary endothelium
+sympathetic nerve trunk
+respiratory system lymphatic vessel smooth muscle
+respiratory system blood vessel smooth muscle
+distal phalanx
+middle phalanx
+proximal phalanx
+distal phalanx of hand digit 1
+proximal phalanx of hand digit 1
+distal phalanx of hand digit 2
+distal phalanx of hand digit 3
+distal phalanx of hand digit 4
+distal phalanx of hand digit 5
+distal phalanx of foot digit 1
+distal phalanx of foot digit 2
+distal phalanx of foot digit 3
+distal phalanx of foot digit 4
+distal phalanx of foot digit 5
+middle phalanx of hand digit 2
+middle phalanx of hand digit 3
+middle phalanx of hand digit 4
+middle phalanx of hand digit 5
+middle phalanx of foot digit 2
+middle phalanx of foot digit 3
+middle phalanx of foot digit 4
+middle phalanx of foot digit 5
+proximal phalanx of hand digit 2
+proximal phalanx of hand digit 3
+proximal phalanx of hand digit 4
+proximal phalanx of hand digit 5
+proximal phalanx of foot digit 1
+mucosa of vocal fold
+mucosa of uterine tube
+mucosa of infundibulum of uterine tube
+immune organ
+hemolymphoid system gland
+neural groove
+neural fold
+left ventricular compact myocardium
+left ventricular trabecular myocardium
+right ventricular compact myocardium
+right ventricular trabecular myocardium
+amphid sensory organ
+neural rod
+neural fold hinge point
+neuropore
+anterior neuropore
+lamina terminalis
+posterior neuropore
+preganglionic parasympathetic nervous system
+postganglionic parasympathetic nervous system
+forebrain-midbrain boundary
+hindbrain-spinal cord boundary
+eggshell
+chorion-containing eggshell
+metanephric ureteric bud
+ureter ureteric bud
+tube lumen
+nipple sheath
+ectodermal placode
+hair follicle placode
+tooth placode
+sebaceous gland placode
+sweat gland placode
+left horn of sinus venosus
+right horn of sinus venosus
+cement gland
+myocardial compact layer
+cardiac muscle tissue of myocardium
+myocardium
+trabecula carnea
+myocardium trabecular layer
+trabecular layer of ventricle
+compact layer of ventricle
+myocardium of ventricle
+myocardium of atrium
+skin of head
+skin of trunk
+articular cartilage
+pleural fluid
+urine
+sweat
+synovial fluid
+dermal skeletal element
+dermal denticle
+tooth-like structure
+chitinous tooth
+radula
+vomerine tooth
+calcareous tooth
+dentition
+transverse process of vertebra
+coccygeus
+lobe of prostate
+anterior lobe of prostate
+pampiniform plexus
+skin of penis
+skin of clitoris
+prepuce of penis
+prepuce of clitoris
+male prepuce epithelium
+urethral sphincter
+internal urethral sphincter
+external urethral sphincter
+male urethra
+female urethra
+prostatic urethra
+bronchial vein
+vascular plexus
+venous plexus
+azygos vein
+auricular muscle
+intrinsic auricular muscle
+masseter
+temporalis
+stapedius
+tensor tympani
+eye muscle
+extra-ocular muscle
+medial rectus
+lateral rectus
+levator palpebrae superioris
+ciliary muscle
+muscle of iris
+sphincter pupillae
+dilatator pupillae
+tarsal gland
+palpebral fissure
+sweat gland
+sebaceous gland
+orbital septum
+nasal cartilage
+mucosa of larynx
+paranasal sinus
+tear
+gingiva
+major salivary gland
+minor salivary gland
+parotid gland
+sublingual gland
+lip
+hindlimb zeugopod
+stylopod
+zeugopod
+visual system
+spleen
+small intestine
+gallbladder
+smooth muscle of artery
+smooth muscle of esophagus
+kidney
+duodenum
+jejunum
+ileum
+gizzard
+right ovary
+left ovary
+nephron
+nephrotome
+metanephric blastema
+pronephric mesoderm
+tympanic membrane
+exocrine gland
+bulbo-urethral gland
+prostate bud
+prostate gland
+endocrine gland
+adrenal gland
+thymus
+bone marrow
+palatine tonsil
+cricoid cartilage
+muscle of head
+muscle of neck
+abdomen musculature
+muscle of abdomen
+perineal muscle
+trapezius
+pectoralis major
+rectus abdominis
+septal nuclear complex
+lateral part of medial mammillary nucleus
+supracallosal gyrus
+mesencephalic tract of trigeminal nerve
+lateral septal nucleus
+oculomotor nerve fibers
+anterior horizontal limb of lateral sulcus
+anterior ascending limb of lateral sulcus
+pallidotegmental fasciculus
+anterior subcentral sulcus
+vestibular nuclear complex
+diagonal sulcus
+ventral supraoptic decussation
+regional part of medullary raphe nuclear complex
+regional part of medulla oblongata
+anterodorsal nucleus
+regional part of metencephalon
+anteromedial nucleus
+abducens nucleus
+rhinal sulcus
+nucleus raphe obscurus
+anteroventral nucleus
+angular gyrus
+area x
+nephric ridge
+nephrogenic cord
+caudal part of nephrogenic cord
+rostral part of nephrogenic cord
+urogenital ridge
+genital ridge
+sex cord
+ovary sex cord
+testis sex cord
+myotome
+trunk neural crest
+caudal artery
+caudal vein
+dermomyotome
+sclerotome
+supraorbital lateral line
+thyroid primordium
+inguinal canal
+extrahepatic bile duct
+intrahepatic bile duct
+meckel's diverticulum
+vocal cord
+sinus of valsalva
+carotid sinus
+circle of Willis
+vasa vasorum
+brachiocephalic vein
+cavernous sinus
+splenic vein
+neural tissue
+splanchnic nerve
+recurrent laryngeal nerve
+golgi-mazzoni corpuscle
+muscle spindle
+pacinian corpuscle
+anterior cranial fossa
+lingual nerve
+middle cranial fossa
+bone fossa
+fenestra
+musculocutaneous nerve
+cervical plexus
+thoracic nerve
+intercostal nerve
+proximal phalanx of foot digit 2
+proximal phalanx of foot digit 3
+proximal phalanx of foot digit 4
+proximal phalanx of foot digit 5
+allantois
+primitive streak
+foot plate
+trophectoderm
+gubernaculum
+optic eminence
+branchial groove
+1st arch branchial groove
+2nd arch branchial groove
+3rd arch branchial groove
+4th arch branchial groove
+pharyngeal pouch
+first branchial arch artery
+second branchial arch artery
+third branchial arch artery
+fourth branchial arch artery
+sixth branchial arch artery
+female inguinal canal
+male inguinal canal
+podocyte foot process
+stylohyoid ligament
+ectoplacental cone
+vitelline blood vessel
+vitelline vasculature
+extraembryonic ectoderm
+Descemet's membrane
+Reichert's cartilage
+Reichert's membrane
+anterior limiting lamina of cornea
+beak
+kidney rudiment
+descending thin limb
+connecting tubule
+short descending thin limb
+long descending thin limb
+early distal convoluted tubule
+late distal convoluted tubule
+mesonephric epithelium
+anterior mesonephric tubule
+posterior mesonephric tubule
+metanephric tubule
+metanephric cap
+metanephric epithelium
+metanephric smooth muscle tissue
+metanephric pyramid
+metanephric cortex
+metanephric ascending thin limb
+metanephric cortical collecting duct
+metanephric descending thin limb
+metanephric distal convoluted tubule
+metanephric early distal convoluted tubule
+metanephric glomerular mesangium
+metanephric late distal convoluted tubule
+metanephric long descending thin limb bend
+metanephric macula densa
+metanephric prebend segment
+parapophysis
+tubercle
+anterior tubercle of transverse process of cervical vertebra
+posterior tubercle of transverse process of cervical vertebra
+cervical vertebra 1 anterior tubercle
+vertebral arch
+arch of atlas
+arcus anterior
+atlas
+second cervical vertebra
+caudal vertebra
+coccyx
+wall of esophagus
+axillary lymph node
+incisor tooth
+subcostal vein
+pectoralis minor
+jugular vein
+anterior jugular vein
+membranous urethra
+spongiose part of urethra
+urethral gland
+ischiocavernosus
+dorsal artery of penis
+lesser sac
+mesovarium
+coelomic epithelium
+seminiferous tubule of testis
+seminiferous tubule epithelium
+germinal epithelium of ovary
+gonad germinal epithelium
+epithelium of gonad
+epithelium of testis
+isthmus of thyroid gland
+lingual artery
+sublingual artery
+facial artery
+occipital artery
+superficial temporal artery
+transverse facial artery
+maxillary artery
+mental artery
+buccal artery
+ophthalmic artery
+central retinal artery
+coronary artery
+lacrimal artery
+dorsal nasal artery
+anterior cerebral artery
+right coronary artery
+left coronary artery
+middle cerebral artery
+upper lip
+lower lip
+philtrum
+saliva
+duct of salivary gland
+sublingual duct
+vestibular labyrinth
+bony labyrinth
+osseus labyrinth vestibule
+semicircular canal
+anterior semicircular canal
+posterior semicircular canal
+lateral semicircular canal
+cochlea
+perilymph
+internal ear
+lobule of pinna
+pronephros
+pronephric kidney
+capsule of thymus
+cortex of thymus
+medulla of thymus
+lobule of thymus
+solitary tract nuclear complex
+inferior olivary complex
+superior olivary complex
+cerebellar cortex
+cerebellar nuclear complex
+dentate nucleus
+atrioventricular valve
+tricuspid valve
+mitral valve
+aortic valve
+habenulo-interpeduncular tract
+supraspinatus
+connective tissue
+foot
+ankle
+finger
+lymph
+nasolacrimal duct
+pharyngotympanic tube
+bile duct
+talus
+vomer
+bone of lower jaw
+dentary
+mandible
+maxilla
+supramarginal gyrus
+supraoptic crest
+anteroventral periventricular nucleus
+ventral tegmental area
+medullary raphe nuclear complex
+occipitotemporal sulcus
+anterior hypothalamic commissure
+parieto-occipital sulcus
+cuneiform nucleus
+dorsal supraoptic decussation
+preoccipital notch
+supraopticohypophysial tract
+subcuneiform nucleus
+anterior median oculomotor nucleus
+middle frontal gyrus
+precentral gyrus
+metathalamus
+midline nuclear group
+posterior nucleus of hypothalamus
+pyramidal tract
+posterior periventricular nucleus
+posterior nuclear complex
+cingulate sulcus
+nucleus of posterior commissure
+ultimobranchial body
+occipital lateral line
+infraorbital lateral line
+dorsal lateral line
+middle lateral line
+dorsal fin
+optic stalk
+cranial neural crest
+female organism
+male organism
+surface structure
+compound organ
+mesenchyme
+mesenchymal condensation
+cartilagenous condensation
+pre-muscle condensation
+pre-cartilage condensation
+dorsal lateral plate region
+urostyle
+mediastinum
+mouth mucosa
+thoracic segment nerve
+abdominal segment nerve
+upper leg bone
+thoracic segment bone
+abdominal segment bone
+urethra muscle
+thoracic segment muscle
+respiratory system muscle
+esophagus muscle
+abdominal segment muscle
+thoracic segment blood vessel
+abdominal segment blood vessel
+abdominal segment skin
+thoracic segment connective tissue
+abdominal segment connective tissue
+forelimb joint
+hindlimb joint
+autopod joint
+tooth epithelium
+upper eyelid epithelium
+lower eyelid epithelium
+thymus epithelium
+thyroid artery
+gonadal vein
+neural crest midbrain
+neural crest telencephalon
+neural crest diencephalon
+neural crest hindbrain
+neural crest spinal cord
+spinal cord neural plate
+lung mesenchyme
+lobar bronchus mesenchyme
+bone of appendage
+fin bone
+epiphysis of humerus
+epiphysis of tibia
+epiphysis of femur
+epiphysis of radius
+epiphysis of ulna
+epiphysis of phalanx of finger
+epiphysis of fibula
+epiphysis of metatarsal bone
+epiphysis of metacarpal bone
+epiphysis of first metacarpal bone
+epiphysis of second metacarpal bone
+epiphysis of third metacarpal bone
+epiphysis of fourth metacarpal bone
+epiphysis of first metatarsal bone
+epiphysis of second metatarsal bone
+epiphysis of third metatarsal bone
+epiphysis of fourth metatarsal bone
+epiphysis of fifth metatarsal bone
+bone tissue of epiphysis
+bone tissue of distal epiphysis
+bone tissue of proximal epiphysis
+periosteum of epiphysis
+distal epiphysis of humerus
+distal epiphysis of tibia
+distal epiphysis of femur
+distal epiphysis of radius
+distal epiphysis of ulna
+distal epiphysis of phalanx of finger
+distal epiphysis of fibula
+proximal epiphysis of humerus
+proximal epiphysis of femur
+proximal epiphysis of radius
+proximal epiphysis of phalanx of finger
+proximal epiphysis of metatarsal bone
+proximal epiphysis of metacarpal bone
+proximal epiphysis of phalanx of thumb
+proximal epiphysis of phalanx of index finger
+proximal epiphysis of phalanx of middle finger
+proximal epiphysis of phalanx of ring finger
+metanephric proximal convoluted tubule
+metanephric proximal straight tubule
+metanephric S1
+metanephric thick ascending limb
+metanephric loop of Henle
+metanephric long nephron
+metanephric glomerulus vasculature
+metanephric nephron epithelium
+metanephric glomerular epithelium
+metanephric glomerular endothelium
+metanephric capsule
+metanephric long descending thin limb
+metanephric short nephron
+metanephric short descending thin limb
+metanephric nephron
+metanephric glomerular capillary
+metanephric comma-shaped body
+metanephric nephron tubule
+metanephric renal vesicle
+metanephric S-shaped body
+metanephric connecting tubule
+metanephric distal tubule
+metanephric proximal tubule
+epithelial bud
+epithelial cord
+epithelial fold
+parenchyma of central nervous system
+vestigial structure
+external jugular vein
+internal jugular vein
+cartilage of main bronchus
+diaphragm
+clavicle
+cephalic vein
+sternohyoid
+omohyoid
+sternothyroid
+thyrohyoid
+intercostal muscle
+latissimus dorsi
+lobe of liver
+right lobe of liver
+epithelium of ovary
+epithelium of vagina
+fornix
+hymen of vagina
+white adipose tissue
+brown adipose tissue
+vestibule
+lacrimal sac
+external acoustic meatus
+inferior epigastric artery
+deep femoral artery
+medial circumflex femoral artery
+inferior rectal artery
+perineal artery
+cerebrospinal fluid
+deep circumflex iliac vein
+femoral vein
+perineal vein
+great saphenous vein
+circumpennate
+sacro-iliac joint
+obturator externus
+posterior communicating artery
+carotid body
+musculoskeletal system
+musculature of body
+musculature
+muscle tissue
+muscle structure
+muscle organ
+skeletal muscle tissue
+thoracic duct
+temporal artery
+basilar artery
+mesencephalic artery
+superior cerebellar artery
+posterior cerebral artery
+arterial blood vessel
+artery
+auricular cartilage
+membranous labyrinth
+lacrimal duct
+cortex
+endolymph
+utricle of membranous labyrinth
+saccule of membranous labyrinth
+semicircular duct
+anterior semicircular duct
+posterior semicircular duct
+lateral semicircular duct
+endolymphatic duct
+ductus reuniens
+scala vestibuli
+scala tympani
+subcommissural organ
+parabigeminal nucleus
+parvocellular oculomotor nucleus
+pedunculopontine tegmental nucleus
+dorsal tegmental nucleus
+peripeduncular nucleus
+interpeduncular nucleus
+pulmonary valve
+reticulotegmental nucleus
+locus ceruleus
+superior salivatory nucleus
+superior cerebellar peduncle
+middle cerebellar peduncle
+fastigial nucleus
+hand
+lesser omentum
+parietal pleura
+visceral pleura
+pleural cavity
+internal intercostal muscle
+transversus thoracis
+immune system
+pericardial sac
+pericardium
+parietal serous pericardium
+pericardial fluid
+autonomic nervous system
+clitoris
+premammillary nucleus
+circular sulcus of insula
+rubrospinal tract
+spinal trigeminal tract of medulla
+collateral sulcus
+rostral interstitial nucleus of medial longitudinal fasciculus
+solitary tract
+spino-olivary tract
+mammillary peduncle
+lateral sulcus
+trochlear nucleus
+mammillary princeps fasciculus
+limen of insula
+mammillotegmental fasciculus
+medial medullary lamina
+claustral amygdaloid area
+regional part of thalamus
+vestibulocochlear nerve root
+longitudinal pontine fibers
+intralaminar nuclear group
+superior temporal sulcus
+transverse pontine fibers
+lateral nuclear group
+lateral inferior limiting sulcus
+isthmus of cingulate gyrus
+medial dorsal nucleus
+posterior cingulate gyrus
+diagonal band
+lamina of septum pellucidum
+Meckel's cartilage
+suspensorium
+otic region
+sphenoid region
+olfactory region
+dermatocranium
+jaw
+upper jaw
+lower jaw
+mandibular arch
+hyoid arch
+pharyngeal arch 3
+pharyngeal arch 4
+pharyngeal arch 5
+pharyngeal arch 6
+hyoid arch skeleton
+branchial arch skeleton
+arch of aorta
+aortic arch
+branchial arch artery
+aortic arch 1
+aortic arch 2
+aortic arch 3
+aortic arch 4
+aortic arch 5
+aortic arch 6
+gonad mesenchyme
+tooth mesenchyme
+upper eyelid mesenchyme
+lower eyelid mesenchyme
+forelimb mesenchyme
+hindlimb mesenchyme
+presumptive ganglion
+presumptive ventricle
+hippocampal region
+CA1 field of hippocampus
+CA2 field of hippocampus
+CA3 field of hippocampus
+CA4 field of hippocampus
+hilus of dentate gyrus
+hilum of dentate nucleus
+biliary bud
+liver primordium
+hypaxial myotome region
+muscle of body wall
+axial muscle
+skeletal muscle of trunk
+skeletal muscle of head
+epaxial muscle
+horizontal myoseptum
+cardiac jelly
+left atrioventricular canal
+right atrioventricular canal
+macula lagena
+digestive system duct
+gut epithelium
+atrioventricular canal endocardium
+diencephalic white matter
+chondrocranium cartilage
+cranial cartilage
+mesenchyme pectoral fin
+mesenchyme pelvic fin
+postoptic commissure
+sensory dissociation area
+transverse gyrus of Heschl
+somatic sensory system
+L4 dorsal root ganglion
+L5 dorsal root ganglion
+somatic motor system
+placenta labyrinth
+blood-air barrier
+tubal tonsil
+inner ear canal
+proximal epiphysis of phalanx of little finger
+proximal epiphysis of first metacarpal bone
+proximal epiphysis of second metacarpal bone
+proximal epiphysis of third metacarpal bone
+proximal epiphysis of fourth metacarpal bone
+proximal epiphysis of fifth metacarpal bone
+proximal epiphysis of first metatarsal bone
+proximal epiphysis of second metatarsal bone
+proximal epiphysis of third metatarsal bone
+proximal epiphysis of fourth metatarsal bone
+proximal epiphysis of fifth metatarsal bone
+proximal epiphysis of distal phalanx of index finger
+proximal epiphysis of distal phalanx of middle finger
+proximal epiphysis of distal phalanx of ring finger
+proximal epiphysis of distal phalanx of little finger
+proximal epiphysis of middle phalanx of index finger
+proximal epiphysis of middle phalanx of middle finger
+proximal epiphysis of middle phalanx of ring finger
+proximal epiphysis of middle phalanx of little finger
+proximal epiphysis of proximal phalanx of index finger
+proximal epiphysis of proximal phalanx of middle finger
+proximal epiphysis of proximal phalanx of ring finger
+proximal epiphysis of proximal phalanx of little finger
+proximal epiphysis of distal phalanx of thumb
+proximal epiphysis of proximal phalanx of thumb
+epiphysis of phalanx
+proximal epiphysis of phalanx
+distal epiphysis of phalanx
+cerebral artery
+gastric vein
+presacral vertebra
+carpus
+pelvic spur
+multi-cell-component structure
+neuron projection bundle
+abdomen organ
+abdominal segment organ
+back organ
+chest organ
+tooth enamel organ
+trunk organ
+thoracic cavity organ
+pelvis organ
+lymph organ
+thoracic segment organ
+renal medulla collecting duct
+outer renal medulla collecting duct
+inner renal medulla collecting duct
+caput epididymis
+caput epididymis
+corpus epididymis
+corpus epididymis
+cauda epididymis
+cauda epididymis
+cervical artery
+deferent duct artery
+ethmoidal artery
+thoracic vein
+deferent duct vein
+spleen germinal center
+segmental spinal nerve
+cervical mammary gland
+thoracic mammary gland
+cervical trunk
+distal straight tubule macula densa
+trachea gland
+larynx submucosa gland
+vagina stroma
+choroid plexus stroma
+tonsil capsule
+right atrium valve
+renal medulla interstitium
+testis interstitial tissue
+outer renal medulla interstitium
+inner renal medulla interstitium
+kidney interstitium
+left lobe of liver
+quadrate lobe of liver
+caudate lobe of liver
+lobe of thyroid gland
+right lobe of thyroid gland
+left lobe of thyroid gland
+longus colli
+scalenus medius
+scalenus posterior
+scapula
+serratus anterior
+iliacus
+gluteus maximus
+gluteus medius
+psoas minor
+sartorius
+biceps femoris
+semitendinosus
+tensor fasciae latae
+quadriceps femoris
+rectus femoris
+vastus lateralis
+vastus medialis
+semimembranosus
+pectineus
+muscle of leg
+vein
+hepatic portal vein
+celiac artery
+transverse sinus
+superior sagittal sinus
+oculomotor nerve
+trochlear nerve
+trigeminal nerve
+abducens nerve
+facial nerve
+vestibulocochlear nerve
+cochlear nerve
+cartilaginous external acoustic tube
+sebum
+cartilage of external ear
+skin of chest
+cerebral hemisphere
+left cerebral hemisphere
+right cerebral hemisphere
+frontal cortex
+temporal lobe
+parietal lobe
+globus pallidus
+amygdala
+medial septal nucleus
+septofimbrial nucleus
+nucleus of diagonal band
+bed nucleus of stria terminalis
+island of calleja
+nucleus accumbens
+anterior perforated substance
+phrenic nerve
+dentate gyrus of hippocampal formation
+choroid plexus epithelium
+internal capsule
+lateral olfactory stria
+trunk of phrenic nerve
+lateral reticular nucleus
+gigantocellular nucleus
+nucleus raphe magnus
+nucleus raphe pallidus
+principal inferior olivary nucleus
+medial accessory inferior olivary nucleus
+nucleus prepositus
+gracile nucleus
+vertebra
+cervical vertebra
+thoracic vertebra
+lumbar vertebra
+tail
+abdominal segment of trunk
+cartilage
+skin gland
+basal ganglion
+fourth ventricle
+digestive system
+gastrointestinal system
+hepatobiliary system
+liver
+oral epithelium
+chest muscle
+arm skin
+limb bone
+cervical lymph node
+lateral hypothalamic area
+pars anterior
+basal forebrain
+ventral amygdalofugal projection
+intermediate periventricular nucleus
+neodentate part of dentate nucleus
+medial lemniscus of medulla
+regional part of cerebellar cortex
+medial longitudinal fasciculus of medulla
+inferior temporal gyrus
+olivocerebellar tract
+spinocerebellar tract
+anterior spinocerebellar tract
+posterior spinocerebellar tract
+chorion
+vitelline membrane
+arthropod sternum
+arthropod tibia
+arthropod hypopharynx
+reproductive organ
+reproductive structure
+female reproductive organ
+male reproductive organ
+tagma
+antennal segment
+thoracic segment
+larval tagma
+larval thorax
+larval abdomen
+prepupa
+pupa
+adult tagma
+adult arthropod thorax
+adult arthropod abdomen
+peritreme
+sclerite
+axillary sclerite
+tergite
+sternite
+foramen
+phragma
+head capsule
+gena
+arthropod occiput
+surface of occiput
+posterior surface of head
+postocciput
+postgena
+tentorial pit
+anterior tentorial pit
+posterior tentorial pit
+dorsal ocellus
+lateral ocellus
+mouthpart
+clypeus
+cibarium
+prementum
+lacinia
+mentum
+cervical sclerite
+tergum
+ocular fundus
+anterior stroma
+posterior stroma
+squamo-parietal suture
+molar crown
+aqueous drainage system
+Bruch's membrane
+fetal membrane
+extraembryonic membrane
+chorioallantoic membrane
+capillary lamina of choroid
+long bone epiphyseal ossification zone
+mediastinum testis
+rete testis
+styloid process
+cingulum
+pterygopalatine ganglion
+otic ganglion
+prevertebral ganglion
+sympathetic afferent fiber
+gonial bone
+metacarpus
+musculature of head
+musculature of body wall
+musculature of thigh
+musculature of thorax
+musculature of neck
+musculature of leg
+musculature of pharynx
+set of muscles of vertebral column
+musculature of back
+musculature of pelvic girdle
+musculature of pectoral girdle
+musculature of chest
+musculature of face
+musculature of arm
+musculature of hip
+musculature of shoulder
+Set of muscles of tongue
+musculature of larynx
+musculature of trunk
+musculature of limb
+musculature of upper limb
+musculature of lower limb
+Set of iliocostalis muscles
+Set of splenius muscles
+Set of muscles of pelvis
+musculature of perineum
+musculature of forearm
+musculature of foot
+musculature of hand
+cardiac muscle tissue of atrium
+cardiac muscle tissue of interatrial septum
+cardiac muscle tissue of cardiac septum
+cardiac muscle tissue of papillary muscle
+skeletal muscle tissue of diaphragm
+skeletal muscle tissue of iliacus
+skeletal muscle tissue of gluteus maximus
+optic eminence surface ectoderm
+midbrain subarachnoid space
+diencephalon subarachnoid space
+hindbrain subarachnoid space
+pancreas head parenchyma
+liver right lobe parenchyma
+liver left lobe parenchyma
+pancreas body parenchyma
+pancreas tail parenchyma
+upper leg epithelium
+foot digit epithelium
+hand digit epithelium
+upper arm epithelium
+lower leg epithelium
+fundus epithelium
+forelimb ectoderm
+hindlimb ectoderm
+medial-nasal process ectoderm
+optic eminence ectoderm
+thyroid endoderm
+tensor tympani muscle
+basal plate metencephalon
+basal plate medulla oblongata
+apical ectodermal ridge forelimb
+apical ectodermal ridge hindlimb
+interventricular septum endocardium
+lobar bronchus of right lung cranial lobe
+lobar bronchus of the right lung caudal lobe
+roof plate spinal cord
+floor plate spinal cord
+bulbus cordis myocardium
+metanephros pelvis
+stomatodeum gland
+yolk sac cavity
+omental bursa cavity
+head mesenchyme
+upper leg mesenchyme
+foot digit mesenchyme
+trunk mesenchyme
+hand digit mesenchyme
+upper arm mesenchyme
+lower leg mesenchyme
+foot plate mesenchyme
+serratus posterior superior
+serratus posterior inferior
+sternocleidomastoid
+subscapularis
+vertebral column
+vertebral foramen
+parathyroid gland
+visceral muscle
+smooth muscle tissue
+mesothelium
+back
+mesenteric vein
+superior mesenteric vein
+common iliac vein
+renal vein
+right renal vein
+left renal vein
+primary motor cortex
+tibialis anterior
+fibularis longus
+gastrocnemius
+soleus
+sural artery
+popliteus
+auditory cortex
+axillary artery
+thoraco-acromial artery
+lateral thoracic artery
+subscapular artery
+vestibular nerve
+glossopharyngeal nerve
+hypoglossal nerve
+right pulmonary artery
+left pulmonary artery
+facial vein
+supra-orbital vein
+submental vein
+retromandibular vein
+superficial temporal vein
+middle temporal vein
+transverse facial vein
+maxillary vein
+deep temporal vein
+anterior auricular vein
+cerebral vein
+inferior cerebral vein
+forebrain
+midbrain
+telencephalon
+diencephalon
+metencephalon
+myelencephalon
+medulla oblongata
+rostral ventrolateral medulla
+dorsal thalamus
+thalamus
+hypothalamus
+epithalamus
+subthalamus
+epithelium of trachea
+epithelium of small intestine
+area postrema
+inferior cerebellar peduncle
+tectobulbar tract
+endocardium
+endocardium of atrium
+right lung
+left lung
+alveolar sac
+right lung accessory lobe
+upper lobe of right lung
+lower lobe of right lung
+alveolar atrium
+alveolar duct
+bronchoalveolar duct junction
+middle lobe of lung
+intermediolateral nucleus
+lateral cervical nucleus
+right main bronchus
+left main bronchus
+hilum
+lung hilus
+left lung hilus
+pars intermedia
+pars tuberalis
+pituitary stalk
+primary visual cortex
+cerebral white matter
+cerebral grey matter
+ventral tegmental nucleus
+enteric plexus
+myenteric nerve plexus
+submucous nerve plexus
+inferior cervical ganglion
+cervicothoracic ganglion
+axillary nerve trunk
+choroidal blood vessel
+lens fiber
+cuneocerebellar tract
+predorsal bundle
+pyramidal decussation
+anterior cingulate gyrus
+regional part of epithalamus
+dorsal nucleus of medial geniculate body
+magnocellular nucleus of medial geniculate body
+ventral corticospinal tract
+inferior frontal sulcus
+internal medullary lamina of thalamus
+accessory medullary lamina
+inferior precentral sulcus
+lateral medullary lamina
+fusiform gyrus
+inferior rostral sulcus
+vestibulospinal tract
+superior temporal gyrus
+posterior hypothalamic region
+middle temporal gyrus
+olfactory sulcus
+anterior transverse temporal gyrus
+posterior transverse temporal gyrus
+olivocochlear bundle
+ventral nuclear group
+ventral pallidum
+episternum
+epimeron
+pronotum
+furcasternum
+prescutum
+anterior notal wing process
+posterior notal wing process
+postnotum
+pleural wing process
+anepisternum
+scutoscutellar suture
+pleural suture
+notopleural suture
+mesofurca
+metafurca
+coxa
+pretarsus
+auxilia
+unguitractor plate
+empodium
+tegula
+axillary cord
+imaginal disc-derived wing vein
+crossvein
+wing cell
+costal cell
+aedeagus
+egg chamber
+pedicel
+exocuticle
+endocuticle
+apodeme
+epipharynx
+articulation
+apophysis
+appendage segment
+blood nerve barrier
+blood-cerebrospinal fluid barrier
+median ocellus
+gustatory organ
+cranial ganglion
+mammary gland alveolus
+alveolus
+hard palate
+neural lobe of neurohypophysis
+ovary septum
+shell septum
+blastema
+phalanx
+syncytiotrophoblast of chorion
+primitive endoderm
+primitive endoderm of inner cell mass
+epithelium of elbow
+cutaneous elastic fiber
+peripheral lymph node
+spleen B cell follicle
+placental labyrinth vasculature
+interfrontal bone
+placenta junctional zone
+saccule duct
+utricle duct
+valve
+utricle valve
+cerebellum fissure
+primordial ovarian follicle
+mature ovarian follicle
+uterine tube infundibulum
+major sublingual duct
+minor sublingual duct
+Hassall's corpuscle
+thymus corticomedullary boundary
+medulla oblongata anterior median fissure
+spinal cord motor column
+fourth ventricle aperture
+fourth ventricle median aperture
+fourth ventricle lateral aperture
+interventricular foramen
+pelvic ligament
+subarcuate fossa
+skeletal muscle tissue of quadriceps femoris
+skeletal muscle tissue of tibialis anterior
+skeletal muscle tissue of deltoid
+skeletal muscle tissue of teres major
+skeletal muscle tissue of biceps brachii
+skeletal muscle tissue of digastric
+skeletal muscle tissue of mylohyoid
+skeletal muscle tissue of orbicularis oculi
+skeletal muscle tissue of masseter
+skeletal muscle tissue of temporalis
+skeletal muscle tissue of levator palpebrae superioris
+skeletal muscle tissue of trapezius
+skeletal muscle tissue of pectoralis major
+skeletal muscle tissue of rectus abdominis
+skeletal muscle tissue of supraspinatus
+skeletal muscle tissue of internal intercostal muscle
+skeletal muscle tissue of transversus thoracis
+smooth muscle tissue of bronchiole
+smooth muscle tissue of terminal bronchiole
+smooth muscle tissue of respiratory bronchiole
+muscle of vertebral column
+muscle of anal triangle
+striated muscle tissue of prostate
+vasculature of muscle organ
+vasculature of musculoskeletal system
+papillary muscle of right ventricle
+papillary muscle of left ventricle
+cardiac muscle tissue of trabecula carnea of right ventricle
+cardiac muscle tissue of trabecula carnea of left ventricle
+anatomical projection
+bony projection
+left side of organism
+right side of organism
+left kidney
+right kidney
+epididymis epithelium
+atrium cardiac jelly
+ventricle cardiac jelly
+outflow tract cardiac jelly
+midbrain neural fold
+hindbrain neural fold
+spinal cord neural fold
+renal cortex collecting duct
+renal cortex artery
+renal cortex vein
+renal cortex interstitium
+juxtamedullary cortex
+peritubular capillary
+nail
+nail matrix
+hyponychium
+eponychium
+nail bed
+proximal nail bed
+dorsal skin of digit
+dorsal skin of finger
+dorsal skin of toe
+nail bed of finger
+nail bed of toe
+head mesoderm
+nephrostome
+pronephric nephron
+pronephric nephron tubule
+mammary bud
+mammary placode
+primary ureteric bud
+mammary duct terminal end bud
+alveolar primary septum
+hepatic vein
+testicular vein
+ovarian vein
+suprarenal vein
+trunk of peripheral nerve
+median nerve
+bare area of liver
+body of pancreas
+tail of pancreas
+cystic duct
+cecum
+appendix
+colon
+ascending colon
+brachial artery
+deep brachial artery
+iliocostalis thoracis
+longissimus thoracis
+longissimus cervicis
+longissimus capitis
+radial artery
+spinalis thoracis
+ulnar artery
+semispinalis thoracis
+semispinalis cervicis
+semispinalis capitis
+triceps surae
+flexor digitorum longus
+tibialis posterior
+cerebellar vein
+superior cerebellar vein
+inferior cerebellar vein
+temporal vein
+anterior cerebral vein
+central retinal vein
+masseteric vein
+trigeminal ganglion
+occipital bone
+sphenoid bone
+temporal bone
+ethmoid
+basicranium
+lacrimal bone
+nasal bone
+thalamic reticular nucleus
+habenula
+habenular trigone
+pineal body
+subthalamic nucleus
+zona incerta
+optic tract
+habenular commissure
+medial forebrain bundle
+mammary gland
+lobule of lactiferous gland
+milk
+colostrum
+right lung hilus
+substantia gelatinosa
+main bronchus
+lobar bronchus
+segmental bronchus
+bronchus
+bronchiole
+terminal bronchiole
+respiratory bronchiole
+outer cortex of kidney
+subcutaneous adipose tissue
+subiculum
+optic fissure
+choroidal fissure
+capsule of lymph node
+capsule
+ovary stratum granulosum
+trabecula of lymph node
+Rathke's pouch
+triquetral
+patella
+palatine gland
+fungiform papilla
+decidua
+uterine gland
+prostate epithelium
+ethmoid sinus
+dorsal metacarpal artery
+internal thoracic artery
+intersegmental artery
+spinal artery
+inferior palpebral vein
+vesical vein
+anterior abdominal wall muscle
+lateral superior olivary nucleus
+regional part of forebrain
+caudal part of ventral posterolateral nucleus
+medial superior olivary nucleus
+central tegmental tract of pons
+regional part of diencephalon
+regional part of lateral hypothalamic region
+abducens nerve fibers
+decussation of trochlear nerve
+anterior nuclear group
+regional part of posterior hypothalamic region
+dorsal acoustic stria
+regional part of telencephalon
+dorsal longitudinal fasciculus of pons
+medial longitudinal fasciculus of pons
+frontal pole
+motor root of trigeminal nerve
+dorsal trigeminal tract
+spinothalamic tract of pons
+fronto-orbital sulcus
+spinal trigeminal tract of pons
+stratum zonale of thalamus
+left parietal lobe
+right parietal lobe
+left limbic lobe
+right limbic lobe
+left occipital lobe
+right occipital lobe
+left temporal lobe
+right temporal lobe
+right frontal lobe
+left frontal lobe
+posterior superior fissure
+horizontal fissure
+prepyramidal fissure
+secondary fissure
+posterolateral fissure
+apex of cochlea
+zona arcuata of basilar membrane of cochlea
+macula lutea proper
+clivus of fovea centralis
+vestibular ganglion
+superior part of vestibular ganglion
+inferior part of vestibular ganglion
+auditory ganglion
+epithelium of carpal region
+epithelium of hip
+epithelium of knee
+epithelium of shoulder
+epithelium of upper jaw
+epithelium of lower jaw
+epithelium of superior semicircular canal
+epithelium of posterior semicircular canal
+epithelium of lateral semicircular canal
+epithelium of utricle
+epithelium of saccule
+epithelium of cochlear duct
+epithelium of mammary gland
+epithelium of endolymphatic sac
+epithelium of forearm
+epithelium of footplate
+epithelium of otic placode
+ectoderm of amnion
+ectoderm of embryo
+endoderm of embryo
+endoderm of yolk sac
+endoderm of foregut
+endoderm of midgut
+endoderm of hindgut
+endoderm of thyroid primordium
+mesoderm of amnion
+mesoderm of yolk sac
+mesoderm of chorion
+mesoderm of gonad
+nerve of central nervous system
+tooth of upper jaw
+tooth of lower jaw
+skeletal muscle of eye
+skeletal muscle of leg
+skeletal muscle of pelvic girdle
+skeletal muscle of arm
+skeletal muscle of tongue
+mesothelium of omental bursa
+skeleton of embryo
+skeleton of upper jaw
+skeleton of lower jaw
+endothelium of trachea
+endothelium of main bronchus
+hyoid bone greater horn
+hyoid bone lesser horn
+hyoid bone body
+meibomian gland acinus
+cerebellum lateral hemisphere
+cerebellum intermediate hemisphere
+cerebellum deep nucleus
+cerebellar plate
+primary muscle spindle
+secondary muscle spindle
+golgi tendon organ
+egg cylinder
+labium
+labia majora
+labia minora
+embryonic-extraembryonic boundary
+dermatome
+periocular mesenchyme
+baroreceptor
+external capsule
+cribriform plate
+decidua capsularis
+left eye
+right eye
+gastroesophageal sphincter
+common palmar digital artery
+set of common plantar digital arteries
+proper plantar digital artery
+set of proper plantar digital arteries
+digital artery
+forelimb digital artery
+hindlimb digital artery
+common palmar digital vein
+proper palmar digital vein
+digital vein
+forelimb digital vein
+hindlimb digital vein
+systemic arterial system
+arterial system
+systemic artery
+portal venous system
+systemic venous system
+venous system
+alveolar secondary septum
+endocardial endothelium
+pulmonary artery endothelium
+paramesonephric duct
+mesonephric collecting duct
+mesonephric juxtaglomerular apparatus
+mesonephric smooth muscle tissue
+mesonephric nephron
+mesonephric early distal tubule
+mesonephric mesenchyme
+mesonephric macula densa
+mesonephric glomerulus
+mesonephric glomerulus vasculature
+mesonephric glomerular epithelium
+mesonephric comma-shaped body
+mesonephric nephron tubule
+mesonephric nephron epithelium
+mesonephric renal vesicle
+mesonephric S-shaped body
+dorsal telencephalic commissure
+ventral commissure
+malleus head
+cortical plate
+peritoneal vaginal process
+cerebellum vermis lobule VIIa
+cerebellum vermis lobule VIIb
+copula pyramidis
+ansiform lobule
+paramedian lobule
+lobule simplex
+paraflocculus
+transverse colon
+descending colon
+sigmoid colon
+fundus of stomach
+body of stomach
+cardia of stomach
+lesser curvature of stomach
+greater curvature of stomach
+pyloric antrum
+pylorus
+pyloric sphincter
+wall of stomach
+wall of small intestine
+wall of large intestine
+mesentery of small intestine
+portal lobule
+hepatic acinus
+basilic vein
+brachial vein
+median cubital vein
+skin of pelvis
+skin of abdomen
+skin of neck
+skin of thorax
+skin of limb
+subscapular vein
+pectoral girdle
+facial lymphatic vessel
+radius
+ulna
+pectoral lymphatic vessel
+jugular lymphatic vessel
+scaphoid
+lunate
+pisiform
+trapezium
+trapezoid
+palatine bone
+zygomatic bone
+hyoid bone
+auditory ossicle
+stapes
+incus
+malleus
+ear
+vestibulo-auditory system
+endothelium of capillary
+endothelium of arteriole
+endothelium of artery
+arterial system endothelium
+endothelium of venule
+endothelium of vein
+paraventricular nucleus of thalamus
+reuniens nucleus
+parafascicular nucleus
+central medial nucleus
+paracentral nucleus
+ventral lateral nucleus
+lateral geniculate body
+medial geniculate body
+preoptic area
+supraoptic nucleus
+paraventricular nucleus of hypothalamus
+lateral preoptic nucleus
+arcuate nucleus of hypothalamus
+retrochiasmatic area
+dorsomedial nucleus of hypothalamus
+ventromedial nucleus of hypothalamus
+tuberomammillary nucleus
+lateral hypothalamic nucleus
+adenohypophysis
+median eminence of neurohypophysis
+neurohypophysis
+zone of skin
+skin of body
+integument
+integumental system
+vasculature of head
+vasculature of trunk
+submucosa of trachea
+vasculature of eye
+eye primordium
+lens vesicle
+optic vesicle
+optic cup
+presumptive retinal pigmented epithelium
+presumptive neural retina
+manubrium of sternum
+mammillary body
+xiphoid process
+sternebra
+erector spinae
+hamstring muscle
+nerve trunk
+intestine secretion
+filiform papilla
+foliate papilla
+esophagus mucosa
+autopod
+commissure
+intercerebral commissure
+brain commissure
+cerebellar peduncle
+ventral cochlear nucleus
+dorsal cochlear nucleus
+anteroventral cochlear nucleus
+posteroventral cochlear nucleus
+ventral nucleus of trapezoid body
+medial nucleus of trapezoid body
+cervical dorsal root ganglion
+thoracic dorsal root ganglion
+lumbar dorsal root ganglion
+sacral dorsal root ganglion
+first cervical dorsal root ganglion
+second cervical dorsal root ganglion
+third cervical dorsal root ganglion
+fourth cervical dorsal root ganglion
+fifth cervical dorsal root ganglion
+seventh cervical dorsal root ganglion
+eighth cervical dorsal root ganglion
+first thoracic dorsal root ganglion
+second thoracic dorsal root ganglion
+third thoracic dorsal root ganglion
+fifth thoracic dorsal root ganglion
+sixth thoracic dorsal root ganglion
+seventh thoracic dorsal root ganglion
+eighth thoracic dorsal root ganglion
+ninth thoracic dorsal root ganglion
+tenth thoracic dorsal root ganglion
+eleventh thoracic dorsal root ganglion
+twelfth thoracic dorsal root ganglion
+second lumbar dorsal root ganglion
+first lumbar dorsal root ganglion
+third lumbar dorsal root ganglion
+fifth lumbar dorsal root ganglion
+first sacral dorsal root ganglion
+second sacral dorsal root ganglion
+third sacral dorsal root ganglion
+fifth sacral dorsal root ganglion
+accessory cuneate nucleus
+arcuate nucleus of medulla
+caudal part of spinal trigeminal nucleus
+central gray substance of medulla
+commissural nucleus of vagus nerve
+diffuse reticular nucleus
+hypoglossal nucleus
+salivatory nucleus
+inferior salivatory nucleus
+interpolar part of spinal trigeminal nucleus
+lateral pericuneate nucleus
+medial pericuneate nucleus
+parasolitary nucleus
+nucleus intercalatus
+peritrigeminal nucleus
+pontobulbar nucleus
+sublingual nucleus
+supraspinal nucleus
+central amygdaloid nucleus
+intercalated amygdaloid nuclei
+accessory basal amygdaloid nucleus
+lateral amygdaloid nucleus
+basal amygdaloid nucleus
+mesentery of stomach
+mesentery of uterus
+mesentery of heart
+mesentery of oesophagus
+mesentery of midgut
+limb of embryo
+duodenum of foregut
+duodenum of midgut
+meninx of midbrain
+meninx of telencephalon
+meninx of diencephalon
+meninx of hindbrain
+meninx of spinal cord
+gland of oral region
+gland of foregut
+gland of pharynx
+gland of diencephalon
+gland of integumental system
+roof plate of neural tube
+roof plate of midbrain
+roof plate of telencephalon
+roof plate of diencephalon
+roof plate of metencephalon
+roof plate of medulla oblongata
+blood island of mesoderm
+blood island of mesenchyme
+floor plate of midbrain
+floor plate of telencephalon
+floor plate of diencephalon
+floor plate of metencephalon
+floor plate of medulla oblongata
+mesenchyme of testis
+mesenchyme of embryo
+mesenchyme of eye
+mesenchyme of ovary
+mesenchyme of yolk sac
+mesenchyme of incisor
+mesenchyme of elbow
+mesenchyme of carpal region
+mesenchyme of hip
+mesenchyme of knee
+mesenchyme of adult kidney
+mesenchyme of shoulder
+mesenchyme of upper jaw
+mesenchyme of lower jaw
+embryonic cilium
+spongiotrophoblast layer
+embryonic neuroepithelium
+ganglionic eminence
+medial ganglionic eminence
+lateral ganglionic eminence
+caudal ganglionic eminence
+chorionic plate
+trabecular meshwork
+canal of Schlemm
+aqueous vein
+ectomesenchyme
+podocyte slit diaphragm
+podocyte slit junction
+cutaneous microfibril
+subplate
+retinal cone cell inner segment
+retinal cone cell outer segment
+retinal rod cell inner segment
+retinal rod cell outer segment
+cortical intermediate zone
+spleen primary B follicle
+spleen secondary B follicle
+semicircular canal ampulla
+visceral endoderm
+anterior visceral endoderm
+sphincter muscle
+rib 1
+rib 2
+rib 3
+rib 4
+rib 5
+rib 6
+rib 7
+rib 9
+rib 10
+rib 11
+rib 12
+cervical vertebra 3
+cervical vertebra 4
+cervical vertebra 5
+cervical vertebra 6
+cervical vertebra 7
+lumbar vertebra 1
+lumbar vertebra 2
+lumbar vertebra 3
+lumbar vertebra 4
+lumbar vertebra 5
+sacral vertebra 1
+sacral vertebra 2
+sacral vertebra 3
+sacral vertebra 4
+thoracic vertebra 1
+thoracic vertebra 2
+thoracic vertebra 3
+thoracic vertebra 4
+thoracic vertebra 5
+thoracic vertebra 6
+thoracic vertebra 7
+thoracic vertebra 9
+thoracic vertebra 10
+thoracic vertebra 11
+thoracic vertebra 12
+blood vessel endothelium
+afferent arteriole
+efferent arteriole
+spleen capsule
+spermatic cord
+spleen perifollicular zone
+malleus processus brevis
+malleus neck
+ventral striatum
+frontonasal suture
+pararenal fat
+perirenal fat
+sublingual ganglion
+circumventricular organ
+accessory pancreatic duct
+ansa cervicalis
+anterior spinal artery
+aortic sac
+autonomic peripheral nervous system
+cervical region
+cisterna chyli
+common hepatic artery
+conus medullaris
+coronary sinus
+definitive endoderm
+common bile duct
+hepatic duct
+common hepatic duct
+right hepatic duct
+left hepatic duct
+cavity lining
+body cavity or lining
+superior recess of lesser sac
+inferior recess of lesser sac
+superior mesenteric artery
+inferior mesenteric artery
+renal artery
+right renal artery
+left renal artery
+testicular artery
+left testicle
+right testicle
+left testicular artery
+right testicular artery
+capitate
+hamate
+articular system
+subdivision of skeletal system
+skeleton
+skeletal system
+carpal/tarsal bone
+carpal bone
+zone of long bone
+diaphysis
+epiphysis
+metaphysis
+distal metaphysis
+proximal metaphysis
+distal epiphysis
+proximal epiphysis
+compact bone
+skeleton of upper limb
+skeleton of limb
+skeleton of lower limb
+skeleton of hand
+hand bone
+chest
+subdivision of head
+vestibular system
+external ear
+supraoccipital
+basioccipital bone
+exoccipital bone
+petrous part of temporal bone
+squamous part of temporal bone
+orbital cavity
+orbit
+foramen ovale of skull
+foramen ovale of heart
+sensory root of facial nerve
+geniculate ganglion
+glossopharyngeal ganglion
+inferior glossopharyngeal IX ganglion
+superior glossopharyngeal IX ganglion
+eyelash
+skeletal element
+cranial structure
+lateral mammillary nucleus
+medial mammillary nucleus
+supramammillary nucleus
+lateral habenular nucleus
+medial habenular nucleus
+midbrain tegmentum
+pretectal region
+midbrain tectum
+superior colliculus
+inferior colliculus
+red nucleus
+gingival epithelium
+neocortex
+epithelium of nasopharynx
+epithelium of oropharynx
+presubiculum
+hippocampus
+hippocampal formation
+ammon gyrus
+epithelium of respiratory bronchiole
+cartilage of bronchus
+submucosa of bronchus
+epithelium of terminal bronchiole
+white pulp of spleen
+periarterial lymphatic sheath
+mucosa-associated lymphoid tissue
+fibrous joint
+syndesmosis
+segment of nerve
+macula of saccule of membranous labyrinth
+cartilaginous joint
+macula of utricle of membranous labyrinth
+synchondrosis
+symphysis
+synovial joint
+tympanic ring
+subfornical organ
+fontanelle
+perichondrium
+endolymphatic sac
+thoracic cavity
+costal arch
+basilar membrane of cochlea
+spiral organ of cochlea
+rib
+interparietal bone
+head of rib
+body of rib
+saphenous nerve
+lateral globus pallidus
+medial globus pallidus
+orbitosphenoid
+dorsal lateral geniculate nucleus
+ventral lateral geniculate nucleus
+skeletal tissue
+bone tissue
+lamellar bone
+trabecular bone tissue
+bone marrow cavity
+prostate duct
+glottis
+tooth cavity
+helix
+coronal suture
+frontal suture
+lambdoid suture
+sagittal suture
+lateral part of basal amygdaloid nucleus
+medial part of basal amygdaloid nucleus
+anterior amygdaloid area
+cortical amygdaloid nucleus
+medial amygdaloid nucleus
+nucleus of lateral olfactory tract
+olfactory cortex
+olfactory bulb
+olfactory lobe
+olfactory glomerulus
+entorhinal cortex
+secondary olfactory cortex
+telodiencephalic fissure
+cistern of lamina terminalis
+chiasmatic cistern
+hippocampal sulcus
+transverse occipital sulcus
+posterior calcarine sulcus
+occipital pole
+lunate sulcus
+lateral occipital sulcus
+intralingual sulcus
+anterior occipital sulcus
+superior postcentral sulcus
+mesenchyme of pinna
+mesenchyme of mammary gland
+mesenchyme of forearm
+mesenchyme of footplate
+submucosa of anal canal
+submucosa of rectum
+submucosa of colon
+submucosa of duodenum
+submucosa of jejunum
+serosa of rectum
+serosa of colon
+serosa of duodenum
+serosa of jejunum
+ganglion of peripheral nervous system
+ganglion of central nervous system
+urethra of urogenital sinus
+urethra of urinary system
+mucosa of anal canal
+mucosa of oral region
+pharyngeal mucosa
+mucosa of rectum
+colonic mucosa
+epithelium of mucosa
+epithelium of pharynx
+urogenital sinus epithelium
+epithelium of midgut
+epithelium of hindgut
+epithelium of rectum
+epithelium of incisor
+epithelium of nasal septum
+epithelium of tongue
+epithelium of soft palate
+epithelium of submandibular gland
+epithelium of parotid
+epithelium of sublingual gland
+epithelium of endolymphatic duct
+epithelium of ductus reuniens
+epithelium of right lung
+epithelium of left lung
+epithelium of uterine horn
+epithelium of vomeronasal organ
+epithelium of hard palate
+ectoderm of leg
+ectoderm of arm
+ectoderm of footplate
+distal visceral endoderm
+marginal zone of embryo
+tailgut
+anterior definitive endoderm
+basal cistern
+pontine cistern
+cerebellomedullary cistern
+subarachnoid cistern
+lateral cerebellomedullary cistern
+quadrigeminal cistern
+external male genitalia
+internal male genitalia
+primitive pit
+primitive groove
+skeletal muscle fiber triad
+biliary ductule
+spinal cord medial motor column
+sulcus limitans
+basal plate
+primordial meninx
+frontonasal prominence
+lateral nasal prominence
+ependyma
+brain ependyma
+spinal cord ependyma
+third ventricle ependyma
+lateral ventricle ependyma
+fourth ventricle ependyma
+endo-epithelium
+transitional epithelium
+urothelium
+urothelium of ureter
+urinary bladder urothelium
+urethra urothelium
+kidney pelvis urothelium
+transitional epithelium of major calyx
+infraorbital artery
+liver lobule
+esophagus muscularis mucosa
+sphenoid bone pterygoid process
+tongue keratinized epithelium
+scapula spine
+humerus diaphysis
+temporal process of zygomatic bone
+zygomatic process of temporal bone
+mandible condylar process
+mandible head
+mandible neck
+mandible coronoid process
+mandible temporal crest
+vertebra lamina
+aorta wall
+aorta tunica adventitia
+seminal vesicle muscle layer
+interventricular septum membranous part
+interventricular septum muscular part
+gyrus rectus
+posterior horn lateral ventricle
+trigeminal nerve root
+facial nerve root
+hypoglossal nerve root
+spinal cord lateral horn
+spinal cord gray commissure
+apex of spinal cord dorsal horn
+body of fornix
+corona radiata
+parasubiculum
+ductus arteriosus
+external intercostal muscle
+external oblique
+filum terminale
+first polar body
+foot region
+foramen rotundum
+bladder fundus
+greater omentum
+greater sac
+greater sac cavity
+hand region
+hepatic plate
+inferior mesenteric ganglion
+internal oblique
+interventricular groove
+anterior interventricular sulcus
+posterior interventricular sulcus
+ovarian artery
+common iliac artery
+left gastric artery
+hepatic artery
+splenic artery
+inferior pancreaticoduodenal artery
+middle colic artery
+ileocolic artery
+superior suprarenal artery
+skeleton of foot
+foot bone
+fibula
+metacarpal bone
+metatarsal bone
+metacarpal/metatarsal bone
+calcaneus
+navicular bone of foot
+medial cuneiform bone
+intermediate cuneiform bone
+lateral cuneiform bone
+cuboid bone
+face
+skin of eyelid
+skin of lip
+skin of external ear
+elbow
+wrist
+skull
+cranium
+cranial bone
+calvaria
+neurocranium
+viscerocranium
+chondrocranium
+chondrocranium bone
+cartilaginous neurocranium
+nasal septum
+eyelid
+upper eyelid
+lower eyelid
+ganglion of cranial nerve
+gut-associated lymphoid tissue
+bronchial-associated lymphoid tissue
+least splanchnic nerve
+substantia nigra pars compacta
+substantia nigra pars reticulata
+reticular lamina
+semen
+blood plasma
+bile
+gastric juice
+submucosa of esophagus
+substance of tooth
+lamina propria of esophagus
+serosa of esophagus
+epithelium of esophagus
+serum
+parenchyma of pancreas
+venule
+arteriole
+lymph vasculature
+lymphatic vessel
+blood vasculature
+blood vessel
+venous blood vessel
+capillary
+crypt of lieberkuhn
+crypt of lieberkuhn of large intestine
+corneal endothelium
+olfactory gland
+tectorial membrane of cochlea
+tubercle of rib
+costal cartilage
+true rib
+false rib
+floating rib
+nucleus pulposus
+cutaneous vein
+premaxilla
+hemisphere of cerebellum
+dorsal thoracic nucleus
+uterine horn
+transverse pericardial sinus
+median artery
+uterine artery
+papillary muscle
+long bone
+stapes base
+acromion
+deltoid tuberosity
+cochlear labyrinth
+zygomatic arch
+oval window
+round window
+greater trochanter
+lesser trochanter
+spiral modiolar artery
+iris epithelium
+abdominal lymph node
+subparietal sulcus
+posterior subcentral sulcus
+posterior ascending limb of lateral sulcus
+parietal operculum
+marginal sulcus
+intraparietal sulcus
+inferior postcentral sulcus
+postcentral sulcus
+central sulcus
+regional part of inferior colliculus
+medial parabrachial nucleus
+anterior parolfactory sulcus
+callosal sulcus
+longitudinal fissure
+olfactory trigone
+posterior parolfactory sulcus
+terminal nerve
+gustatory epithelium
+circumvallate papilla
+layer of dentate gyrus
+dentate gyrus molecular layer
+dentate gyrus polymorphic layer
+dentate gyrus pyramidal layer
+dentate gyrus granule cell layer
+tectopontine tract
+dorsal septal nucleus
+ectoderm of chorion
+nerve of peripheral nervous system
+cardiac muscle of auricular region
+cardiac muscle of right atrium
+cardiac muscle of left atrium
+cardiac muscle of right ventricle
+cardiac muscle of left ventricle
+cardiac muscle of interventricular septum
+skeletal muscle of pharynx
+skeletal muscle of mesenchyme
+smooth muscle of eye
+smooth muscle of trachea
+mesothelium of pericardial cavity
+mesothelium of diaphragm
+mesothelium of pleural cavity
+lip of upper jaw
+lip of lower jaw
+mesentery of urinary system
+mesentery of hindgut
+mesentery of rectum
+mesentery of colon
+mesentery of duodenum
+mesentery of jejunum
+skin of elbow
+skin of forearm
+lobar bronchus of right lung
+lobar bronchus of left lung
+cartilage of respiratory system
+cartilage of nasal septum
+gland of gut
+gland of tongue
+gland of oropharynx
+mesenchyme of amnion
+mesenchyme of leg
+mesenchyme of arm
+mesenchyme of mandible
+mesenchyme of nasal septum
+mesenchyme of tongue
+mesenchyme of soft palate
+mesenchyme of submandibular gland
+mesenchyme of parotid
+mesenchyme of sublingual gland
+medial nasal prominence
+mandibular prominence
+maxillary prominence
+accessory olfactory bulb
+cerebellum emboliform nucleus
+cerebellum globose nucleus
+cerebellum interpositus nucleus
+cerebellum lobe
+flocculonodular lobe
+cerebellum posterior lobe
+anterior lobe of cerebellum
+cerebellar vermis
+cerebellum anterior vermis
+cerebellum posterior vermis
+cerebellum lobule
+cerebellum hemisphere lobule
+cerebellum vermis lobule
+cerebellum vermis lobule I
+central lobule
+cerebellum vermis lobule II
+raphe nuclei
+middle temporal area
+gastro-splenic ligament
+lieno-renal ligament
+costo-cervical trunk
+naso-frontal vein
+pancreatico-duodenal vein
+bulbourethral gland secretion
+external naris epithelium
+peyer's patch epithelium
+harderian gland epithelium
+arterial system smooth muscle
+venous system smooth muscle
+peyer's patch germinal center
+vena cava endothelium
+outflow tract endothelium
+venous system endothelium
+respiratory system blood vessel endothelium
+cardia
+corpus cavernosum penis
+septum pellucidum
+annulus fibrosus disci intervertebralis
+jugular foramen
+thymus lobe
+left thymus lobe
+right thymus lobe
+left umbilical artery
+right umbilical artery
+left umbilical vein
+right umbilical vein
+vitelline vein
+left vitelline vein
+right vitelline vein
+levator scapulae
+lumbar region
+marginal sinus
+median sacral artery
+obturator nerve
+paravertebral ganglia
+platysma
+sacral region
+second polar body
+sigmoid sinus
+spinal nerve trunk
+stomach fundus epithelium
+superior mesenteric plexus
+superior mesenteric ganglion
+mucosa of stomach
+submucosa of stomach
+serosa of stomach
+muscularis mucosae of stomach
+mucosa of small intestine
+submucosa of small intestine
+serosa of small intestine
+mucosa of large intestine
+submucosa of large intestine
+serosa of large intestine
+muscularis mucosae of small intestine
+duodenal gland
+intestinal villus
+pancreatic tributary of splenic vein
+inferior mesenteric vein
+jejunal vein
+ileal vein
+middle colic vein
+ileocolic vein
+quadratus lumborum
+hip
+knee
+toe
+shoulder
+intervertebral symphysis
+sternoclavicular joint
+glenohumeral joint
+skin of prepuce of penis
+vaginal venous plexus
+bone
+ligament
+deltoid
+infraspinatus muscle
+teres major
+sesamoid bone
+proximal carpal bone
+distal carpal bone
+muscle of shoulder
+oculomotor nuclear complex
+palate
+nucleus ambiguus
+cochlear nucleus
+inferior vestibular nucleus
+medial vestibular nucleus
+tongue
+sphenoidal sinus
+cranial synchondrosis
+papilla of tongue
+vallate papilla
+taste bud
+extrinsic ligament of larynx
+cavity of pharynx
+tonsil
+pharyngeal tonsil
+endothelium
+placenta
+feces
+superior cervical ganglion
+middle cervical ganglion
+cervical ganglion
+reticular layer of dermis
+hyaline cartilage
+fibrocartilage
+elastic cartilage
+sternocostal joint
+iliopsoas
+gluteal muscle
+joint of rib
+interchondral joint
+peripheral nerve
+trunk of sciatic nerve
+enteric nervous system
+cortex of lymph node
+medulla of lymph node
+cardiac nerve plexus
+pulmonary nerve plexus
+popliteal artery
+iliocostalis
+splenius
+incisive bone
+thyroglossal duct
+vomeronasal organ
+dorsal horn of spinal cord
+ventral horn of spinal cord
+white matter of spinal cord
+dorsal funiculus
+lateral funiculus
+ventral funiculus
+celiac lymph node
+mesenteric lymph node
+anterior fontanel
+corpus luteum
+endochondral bone
+intramembranous bone
+endochondral bone tissue
+intramembranous bone tissue
+periosteum
+growth plate cartilage
+epiphyseal plate
+otolith organ
+otolithic membrane
+trapezoid body
+nucleus of anterior commissure
+ventral oculomotor nucleus
+magnocellular part of ventral anterior nucleus
+magnocellular part of red nucleus
+parvicellular part of ventral anterior nucleus
+parvocellular part of red nucleus
+ventral posteroinferior nucleus
+anterior column of fornix
+capsule of red nucleus
+ventral posterolateral nucleus
+lingual gyrus
+spinothalamic tract of medulla
+ventral posteromedial nucleus
+regional part of cerebellum
+frontal operculum
+superior occipital gyrus
+tectospinal tract
+regional part of midbrain
+regional part of intermediate hypothalamic region
+intermediate acoustic stria
+lateral lemniscus
+dorsal hypothalamic area
+rhomboidal nucleus
+cerebellar layer
+granular layer of cerebellar cortex
+caudal central oculomotor nucleus
+medial lemniscus of pons
+subfascicular nucleus
+central oculomotor nucleus
+archicortex
+mesenchyme of vomeronasal organ
+mesenchyme of umbilical cord
+mesenchyme of chorion
+mesenchyme of hard palate
+renal lymph node
+dermis adipose tissue
+abdominal fat pad
+gonadal fat pad
+abdomen nerve
+neck nerve
+leg nerve
+chest nerve
+arm nerve
+wrist nerve
+foot digit nerve
+shoulder nerve
+eyelid nerve
+iris nerve
+trunk nerve
+limb nerve
+forelimb nerve
+hindlimb nerve
+thoracic cavity nerve
+pelvis nerve
+foot nerve
+ankle nerve
+hand digit nerve
+hand nerve
+tail intervertebral disc
+upper jaw incisor
+lower jaw incisor
+trabecula carnea cardiac muscle tissue
+Peyer's patch
+large intestine Peyer's patch
+small intestine Peyer's patch
+inner renal medulla loop of henle
+respiratory system lymphatic vessel
+head bone
+neck bone
+chest bone
+arm bone
+shoulder bone
+viscerocranium bone
+trunk bone
+hindlimb bone
+leg bone
+cerebellum vermis lobule III
+cerebellum vermis lobule IV
+cerebellum vermis lobule IX
+cerebellum vermis lobule V
+cerebellum vermis lobule VI
+cerebellum vermis lobule VII
+cerebellum vermis lobule VIII
+cerebellum vermis lobule X
+nodulus of cerebellum
+ocular region
+midface
+periorbital region
+hypothalamus-pituitary axis
+fingertip
+forelimb muscle
+corticospinal tract
+odontoid process
+renin-aldosterone axis
+tibial plateaux
+renal collecting system
+nasolabial region
+tracheobronchial system
+alveolar ridge
+alveolar process of maxilla
+alveolar ridge of mandible
+conceptus
+Brodmann area 29
+Brodmann area 26
+arcuate vein
+crista ampullaris
+deep cervical lymph nodes
+superficial cervical lymph nodes
+interlobular artery
+medial palpebral ligament
+piriform cortex
+vasa recta
+basibranchial
+superior orbital fissure
+tentorial sinus
+thoracic region
+tricuspid valve leaflet
+valve of inferior vena cava
+venous dural sinus
+glossopharyngeal neural crest
+hyoid muscle
+intermediate mesenchyme
+midbrain lateral wall
+neural tube lateral wall
+non-neural ectoderm
+primitive heart tube
+rhombomere 1
+rhombomere floor plate
+rhombomere lateral wall
+rhombomere roof plate
+rhombomere 3
+rhombomere 4
+rhombomere 5
+rhombomere 6
+rhombomere 7
+rhombomere 8
+telencephalon lateral wall
+thymus primordium
+trigeminal neural crest
+gonad primordium
+diencephalon lateral wall
+facio-acoustic neural crest
+rhombomere 1 floor plate
+rhombomere 1 lateral wall
+rhombomere 1 roof plate
+rhombomere 2
+rhombomere 2 floor plate
+rhombomere 2 lateral wall
+rhombomere 2 roof plate
+rhombomere 3 floor plate
+rhombomere 3 lateral wall
+rhombomere 3 roof plate
+rhombomere 4 floor plate
+rhombomere 4 lateral wall
+rhombomere 4 roof plate
+rhombomere 5 floor plate
+rhombomere 5 lateral wall
+rhombomere 5 roof plate
+rhombomere 6 floor plate
+rhombomere 6 lateral wall
+rhombomere 6 roof plate
+rhombomere 7 floor plate
+rhombomere 7 lateral wall
+rhombomere 7 roof plate
+rhombomere 8 floor plate
+rhombomere 8 lateral wall
+rhombomere 8 roof plate
+head somite
+lung primordium
+trunk somite
+common dorsal aorta
+crus commune
+dorsal mesocardium
+transversus abdominis
+right ureter
+left ureter
+renal pelvis
+cortex of kidney
+major calyx
+minor calyx
+renal papilla
+renal corpuscle
+glomerular capsule
+glomerular parietal epithelium
+visceral layer of glomerular capsule
+glomerular epithelium
+skin of shoulder
+articular capsule
+knee joint
+hip joint
+joint of foot
+ankle joint
+joint of hand
+elbow joint
+joint spaces of the elbow
+wrist joint
+radial nerve
+axillary nerve
+ulnar nerve
+pectoral muscle
+tonsillar ring
+soft palate
+uvula
+submandibular gland
+larynx
+thyroid cartilage
+laryngeal cartilage
+arytenoid cartilage
+corniculate cartilage
+epiglottic cartilage
+ligament of larynx
+lymphoid tissue
+secondary nodular lymphoid tissue
+fibrous capsule of thyroid gland
+parenchyma of thyroid gland
+capsule of parathyroid gland
+parenchyma of parathyroid gland
+lacrimal apparatus
+dentine
+celiac nerve plexus
+thoracodorsal artery
+pulmonary artery
+hypogastric nerve
+superior hypogastric nerve plexus
+inferior hypogastric nerve plexus
+fibrous capsule of kidney
+pulmonary vein
+portal vein
+synovial membrane
+spinal accessory nerve
+gray matter of neuraxis
+occipital lobe
+occipital region
+insula
+claustrum
+internal carotid nerve plexus
+basal cell layer of epidermis
+spinal cord dorsal column
+thoracic spinal cord dorsal column
+sacral spinal cord dorsal column
+cervical spinal cord dorsal column
+lumbar spinal cord dorsal column
+spinal cord lateral column
+thoracic spinal cord lateral column
+sacral spinal cord lateral column
+cervical spinal cord lateral column
+lumbar spinal cord lateral column
+spinal cord ventral column
+thoracic spinal cord ventral column
+sacral spinal cord ventral column
+cervical spinal cord ventral column
+lumbar spinal cord ventral column
+gracile fasciculus
+gracile fasciculus of medulla
+gracile fasciculus of spinal cord
+cuneate fasciculus
+cuneate fasciculus of medulla
+cuneate fasciculus of spinal cord
+tectal plate
+ventral root
+dorsal root
+celiac ganglion
+lentiform nucleus
+olfactory tract
+submandibular lymph node
+elastic tissue
+adventitia
+adventitia of ureter
+adventitia of uterus
+tunica externa of vessel
+tunica media
+tunica intima
+swim bladder tunica externa
+swim bladder tunica interna
+tunica intima of artery
+mediastinal lymph node
+brachial lymph node
+lumbar lymph node
+pancreatic lymph node
+sacral lymph node
+limb segment
+gland
+caudal pontine reticular nucleus
+dorsal oculomotor nucleus
+rostral intralaminar nuclei
+regional part of midbrain tectum
+cingulate gyrus
+central gray substance of pons
+inferior temporal sulcus
+intermediate oculomotor nucleus
+periolivary nucleus
+centromedian nucleus
+parahippocampal gyrus
+molecular layer of cerebellar cortex
+medial oculomotor nucleus
+preolivary nucleus
+triangular septal nucleus
+oral part of ventral lateral nucleus
+Purkinje cell layer of cerebellar cortex
+opercular part of inferior frontal gyrus
+pulvinar
+inferior pulvinar nucleus
+lateral posterior nucleus
+lateral dorsal nucleus
+ventral nucleus of medial geniculate body
+neurofilament
+mammillothalamic tract of hypothalamus
+supramammillary commissure
+paratenial nucleus
+inferior central nucleus
+nucleus of pretectal area
+substantia nigra pars lateralis
+nucleus of optic tract
+nucleus of medial eminence
+inferior frontal gyrus
+lower arm bone
+sesamoid bone of gastrocnemius
+ureteric artery
+respiratory system artery
+artery of upper lip
+artery of lower lip
+cerebellar artery
+thoracic cavity artery
+meningeal artery
+ureteric vein
+respiratory system venous blood vessel
+vein of upper lip
+vein of lower lip
+thoracic cavity vein
+vein of clitoris
+tail vein
+vein of trabecular bone
+thymus lymphoid tissue
+eye sebaceous gland
+vagina sebaceous gland
+mammary gland sebaceous gland
+skin sebaceous gland
+abdominal mammary gland
+respiratory system capillary endothelium
+respiratory system reticular lamina
+trachea reticular lamina
+bronchus reticular lamina
+respiratory system venule
+respiratory system arteriole
+head blood vessel
+abdomen blood vessel
+heart blood vessel
+brain blood vessel
+corneal blood vessel
+neck blood vessel
+leg blood vessel
+respiratory system blood vessel
+trachea blood vessel
+chest blood vessel
+arm blood vessel
+foot digit blood vessel
+eyelid blood vessel
+iris blood vessel
+vasculature of iris
+lung blood vessel
+palatine process of maxilla
+hairline
+subungual region
+crus of ear
+clivus
+bone tissue of long bone
+cortex of humerus
+cortex of hand bone
+muscle of middle ear
+muscle of auditory ossicle
+tympanic cavity
+blood vessel of tympanic cavity
+nerve of tympanic cavity
+somitomeric trunk muscle
+heart
+heart primordium
+cleithrum
+coracoid
+anguloarticular
+parasphenoid
+prootic
+autopalatine
+blastodisc
+blastoderm
+hypohyal bone
+palatoquadrate cartilage
+scapulocoracoid
+respiratory system epithelium
+respiratory tract epithelium
+respiratory system mucosa
+outer renal medulla vasa recta
+inner renal medulla vasa recta
+respiratory system submucosa
+larynx submucosa
+respiratory system lamina propria
+gastrointestinal system lamina propria
+gall bladder lamina propria
+gastrointestinal system serosa
+gall bladder serosa
+heart ventricle wall
+gastrointestinal system mucosa
+larynx mucous gland
+dorsal mesogastrium
+dorsal pancreatic duct
+hepatic duct extrahepatic part
+hepatic duct intrahepatic part
+hyaloid cavity
+hyaloid vessel
+hyaloid vein
+hyaloid artery
+hyaloid canal
+hyaloid vascular plexus
+hyoid artery
+iliac artery
+ileal artery
+iliac vein
+inner canthus
+intercostal artery
+left dorsal aorta
+lens anterior epithelium
+lens equatorial epithelium
+mesenteric artery
+palatal shelf
+primary palate
+rhomboid
+right dorsal aorta
+semi-lunar valves
+suprarenal artery
+tubotympanic recess
+ventral mesogastrium
+ventral pancreatic duct
+caecum epithelium
+pyloric region epithelium
+anterior chamber epithelium
+right lung cranial lobe epithelium
+right lung caudal lobe epithelium
+otocyst epithelium
+ultimobranchial body epithelium
+foregut duodenum epithelium
+midgut duodenum epithelium
+finger 2 epithelium
+finger 3 epithelium
+finger 4 epithelium
+finger 5 epithelium
+toe 2 epithelium
+toe 3 epithelium
+toe 4 epithelium
+toe 5 epithelium
+upper jaw molar epithelium
+lower jaw molar epithelium
+right lung accessory lobe epithelium
+lens vesicle epithelium
+crus commune epithelium
+palatal shelf epithelium
+primary palate epithelium
+2nd arch ectoderm
+3rd arch ectoderm
+4th arch ectoderm
+upper limb bud ectoderm
+2nd arch endoderm
+3rd arch endoderm
+4th arch endoderm
+connecting stalk mesoderm
+ulna nerve
+Bowman's space
+glomerular basement membrane
+lamina densa
+lamina rara interna
+lamina rara externa
+renal tubule
+collecting duct of renal tubule
+metanephric collecting duct
+right adrenal gland
+left adrenal gland
+adrenal cortex
+adrenal medulla
+paraaortic body
+lamina propria of small intestine
+muscularis mucosae of large intestine
+muscularis mucosae of intestine
+crypt of Lieberkuhn of small intestine
+intestinal mucosa
+serosa of intestine
+anal sphincter
+external anal sphincter
+internal anal sphincter
+anus
+interlobular bile duct
+falciform ligament
+hilum of spleen
+ascending aorta
+muscle of pelvic girdle
+muscle of foot
+muscle of arm
+muscle of hand
+lumbrical of hand
+interosseous muscle of hand
+dorsal interosseous of hand
+lumbrical of foot
+coracobrachialis
+brachialis
+biceps brachii
+triceps brachii
+skin of knee
+skin of leg
+skin of ankle
+skin of foot
+segment of aorta
+descending aorta
+thoracic aorta
+abdominal aorta
+skin of wrist
+skin of hand
+pronator teres
+abductor pollicis longus
+radio-ulnar joint
+enamel
+cementum
+dental pulp
+stylohyal
+middle ear
+pinna
+periodontium
+vagus nerve
+vagus X ganglion
+inferior vagus X ganglion
+superior vagus X ganglion
+frontal sinus
+foramen caecum
+zone of bone organ
+nasal concha
+nasal concha of ethmoid bone
+supreme nasal concha
+prickle cell layer of epidermis
+horny layer of epidermis
+epithelium of gall bladder
+nipple
+epithelium of bronchus
+areola
+arrector muscle of hair
+suprachiasmatic nucleus
+medial preoptic nucleus
+striated muscle tissue
+cerebellum
+substantia nigra
+inferior phrenic vein
+bronchial artery
+terminal bronchus
+endothelium of lymphatic vessel
+dorsal raphe nucleus
+ventral nucleus of posterior commissure
+cuneate nucleus
+thyroid gland
+thyroid follicle
+anterior olfactory nucleus
+laterodorsal tegmental nucleus
+pupillary membrane
+periventricular zone of hypothalamus
+medial zone of hypothalamus
+lateral zone of hypothalamus
+perifornical nucleus
+reticular formation
+medullary reticular formation
+lamina of spiral limbus
+spiral sulcus
+perilymphatic space
+vestibular aqueduct
+otolith
+vestibular membrane of cochlear duct
+stria vascularis of cochlear duct
+lateral ventricle
+telencephalon lateral ventricle
+third ventricle
+optic recess of third ventricle
+choroid plexus of third ventricle
+cerebral aqueduct
+choroid plexus of fourth ventricle
+central canal
+neural lumen
+forelimb/pectoral fin field
+hindlimb/pelvic fin field
+fin field
+limb/fin field
+limb field
+limb/fin bud
+fin bud
+limb bud
+forelimb bud
+hindlimb bud
+forelimb/pectoral fin bud
+hindlimb/pelvic fin bud
+apical ectodermal ridge
+anterior limb/fin apical ectodermal ridge
+posterior limb/fin apical ectodermal ridge
+zone of polarizing activity
+zone of polarizing activity of anterior limb/fin
+zone of polarizing activity of posterior limb/fin
+epiblast
+tail bud
+fin
+gill
+arthropod sensillum
+hermaphrodite gonad
+hatching gland
+pharyngeal arch
+oral pontine reticular nucleus
+intermediate filament
+lemniscus
+medial lemniscus
+microfilament
+superior central nucleus
+dorsal longitudinal fasciculus of midbrain
+dorsal nucleus of lateral lemniscus
+lateral parabrachial nucleus
+dorsal longitudinal fasciculus of hypothalamus
+dorsal tegmental decussation
+lateral pes lemniscus
+facial nucleus
+facial motor nucleus
+alar central lobule
+infundibulum of hypophysis
+anterior quadrangular lobule
+postcommissural fornix
+substantia innominata
+parvicellular part of ventral posteromedial nucleus
+oral part of ventral posterolateral nucleus
+subcallosal area
+lobe parts of cerebral cortex
+pontine tegmentum
+principal part of ventral posteromedial nucleus
+brachium of inferior colliculus
+limitans nucleus
+cingulate cortex
+commissure of inferior colliculus
+trunk blood vessel
+limb blood vessel
+forelimb blood vessel
+hindlimb blood vessel
+kidney blood vessel
+main bronchus blood vessel
+thoracic cavity blood vessel
+pelvis blood vessel
+foot blood vessel
+hand digit blood vessel
+hand blood vessel
+tail blood vessel
+respiratory system capillary
+kidney capillary
+glomerular capillary
+brain grey matter
+respiratory system lymphatic vessel endothelium
+foot digit skin
+forelimb skin
+hindlimb skin
+hand digit skin
+tail skin
+vagus X nerve trunk
+right lung alveolar duct
+left lung alveolar duct
+right lung bronchiole
+left lung bronchiole
+right lung terminal bronchiole
+left lung terminal bronchiole
+right lung respiratory bronchiole
+left lung respiratory bronchiole
+brain white matter
+brainstem white matter
+distal convoluted tubule macula densa
+brain meninx
+forebrain meninges
+brain pia mater
+forebrain pia mater
+midbrain pia mater
+telencephalon pia mater
+diencephalon pia mater
+hindbrain pia mater
+spinal cord pia mater
+heart field
+heart rudiment
+cardiogenic plate
+embryonic heart tube
+cardiac skeleton
+outflow tract septum
+membranous septum
+muscular septum
+conus arteriosus
+bulbus arteriosus
+outflow tract
+outflow tract of ventricle
+outflow part of right ventricle
+outflow part of left ventricle
+outflow tract of atrium
+outflow part of right atrium
+outflow part of left atrium
+outflow tract aortic component
+outflow tract pulmonary component
+His-Purkinje system
+cardiac Purkinje fiber
+coronary vein
+ventriculo bulbo valve
+coronary sinus valve
+cardiac chamber
+ventricular septum intermedium
+septum primum
+septum secundum
+atrial septum primum
+atrial septum secundum
+atrial septum intermedium
+skin mucous gland
+thymus trabecula
+endocrine pancreas secretion
+exocrine pancreas secretion
+esophagus secretion
+pancreas secretion
+prostate gland secretion
+blood vessel layer
+respiratory system basal lamina
+trachea basal lamina
+bronchus basal lamina
+cervix epithelium
+penis epithelium
+oviduct epithelium
+seminal vesicle epithelium
+vas deferens epithelium
+gastrointestinal system epithelium
+salivary gland epithelium
+renal tubule epithelium
+endometrium epithelium
+upper respiratory tract epithelium
+lower respiratory tract epithelium
+larynx epithelium
+lacrimal gland epithelium
+terminal bronchus epithelium
+kidney epithelium
+bile duct epithelium
+alveolus epithelium
+extrahepatic bile duct epithelium
+intrahepatic bile duct epithelium
+dental lamina
+thyroid gland medulla
+urethra skeletal muscle
+respiratory system skeletal muscle
+esophagus skeletal muscle
+anal region skeletal muscle
+lip skeletal muscle
+hepatic duct smooth muscle
+epididymis smooth muscle
+medial rectus extraocular muscle
+lateral rectus extraocular muscle
+respiratory system arterial endothelium
+peritoneal cavity mesothelium
+greater omentum mesothelium
+greater sac mesothelium
+right lung endothelium
+left lung endothelium
+right lung cranial lobe endothelium
+right lung caudal lobe endothelium
+right lung accessory lobe endothelium
+caecum mesentery
+right lung cranial lobe segmental bronchus
+right lung caudal lobe segmental bronchus
+right lung accessory lobe segmental bronchus
+right lung cranial lobe bronchiole
+right lung accessory lobe bronchiole
+midgut dorsal mesentery
+caecum dorsal mesentery
+orbitosphenoid cartilage
+lens vesicle cavity
+2nd arch mesenchyme
+3rd arch mesenchyme
+4th arch mesenchyme
+finger 2 mesenchyme
+finger 3 mesenchyme
+finger 4 mesenchyme
+finger 5 mesenchyme
+toe 2 mesenchyme
+toe 3 mesenchyme
+toe 4 mesenchyme
+toe 5 mesenchyme
+upper jaw molar mesenchyme
+lower jaw molar mesenchyme
+optic eminence mesenchyme
+upper limb bud mesenchyme
+palatal shelf mesenchyme
+primary palate mesenchyme
+central nervous system cranial ganglion
+upper jaw incisor mesenchyme
+lower jaw incisor mesenchyme
+upper jaw incisor epithelium
+lower jaw incisor epithelium
+foregut duodenum mesentery
+midgut duodenum mesentery
+neural tube neural lumen
+lens vesicle capsule
+2nd arch branchial pouch
+3rd arch branchial pouch
+4th arch branchial pouch
+1st arch branchial pouch
+footplate apical ectodermal ridge
+hindbrain venous system
+cranial conduit
+optic canal
+neuraxis flexure
+cephalic flexure
+cervical flexure
+pontine flexure
+amniotic fold
+tunnel of Corti
+blood-inner ear barrier
+posterior cerebellomedullary cistern
+lymphoid nodule of spleen
+red pulp of spleen
+marginal zone of spleen
+lamina propria of ureter
+urinary bladder
+wall of urinary bladder
+trigone of urinary bladder
+neck of urinary bladder
+mucosa of urinary bladder
+serosa of urinary bladder
+lamina propria of urinary bladder
+wall of intestine
+pancreatic acinus
+pancreas
+trabecula of spleen
+splenic cord
+femoral nerve
+peritoneal fluid
+acetabular part of hip bone
+bony pelvis
+pelvic girdle
+brachiocephalic artery
+carotid artery
+common carotid artery
+right common carotid artery
+internal carotid artery
+external carotid artery
+subclavian artery
+right subclavian artery
+vertebral artery
+left common carotid artery
+anterior tibial artery
+posterior tibial artery
+dorsalis pedis artery
+peroneal artery
+medial plantar artery
+superior nasal concha
+middle nasal concha
+inferior nasal concha
+maxillary process of inferior nasal concha
+ethmoidal process of inferior nasal concha
+dental papilla
+maxillary sinus
+lactiferous duct
+anterior chamber of eyeball
+posterior chamber of eyeball
+vascular layer of eyeball
+choroid
+iris
+ciliary body
+pontine raphe nucleus
+lung
+vasculature
+developing anatomical structure
+embryonic structure
+embryonic tissue
+epithelium of bronchiole
+capsule of adrenal gland
+zona glomerulosa of adrenal gland
+zona fasciculata of adrenal gland
+zona reticularis of adrenal gland
+inferior suprarenal artery
+phrenic artery
+joint of head of rib
+costochondral joint
+biliary tree
+biliary system
+cochlear duct of membranous labyrinth
+scala media
+dorsal mesentery
+cerumen
+brainstem
+alveolus of lung
+ventricle
+layer of neocortex
+cortical layer I
+cortical layer II
+cortical layer III
+cortical layer IV
+cortical layer V
+cortical layer VI
+interlobular vein
+juxtaglomerular apparatus
+metanephric juxtaglomerular apparatus
+lateral line system
+germ ring
+scale
+median fin skeleton
+body ganglion
+cranial placode
+tadpole
+larva
+ventral trigeminal tract
+anterior hypothalamic region
+interstitial nucleus of cajal
+vestibulocerebellar tract
+anatomical cavity
+regional part of superior colliculus
+intermediate hypothalamic region
+corticotectal tract
+linear nucleus
+organ cavity
+temporal operculum
+superior frontal sulcus
+central nucleus of inferior colliculus
+lateral orbital gyrus
+olivary pretectal nucleus
+superior precentral sulcus
+basal part of pons
+amiculum of dentate nucleus
+transverse temporal sulcus
+medial orbital gyrus
+external nucleus of inferior colliculus
+principal pretectal nucleus
+pontine reticular formation
+regional part of inferior olivary complex
+posterior orbital gyrus
+temporal pole
+pericentral nucleus of inferior colliculus
+sublentiform nucleus
+stria terminalis
+posterior nucleus of thalamus
+submedial nucleus
+decussation of superior cerebellar peduncle
+suprageniculate nucleus
+central dorsal nucleus
+regional part of cerebellar white matter
+central lateral nucleus
+septum of telencephalon
+septum
+regional part of spinal cord
+spinal cord segment
+lumbar spinal cord
+sacral spinal cord
+cervical spinal cord
+thoracic spinal cord
+coccygeal segment of spinal cord
+sacral vertebra
+anterior commissure anterior part
+central gray substance of midbrain
+trigeminal nerve fibers
+posterior part of anterior commissure
+uncinate fasciculus
+dorsal longitudinal fasciculus
+ventral acoustic stria
+regional part of pretectal region
+regional part of hypothalamus
+collagen and cuticulin-based cuticle
+olfactory placode
+ear vesicle
+forebrain arachnoid mater
+telencephalon arachnoid mater
+midbrain arachnoid mater
+diencephalon arachnoid mater
+hindbrain arachnoid mater
+spinal cord arachnoid mater
+forebrain dura mater
+midbrain dura mater
+telencephalon dura mater
+diencephalon dura mater
+hindbrain dura mater
+head connective tissue
+abdomen connective tissue
+neck connective tissue
+leg connective tissue
+respiratory system connective tissue
+trachea connective tissue
+chest connective tissue
+arm connective tissue
+elbow connective tissue
+wrist connective tissue
+hip connective tissue
+knee connective tissue
+foot digit connective tissue
+shoulder connective tissue
+lower respiratory tract connective tissue
+eyelid connective tissue
+nasopharynx connective tissue
+larynx connective tissue
+mammary gland connective tissue
+dermis connective tissue
+trunk connective tissue
+limb connective tissue
+forelimb connective tissue
+hindlimb connective tissue
+main bronchus connective tissue
+lobar bronchus connective tissue
+bronchus connective tissue
+thoracic cavity connective tissue
+pelvis connective tissue
+foot connective tissue
+ankle connective tissue
+proepicardium
+septum transversum
+pulmonary myocardium
+branchiomeric skeletal muscle
+superior reticular formation
+orbitofrontal cortex
+spinal cord ventral commissure
+trigeminothalamic tract
+pons reticulospinal tract
+medulla reticulospinal tract
+leg joint
+limb joint
+internal reproductive organ
+external reproductive organ
+hemopoietic organ
+aorta smooth muscle tissue
+prostate glandular acinus
+mammary gland fat
+mammary gland bud
+mammary gland cord
+labyrinthine layer blood vessel
+prostate gland stroma
+olfactory bulb layer
+olfactory bulb mitral cell layer
+olfactory bulb external plexiform layer
+olfactory bulb glomerular layer
+olfactory bulb granule cell layer
+olfactory bulb internal plexiform layer
+olfactory bulb subependymal zone
+Harderian gland
+glomerular endothelium
+respiratory system venous endothelium
+lymph node endothelium
+aorta endothelium
+cardiovascular system endothelium
+gastrointestinal system mesentery
+skeletal muscle connective tissue
+cellular cartilage
+eye gland
+right lung alveolus
+left lung alveolus
+thoracic sympathetic nerve trunk
+retina blood vessel
+vasculature of retina
+parietal organ
+lobar bronchus vasculature
+lobar bronchus bronchiole
+lobar bronchus alveolar system
+interalveolar septum
+alveolar wall
+alveolar smooth muscle
+right lung accessory lobe lobar bronchus
+right lung accessory lobe lobar bronchus mesynchyme
+right lung caudal lobe lobar bronchus mesynchyme development
+right lung cranial lobe lobar bronchus mesynchyme
+right lung middle lobe lobar bronchus mesynchyme
+right lung lobar bronchus mesynchyme
+submucosa of pharynx
+submucosa of laryngopharynx
+submucosa of cystic duct
+submucosa of cecum
+submucosa of appendix
+submucosa of ascending colon
+submucosa of transverse colon
+submucosa of descending colon
+hair follicle bulge
+ansiform lobule crus I
+ansiform lobule crus II
+olfactory bulb outer nerve layer
+crista terminalis
+pectinate muscle
+vena cava sinus
+Bachmann's bundle
+heart layer
+subendocardium layer
+coronary vessel
+left posterior bundle
+right bundle
+atrium myocardial trabecula
+atrioventricular septum
+cusp of cardiac valve
+aortic valve cusp
+aortic valve anulus
+pulmonary valve cusp
+pulmonary valve anulus
+chordae tendineae
+mitral valve anulus
+mitral valve cusp
+tricuspid valve anulus
+tricuspid valve cusp
+aorticopulmonary septum
+intersomitic artery

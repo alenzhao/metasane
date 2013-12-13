@@ -1,0 +1,158 @@
+inferred from hybrid interaction
+inferred from yeast one-hybrid assay
+is_a
+part_of
+inferred from yeast 2-hybrid assay
+develops_from
+non-traceable author statement
+related
+inferred from supressor/enhancer interaction
+inferred from protein expression in heterologous system
+inferred from loss-of-function mutant phenotype
+inferred from level of transcript expression determined by microarray analysis
+inferred from in-silico analysis
+alt_id
+inferred from electronic annotation
+inferred from reviewed computational analysis
+traceable author statement
+inferred from phylogeny
+inferred from in vitro culture assay
+inferred from genetic interaction
+inferred from functional complemtation in heterologous system
+inferred from transgenic rescue
+inferred from functional complementation
+inferred from transient rescue
+inferred from epistatic interaction
+inferred from double mutant analysis
+inferred from differential methylation hybridization
+inferred from specific protein inhibition
+inferred from enzyme inhibition
+inferred from nucleic acid binding assay
+inferred from ribohomopolymer binding assay
+inferred from Northwestern analysis
+inferred from Southwestern analysis
+inferred from sequence model
+inferred from oligonucleotide microarray
+inferred from spatial pattern of protein expression
+inferred from level of transcript expression
+inferred from expression library screening
+inferred from differential hybridization
+inferred from spatial pattern of transcript expression
+inferred from subtractive hybridization
+inferred from cDNA microarray
+inferred from Affymetrix array
+inferred from Nimblegen array
+inferred from transcript expression
+inferred from array experiment
+inferred from level of transcript expression determined by Northern assay
+inferred from Western blot assay
+inferred from protein expression
+inferred from genomic microarray experiment
+inferred from level of transcript expression determined by RT-PCR
+inferred from CpG island microarray experiment
+inferred from expression microarray experiment
+inferred from level of protein expression
+inferred from ectopic expression
+inferred from over expression
+inferred from nucleic acid hybridization
+inferred from Southern blot hybridization
+inferred from in situ hybridization
+inferred from system reconstruction
+inferred from electrophysiological experiment
+inferred from two-electrode voltage clamp technique
+inferred from sequence similarity
+inferred from InterPro motif similarity
+inferred from curated BLAST match to nucleic acid
+inferred from motif similarity
+inferred from curated BLAST match
+inferred from sequence orthology
+inferred from curated BLAST match to protein
+inferred from sequence alignment
+inferred from localization of YFP fusion protein
+inferred from cell-free assay
+inferred from affinity chromatography
+inferred from immunolocalization of epitope-tagged protein
+inferred from genomic context
+inferred from genome cluster
+inferred from co-immunoprecipitation
+inferred from far-Western assay
+inferred from compositional similarity
+exact
+inferred from bioassay
+inferred from in vitro assay
+inferred from clinical study
+Inferred from in vivo assay
+inferred from animal model system
+inferred from physiological response
+inferred from structural similarity
+inferred from immunoprecipitation
+inferred by curator
+inferred from immunological assay
+inferred from immunolocalization
+inferred from immunogold labelling
+inferred from anti-sense experiment
+inferred from localiztion of GUS fusion protein
+inferred from protein separation
+inferred from protein separation followed by fragment identification
+inferred from protein separation followed by direct sequencing
+not_recorded
+inferred from thin layer chromatographic assay
+inferred from RNAi experiment
+inferred from immunofluorescence
+inferred from RNA protection assay
+inferred from split-ubiquitin assay
+inferred from quantitative trait analysis
+inferred from direct assay
+inferred from localization of fusion protein
+inferred from transcription assay
+inferred from transcriptional activation assay
+inferred from protein localization
+inferred from protein assay
+inferred from in vitro transcription reconstitution assay
+inferred from co-fractionation
+inferred from uptake assay in a heterologous system
+inferred from in vitro transcription reconstitution assay with recombinant protein
+inferred from localization of GFP fusion protein
+inferred from transport assay
+inferred from cell fractionation
+inferred from reconstitution assay
+inferred from protein binding
+inferred from fractionation
+inferred from enzyme assay
+inferred from electrophoretic mobility shift assay
+inferred from protein:ion binding assay
+inferred from localization of lacZ fusion protein
+inferred from in vitro binding assay
+inferred from biochemical trait
+inferred from physical interaction
+inferred from Sos-recruitment assay
+inferred from ligand binding
+inferred from co-purification
+inferred from visible phenotype
+inferred from genetic similarity
+inferred from expression pattern
+inferred from positional similarity
+inferred from gene expression similarity
+inferred from phenotypic similarity
+inferred from morphological similarity
+inferred from developmental similarity
+synonym
+inferred from voucher specimen
+inferred from similarity
+evidence_code
+inferred from experiment
+inferred from mutant phenotype
+inferred from phenotype
+inferred from reporter gene assay
+inferred from gain-of-function mutant phenotype
+narrow
+broad
+inferred from transmembrane domain prediction
+inferred from targeting sequence prediction
+no biological data
+inferred from PCR experiment
+inferred from RT-PCR experiment
+inferred from methylation-specific PCR
+inferred from genomic analysis
+inferred from amplification of intermethylated sites
+inferred from restriction landmark genomic scanning

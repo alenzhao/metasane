@@ -1,0 +1,562 @@
+electrophilic addition
+intermembrane electron transfer
+bimolecular nucleophilic substitution
+branching chain reaction
+fast atom bombardment ionization
+biomacromolecule-catalysed reaction
+thermocatalysis
+ligase reaction
+alcohol:NAD(P)+ dehydrogenase reaction
+solvolysis
+hemoprotein oxidoreductase reaction
+scattering
+cobaltochelatase reaction
+radiodesorption
+radical polymerization
+donor:flavin oxidoreductase reaction
+enzymatic reaction
+continuous precipitation
+primary photoreaction
+photoradiocatalysis
+living polymerization
+inhibition of catalysis
+catalytic reaction
+donor:iron-sulfur protein oxidoreductase reaction
+alkylmercury lyase reaction
+heterogeneous nucleation
+ATP diphosphatase reaction
+donor:NAD+ dehydrogenase reaction
+nucleophilic addition
+oxidative addition
+Brillouin light scattering
+paired donor dioxygenase reaction
+heterogeneous catalysis
+chain propagation
+photobiochemical reaction
+radiolysis
+donor:hemoprotein oxidoreductase reaction
+nucleic acid-catalysed reaction
+group translocation
+sublimation
+reduction
+composite reaction
+endothermic process
+unimolecular reaction
+charge-transfer adsorption
+alkanal monooxygenase (FMN-linked) reaction
+associative adsorption
+biological electron transfer
+radiocatalysis
+nucleation and growth
+polymerization
+chain termination
+condensation polymerization
+photoelectronation
+cob(II)yrinic acid a,c-diamide reductase reaction
+light scattering
+micellar catalysis
+heterolytic substitution reaction
+triplet-triplet absorption
+diffusion
+addition reaction
+one-electron transmembrane electron transfer
+hydrogen:quinone oxidoreductase reaction
+alcohol:NAD+ dehydrogenase reaction
+abzymatic reaction
+Raman light scattering
+chemical activation
+electron emission
+specific catalysis
+facilitated diffusion
+enzyme activation
+internal pair production
+insertion
+deoxyribozymatic reaction
+paired donor monooxygenase reaction
+sol-gel transition
+termolecular reaction
+modification of reaction
+ribozymatic reaction
+chain reaction
+metal oxidoreductase reaction
+electrocyclic ring closing
+photopolymerization
+association
+chemical reaction
+mesomorphic transition
+telomerization
+noncatalytic reaction
+nucleophilic solvolysis
+singlet-singlet absorption
+13(1)-oxo-magnesium-protoporphyrin IX 13-monomethyl ester cyclase reaction
+nucleoside-triphosphatase reaction
+transmembrane electron transfer
+dissociative adsorption
+endothermic reaction
+copolymerization
+photoionization
+solvation
+nucleophilic catalysis
+adiabatic process
+alcohol:quinone dehydrogenase reaction
+primary geminate recombination
+catalytic poisoning
+dioxygenase reaction
+photocatalysis
+homogeneous nucleation
+NAD(P)H:NAD(P)+ transhydrogenase reaction
+photoinduced electron transfer
+mechanism-based inhibition
+intervalence charge transfer
+evaporation
+electrode process
+degenerate rearrangement
+phase transition
+donor:iron protein oxidoreductase reaction
+donor:NADP+ dehydrogenase reaction
+reactive adsorption
+X-ray scattering
+ene reaction
+reversible enzyme activation
+inelastic light scattering
+acid anhydride hydrolase reaction
+concerted proton tunnelling-electron tunnelling
+electronation
+Oplophorus-luciferin 2-monooxygenase reaction
+stepwise reaction
+carbonyl:ferredoxin dehydrogenase reaction
+irreversible modification of enzyme catalysis
+heterolytic addition reaction
+extrusion
+photohydrogenation
+parallel reactions
+atom migration
+nucleation
+predissociation
+microscopic chemical event
+pericyclic addition reaction
+mass transfer
+agglomeration
+irreversible enzyme activation
+zymogen activation
+develops_from
+enzyme activation by phosphate group transfer
+is_a
+part_of
+biological membrane fusion
+inelastic neutron scattering
+reversible enzyme inhibition
+non-competitive inhibition
+hyperbolic inhibition
+non-competitive inhibition by protons
+mixed inhibition
+uncompetitive inhibition
+linear enzyme inhibition
+competitive enzyme inhibition
+electrocyclic ring opening
+metal:oxygen oxidoreductase reaction
+ferroxidase reaction
+reversible inhibition of catalysis
+temporary poisoning
+competitive inhibition
+fluorescence
+recombination fluorescence
+P-type delayed fluorescence
+resonance fluorescence
+atomic fluorescence
+delayed fluorescence
+E-type delayed fluorescence
+aryl-alcohol:NAD+ dehydrogenase reaction
+sirohydrochlorin cobaltochelatase reaction
+bimolecular reaction
+unimolecular nucleophilic substitution
+NADP+ reduction
+nucleophilic substitution reaction
+carbonyl:NAD(P)+ dehydrogenase reaction
+proton tunnelling
+protein-catalysed reaction
+hydrogenation
+inhibition
+biological transport
+positron emission
+magnetic transition
+electrochemical reaction
+photoassisted catalysis
+two-electron transmembrane electron transfer
+exothermic reaction
+electron-transfer induced chain reaction
+melting
+Watasenia-luciferin 2-monooxygenase reaction
+carbonyl:oxygen dehydrogenase reaction
+oligomerization
+internal conversion
+rate-controlling step
+biological membrane process
+radical copolymerization
+isomerization
+donor:quinone oxidoreductase reaction
+ring-opening polymerization
+Renilla-luciferin 2-monooxygenase reaction
+electron capture
+modification of catalysis
+biotransformation reaction
+autoradiolysis
+metal:flavin oxidoreductase reaction
+polyaddition
+thermochemical reaction
+hydrogenase reaction
+absorption
+ethanol:NAD+ dehydrogenase reaction
+adiabatic photoreaction
+ionization
+relaxation
+pseudo-catalytic reaction
+irreversible enzyme inhibition
+alcohol:acceptor dehydrogenase reaction
+reaction stage
+electro-crystallization
+inelastic X-ray scattering
+neutron scattering
+charge-transfer transition
+related
+metal to ligand charge transfer transition
+ligand to metal charge transfer transition
+metal to metal charge transfer transition
+solvent transport
+electro-osmosis
+osmosis
+electron scattering
+elastic electron scattering
+inelastic electron scattering
+condensation reaction
+condensative chain polymerization
+donor:cytochrome oxidoreductase reaction
+alcohol:cytochrome dehydrogenase reaction
+hydrogen:cytochrome oxidoreductase reaction
+carbonyl:cytochrome dehydrogenase reaction
+hydrogen:ferricytochrome-c3 oxidoreductase reaction
+nuclear reaction
+nuclear fusion reaction
+induced fission
+thermal fission
+essential activation
+coordination
+chelation
+unimolecular heterolysis
+is_reverse_of
+degenerate chain branching
+primary active transport
+methyl-transfer-driven transport
+ATPase reaction
+light-driven transport
+Na+/K+-exchanging ATPase reaction
+decarboxylation-driven transport
+ATPase-coupled transmembrane transport
+K+-transporting ATPase reaction
+oxidoreduction-driven transport
+K+ import
+diphosphate-bond-hydrolysis-driven transport
+Na+ export
+general base catalysis
+13(1)-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester dehydrogenase reaction
+NAD(P)H:quinone dehydrogenase reaction
+cyclopolymerization
+aliphatic alcohol:NAD+ dehydrogenase
+magnesium chelatase reaction
+NAD(P)+ reduction
+beta-decay
+external ion-pair return
+hydrolase reaction
+alcohol dehydrogenation
+homolytic substitution reaction
+transport
+chemical relaxation
+pericyclic reaction
+reversible modification of enzyme catalysis
+single donor monooxygenase reaction
+diabatic electron transfer
+thermophotocatalysis
+hemoprotein:oxygen oxidoreductase reaction
+photoadsorption
+solute transport
+discontinuous precipitation
+electrode reaction
+NAD+ reduction
+biphotonic excitation
+cheletropic reaction
+homogeneous catalysis
+gamma emission
+micellar solubilization
+rearrangement
+Latia-luciferin monooxygenase (demethylating) reaction
+cytochrome-c oxidase reaction
+ring-opening copolymerization
+intermolecular rearrangement
+migration
+elementary reaction
+radioactive decay
+activation
+general acid catalysis
+homopolymerization
+alcohol:NADP+ dehydrogenase reaction
+3-hydroxybenzyl-alcohol:NADP+ dehydrogenase reaction
+propan-2-ol:NADP+ dehydrogenase reaction
+aryl-alcohol:NADP+ dehydrogenase reaction
+propan-2-ol dehydrogenation
+3-hydroxybenzyl alcohol dehydrogenation
+polymorphic transition
+migratory insertion
+alcohol:oxygen dehydrogenase reaction
+Cypridina-luciferin 2-monooxygenase reaction
+pseudo-catalysis
+general base pseudo-catalysis
+general acid pseudo-catalysis
+anionic polymerization
+associative desorption
+lyase reaction
+addition
+synthase reaction
+detachment
+homolysis
+unimolecular homolysis
+heterolysis
+hydrogen:NAD(P)+ oxidoreductase reaction
+hydrogen:NAD+ oxidoreductase reaction
+hydrogen:NADP+ oxidoreductase reaction
+oxygenation
+neutron-antineutron pair production
+photosensitized reaction
+photosensitization
+radiative energy transfer
+electron tunnelling
+alpha-elimination
+elimination
+diabatic photoreaction
+charge separation
+charge recombination
+NADPH:metal oxidoreductase reaction
+NADPH:[methionine synthase] oxidoreductase reaction
+NADPH:cyanocobalamin oxidoreductase reaction
+NADPH:aquacobalamin oxidoreductase reaction
+reaction step
+single donor dioxygenase reaction
+surface process
+crystallization
+photoexcitation
+two-photon excitation
+dissociation
+gamma-decay
+electrophilic substitution reaction
+colligation
+magnesium-protoporphyrin IX 13-monomethyl ester hydroxylase reaction
+photothermocatalysis
+catalysis
+electron transfer
+ethanol dehydrogenation
+hemoprotein:nitrate oxidoreductase reaction
+electrogenerated chemiluminescence
+chain polymerization
+attachment
+spontaneous fission
+outer-sphere electron transfer
+intramolecular rearrangement
+adiabatic electron transfer
+primary alcohol dehydrogenation
+substitution
+bond migration
+sonoluminescence
+particle-antiparticle pair production
+electron-positron pair production
+proton-antiproton pair production
+annihilation
+singlet-triplet energy transfer
+delayed luminescence
+E-type delayed luminescence
+P-type delayed luminescence
+NADPH:mercury oxidoreductase reaction
+precipitation
+postprecipitation
+elastic scattering
+elastic neutron scattering
+elastic X-ray scattering
+Mie scattering
+elastic light scattering
+Rayleigh scattering
+Compton scattering
+photooxidation
+photooxygenation
+type II photooxygenation
+dehydrogenation
+electron detachment
+type III photooxygenation
+de-electronation
+type I photooxygenation
+oxidation
+active transport
+antiport
+secondary active transport
+symport
+NAD(P)H:hemoprotein dehydrogenase reaction
+solvolytic substitution
+nucleophilic solvolytic substitution
+macroscopic process
+isomerase reaction
+multilayer adsorption
+donor:NAD(P)+ oxidoreductase reaction
+photodesorption
+tunnelling
+chain reaction step
+hydrogen:ferredoxin oxidoreductase reaction
+product-determining step
+inelastic scattering
+pyrolysis
+one-electron transfer
+bimolecular electrophilic substitution
+nucleoside triphosphate (di)phosphohydrolase reaction
+electron attachment
+internal conversion (in photophysics)
+deactivation
+radioluminescence
+radiationless deactivation
+piezoluminescence
+intersystem crossing
+luminescence
+bioluminescence
+emission
+phosphorescence
+chemiluminescence
+photoluminescence
+triboluminescence
+thermoluminescence
+luciferin monooxygenase reaction
+reactive desorption
+NADH:aquacobalamin oxidoreductase reaction
+isomeric transition
+nuclear transformation
+radiative capture
+capture
+nuclear fission
+nuclear decay
+nuclear disintegration
+pi-sigma* transition
+cheletropic elimination
+Dexter excitation transfer
+alt_id
+nuclear transition
+electronic transition
+sigma-sigma* transition
+vibronic transition
+spin-allowed electronic transition
+Rydberg transition
+NADH:metal oxidoreductase reaction
+NADH:cob(II)alamin oxidoreductase reaction
+methanol dehydrogenation
+thermal reaction
+stereoselective polymerization
+ferrocytochrome:nitrate reductase reaction
+vibrational relaxation
+oxygenase reaction
+solvolytic elimination
+simultaneous nucleation
+enzyme inhibition
+transformation
+ATP-hydrolysing chelatase reaction
+geminate recombination
+adsorption
+unimolecular electrophilic substitution
+electrodeposition
+methanol:NAD+ dehydrogenase reaction
+NAD(P)H:acceptor dehydrogenase reaction
+cationic polymerization
+alpha-addition
+hydrolysis
+carbonyl:acceptor dehydrogenase reaction
+phosphorus-containing anhydride hydrolase reaction
+substitution reaction
+internal ion-pair return
+transmembrane transport
+nucleoside-triphosphate diphosphatase reaction
+radiochemical reaction
+cycloaddition
+donor:oxygen oxidoreductase reaction
+opposing reactions
+biochemical reaction
+transferase reaction
+ionic copolymerization
+physisorption
+secondary alcohol dehydrogenation
+radioadsorption
+singlet-triplet absorption
+monooxygenase reaction
+secondary geminate recombination
+Photinus-luciferin 4-monooxygenase (ATP-hydrolysing) reaction
+NADH:diferric-transferrin oxidoreductase reaction
+NADH:ferric-chelate oxidoreductase reaction
+excitation annihilation
+singlet-singlet annihilation
+triplet-triplet annihilation
+synonym
+reductive elimination
+desorption
+desorption (by displacement)
+subatomic process
+NAD(P)H:metal oxidoreductase reaction
+process
+radiative transition
+microscopic process
+excitation energy transfer
+photophysical process
+excitation
+radiationless transition
+Forster excitation transfer
+elimination reaction
+ion-pair return
+exact
+narrow
+physico-chemical process ontology
+broad
+thermolysis
+modification of enzyme catalysis
+photochemical reaction
+photoinduced polymerization
+ionic polymerization
+homolytic addition reaction
+chain branching
+ion pair dissociation
+two-electron transfer
+sigmatropic rearrangement
+chemisorption
+magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase reaction
+NAD(P)H:oxygen dehydrogenase reaction
+photolysis
+chelatase reaction
+metal:NAD(P)+ oxidoreductase reaction
+irreversible inhibition of catalysis
+exothermic process
+dehydrogenase reaction
+electrophoresis
+inner-sphere electron transfer
+biological membrane transport
+aryl-alcohol:NAD(P)+ dehydrogenase reaction
+photoinitiation
+oxidoreductase reaction
+autocatalytic reaction
+photoreduction
+alpha-decay
+interphase transition
+membrane process
+redox reaction
+chain initiation
+chain transfer
+hyperbolic activation
+ferrochelatase reaction
+simple diffusion
+activation of catalysis
+graft copolymerization
+NAD(P)H oxidase reaction
+living copolymerization
+photoabsorption
+electrocyclic reaction
+exergonic reaction
+polar reaction
+radiothermal catalysis

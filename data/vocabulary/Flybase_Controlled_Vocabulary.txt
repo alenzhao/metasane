@@ -1,0 +1,722 @@
+news article
+intralocus exchange
+stock center collection
+balancer for chromosome 1
+Cambridge 2 duplication kit stock
+recently collected stock
+sequenced whole genome stock
+recessive lethal balancer
+Szeged Drosophila Stock Centre
+DrosDel Project deficiency core kit stock
+wild-type stock
+multi-female collection
+dominant temperature-sensitive lethal balancer
+lacZ balancer
+DrosDel Project deficiency stock
+balancer stock
+Exelixis deficiency kit stock
+inbred line
+Bloomington Drosophila Stock Center
+dominant female sterile balancer
+San Diego Drosophila Species Stock Center
+pair of homologous balancers
+Bloomington duplication kit stock
+balancer for chromosome 2
+duplication stock
+single balancer
+Drosophila Genetic Resource Center
+selected wild-type stock
+laboratory wild-type stock
+transposable element-containing stock
+Vienna Drosophila RNAi Center
+deficiency stock
+fluorescent balancer
+isofemale line
+dominant male sterile balancer
+mutant stock
+Bloomington Stock Center deficiency kit stock
+balancer for chromosome 3
+female
+20-100% egg length
+phototaxis behavior defective
+eye color defective
+tissue polarity defective
+20% egg length
+mustard gas
+colchicine
+ventral
+laboratory collection
+Garcia-Bellido laboratory
+Nusslein-Volhard laboratory
+Carpenter laboratory
+Exelixis Drosophila Stock Collection at Harvard Medical School
+Saxton laboratory
+5-bromouridine
+dominant female sterile balancer for chromosome 2
+large body
+sequenced strain
+descriptor
+reduced cell number
+SCEI endonuclease
+ethyl ether
+tarsal response defective
+formaldehyde
+male semi-fertile
+S-2-chloroethylcysteine
+heat stress response defective
+mating defective
+&lt;up&gt;137&lt;/up&gt;Cs &amp;ggr; ray
+mating rhythm defective
+neutrons
+synthetic
+tumorigenic
+diepoxyoctane
+piggyBac transposase source for transposable element mutagenesis
+intercalating agent
+enhancer of variegation
+locomotor rhythm defective
+wound healing defective
+natural gas
+eclosion rhythm defective
+courtship defective
+transposase source for transposable element mutagenesis
+&lt;up&gt;226&lt;/up&gt;Ra &amp;agr; ray
+immune response defective
+male sterile germ-line-dependent
+mutant scorability rank
+hobo transposase source for transposable element mutagenesis
+sodium bisulphite
+stock descriptor
+cell shape defective
+neuroanatomy defective
+magnification
+5-bromouracil
+triethylenemelamine
+phiC31 based integration system
+7-bromomethyl 12 methyl benz&lt;up&gt;&amp;agr;&lt;/up&gt; anthracine
+P-element ammunition for transposable element mutagenesis
+photoperiod response variant
+&lt;up&gt;3&lt;/up&gt;H-deoxycytidine
+semi-lethal
+In transgenic Drosophila (intraspecific)
+visible allele recombination mapping stock
+short lived
+p-N,N-di-(2-chloroethyl)amino-L-phenylalanine
+&lt;up&gt;252&lt;/up&gt;Cf fission neutrons
+H cytotype stock
+1,2:5,6-dibenzanthracene
+female sterile germ-line-dependent
+Whole-organism transient assay (intraspecific)
+triaziquone
+male sterile
+quinhydrone
+In transgenic Drosophila (allele of one drosophilid species in genome of another drosophilid)
+unequal recombination
+uncoordinated
+living stock
+increased cell number
+suppressor of variegation
+caffeine
+size defective
+In transgenic Drosophila (allele of foreign species in genome of drosophilid)
+female sterile
+RK2
+long lived
+base analog
+flight behavior defective
+extracted wild-type chromosome 3
+hobo ammunition for transposable element mutagenesis
+touch sensitivity defective
+behavior defective
+preserved specimen
+auxotroph
+&lt;up&gt;3&lt;/up&gt;H
+minos ammunition for transposable element mutagenesis
+transposable element mutagenesis stock
+p-p&apos;-N,N-di(2-chloroethyl)aminophenoxyphenylalanine1
+radio waves
+optomotor behavior defective
+reduction
+origin of mutation
+actinomycin D
+increased cell size
+alkylating agent
+nitrosomethyl urea
+methyl methanesulfonate
+environmental stress response defective
+DNA
+non-suppressor of variegation
+site specific recombinase
+2-methoxyethanol
+female sterile soma-dependent
+p-N,N-di-(2-chloroethyl)aminophenylethylamine
+H&lt;down&gt;3&lt;/down&gt;BO&lt;down&gt;3&lt;/down&gt;
+semi-sterile
+DNA repair defective
+cre recombinase
+SNP recombination mapping stock
+recessive visible allele recombination mapping stock
+1,6-dimethylsulfonoxy D-mannitol
+P cytotype stock
+&lt;up&gt;60&lt;/up&gt;Co &amp;ggr; ray
+visual behavior defective
+stock by cytotype
+N-nitrosodimethylamine
+mapping stock
+In transgenic Drosophila
+&amp;agr; ray
+enzyme inhibitor
+male semi-sterile
+extracted wild-type chromosome
+cell polarity defective
+chemical sensitive
+female fertile
+male fertile
+isogenic chromosome 3
+ethylene oxide
+M cytotype stock
+Bevatron irradiation
+hycanthon methanesulfonate
+Baylor TE recombination mapping kit stock
+cell death increase
+isogenic chromosome 2
+ethyl nitrosourea
+magnetic field
+detachment
+thermotaxis behavior defective
+unclassified chemical
+Whole-organism transient assay (allele of foreign species assayed in drosophilid)
+non-enhancer of variegation
+cell size defective
+hatching defective
+hexamethylmelamine
+ionizing radiation
+1,2-dichloroethane
+1-bromo-2-chloroethane
+P-element transposase source for transposable element mutagenesis
+fagaronine
+cell adhesion defective
+hyperactive
+ICR 170
+stratosphere exposure
+lethal
+mitotic recombination
+non-ionizing radiation
+Whole-organism transient assay
+radiation sensitive
+piggyBac ammunition for transposable element mutagenesis
+sulfur mustard
+radiation resistant
+Gene Disruption Project stock
+song defective
+extracted wild-type chromosome 4
+female semi-sterile
+grooming behavior defective
+ICR 100
+styryl quinoline
+chemical
+dosage compensation defective
+cytokinesis defective
+allele descriptor
+chemical resistant
+hypoactive
+dominant visible allele recombination mapping stock
+cell lethal
+I-CreI endonuclease
+small body
+1,4-dimethanesulfonoxybut-2-yne
+1,4-dimethanesulfonoxy-1:4-dimethylbutane
+hyperplastic
+phenotypic class
+sodium fluoride
+ammunition source for transposable element mutagenesis
+2-fluoroethyl methanesulfonate
+cupric sulfate
+dimethyl sulfoxide
+&lt;up&gt;3&lt;/up&gt;H-thymidine
+visible
+melanotic necrosis
+auditory system defective
+p-N,N-di-(2-chloroethyl)amino-D-phenylalanine
+1,6-dimethylsulfonoxy L-mannitol
+RK1
+semi-viable
+aging defective
+sterile
+osmotic stress response defective
+benzo(&amp;agr;)pyrene
+Minute
+1-amino-2-naphthol-4-sulfonic acid
+variegation
+memory defective
+melanotic &apos;tumor&apos;
+minos transposase source for transposable element mutagenesis
+p-N,N-di(2-chloroethyl)aminophenylvaleric acid
+semi-fertile
+diethyl sulfate
+iodine
+E cytotype stock
+eclosion defective
+carbamate
+body size defective
+chemosensitive behavior defective
+learning defective
+supersonic-treatment
+feeding behavior defective
+pinned specimen
+collection
+bang sensitive
+RK3
+flightless
+1,2-dibromoethane
+spontaneous
+nitrogen mustard
+1-diethylaminoethylethylamino-4-methyl-thioxanthenone
+neurophysiology defective
+extracted wild-type chromosome 1
+segregation
+locomotor behavior defective
+cell growth defective
+fertile
+ethyl methanesulfonate
+body color defective
+phiC31 docking site stock
+cisplatin
+2,5,-bisethylene-imine-1,4-benzoquinone
+p-N,N-di-(2-chloroethyl)aminophenylbutyric acid
+inorganic compound
+cell death decrease
+hexamethylphosphoramide
+cell death defective
+methoxy diethylnitrosamine
+grandchildless
+molecular extract
+U.V.
+mitomycin C
+hesperidine
+p-N,N-di-(2-chloroethyl)amino-DL-phenylalanine
+genomic DNA
+allele assay method
+&lt;up&gt;32&lt;/up&gt;P
+1,4-dimethanesulfonoxybutane
+recombination
+developmental rate defective
+deuteron irradiation
+isogenic chromosome 1
+Whole-organism transient assay (allele from one drosophilid species assayed in another drosophilid)
+jumpless
+wild-type
+FLPase
+sex-determination defective
+viable
+gene conversion
+extracted wild-type chromosome 2
+pain response defective
+circadian rhythm defective
+male sterile soma-dependent
+olfaction defective
+epoxy hydrocarbon
+ethylenimine
+irradiation
+natural population
+vinyl carbamate
+aminopterin
+urethane
+isogenic stock
+&amp;ggr; ray
+apical
+0-70% egg length
+medial
+40-80% egg length
+dorso-lateral
+qualitative qualifier
+partially
+slow
+good
+fast
+reduced
+fully
+intermediate
+poor
+non-suppressor
+10-70% egg length
+ventral to
+gap
+Artavanis laboratory
+ventro-lateral
+anterior
+ventral compartment
+terminal
+lateral
+recessive lethal balancer for chromosome 1
+recessive lethal balancer for chromosome 3
+vicinity of
+80-90% egg length
+DNA sequence variant
+surrounding
+20-70% egg length
+gene expression qualifier
+relative spatial qualifier
+distal to
+posterior to
+proximal to
+dorsal to
+60-90% egg length
+spatial qualifier
+20-80% egg length
+70% egg length
+pair rule
+40% egg length
+70-80% egg length
+even pair rule
+proximal
+0% egg length
+20-50% egg length
+70-90% egg length
+30-90% egg length
+distal
+0-90% egg length
+50-70% egg length
+ubiquitous
+0-50% egg length
+20-60% egg length
+posterior compartment
+30-60% egg length
+10-60% egg length
+basal
+50-80% egg length
+compartment boundary
+0-30% egg length
+subset
+40-50% egg length
+segment polarity
+60% egg length
+anterior/posterior compartment boundary
+egg length
+central
+20-90% egg length
+dorsal ventral gradient
+30-50% egg length
+20-30% egg length
+anterior posterior gradient
+60-80% egg length
+100% egg length
+50-90% egg length
+20-40% egg length
+70-100% egg length
+compartment
+10-100% egg length
+90% egg length
+30-80% egg length
+30-40% egg length
+10-30% egg length
+30-100% egg length
+30% egg length
+dorsal-ventral polarity
+30-70% egg length
+dorsal compartment
+50-100% egg length
+0-10% egg length
+10% egg length
+10-90% egg length
+striped
+segmentally repeated
+odd pair rule
+dorsal
+contralateral
+60-100% egg length
+0-80% egg length
+restricted
+0-20% egg length
+50-60% egg length
+90-100% egg length
+50% egg length
+0-60% egg length
+10-40% egg length
+gradient
+40-70% egg length
+0-40% egg length
+40-90% egg length
+embryonic pattern qualifier
+dorsal/ventral compartment boundary
+10-50% egg length
+neurogenic
+40-100% egg length
+40-60% egg length
+10-20% egg length
+0-100% egg length
+segment boundary
+ipsilateral
+anterior compartment
+Golic laboratory gene replacement kit stock
+recessive lethal balancer for chromosome 2
+alt_id
+P-element family transposable element insertions present
+duplication kit stock
+uniform
+conditional qualifier
+conditional - heat sensitive
+conditional - cold sensitive
+temperature conditional
+maternal effect
+non-rescuable maternal effect
+rescuable maternal effect
+enhancer
+narrow
+cell non-autonomous
+P-element family transposable element insertions absent
+laboratory stock
+dominant male sterile balancer for chromosome 3
+female limited
+morphological qualifier
+punctate
+intense
+faint
+variable
+granular
+polymorphism assay
+non-suppressible
+male limited
+expressivity qualifier
+paralytic
+Golic gene replacement kit stock
+female semi-fertile
+hobo dysgenesis
+X ray
+electrophoretic variant
+drug conditional
+conditional RU486
+part_of
+conditional tetracycline
+is_a
+develops_from
+N-methyl-N&apos;-nitro-N-nitrosoguanidine
+related
+diepoxybutane
+reduced cell size
+cell cycle defective
+endomitotic cell cycle defective
+mitotic cell cycle defective
+meiotic cell cycle defective
+temporal  qualifier
+early
+mid
+relative temporal qualifier
+n hr
+late
+polyphasic
+n day
+precursor
+monophasic
+temporal stage qualifier
+absolute temporal qualifier
+Slovenian
+autobiography
+frozen specimen
+in vitro construct
+in vitro construct - minigene
+in vitro construct - regulatory fusion
+in vitro construct - coding region fusion
+in vitro construct - amino acid replacement
+in vitro construct - RNAi
+in vitro construct - other
+in vitro construct - site directed mutagenesis
+in vitro construct - genomic fragment
+in vitro construct - deletion
+anterior to
+transposable element activity
+gypsy element activity
+piggyBac transposase
+IR-hybrid dysgenesis
+&amp;Dgr;2-3
+MR&lt;up&gt;h12&lt;/up&gt;
+PM hybrid dysgenesis
+MRF23.5
+MRF31.1
+Stalker-hybrid dysgenesis
+mariner transposase
+MR&lt;up&gt;T007&lt;/up&gt;
+p&amp;pgr;25.7wc
+MR
+hobo activity
+HBL1
+Js
+P-element activity
+p&amp;pgr;25.1
+structural qualifier
+ectopic
+supernumerary
+homeotic
+80% egg length
+geotaxis behavior defective
+exact
+Lithuanian
+allele morphy class
+amorph
+hypomorph
+gain of function
+isoallele
+wild-type allele
+loss of function
+antimorph
+neomorph
+wild-type generic
+hypermorph
+expressivity low
+expressivity complete
+expressivity incomplete
+expressivity high
+maternal pattern
+penetrance incomplete
+penetrance percent
+dominant female sterile balancer for chromosome 3
+dominant temperature-sensitive lethal balancer for chromosome 2
+sex limited
+paternal effect
+non-enhanceable
+dominant male sterile balancer for chromosome 2
+recessive
+hobo family transposable element insertions present
+deficiency kit stock
+embryonic expression pattern
+cell autonomy qualifier
+cell autonomous
+dominant temperature-sensitive lethal balancer for chromosome 3
+dominance relationship qualifier
+dominant
+semidominant
+codominant
+enhanceable
+gene descriptor
+synonym
+pair of balancers for chromosome 2
+FlyBase CV
+male
+qualifier
+suppressible
+penetrance qualifier
+genetic interaction qualifier
+penetrance complete
+suppressor
+posterior
+ethanol-preserved specimen
+isogenic chromosome 4
+clone qualifier
+somatic clone
+germ-line clone
+2-chloroethyl methanesulfonate
+Janus green B
+environmental treatment
+heat-treatment
+cold-treatment
+extracted wild-type chromosome Y
+taste defective
+Drosophila cell culture
+10-80% egg length
+publication descriptor
+Malay
+postage stamp
+Armenian
+tactile diagram
+Latin
+conference proceedings
+poster
+Arabic
+press release
+booklet
+Turkish
+Chinese
+Latvian
+abstract
+French
+publication class
+Norwegian
+Farsi
+Russian
+compendium
+Estonian
+Serbo-Croat
+book review
+automatic genome annotation
+Catalan
+microscope slides
+website
+slides
+archive
+biography
+white paper
+letter
+Portuguese
+curated genome annotation
+Hebrew
+Faroese
+Czech
+Cumbrian
+film
+interview
+editorial
+DNA/RNA sequence record
+personal communication to FlyBase
+English
+FlyBase analysis
+Indonesian
+Korean
+note
+Flemish
+paper
+review
+Bulgarian
+obituary
+advertisement
+Dutch
+conference report
+Japanese
+jigsaw puzzle
+teaching note
+meeting report
+Spanish
+retraction
+Malayalam
+species list
+Afrikaans
+Hungarian
+spoof
+publication language
+Ukrainian
+stock list
+T-shirt
+Polish
+demonstration
+Serbo-Croat(Roman)
+Icelandic
+Greek
+Swedish
+thesis
+Yiddish
+erratum
+German
+Danish
+poem
+Slovak
+death certificate
+recording
+Italian
+supplementary material
+unpublished
+patent
+Romanian
+Belarussian
+Jugoslavian
+Finnish
+bibliographic list
+book
+computer file
+protein sequence record
+parental effect
+sex qualifier
+phenotype qualifier
+non-enhancer
+broad
+RFLP
+pair of balancers for chromosome 3
+hobo family transposable element insertions absent

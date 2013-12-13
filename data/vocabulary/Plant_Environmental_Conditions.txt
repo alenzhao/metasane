@@ -1,0 +1,509 @@
+Erwinia herbicola
+physical environment
+air temperature regimen
+part_of
+cold air temperature regimen
+is_a
+gravity
+warm/hot air temperature regimen
+develops_from
+wind environment
+zero gravity
+mechanical damage
+freezing air temperature regimen
+Mollusca
+Pomacea canaliculata
+UV light regimen
+UV-C light regimen
+UV-A light regimen
+UV-B light regimen
+hexamethylphosphoramide
+zinc sulphate regimen
+unknown environment
+liquid growth media
+hydroponic plant culture media
+suspension cell culture media
+Hoagland solution
+germplasm
+nitrogen nutrient regimen
+Erwinia spp.
+Erwinia chrysanthemi
+transposable element insert
+Tos-17 transposable element
+Ac/Ds transposable element
+Hemiptera
+Oebalus pugnax
+Leptocorisa oratorius
+temperate region
+Mammalia
+Bovinae
+2-chloroethyl methanesulfonate
+moderate light intensity regimen
+1,4-dimethanesulfonoxy-1:4-dimethylbutane
+Gerlachia oryzae
+Pseudaletia spp.
+Pseudaletia separata
+Pseudaletia unipuncta
+Scirpophaga spp.
+Scirpophaga innotata
+Scirpophaga incertulas
+warm/hot water temperature regimen
+drought environment
+Meloidogyne oryzae
+Gibberella spp.
+Gibberella zeae
+Fusarium
+soil fauna
+p-N,N-di-(2-chloroethyl)amino-D-phenylalanine
+Mycoplasma
+rainy season
+ssRNA positive-strand virus with no DNA stage
+rice necrosis mosaic virus
+rice tungro spherical virus
+barley yellow dwarf virus
+rice yellow mottle virus
+rice stripe necrosis virus
+3-H-thymidine
+radiation intensity regimen
+light intensity regimen
+low light intensity regimen
+high light intensity regimen
+Recilia dorsalis
+Sogatodes oryzicola
+Sogatella furcifera
+Eysarcoris trimaculatus
+Nephotettix spp
+Nilaparvata lugens
+Meloidogyne salasi
+Leptochloa fascicularis
+Sarocladium oryzae
+2-fluoroethyl methanesulfonate
+atmospheric pressure
+Typha spp.
+dicot mixed crop neighbor
+Meloidogyne javanica
+cytokinin regimen
+kinetin regimen
+benzyladenine regimen
+manganese nutrient regimen
+manganese sulfate regimen
+day light intensity
+urethane
+dicot weed plant neighbor
+hexamethylmelamine
+macronutrient regimen
+phosphorus nutrient regimen
+primary macronutrient
+secondary macronutrient
+calcium nutrient regimen
+magnesium nutrient regimen
+sulfur nutrient regimen
+pest/pathogen/animal/plant environment
+Aves
+Pythium arrhenomanes
+Basidiomycota
+Microdochium oryzae
+Meloidogyne graminicola
+Stenchaetothrips biformis
+Lepidoptera
+Cochliobolus spp.
+Spodoptera praefica
+other animals
+Bacteria
+Diopsis macrophthalma
+Achlya klebsiana
+Pythium myriotylum
+Mycovellosiella oryzae
+Tilletia barclayana
+Orseolia oryzae
+rice stripe virus
+study type
+field study
+laboratory study
+growth chamber study
+unknown study type
+green house study
+cisplatin
+Proteobacteria
+Pseudomonas syringae pv. panici
+Xanthomonas oryzae pv. oryzae
+Pseudomonas glumae
+Pseudomonas fluorescens
+Pseudomonas avenae
+Pseudomonas fuscovaginae
+Pseudomonas plantarii
+Pseudomonas spp.
+Xanthomonas spp.
+Xanthomonas oryzae pv. oryzicola
+Xanthomonas oryzae
+soil flora
+radiation quantity regimen
+light quantity regimen
+intermittent light regimen
+continuous light regimen
+day light regimen
+long day length regimen
+continuous dark (no light) regimen
+short day length regimen
+mycoplasma like organism
+rice yellow stunt virus
+Ceratobasidium oryzae-sativae
+Metazoa
+Hirschmaniella mucronata
+Fungi
+Marasmia patnalis
+Meloidogyne incognita
+Insecta
+rice hoja blanca virus
+Ammannia spp.
+Hirschmaniella oryzae
+Diptera
+Pythium catenulatum
+Viridiplantae
+Spodoptera spp.
+rice grassy stunt 1 virus
+rice grassy stunt 2 virus
+Spodoptera mauritia
+rice grassy stunt virus
+Coleoptera
+Sphaerulina oryzina
+Achlya conspicua
+Hirschmaniella spp.
+Entyloma oryzae
+Pythium dissotocum
+Cochliobolus lunatus
+Sesamia inferens
+Alternaria spp.
+Rhizoctonia oryzae
+light regimen
+blue light regimen
+red light regimen
+visible light regimen
+near infra-red light regimen
+IR light regimen
+middle infra-red light regimen
+yellow light regimen
+orange light regimen
+green light regimen
+far red light regimen
+far infra-red light regimen
+indigo light regimen
+violet light regimen
+Phoma sorghina
+Magnaporthe spp.
+Magnaporthe salvinii
+Magnaporthe grisea
+magnetic field
+3-H-deoxycytidine
+triethylenemelamine
+Echinodorus berteroi
+rice tungro bacilliform virus
+Rupela albinella
+226-Ra or agr ray
+superphosphate regimen
+autumn season
+Balansia oryzae-sativae
+Achlya spp.
+Pythium spp.
+Spodoptera litura
+Pythium graminicola
+Dicladispa armigera
+Virus
+Drechslera gigantea
+Hydrellia philippina
+Chilo polychrysus
+Aphelenchoides besseyi
+retroid virus
+Ascomycota
+Gaeumannomyces graminis
+Meloidogyne arenaria
+Cochliobolus miyabeanus
+Stramenopiles
+Pelopidas mathias
+Hirschmaniella spinicaudata
+Alternaria padwickii
+Hirschmaniella caudacrena
+Chilo suppressalis
+Pythium spinosum
+Pythium irregulare
+ssRNA negative-strand virus
+Meloidogyne spp.
+Nematoda
+Chilo
+Eudicotyledon
+Nymphula depunctalis
+Cnaphalocrocis medinalis
+Thysanoptera
+Liliopsida
+Echinochloa spp.
+Cyperus spp.
+Sagittaria longiloba
+Alisma plantago-aquatica
+Cyperus difformis
+Echinodorus spp.
+Scirpus mucronatus
+Echinochloa crus-galli
+Scirpus fluviatilis
+Heteranthera limosa
+Sagittaria spp.
+Cyperus iria
+Monochoria vaginalis
+Sagittaria montevidensis
+Scirpus spp.
+Echinodorus cordifolius
+Echinochloa glabrescens
+pH regimen
+basic pH growth media environment
+acidic pH growth media environment
+acidic pH soil environment
+basic pH soil environment
+Thanatephorus cucumeris
+cytoplasmic genetic background
+Pyrenochaeta oryzae
+Bacopa spp.
+Phomopsis oryzae-sativae
+Maliarpha separatella
+Ustilaginoidea virens
+Hirschmaniella imamuri
+Cylindrocladium scoparium
+gaseous environment
+anaerobic environment
+ethylene regimen
+aerobic environment
+flood prone region
+river delta region
+sea coast region
+river bank region
+benzo (or agr)pyrene
+sodium nitrate regimen
+benzothiadiazole regimen
+sodium chloride regimen
+urea regimen
+zinc nutrient regimen
+seasonal environment
+rabi season
+summer season
+dry season
+spring season
+winter season
+kharif season
+1,6-dimethylsulfonoxy L-mannitol
+ICR 100
+wood ash regimen
+abscisic acid regimen
+cerebroside elicitor
+Gibberella fujikuroi
+alt_id
+related
+ethyl methanesulfonate
+hydrogen regimen
+N-methyl-N&apos;-nitro-N-nitrosoguanidine
+optimal temperature regimen
+2,4-dichlorophenoxyacetic acid
+triaziquone
+caffeine
+auxin regimen
+indole acetic acid regimen
+1-naphthaleneacetic acid
+potassium nutrient regimen
+Sclerospora spp.
+Sclerospora macrospora
+Sclerospora graminicola
+other nutrient regimen
+selenium nutrient regimen
+aluminum nutrient regimen
+chromium nutrient regimen
+cobalt nutrient regimen
+silicon nutrient regimen
+iodine nutrient regimen
+fluorine nutrient regimen
+salicylic acid regimen
+dsRNA virus
+rice dwarf virus
+rice black streak dwarf virus
+rice gall dwarf virus
+rice ragged stunt virus
+Athelia rolfsii
+Ditylenchus angustus
+p-N,N-di-(2-chloroethyl)aminophenylethylamine
+mustard gas
+ethyl ether
+Rodentia
+normal temperature regimen
+sandy loam soil
+neutrons
+252-Cf fission neutrons
+tissue culture growth media
+p-N,N-di-(2-chloroethyl)amino-DL-phenylalanine
+N-nitrosodimethylamine
+cupric sulfate
+T-DNA insert
+potassium sulfate regimen
+standing deep water
+1,4-dimethanesulfonoxybutane
+insecticide regimen
+chemical regimen
+5-bromouracil
+styryl quinoline
+sulfur mustard
+1,4-dimethanesulfonoxybut-2-yne
+nutrient regimen
+1,2-dichloroethane
+5-methyltryptophan
+imidazolinone
+herbicide regimen
+salt regimen
+ethylenimine
+hycanthon methanesulfonate
+quinhydrone
+chlorine nutrient regimen
+natural fertilizer regimen
+diepoxybutane
+nitrate regimen
+1,2-dibromoethane
+diepoxyoctane
+iron nutrient regimen
+ethyl nitrosourea
+phosphate fertilizer regimen
+peroxide regimen
+brassinosteroid
+DBMIB regimen
+natural gas
+p-N,N-di-(2-chloroethyl)amino-L-phenylalanine
+1,2:5,6-dibenzanthracene
+iodine
+vinyl carbamate
+methoxy diethylnitrosamine
+2-methoxyethanol
+Janus green B
+actinomycin D
+chemical fertilizer regimen
+CCP
+nitrogen mustard
+cadmium chloride
+ICR 170
+fungicide regimen
+fertilizer regimen
+p-N,N-di(2-chloroethyl)aminophenylvaleric acid
+1-amino-2-naphthol-4-sulfonic acid
+sodium bisulfite
+5-bromouridine
+ammonium nitrate regimen
+1-bromo-2-chloroethane
+chemical mutagen
+DCMU regimen
+hygromycin regimen
+colchicine
+gibberellic acid regimen
+7-bromomethyl 12 methyl benz or agr/anthracine
+bone meal regimen
+formaldehyde
+molybdenum nutrient regimen
+p-N,N-di-(2-chloroethyl)aminophenylbutyric acid
+ferrous sulfate regimen
+S-2-chloroethylcysteine
+methyl jasmonate
+mitomycin C
+fish meal regimen
+mineral nutrient regimen
+boron nutrient regimen
+sodium fluoride
+growth hormone regimen
+calcium nitrate regimen
+sulfate fertilizer regimen
+hesperidine
+1,6-dimethylsulfonoxy D-mannitol
+aminopterin
+micronutrient regimen
+2,5,-bisethylene-imine-1,4-benzoquinone
+hydrogen peroxide
+diethyl sulfate
+ethylene oxide
+oxygen regimen
+potassium nitrate regimen
+copper nutrient regimen
+jasmonic acid regimen
+pesticide regimen
+boric acid
+non-mineral nutrient regimen
+fungal elicitor
+methyl methanesulfonate
+seaweed extract regimen
+NPK fertilizer regimen
+ammonium sulfate regimen
+antibiotic regimen
+carbon nutrient regimen
+fagaronine
+DNA
+nitrosomethyl urea
+p-p&apos;-N,N-di(2-chloroethyl)aminophenoxyphenylalanine
+1-diethylaminoethylethylamino-4-methyl-thioxanthenone
+dimethyl sulfoxide
+nitrogen fertilizer regimen
+32-P
+genotype
+soil water content
+water environment
+cold water temperature regimen
+standing water
+water temperature regimen
+freezing water temperature regimen
+watering regimen
+flood water
+rainfall
+humidity regimen
+abiotic environment
+sub-tropical region
+137-Cs or ggr ray
+ecological environment
+organic matter content
+desert like region
+sandy soil
+deuteron irradiation
+60-Co or ggr ray
+altitute
+growth media
+radiation quality regimen
+warm/hot temperature regimen
+clay soil
+supersonic-treatment
+soil pH environment
+soil texture
+solid growth media
+soil environment
+ggr ray
+X-ray
+irrigated land region
+radiation regimen
+semiarid region
+clay content
+soil type
+Bevatron irradiation
+loam soil
+radio wave
+upland region
+cold temperature regimen
+sand content
+stratosphere exposure
+lowland region
+agr ray
+silt content
+arid region
+temperature environment
+loam content
+3-H
+tropical region
+exact
+genetic environment
+biotic environment
+sub-sahara region
+monocot weed plant neighbor
+obsolete environment term
+synonym
+genetic background
+plant environment ontology
+narrow
+facultative anaerobic environment
+monocot mixed crop neighbor
+nuclear genetic background
+broad

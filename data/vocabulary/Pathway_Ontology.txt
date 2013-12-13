@@ -1,0 +1,688 @@
+hormone signaling pathway
+altered peptide and protein hormone signaling pathway
+orexin/hypocretin signaling pathway through the orexin/hypocretin receptor 2
+tyrosine-derived hormone signaling pathway
+amine and amino acid-derived hormone signaling pathway
+altered orexin/hypocretin signaling pathway
+altered insulin signaling pathway
+leptin system pathway
+somatostatin signaling pathway
+adiponectin signaling pathway
+orexin/hypocretin signaling pathway
+melanocortin system pathway
+insulin-like growth factor signaling pathway
+altered glucagon signaling pathway
+altered insulin-like growth factor signaling pathway
+glucagon signaling pathway
+growth hormone signaling pathway
+altered melanocortin system pathway
+thyroid hormone signaling pathway
+altered leptin system pathway
+altered hormone signaling pathway
+ghrelin system pathway
+orexin/hypocretin signaling pathway through the orexin/hypocretin receptor 1
+endothelin signaling pathway
+altered adiponectin signaling pathway
+peptide and protein hormone signaling pathway
+Inhibitory synaptic transmission pathway
+Excitatory synaptic transmission pathway
+long term depression
+long term potentiation
+cholesterol biosynthetic pathway
+apelin signaling pathway
+neurotensin metabolic pathway
+beta-endorphin metabolic pathway
+substance P metabolic pathway
+sterol biosynthetic pathway
+indoleamine and related compounds neurotransmitter metabolic pathway
+serotonin metabolic pathway
+histamine metabolic pathway
+catecholamine neurotransmitter metabolic pathway
+norepinephrine metabolic pathway
+dopamine metabolic pathway
+epinephrine metabolic pathway
+inhibitory neurotransmitter metabolic pathway
+glycine metabolic pathway
+gamma-aminobutyric acid metabolic pathway
+excitatory neurotransmitter metabolic pathway
+aspartate metabolic pathway
+glutamate metabolic pathway
+neuropeptide Y metabolic pathway
+peptide neurotransmitter metabolic pathway
+enkephalin metabolic pathway
+alanine metabolic pathway
+amino acid neurotransmitter metabolic pathway
+primary amine neurotransmitter metabolic pathway
+acetylcholine metabolic pathway
+neddylation pathway
+ubiquitination pathway
+protein modification pathway via conjugation with ubiquitin and ubiqutin-like molecules
+sentrinization pathway
+protein modification pathway
+protein modification pathway in the secretory pathway
+killed term
+another killed term
+altered metabolic pathway of cofactors and vitamins
+altered molybdenum cofactor biosynthetic pathway
+protein sorting pathway
+diabetic retinopathy pathway
+molybdenum cofactor biosynthetic pathway
+altered stress-regulated MAPK signaling pathway
+altered c-Jun N-terminal kinase MAPK signaling pathway
+altered p38 MAPK signaling pathway
+altered mitogen activated protein kinase pathway
+altered Erk5 MAPK signaling pathway
+altered extracellular signal-regulated Raf/Mek/Erk signaling pathway
+altered surfactant homeostasis pathway
+surfactant homeostasis pathway
+heme catabolic pathway
+protein degradation pathway via the &apos;core&apos; 20S proteasome pathway
+proteasome degradation pathway involving cullin-dependent ubiquitin ligases
+ubiquitin, ubiquitin-like/proteasome degradation pathway
+altered ubiquitin, ubiquitin-like degradation pathway
+altered ubiquitin/proteasome degradation pathway
+ubiquitin/proteasome degradation pathway
+water transport pathway
+remethylation pathway of homocysteine metabolism - cobalamin independent, betaine dependent
+metabolic pathway pertinent to the brain
+neurotransmitter metabolic pathway
+altered amino acid metabolic pathway
+creatine metabolic pathway
+alt_id
+altered pathway pertinent to signaling in the brain
+altered dopamine signaling pathway
+altered Reelin signaling pathway
+Reelin signaling pathway
+altered mTOR signaling pathway
+dopamine signaling pathway
+altered small G proteins - the Ras superfamily mediated signaling pathway
+altered Ras mediated signaling pathway
+Vitamin B12 (cobalamin) metabolic pathway
+homocysteine metabolic pathway
+remethylation pathway of homocysteine metabolism - cobalamin dependent
+spermidine metabolic pathway
+altered canonical Wnt signaling pathway
+non-canonical Wnt signaling pathway
+the Wnt/calcium signaling pathway
+altered non-canonical Wnt signaling pathway
+the planar cell polarity Wnt signaling pathway
+altered Wnt/calcium signaling pathway
+altered planar cell polarity Wnt signaling pathway
+altered Wnt signaling pathway
+altered glucose homeostasis pathway
+altered glucagon secretion pathway
+altered insulin secretion pathway
+metal ion transport pathway
+iron transport pathway
+phosphatidylinositol 3-kinase signaling pathway
+altered phosphatidylinositol 3-kinase signaling pathway
+insulin signaling pathway
+arachidonic acid metabolic pathway
+cytochrome P450 monooxygenase mediated pathway of arachidonic acid metabolism
+cyclooxygenase mediated pathway of arachidonic acid metabolism
+lipoxygenase mediated pathway of arachidonic acid metabolism
+iron storage pathway
+narcolepsy disease pathway
+metal homeostasis pathway
+calcium homeostasis pathway
+altered calcium homeostasis pathway
+facilitative sugar transporter mediated glucose transport pathway
+insulin responsive facilitative sugar transporter mediated glucose transport pathway
+sodium-glucose cotransporter mediated glucose transport pathway
+hexosamine biosynthetic pathway
+glucose conversion pathway
+glucose storage pathway
+glycogen biosynthetic pathway
+altered glycogen biosynthetic pathway
+glucose oxidation pathway
+pyruvate metabolic pathway
+pentose phosphate pathway - oxidative phase
+glycolysis pathway
+glucose utilization pathway
+glucose transport pathway
+glucose homeostasis pathway
+insulin secretion pathway
+glucagon secretion pathway
+Staufen-mediated mRNA decay pathway
+altered mRNA decay pathway
+brassinosteroid biosynthetic pathway
+exosome mediated mRNA decay pathway
+mRNA decay pathways
+nonstop mRNA decay pathway
+nonsense-mediated mRNA decay pathway
+protein kinase A (PKA) signaling pathway
+adenosine monophosphate-activated protein kinase (AMPK) signaling pathway
+altered transport pathway
+translation initiation pathway
+translation elongation pathway
+translation termination pathway
+scatter factor/hepatocyte growth factor signaling pathway
+altered scatter factor/hepatocyte growth factor signaling pathway
+cytokine and chemokine mediated signaling pathway
+Interleukin-6 signaling pathway
+Interleukin signaling pathway via interleukin-10 family members
+Interleukin mediated signaling pathway
+Trail mediated signaling pathway
+Fas ligand mediated signaling pathway
+altered tumor necrosis factor superfamily mediated signaling pathway
+altered metabolic pathway of other amino acids
+transulfuration pathway of homocysteine metabolism
+synaptic vesicle exocytosis - neurotransmitter release pathway
+altered tumor necrosis factor mediated signaling pathway
+tumor necrosis factor superfamily mediated signaling pathway
+altered cytokine and chemokine mediated signaling pathway
+tumor necrosis factor mediated signaling pathway
+Interleukin-10 signaling pathway
+facilitative sugar transporter mediated transport pathway
+sugar transport pathway
+hexosamine metabolic pathway
+neurotrophic factor signaling pathway
+nerve growth factor signaling pathway
+brain-derived neurotrophic factor signaling pathway
+pentose phosphate pathway - non-oxidative phase
+arterial occlusive disease pathway
+Atherosclerosis pathway
+1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane degradation pathway
+mannose-binding lectin complement pathway
+alternative complement pathway
+complement system pathway
+classical complement pathway
+glycogen metabolic pathway
+phosphatidylinositol 3-kinase-Akt signaling pathway
+altered phosphatodylinositol 3-kinase-Akt signaling pathway
+iron homeostasis pathway
+altered glycogen metabolic pathway
+altered glycogen degradation pathway
+glycogen degradation pathway
+protein transport pathway
+nuclear protein import pathway
+constitutive secretory pathway
+regulated secretory pathway
+signaling pathway involving second messengers
+altered signaling pathways involving second messengers
+obesity disease pathway
+flavonoid biosynthetic pathway
+linoleic acid metabolic pathway
+2,4-dichlorobenzoate degradation pathway
+1,2-dichloroethane degradation pathway
+kallikrein-kinin system signaling pathway
+heparan sulfate biosynthetic pathway
+altered heparan sulfate pathway
+Ras mediated signaling pathway
+the extracellular signal-regulated Raf/Mek/Erk signaling pathway
+polyamine biosynthetic pathway II
+polyamine biosynthetic pathway I
+betaine biosynthetic pathway II
+betaine biosynthetic pathway I
+thioredoxin pathway
+glutathione metabolic pathway
+pyridine nucleotide biosynthetic pathway
+spermine metabolic pathway
+UDP-N-acetylgalactosamine biosynthetic pathway
+Jak-Stat signaling pathway
+altered Jak-Stat signaling pathway
+homologous recombination pathway of double-strand break repair
+canonical Wnt signaling pathway
+Notch signaling pathway
+altered Notch signaling pathway involving the main players
+altered Notch signaling pathway involving target gene(s)
+altered Notch signaling pathway
+altered Notch signaling pathway involving promoters
+altered Notch signaling pathway involving the macromolecules modifying the main players
+non-homologous end joining pathway of double-strand break repair
+transforming growth factor-beta signaling pathway
+altered transforming growth factor-beta signaling pathway
+transforming growth factor-beta Smad independent signaling pathway
+dentatorubral-pallidoluysian atrophy disease pathway
+type 2 diabetes mellitus pathway
+central obesity with hypertension
+SMAD dependent signaling pathways
+Interleukin signaling pathway via interleukin-6 family members
+amines and polyamines metabolic pathway
+UDP-N-acetylglucosamine biosynthetic pathway
+putrescine metabolic pathway
+citrulline degradation pathway
+N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminic acid dissimilation pathway
+tetracycline biosynthetic pathway
+clavulanic acid biosynthetic pathway
+polyketides biosynthetic pathway
+polyketide sugar biosynthetic pathway
+altered metabolic pathway
+altered glycosaminoglycan pathway
+altered galactose metabolic pathway
+altered carbohydrate metabolic pathway
+altered glycan metabolic pathway
+neuronal secretory pathway
+presynaptic differentiation
+postsynaptic differentiation
+puromycin biosynthetic pathway
+Gerstmann-Strussler syndrome, Gerstmann-Strussler-Scheinker syndrome
+Creutzfeldt-Jakob disease
+altered signaling pathway
+altered cell-cell signaling pathway
+altered cell adhesion signaling pathway
+altered vascular endothelial growth factor signaling pathway involving proteins affecting its expression
+altered bone morphogenetic protein signaling pathway
+altered growth factor signaling pathway
+altered calcineurin signaling pathway
+altered integrin signaling pathway
+altered signaling pathway pertinent to development
+altered vascular endothelial growth factor signaling pathway involving the macromolecules modifying the main players
+altered vascular endothelial growth factor signaling pathway
+altered ephrin - ephrin receptor bidirectional signaling pathway
+altered transforming growth factor-beta superfamily mediated signaling pathway
+altered glycoconjugated protein signaling pathway
+altered glycoprotein signaling pathway
+altered vascular endothelial growth factor signaling pathway involving the main players
+altered calcium/calmodulin dependent pathway
+altered cell-extracellular matrix signaling pathway
+altered regulatory pathway
+altered DNA base repair pathway
+altered pathway of replication, gene expression and protein biosynthesis
+NAD biosynthetic pathway
+heme biosynthetic pathway
+metabolic pathway of prosthetic groups, electron carriers and reductants
+altered DNA repair pathway
+altered oxygen homeostasis pathway
+altered mismatch repair pathway
+altered intrinsic apoptotic pathway
+altered protein degradation pathway
+altered apoptotic cell death
+altered homeostasis pathway
+altered extrinsic apoptotic pathway
+altered pathway of protein folding, sorting, modification and degradation
+altered energy homeostasis pathway
+altered DNA break repair pathway
+altered cell death pathway
+Rheb mediated signaling pathway
+steroid biosynthetic pathway
+bile acid biosynthetic pathway
+androgen and estrogen metabolic pathway
+C21-Steroid hormone metabolic pathway
+lipopolysaccharide biosynthetic pathway
+diterpenoid biosynthetic pathway
+peptidoglycan biosynthetic pathway
+indole and ipecac alkaloid biosynthetic pathway
+monoterpenoid biosynthetic pathway
+beta-Lactam resistance pathway
+penicillins and cephalosporins biosynthetic pathway
+type 1 diabetes mellitus pathway
+stress response pathway
+oxidative stress response pathways
+multispecific organic anion transporter mediated transport pathway
+multidrug resistance-associated protein mediated transport pathway
+alternate pathways of glutathione conjugates processing
+glutathione conjugation pathway
+multidrug resistance protein mediated transport pathway
+glutathione conjugates processing - the mercapturic acid pathway
+endoplasmic reticulum stress  - the unfolded protein response pathway
+transport pathway for the elimination of drugs, endogenous or exogenous compounds and metabolites
+the ARE-Nrf mediated pathway of drug-metabolizing enzyme expression
+innate immune response pathway
+inflammatory response pathway
+adaptive immune response pathway
+vascular endothelial growth factor signaling pathway
+necrosis pathway
+autophagy pathway
+senescence pathway
+cell death pathway
+intrinsic apoptotic pathway
+extrinsic apoptotic pathway
+apoptotic cell death pathway
+kuru
+fatal familial insomnia
+benzoate degradation pathway
+benzoate degradation pathway via hydroxylation
+benzoate degradation pathway via CoA ligation
+myocardial infarction
+hypertrophic cardimyopathy
+narrow
+lipid metabolic pathway
+fatty acid metabolic pathway
+ketone bodies metabolic pathway
+fatty acid biosynthetic pathway
+fatty acid degradation pathway
+amino acid metabolic pathway
+serine/threonine-specific phophatase mediated signaling pathway
+glypican signaling pathway
+Erk5 MAPK signaling pathway
+mitogen activated protein kinase signaling pathway
+G protein mediated signaling pathway
+carbohydrate metabolic pathway
+glyoxylate and dicarboxylate metabolic pathway
+glycolysis/gluconeogenesis pathway
+ascorbate and aldarate metabolic pathway
+citrate cycle pathway
+C5-branched dibasic acid metabolic pathway
+propanoate metabolic pathway
+inositol metabolic pathway
+fructose and mannose metabolic pathway
+galactose metabolic pathway
+pentose phosphate pathway
+nucleotide sugar metabolic pathway
+butanoate metabolic pathway
+gluconeogenesis pathway
+Pathway Ontology
+biphenyl degradation pathway
+reductive carboxylate cycle - CO2 fixation pathway
+nitrogen metabolic pathway
+fluorene degradation pathway
+bipolar disorder pathway
+schizophrenia pathway
+neuropsychiatric disease pathway
+Rap1 pathways
+diabetic nephropathy pathway
+neurological disorder disease pathway
+tuberous sclerosis complex disease pathway
+familial combined hyperlipidemia
+diabetes pathway
+spinocerebellar ataxia
+spinobulbar muscular atrophy
+metabolic syndrome
+disease pathways related to polyQ repeats
+Huntington disease pathway
+epidermal growth factor/neuregulin signaling pathway
+growth factor signaling pathway
+fibroblast growth factor signaling pathway
+Bone morphogenetic proteins signaling pathway
+histidine metabolic pathway
+phenylalanine, tyrosine and tryptophan biosynthetic pathway
+tyrosine metabolic pathway
+tryptophan metabolic pathway
+lysine degradation pathway
+valine, leucine and isoleucine degradation pathway
+alanine and aspartate metabolic pathway
+pathway of urea cycle and metabolism of amino groups
+valine, leucine and isoleucine biosynthetic pathway
+methionine cycle/metabolic pathway
+lysine biosynthetic pathway
+glycine, serine and threonine metabolic pathway
+cysteine metabolic pathway
+phenylalanine metabolic pathway
+arginine and proline metabolic pathway
+nucleotide metabolic pathway
+pyrimidine metabolic pathway
+purine metabolic pathway
+disease pathway
+liver cancer pathway
+Alzheimer disease pathway
+cancer pathway
+bone cancer pathway
+atrazine degradation pathway
+D-alanine metabolic pathway
+carbazole degradation pathway
+carbon fixation pathway
+sulfur metabolic pathway
+thiamine metabolic pathway
+classic metabolic pathway
+selenoamino acid metabolic pathway
+retinol metabolic pathway
+beta-alanine metabolic pathway
+3-chloroacrylic acid degradation pathway
+oxidative phosphorylation pathway
+D-arginine and D-ornithine metabolic pathway
+styrene degradation pathway
+cyanoamino acid metabolic pathway
+metabolic pathway of cofactors and vitamins
+Vitamin B6 metabolic pathway
+energy metabolic pathway
+riboflavin metabolic pathway
+ethylbenzene degradation pathway
+toluene and xylene degradation pathway
+biotin metabolic pathway
+metabolic pathway of other amino acids
+methane metabolic pathway
+nitrobenzene degradation pathway
+activin signaling pathway
+platelet-derived growth factor signaling pathway
+transforming growth factor -beta superfamily mediated signaling pathway
+streptomycin biosynthetic pathway
+erythromycin biosynthetic pathway
+pentose and glucuronate interconversion pathway
+folate mediated one-carbon metabolic pathway
+lysosomes based pathway of protein degradation
+the proteolytic pathway involving calcium-dependent proteases
+terpenoid biosynthetic pathway
+limonene and pinene degradation pathway
+mTOR signaling pathway
+pathways of protein folding, sorting, modification, translocation and degradation
+protein disulphide bond pathway
+endocytic pathway
+Endoplasmic Reticulum-associated degradation pathway
+secretory pathway
+protein degradation pathway
+exocytic pathway
+prostate cancer pathway
+cardiovascular disease pathway
+hypertension
+gastric cancer pathway
+gastrointestinal cancer pathway
+prion diseases pathway
+urogenital cancer pathway
+amyotrophic lateral sclerosis disease pathway
+colorectal cancer pathway
+head and neck cancer pathway
+breast cancer pathway
+cardiomyopathy
+bladder cancer pathway
+cervical cancer pathway
+intestinal cancer pathway
+skin cancer pathway
+neurodegenerative disease pathway
+Parkinson disease pathway
+ubiquinone biosynthetic pathway
+gamma-hexachlorocyclohexane degradation pathway
+pathway of folate cycle/metabolism
+ATP synthetic pathway
+caprolactam degradation pathway
+D-glutamine and D-glutamate metabolic pathway
+xenobiotics biodegradation pathway
+photosynthesis pathway
+tetrachloroethene degradation pathway
+term zero
+exact
+Metabolism of complex carbohydrates
+Duplicated glutathione metabolism term
+Duplicated term - Selenoamino acid metabolism
+Duplicated Selenoamino acid metabolism term
+Sterol, vitamin K, vitamine E and cartenoids  biosynthesis
+Duplicated Glutamate Metabolism term
+The Erk5 MAP kinase signalng pathway
+&lt;new term&gt;
+synonym
+protein folding pathway
+starch and sucrose metabolic pathway
+aminosugars metabolic pathway
+stilbene, coumarine and lignin biosynthetic pathway
+phospholipid metabolic pathway
+glycerophospholipid metabolic pathway
+glycerolipid metabolic pathway
+inositol phosphate metabolic pathway
+alkaloid biosynthetic pathway II
+alkaloid biosynthetic pathway I
+metabolic pathway of secondary metabolites
+novobiocin biosynthetic pathway
+glycan metabolic pathway
+N-Glycans biosynthetic pathway
+O-Glycans biosynthetic pathway
+chondroitin sulfate biosynthetic pathway
+N-Glycan degradation pathway
+glycosylphosphatidylinositol anchor biosynthetic pathway
+glycosaminoglycan metabolic pathway
+keratan sulfate biosynthetic pathway
+Ran family mediated signaling pathway
+glycosphingolipid biosynthetic pathway - lactoseries
+glycosphingolipid biosynthetic pathway - neolactoseries
+ganglioside biosynthetic pathway
+taurine and hypotaurine metabolic pathway
+endometrial cancer pathway
+ovarian cancer pathway
+pancreatic cancer pathway
+digestive system cancer pathway
+regulatory pathway
+DNA base repair pathway
+aging pathway
+RNA Polymerase III transcription pathway
+translation pathway
+mismatch repair pathway
+S phase pathway
+transcription pathway
+cellular detoxification pathway
+forkhead signaling pathway
+G2 phase pathway
+RNA Polymerase II transcription pathway
+cell cycle checkpoint pathway
+nucleotide excision repair pathway
+mitotic spindle checkpoint pathway
+DNA repair pathway
+G1/S DNA damage checkpoint pathway
+cell cycle pathway, mitotic
+base excision repair pathway
+immune response pathway
+RNA Polymerase I transcription pathway
+transport pathway
+pathways of replication, gene expression, protein biosynthesis
+nicotinate and nicotinamide metabolic pathway
+pantothenate and CoA biosynthetic pathway
+Ras family mediated signaling pathway
+Rap1 mediated signaling pathway
+Rab family mediated signaling pathway
+porphyrin and chlorophyll metabolic pathway
+globoside metabolic pathway
+p38 MAPK signaling pathway
+glycosphingolipid metabolic pathway
+nuclear factor of activated T-cells signaling pathway
+calcium/calmodulin dependent kinases pathway
+calcineurin signaling pathway
+calcium/calmodulin dependent signaling pathway
+c-Jun N-terminal kinases MAPK signaling pathway
+stress-regulated MAPK signaling pathway
+fibrinoid necrosis pathway
+p53-independent G1/S DNA damage checkpoint pathway
+coagulative necrosis pathway
+renal failure
+renal disease, renal disorder pathway
+glomerulonephritis
+p53-dependent G1/S DNA damage checkpoint pathway
+caseous necrosis pathway
+liquefactive necrosis pathway
+G1/S transition pathway
+DNA break repair pathway
+G2/M checkpoint pathway
+G1 phase pathway
+M/G1 transition pathway
+G2/M transition pathway
+M phase pathway
+DNA replication pathway
+signaling pathway
+proteoglycan signaling pathway
+glycoprotein signaling pathway
+signaling pathway pertinent to the brain
+cell-extracellular matrix signaling pathway
+signaling pathway pertinent to development
+Rho/Rac/Cdc42 mediated signaling pathway
+tyrosine-specific phosphatase mediated signaling pathway
+Ras superfamily mediated signaling pathway
+glycoconjugated protein signaling pathway
+Wnt signaling pathway
+syndecan signaling pathway
+cell adhesion signaling pathway
+phosphatase mediated signaling pathway
+fatty necrosis pathway
+connexins signaling pathway
+altered connexins mediated signaling pathway
+cadherins signaling pathway
+altered cadherins mediated signaling pathway
+selectin signaling pathway
+ephrin - ephrin receptor bidirectional signaling axis
+cell-cell signaling pathway
+integrin signaling pathway
+energy homeostasis pathway
+homeostasis pathway
+the acute hypoxic response - the ion channels pathway
+oxygen homeostasis pathway
+the chronic hypoxic response - the hypoxia inducible factor - alpha pathway
+congenital heart defects
+Alagille syndrome
+cerebrovascular disease pathway
+cerebral arterial diseases
+CADASIL
+cardiovascular abnormalities
+Arf family mediated signaling pathway
+G2/M DNA replication checkpoint pathway
+G2/M DNA damage checkpoint pathway
+Non-Stat, Jak dependent pathway
+the XRE-AhR mediated pathway of drug-metabolizing enzyme expression
+cytochrome P450-independent bioactivation pathway
+bioactivation pathway via cytochrome P450
+neuron-to-neuron signaling pathways
+neuron-to-neuron signaling pathway via the electrical synapse
+synaptic vesicle endocytosis and recycling pathway
+neuron-to-neuron signaling pathway via the chemical synapse
+non-apoptotic cell death pathway
+broad
+reverse cholesterol transport pathway
+related
+altered reverse cholesterol transport pathway
+is_a
+develops_from
+part_of
+nuclear factor kappa B signaling pathway
+altered nuclear factor kappa B signaling pathway
+vasopressin signaling pathway
+G protein mediated signaling pathway via Galphaq family
+G protein mediated signaling pathway via Galphas family
+transforming growth factor-beta Smad dependent signaling pathway
+altered transforming growth factor-beta Smad dependent signaling pathway
+corticotropin-releasing hormone signaling pathway
+renin-angiotensin system signaling pathway
+Angiotensin II signaling pathway through the AT1 receptor
+G protein mediated signaling pathway via Galphai family
+Angiotensin II signaling pathway through the AT2 receptor
+G protein mediated signaling pathway via Galpha12/Galpha13 family
+Angiotensin III signaling pathway through the AT2 receptor
+angiotensin III signaling pathway
+angiotensin signaling pathway
+angiotensin IV signaling pathway
+angiotensin (1-7) signaling pathway
+Angiotensin III signaling pathway through the AT1 receptor
+Angiotensin II signaling pathway
+Gas6 - Axl signaling axis
+oxytocin signaling pathway
+endogenous pathway
+exogenous pathway
+major histocompatibility complex class II antigen presentation pathway
+antigen processing pathway
+angiopoietin signaling pathway
+major histocompatibility complex class I antigen presentation pathway
+eicosanoids metabolic pathway
+leukotriene metabolic pathway
+prostaglandin metabolic pathway
+altered lipoprotein metabolic pathway
+altered lipid metabolic pathway
+lipoprotein metabolic pathway
+fibrinolytic cascade pathway
+protein C anticoagulant pathway
+tissue factor pathway inhibitor
+heparin-antithrombin pathway
+cardiovascular system homeostasis pathway
+natural anticoagulant pathway
+hematopoiesis pathway
+Hedgehog signaling pathway
+hemostasis pathway
+altered Hedgehog signaling pathway
+coagulation cascade pathway
+platelet aggregation pathway
+C-type natriuretic peptide signaling pathway
+brain natriuretic peptide signaling pathway
+atrial natriuretic peptide signaling pathway
+natriuretic peptide signaling pathway
+lipid hormone signaling pathway
+eicosanoids signaling pathway
+aldosterone signaling pathway
+sex steroids signaling pathway
+steroid hormone signaling pathway
+androgen signaling pathway
+estrogen signaling pathway
+cortisol signaling pathway
+corticosteroid signaling pathway

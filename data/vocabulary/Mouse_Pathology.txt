@@ -1,0 +1,468 @@
+fibroblast proliferation
+complete parenchymal regeneration
+extracellular matrix deposition
+parenchymal regeneration
+sclerosis
+fibrin deposition
+granulation tissue
+connective tissue replacement
+gliosis
+ventricular hypoplasia
+classical seminoma
+chronic inflammation
+embolus
+air embolism
+fat embolism
+atrial embolism
+amniotic fluid embolism
+skin embolism
+bone marrow embolism
+systemic embolism
+pulmonary embolism
+glycogen cell defect
+lipoma
+liposarcoma
+fat cell hyperplasia
+thyroid C-cell carcinoma
+atrophy
+plasma cell lymphoma
+fibroepithelial polyp
+glandular tumor
+pineoblastoma
+intraductal papillary carcinoma
+intraductal carcinoma
+mucinous cystadenoma
+adenocarcinoma in situ
+bronchioloalveolar carcinoma
+follicular adenocarcinoma
+pituicytoma
+lobular carcinoma
+clear cell adenocarcinoma
+cystadenocarcinoma
+thyroid C-cell adenoma
+pineocytoma
+medullary carcinoma
+pinealoma
+papillary adenocarcinoma
+myoepithelioma
+papillary cystadenoma
+intraductal papillomatosis
+pseudomyxoma peritonei
+papillary adenoma
+lobular carcinoma in situ
+adenocarcinoma
+adenomatous polyposis coli
+infiltrating duct carcinoma
+islet cell adenoma
+comedocarcinoma
+cystadenoma
+serous cystadenoma
+harderian gland adenoma
+adenoma
+mucinous cystadenocarcinoma
+signet ring cell carcinoma
+islet cell carcinoma
+harderian gland carcinoma
+serous adenocarcinoma
+intraductal papilloma
+bronchioloalveolar adenoma
+uric acid deposition
+choroid plexus carcinoma
+related
+apoptosis
+mesodermal mixed tumor
+transitional cell papilloma
+melanocytic tumor
+melanoma
+naevus
+melanoma in situ
+septation defect
+pseudoepithelioma/pseudocarcinoma
+cystic media necrosis
+immunodeficiency associated infection
+endodermal sinus tumor
+hemangioma
+immunoblastic lymphoma
+angiofibroma
+gynandroblastoma
+ganglioneuroma
+fistula
+squamous hyperplasia
+hypergranulosis
+actinic keratosis
+orthokeratosis
+basal cell hyperplasia
+acanthosis
+parakeratosis
+seborrheic keratosis
+hyperkeratosis
+alveolar soft part sarcoma
+sertoli-leydig cell tumor
+neurofibromatosis
+acquired immunodeficiency
+hemorrhagic necrosis
+circulation disorder
+disseminated intravascular coagulation
+thrombosis
+congestion
+infarction
+edema
+fluid accumulation
+normal
+verrucous carcinoma
+lipid deposition
+leiomyosarcoma
+ceruminous adenoma
+glioma
+germ cell defect
+lipid depletion
+cholangiocarcinoma
+vasculitis
+curvature defect
+secondary immunodeficiency disease
+failed transfer of maternal immunoglobulin
+mesonephroma
+mesonephric tumor
+carotid body tumor
+myositis
+hamartoma/choristoma
+small cell carcinoma
+eccrine papillary adenoma
+lymphangiomyomatosis
+osteochondroma
+glycogen deposition
+keratoacanthoma
+general developmental defect
+displacement and deformity
+incomplete closure
+dilatation
+ectopia
+developmental dysplasia
+supernumerary structure
+branching morphogenesis defect
+communication defect
+diverticulum
+homoeotic change
+agenesis
+persistent embryonic structure
+developmental hypoplasia
+growth arrest
+transdifferentiation
+growth acceleration
+hernia
+fusion defect
+heterotopia
+obstruction and stenosis
+cyst
+depletion
+aplasia
+malposition
+perforation
+medulloblastoma
+teratoma
+soft tissue tumor
+leiomyoma
+synovial-like tumor
+fibrous histiocytoma
+myxosarcoma
+histiocytic sarcoma
+angiomyxoma
+giant cell tumor of soft tissue
+schwannoma
+lymphangioma
+lymphangiosarcoma
+rhabdomyosarcoma
+myxomatous tumor
+neurofibroma
+neurilemmoma
+neurofibrosarcoma
+soft tissue fibroma
+chordoma
+lymphatic vessel tumor
+nerve sheath tumor
+granular cell tumor/alveolar sarcoma
+myomatous tumor
+granular cell tumor
+dermatofibrosarcoma
+myoblastoma
+angiomyolipoma
+synovioma
+intravascular leiomyomatosis
+synovial sarcoma
+lipomatous tumor
+alopecia
+immunopathology
+primary immunodeficiency disease
+type I hypersensitivity
+immune mediated hemolytic anaemia
+immunodeficiency - myeloid/phagocytic defect
+dermatitis
+immune mediated disease
+chronic/recurrent inflammatory disease
+immunodeficiency disease
+hypersensitivity disease
+general immunodeficiency disease
+glomerulonephritis
+type II hypersensitivity
+immune mediated thrombocytopenia
+immunodeficiency - lymphoid defect
+type III hypersensitivity
+arthritis
+plasma membrane defect
+neuroendocrine tumor
+endocrine adenocarcinoma
+endocrine adenoma
+primitive neurectodermal tumor
+tumorlet
+carcinoid tumor
+goblet cell metaplasia
+squamous metaplasia
+inflammatory polyp
+fibrinoid necrosis
+paragangliomas and glomus tumor
+paraganglioma
+glomus tumor
+glomus jugulare tumor
+aortic body tumor
+ceruminous adenocarcinoma
+neoplasia
+mixed germ cell tumor
+astrocytoma
+craniopharyngioma
+esthesioneuroblastoma
+mesothelial tumor
+squamous cell carcinoma
+rhabdoid sarcoma
+choroid plexus papilloma
+androblastoma
+adenoma
+sebaceous adenoma
+basal cell tumor
+central nervous system tumor
+lymphoma
+leydig cell tumor
+follicle center cell lymphoma
+osteoma
+thecoma
+ovarian stromal tumor
+chondroblastoma
+embryonal carcinoma
+gonadal somatic cell tumor
+carcinosarcoma
+sub-ependymoma
+thymic lymphoma
+eccrine gland adenocarcinoma
+hemangioendothelioma
+blood vessel tumor
+osteosarcoma
+ependymoma benign
+adnexal and skin appendage tumor
+gonadal tumor
+luteal cell tumor
+cholangiofibroma
+dermoid cyst
+complex or mixed tumor
+transitional cell carcinoma
+clear cell hidradenoma
+adenoacanthoma
+hydatidiform mole
+papilloma
+gonadoblastoma
+thymoma
+transitional cell tumor
+nephroblastoma
+hepatic tumor
+germ cell tumor
+hepatoblastoma
+retinoblastoma
+osseous and chondromatous tumor
+teratocarcinoma
+granulosa cell tumor
+choriocarcinoma
+osteofibroma
+apocrine adenocarcinoma
+dysgerminoma
+hepatocellular carcinoma
+adenofibroma
+fibroadenoma
+hemangioblastoma
+chondrosarcoma
+squamous cell tumor
+neuroepitheliomatous tumor
+apocrine adenoma
+squamous cell papilloma
+mesothelioma
+fibroepithelial tumor
+meningioma
+inverted papilloma
+oligodendroglioma
+osteoblastoma
+small lymphocytic lymphoma
+fibrothecoma
+hemangiopericytoma
+sex cord tumor
+angiokeratoma
+syringoma
+hematopoietic/lymphoid malignancies/disorder
+struma ovarii
+chondromatosis
+transitional cell carcinoma in situ
+placental site trophoblastic tumor
+mullerian mixed tumor
+sebaceous adenocarcinoma
+spermatocytic seminoma
+mucoepidermoid carcinoma
+hemangiosarcoma
+seminoma
+papillary hidradenoma
+trophoblastic tumor
+sertoli cell adenoma
+squamous cell carcinoma in situ
+ependymoma malignant
+eccrine gland adenoma
+basal cell carcinoma
+chondroblastoma, malignant
+neuroblastoma
+phaeochromocytoma
+pulmonary blastoma
+subcellular defect
+cytoskeletal defect
+golgi defect
+lysosomal defect
+peroxisomal defect
+mitochondrial defect
+endoplasmic reticulum defect
+severe epithelial dysplasia
+coagulation necrosis
+epithelial metaplasia
+nephrogenic metaplasia
+lipomatous metaplasia
+apocrine metaplasia
+gastric metaplasia
+intestinal metaplasia
+transitional cell metaplasia
+oncocytic metaplasia
+glandular metaplasia
+ventricular hyperplasia
+necrosis
+bridging necrosis
+piecemeal necrosis
+fat necrosis
+gangrene
+caseous necrosis
+liquefactive necrosis
+histiocytosis
+labyrinth zone defect
+emphysema
+acute inflammation
+hypoplasia
+dysplasia
+moderate epithelial dysplasia
+epithelial dysplasia
+mild epithelial dysplasia
+alt_id
+organ specific developmental defect
+dissecting aneurysm
+valve defect
+nephroblastomatosis
+cardiac defect
+varices
+cardiovascular developmental defect
+lymphangiectasis
+placental abnormality
+arteriovenous anastomosis
+placental vascular defect
+cardiac septation defect
+spongiotrophoblast defect
+aneurysm
+lipofuscin deposition
+pathology_ontology
+tissue specific degenerative process
+bile deposition
+ceroid deposition
+atherosclerosis
+ulcerative inflammation
+fibroglandular hyperplasia
+intraductal hyperplasia
+arthrosis
+intracellular and extracellular accumulation
+cartilaginous metaplasia
+osteoporosis
+amyloid deposition
+cataract
+inflammation
+mesothelial hyperplasia
+glycogen depletion
+osseous metaplasia
+cell and tissue damage
+degenerative change
+copper deposition
+metaplasia
+calcium deposition
+myeloid metaplasia
+hyalinosis
+granulomatous inflammation
+cell death
+lymphoid hyperplasia
+growth and differentiation defect
+microglandular hyperplasia
+developmental and structural abnormality
+necrotic inflammation
+hyperplasia
+epithelial hyperplasia
+myxoid/myxomatous degeneration
+iron deposition
+osteopenia
+melanin deposition
+hypertrophy
+hypocalcification
+myoepithelial hyperplasia
+protein deposition
+glaucoma
+demyelination
+goblet cell hyperplasia
+intracellular and extracellular depletion
+epithelial and stromal hyperplasia
+general degenerative change
+decalcification
+hyperplastic polyp
+synonym
+exact
+narrow
+broad
+mast cell tumor
+mastocytoma
+part_of
+is_a
+develops_from
+papillary cystadenocarcinoma
+hemorrhage and non-specified extravasation
+ecchymosis
+petechia
+hematoma
+purpura
+type IV hypersensitivity
+myxoma
+soft tissue fibrosarcoma
+trichoepithelioma
+leukaemia
+myeloid leukaemia
+myelodysplastic disorder
+erythroid leukaemia
+granulocytic leukaemia
+lymphatic leukaemia
+megakaryocytic leukaemia
+odontogenic tumor
+odontoma
+cementoblastoma
+cementifying fibroma
+odontogenic tumor
+dentinoma
+cementoma
+ameloblastoma
+ameloblastic fibroma
+follicular adenoma
+healing and repair
+angiogenesis
+fibrosis
+incomplete parenchymal regeneration

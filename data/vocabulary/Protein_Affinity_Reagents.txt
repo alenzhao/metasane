@@ -1,0 +1,764 @@
+experimental feature
+alexa 488 label
+is_a
+zz tag
+develops_from
+vp16 activation domain
+calmodulin binding protein tag
+13c label
+horseradish peroxidase tag
+dye label
+32p radiolabel
+myc tag
+biotin tag
+part_of
+transactivating tag
+35s radiolabel
+enzyme tag
+fusion protein
+dna binding domain tag
+b42 activation domain
+red fluorescent protein tag
+flag tag
+fluorescent protein tag
+5 prime overhang
+dansyl tag
+cyan fluorescent protein tag
+alexa 546 label
+protein genbank identifier
+pubchem
+ipfam
+tigrfams
+source database
+rfam
+entrez gene/locuslink
+sequence database
+ddbj/embl/genbank
+huge
+uniparc
+genbank indentifier
+pride
+3d repertoire
+interpro
+panther
+pubmed
+biosapiens annotations cv
+international protein index
+mgd/mgi
+participant database
+pfam
+gpm
+literature database
+prosite
+flybase
+psi-mi
+encode
+uniprot knowledge base
+scop superfamily
+gene3d
+refseq
+sequence ontology
+ncbi taxonomy
+ensembl
+prodom
+cabri
+omim
+tissue list
+feature database
+newt
+peptide atlas
+rgd
+wormbase
+cell ontology
+brenda
+sgd
+prints
+peptide sequence database
+resid
+PSI-PAR
+pirsf
+EM supershift assay
+expression distribution analysis
+solution phase peptide synthesis
+starting material
+anti tag western blot
+interaction type
+phosphorylation reaction
+deglycosylation reaction
+deformylation reaction
+acetylation reaction
+farnesylation reaction
+disulfide bond
+amidation reaction
+direct interaction
+cleavage reaction
+gtpase reaction
+formylation reaction
+sumoylation reaction
+phosphotransfer reaction
+myristoylation reaction
+transglutamination reaction
+deubiquitination reaction
+hydroxylation reaction
+protein cleavage
+geranylgeranylation reaction
+demethylation reaction
+lipid cleavage
+colocalization
+demyristoylation reaction
+mrna cleavage
+defarnesylation reaction
+deacetylation reaction
+palmitoylation reaction
+adp ribosylation reaction
+dna cleavage
+lipid addition
+dna strand elongation
+nucleoside triphosphatase reaction
+neddylation reaction
+depalmitoylation reaction
+desumoylation reaction
+enzymatic reaction
+dephosphorylation reaction
+glycosylation reaction
+atpase reaction
+physical interaction
+covalent binding
+methylation reaction
+ubiquitination reaction
+deneddylation reaction
+degeranylation reaction
+readout
+normalised readout
+single chain fv
+predetermined participant
+multidimensional protein identification technology
+molecular weight estimation by silver staining
+molecular weight estimation by autoradiography
+molecular weight estimation by bromide staining
+molecular weight estimation by hoechst staining
+tag visualisation by fluorescence
+molecular weight estimation by staining
+molecular weight estimation by coomasie staining
+molecular weight estimation by sybr staining
+confirmation by molecular weight
+tag visualisation
+prey
+author submitted
+molecule library
+secondary reagent
+immunologic adjuvant
+secondary protein affinity reagent
+comigration in non denaturing gel electrophoresis
+blue native page
+comment
+filter binding
+smiles string
+feature detection method
+polyclonal antibody western blot
+experimental feature detection
+predetermined feature
+feature prediction
+monoclonal antibody western blot
+insertion analysis
+alanine scanning
+western blot
+mass detection of residue modification
+protein footprinting
+deletion analysis
+mobility shift
+protein staining
+mutation analysis
+substitution analysis
+electrophoretic mobility shift assay
+screening rounds
+km
+molecular state
+denatured
+partially purified
+purity state
+refolded
+folded
+folding state
+aggregation state
+unfolded
+homogeneous
+native/denatured state
+native
+aggregated
+non-aggregated
+equilibrium assay
+method reference
+chromatography technology
+pull down
+ion exchange chromatography
+reverse phase chromatography
+molecular sieving
+affinity chromatography technology
+price
+chemical synthesis
+solid phase peptide synthesis (spps)
+peptide synthesis
+fmoc-spps
+boc-spps
+isothermal titration calorimetry
+feature attribute name
+feature description
+resulting ptm
+composite interactor
+serum
+cell lysate
+virus
+complex biological mixture
+growth medium
+synovial fluid
+antibody-producing hybridoma
+leucine-rich repeat
+purity
+experimental control
+negative control
+positive control
+proteolytic digestion
+neutral component
+experimental material attribute
+expression vector sequence
+cDNA expression material attribute
+in vitro expression system
+tissue
+microarray
+molecule library attribute
+culture medium
+expression vector
+microarray support
+expression construct sequence
+hybridoma
+expression vector map
+insert position
+arraying method
+molecule library source
+microarray attribute
+tissue culture
+molecule library size
+mole per second
+biophysical
+surface plasmon resonance
+dynamic light scattering
+x ray scattering
+immunohisto/cytofluorescence
+immunoluminescent assay
+classical fluorescence spectroscopy
+scintillation proximity assay
+light scattering
+fluorescence-activated cell sorting
+homogeneous time resolved fluorescence
+electron nuclear double resonance
+yeast display
+x ray crystallography
+circular dichroism
+bacterial display
+fluorescence polarization spectroscopy
+electron paramagnetic resonance
+x ray fiber diffraction
+intermolecular force
+bioluminescence resonance energy transfer
+fluorescence quenching
+static light scattering
+fluorescent immunoassay
+bimolecular fluorescence complementation
+fluorescence technology
+electron resonance
+mass spectrometry studies of complexes
+electron microscopy
+fluorescence microscopy
+rt-pcr
+atomic force microscopy
+unknown method
+electron tomography
+transmission electron microscopy
+imaging techniques
+x ray tomography
+ribonucleic acid
+small nucleolar rna
+small nuclear rna
+small interfering rna
+heterogeneous nuclear rna
+transfer rna
+messenger rna
+ss rna
+guide rna
+ribosomal rna
+alt_id
+gene ontology term for cellular function
+Fab
+nuclear magnetic resonance
+electrochemiluminescence
+fluorescence intensity distribution analysis [fida]
+fluorescent resonance energy transfer
+fluorescence correlation spectroscopy
+kinase scintillation proximity assay
+x ray powder diffraction
+catalytic rna
+multiple parent reference
+electrophoresis
+agarose gel electrophoresis
+comigration in sds page
+comigration in gel electrophoresis
+contact comment
+detection limit
+BisScFv
+undetermined sequence position
+Kd
+kcat
+alias type
+isoform synonym
+ordered locus name
+gene ontology synonym
+preceding interaction
+interaction attribute name
+criterion
+raw data
+figure legend
+results comment
+secondary accession number
+continuous cell subcloning
+ankyrin repeat
+gene ontology term for cellular component
+zinc finger
+biosapiens annotations term for secondary structure
+protein affinity reagent
+lipocalin
+maxam-gilbert  dna sequencing
+narrow
+binding site determination
+armadillo repeat
+gene product
+cell subcloning  by limited dilution
+parameter type
+solubility
+temperature of interaction
+molecular weight
+ic50
+ka
+volume
+HPLC retention time
+kd
+gene name synonym
+author assigned name
+open reading frame name
+gene name
+complex synonym
+identical object
+identification by antibody
+immunostaining
+polyclonal antibody immunostaining
+eia enzyme immunoassay
+anti tag immunostaining
+enzyme chemiluminescence (ecl)
+emit enzyme multiplied immunoassay technique
+elisa double sandwich assay
+enzyme linked immunosorbent assay
+elisa indirect
+elisa sandwich assay
+proximity enzyme linked immunosorbent assay
+molecular weight determination
+deoxyribonucleic acid
+aptamer
+double stranded deoxyribonucleic acid
+single stranded deoxyribonucleic acid
+experiment modification
+bait
+biochemical
+protein array
+time of exposure
+ec50
+production yield
+publication year
+mass spectrometry
+de novo protein sequencing by mass spectrometry
+biosapiens annotations term
+nucleic acid
+nucleic acid fragment
+cross-reference type
+originally assigned identifier
+see-also
+cv term
+author identifier
+translocation end
+gene ontology term
+gene ontology term for cellular process
+translocation
+imex primary
+source reference
+PSI-PAR term for experimental scope
+parent gene
+translocation start
+protocol reference
+Fv
+antibody
+tetrabody
+triabody
+antibody fragment
+minibody
+intact antibody
+Fab3
+phage display
+cosedimentation through density gradient
+dna footprinting
+cosedimentation
+peptide array
+saturation binding
+display technology
+cell-display
+systematic evolution of ligands by exponential enrichment
+mrna display
+sandwich immunoassay
+footprinting
+array technology
+ScFv-Fc
+diabody
+Fab2
+polyclonal antibody
+monoclonal antibody
+generation product
+biological role
+protein affinity reagent target
+less than
+cross-reactivity assessment
+purity statement
+kinetics determination
+biopolymer
+affibody
+engineered protein scaffold
+protein
+peptide
+dna chain termination sequencing method (sanger)
+expression analysis
+cell cloning
+southern blot
+handling instructions
+participant attribute name
+shipping information
+provider
+immunoglobulin isoform
+solubility info
+stability info
+primer specific pcr
+dataset
+nucleotide sequence identification
+chromatin immunoprecipitation array
+plasma array
+competition binding
+cosedimentation in solution
+antibody array
+protease accessibility laddering
+tissue array
+cross-linking study
+reverse phase array
+serum array
+protein cross-linking with a bifunctional reagent
+filamentous phage display
+DNase I footprinting
+proteinchip(r) on a surface-enhanced laser desorption/ionization
+dna chemical sequencing
+autoradiography
+partial dna sequence identification by hybridization
+full identification by sequencing
+range
+ribonucleoprotein complex
+experimental role
+immunogen
+competitor
+experiment attibute name
+contact email
+protocol
+author-list
+equipment
+experimental kit
+experimental preparation
+kinetics assessment
+certain sequence position
+hybridoma generation
+library screening
+feature type
+PROTEIN AFFINITY REAGENT CV
+stability assement
+molecule production
+antibody production method
+quantification
+molecule characterisation
+protein complex
+nucleic acid uv cross-linking assay
+ribosome display
+far western blotting
+t7 phage display
+chromatin immunoprecipitation assays
+enzymatic footprinting
+lambda phage display
+expression level analysis
+journal
+isoform parent sequence reference
+interaction detection method
+confocal microscopy
+polymerase chain reaction
+light microscopy
+parameter unit
+molecule modification
+c terminal position
+sensitivity determination
+experimental scope
+unknown participant
+kelvin
+binding assessment
+mAb harvesting from hybridoma
+experimental participant identification
+small molecule
+protein dna complex
+protein sequencing
+n terminal position
+liquid-liquid extraction
+ragged n terminus
+molecule production method
+second
+animal immunization
+attribute name
+protein sequence identification
+greater than
+affinity determination
+solubility assessment
+feature range status
+interactor type
+participant identification method
+purity assessment
+organism attribute name
+complex
+molar
+synonym
+broad
+cell penetrating peptide tag
+2h label
+protein a tag
+cy3 label
+alexa 532 label
+alexa label
+gal4 dna binding domain
+alkaline phosphatase tag
+alexa 568 label
+v5 tag
+glutathione s tranferase tag
+radiolabel
+thiol reactive lanthanide label
+alexa 430 label
+enhanced green fluorescent protein tag
+calmodulin binding peptide plus protein a tag
+identified peptide
+tandem tag
+dna overhang
+125i radiolabel
+fluorescein isothiocyanate label
+tag
+gal4 activation domain
+alexa 350 label
+activation domain tag
+penetrating tag
+alexa 594 label
+maltose binding protein tag
+r1 spin label
+spin label
+fluorescent dye label
+t7 tag
+131i radiolabel
+lexa dna binding domain
+yellow fluorescent protein tag
+3 prime overhang
+green fluorescent protein tag
+33p radiolabel
+ha tag
+isotope label
+rare isotope label
+cyanine label
+3h radiolabel
+fluorophore
+15n label
+cy5 label
+his tag
+14c radiolabel
+vsv tag
+interaction database
+exact
+alliance for cellular signaling
+rcsb pdb
+mint
+grid
+gene ontology
+hprd
+imex
+wwpdb
+reactome protein
+pdbj
+cygd
+reactome
+ecocyc
+intenz
+dip
+bind
+msd pdb
+reactome complex
+intact
+kegg
+mmdb
+n6-(4-amino-2-hydroxybutyl)-lysine
+related
+cDNA expression
+software
+tertiary structure
+pH of interaction
+unspecified role
+nitro-tyrosine
+peptide parent sequence reference
+chemical footprinting
+potassium permanganate footprinting
+dimethylsulphate footprinting
+intermediate product
+molecule description
+storage instructions
+partial identification of protein sequence
+c-terminal amino acid analysis
+sequence tag identification
+edman degradation
+peptide massfingerprinting
+error-prone polymerase chain reaction
+monoclonal antibody immunostaining
+cdd
+n,n,n-trimethyl-alanine
+signal recognition particle rna
+poly adenine
+ki
+example
+recombinant protein expression
+protein expression
+in vitro transcription
+supplied form
+biological feature
+n-acetyl-phenylalanine
+aspartic 4-phosphoric anhydride
+s-(adp-ribosyl)-cysteine
+n4-(adp-ribosyl)-asparagine
+s-prenyl-cysteine
+n-acetyl-tryptophan
+gpi-anchor amidated residue
+palmitoylated residue
+formylated residue
+n-palmitoyl-cysteine
+1&apos;-phospho-histidine
+s-nitrosyl-cysteine
+3&apos;-phospho-histidine
+methylated alanine
+phospho-histidine
+post translation modification
+omega-n-glycosyl-arginine
+glycosyl-threonine
+n-acetyl-histidine
+n-acetyl-lysine
+omega-n-phospho-arginine
+o-(adp-ribosyl)-serine
+beta-methylthioaspartic acid
+n-acetyl-alanine
+n-acetyl-cysteine
+other modification
+n2-acetyl-arginine
+alkylated cysteine
+n6-biotinyl-lysine
+adp ribosylated residue
+n6-methyl-lysine
+selenomethionine
+n6,n6,n6-trimethyl-lysine
+n-acetyl-tyrosine
+half cystine
+myristoylated residue
+selenocysteine
+necessary binding site
+lipid modification
+n5-methyl-glutamine
+gpi-anchor asparagine
+o-phospho-threonine
+o4&apos;-sulfo-tyrosine
+3-oxoalanine
+n-acetyl-glutamic acid
+n-formyl-methionine
+n-acetyl-leucine
+methylated residue
+s-palmitoyl-cysteine
+s-phospho-cysteine
+n6-myristoyl-lysine
+n-acetyl-glutamine
+gpi-anchor cysteine
+o4&apos;-phospho-tyrosine
+n-acetyl-serine
+extracellular domain
+n-acetyl-isoleucine
+n-methyl-alanine
+n4-glycosyl-asparagine
+n6-acetyl-lysine
+glutamyl-5-poly(adp-ribose)
+n-acetyl-methionine
+glycosyl-serine
+glutamyl 5-glycerylphosphorylethanolamine
+mutation decreasing interaction
+s-farnesyl-cysteine
+n6,n6-dimethyl-lysine
+glycosyl-cysteine
+binding site
+n-acetyl-aspartic acid
+mutation increasing interaction
+secondary structure
+2&apos;-[3-carboxamido-3-(trimethylammonio)propyl]-histidine
+n-acetyl-proline
+glutamic acid 5-methyl ester
+amidated residue
+gpi-anchor threonine
+o-phospho-serine
+mutation disrupting interaction
+phosphorylated residue
+n-methyl-methionine
+n-myristoyl-glycine
+acetylated residue
+ubiquitinated lysine
+gpi-anchor aspartate
+arginine amide
+s-geranylgeranyl-cysteine
+n6-retinal-lysine
+exact binding site
+n-acetyl-threonine
+n-acetyl-valine
+gpi-anchor glycine
+sufficient binding site
+gpi-anchor serine
+2-pyrrolidone-5-carboxylic acid
+methylated-lysine
+mutation
+4-hydroxy-proline
+neddylated lysine
+hydroxylated residue
+n-acetyl-asparagine
+n-methyl-phenylalanine
+sumoylated lysine
+omega-n-methyl-arginine
+gamma-carboxyglutamic acid
+3&apos;-methyl-histidine
+n-acetylglycine
+methylated arginine
+gpi-anchor alanine
+glycosylated residue
+omega-n-(adp-ribosyl)-arginine
+n2-acetyl-lysine
+omega-n,omega-n-dimethyl-arginine
+alanine amide
+protein in situ array
+lysate array
+concentration
+primary reference
+database citation
+smart
+nucleotide genbank identifier
+chebi
+digital object identifier

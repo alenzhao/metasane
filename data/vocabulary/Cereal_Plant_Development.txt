@@ -1,0 +1,244 @@
+ovule stage OV8
+ovule stage OV6
+panicle stage PA7
+panicle stage PA5
+ovule stage OV0
+ovule stage OV4
+stamen stage ST5-1
+stamen stage ST3
+embryo stage EM7
+ovule stage OV3
+stamen stage ST5-2
+stamen stage ST1
+ovule stage OV7
+embryo stage EM5
+stamen stage ST6-3
+embryo stage EM6
+ovule stage OV9
+stamen stage ST4
+panicle stage PA1
+panicle stage PA3
+panicle stage PA8
+embryo stage EM2
+stamen stage ST6-4
+ovule development
+stamen development
+stamen stage ST5-7
+embryo development
+leaf stage P3
+panicle development
+leaf stage P5
+leaf stage P2
+leaf stage P4
+leaf stage P0
+stamen stage ST6-2
+embryo stage EM8
+panicle stage PA2
+stamen stage ST6
+ovule stage OV5
+stamen stage ST5-8
+ovule stage OV2
+stamen stage ST2
+embryo stage EM3
+embryo stage EM9
+stamen stage ST6-1
+stamen stage ST5
+stamen stage ST0
+leaf stage PX
+stamen stage ST5-6
+9.01-physiological maturity
+2.04-three leaves unfolded
+00-germination
+0.03-coleoptile emergence from seed
+0.02-radicle emergence from seed
+0.01-imbibition
+5.1-early booting stage
+cereal plant growth stage ontology
+alt_id
+06-inflorescence emergence
+2.06-five leaves unfolded
+8.2-hard dough stage
+10.09-secondary dormancy lost
+07-linear grain-filling
+2.01-first leaf through coleoptile
+1.1-dry seed
+10-ripening
+10.08-secondary dormancy induced
+1.06-leaf just at coleoptile tip
+1.21-early imbibition stage
+3.02-late whorl stage
+4.01-pollen development
+03-rapid stem elongation
+1.22-late imbibition stage
+10.01-kernel medium hard
+7.03-early dough stage
+03-tillering stage
+A-vegetative stage
+6.02-exponential
+09-maturity
+08-dough stage
+3.08-main shoot and seven tillers
+06-post-flowering
+2.07-six leaves unfolded
+02-tassel initiation
+08-milk development
+7.01-blister stage
+rice growth stage
+5.01-anthesis
+10.04-overripe, straw dead and collapsing
+4.02 first node detectable
+4.05-fourth node detectable
+3.04-late vegetative
+3.1-maximum tillering
+10.02-kernel hard
+2.05-four leaves unfolded
+10.07-seed not dormant
+03-tillering
+2.03-two leaves unfolded
+1.04-radicle emerged from seed
+01-germination
+4.09-flag leaf ligule/collar just visible
+6.03-1/2 of inflorescence emerged
+4.04-third node detectable
+4.02-embryo sac development
+6.02.1-transition stage
+8.01-kernel watery ripe
+8.03-late milk
+5.04-first awns visible
+5.2-late booting stage
+3.07-shoot and six tillers
+5.02-boots just swollen
+1.3-coleoptile emergence stage
+3.01-ear initiation
+08-leveling of of grain-filling
+6.01-dilatory
+05-booting
+7.04-late dough stage
+rice plant growth stage
+07-milk stage
+6.01-first spikelet of inflorescence visible
+4.01-pseudo stem erection
+3.03-mid-vegetative
+1.05-coleoptile emerged from seed
+7.02-stage
+02-seedling growth
+3.05-main shoot and four tillers
+5.03-pollination
+04-stem elongation
+6.05-emergence of inflorescence completed
+B-reproductive stage
+05-booting stage
+05-flowering
+3.04-main shoot and three tillers
+2.10 nine or more leaves unfolded
+3.03-main shoot and two tillers
+1.01-dry seed
+2.02-first leaf unfolded
+2.09-eight leaves unfolded
+1.03-imbibition complete
+4.06-fifth node detectable
+C-embryo stage
+1.2-imbibition stage
+04-gametophyte development
+3.09-main shoot and eight tillers
+rice growth stage unknown
+01-germination
+8.02-early milk
+maize growth stage
+10.05-seed dormant
+wheat, barley and oat growth stage
+1.3-radicle and coleoptile emergence stage
+7.01.2-embryo-1
+6.04-3/4 of inflorescence emerged
+8.1-dough stage
+ratooning stage
+5.04-fertilization
+09-mature grain stage
+obsolete cereal plant growth stage terms
+synonym
+exact
+narrow
+broad
+4.08-flag leaf just visible
+3.01-main shoot only
+ovule stage OV1
+1-4 leaf stage
+related
+spikelet stage SP6
+6.02-1/4 of inflorescence emerged
+panicle stage PA4
+10.03-kernel loosening in daytime
+stamen stage ST5-3
+ovule stage OV10
+9.02-dry kernel
+1.3-radicle emergence stage
+6.1-flowering stage
+7.03-anthesis completed
+1.01-seedling emergence
+3.10-main shoot and nine or more tillers
+vegetative lag phase
+stamen stage ST5-5
+10.06-viable seed germination
+stamen stage ST5-4
+5.03-flag leaf sheath opening
+5.01-flag leaf sheath extending
+04-stem elongation stage
+4.2-panicle differentiation stage
+part_of
+4.1-panicle initiation stage
+panicle stage PA6
+8.04-medium milk
+stamen stage ST6-5
+02-seedling
+develops_from
+is_a
+embryo stage EM1
+5.02-silking
+spikelet development
+spikelet stage SP1
+spikelet stage SP7
+spikelet stage SP3
+spikelet stage SP5
+spikelet stage SP2
+spikelet stage SP4
+4.03-second node detectable
+3.06-main shoot and five tillers
+embryo stage EM10
+2.08-seven leaves unfolded
+01-seedling
+1.03-three to four leaves
+1.02-one to two leaves
+09-dough development
+9.01-early dough
+9.02-soft dough
+9.03-hard dough
+sorghum growth stage
+11-physiological maturity
+05-growing point differentiation
+09-flowering
+02-three leaf stage
+04-five leaf stage
+01-seedling emergence
+07-boot stage
+10.01-soft dough
+08-heading
+06-flag leaf visible
+10-dough stage
+10.02-hard dough
+03-four leaf stage
+06-heading stage
+7.01.1-coleoptilar stage
+1.02-start of imbibition
+leaf stage P1
+embryo stage EM4
+07-anthesis
+7.01-anthesis beginning
+7.02-anthesis half-way
+3.02-main shoot and one tiller
+4.07-sixth node detectable
+in-vitro culture stage
+callus initiation
+plantlet regeneration
+callus promotion
+rice plant part development stage
+leaf development

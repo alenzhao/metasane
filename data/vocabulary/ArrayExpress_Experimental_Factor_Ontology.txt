@@ -1,0 +1,1943 @@
+doxycycline
+organism part comparison design
+inguinal region
+blastula oblong
+abdominal cavity
+Ewing&apos;s sarcoma
+female inflorescence
+fungal component
+larval day 6
+sensory bristle
+BT483
+Eukaryota
+infection
+hermaphrodite
+imatinib
+microgram
+craniofacial tissue
+pharynx
+dose
+organism status design
+CS57848
+tamoxifen
+biopsy number
+decidua basalis
+material entity
+DNA assay
+penis
+muscular dystrophy
+population
+dorsal root ganglion
+mitochondrial disorder
+event death
+hematological cancer
+enteric nervous system
+hormone
+embryonic cuprophilic cell
+bone MMHCC
+CS57771
+blastula 512-cell
+cobalt dichloride
+quadricep muscle
+chronic myelogenous leukemia
+HepG2
+intracranial hemorrhage NOS
+leaf
+liver carcinoma
+B-2 B cell
+Pseudomonas aeruginosa PA14 infection
+adrenergic uptake inhibitor
+ZR7530
+ventral tegmental area
+animal developmental tissue
+ponasterone A
+dorsal raphe nucleus
+ethanol
+mating type alpha
+external control ratio
+plant growth hormone
+sulphur dioxide
+ejaculatory duct
+GM12875
+chronic pancreatitis
+WI38
+dorsomedial neurosecretory cell
+CS57801
+white fat
+blastula stage
+neonate
+active gastritis
+extraembryonic tissue
+neuronal stem cell
+celecoxib
+motoneuron
+adipose tissue MMHCC
+coronary artery disease
+ear
+liver
+CS57875
+diethylstilbestrol
+ovarian carcinoma
+GM12155
+publication status
+severe acute respiratory syndrome
+MDAMB157
+T lymphocyte
+gastrula 75%-epiboly
+clinical history
+CS57658
+steroid hormone
+base unit
+leg
+ulcerative colitis
+T47D
+stigma
+oligoastrocytoma
+irradiate
+polar solvent
+mushroom body
+CBA/CaJ
+HCC1937
+promyelocytic leukemia
+cell type
+apoplasm
+median fin skeleton
+B cell
+ventral striatum
+innate behavior design
+substantia nigra
+CS57778
+radicle
+methyl methanesulfonate
+flufenamic acid
+cleavage 32-cell
+rhizome
+epididymus
+hepatocellular carcinoma
+Pseudomonas infection
+sapphyrin
+mouth
+bladder tumor
+D-mannitol
+crystal cell
+stimulus or stress design
+mating type h minus
+ureter
+meristem
+gram per liter
+cysteine
+amitriptyline
+Crohn&apos;s disease
+appendix
+prefrontal cortex
+progesterone
+biosequence provider
+shear stressing
+tail
+precentral gyrus
+GM11831
+water
+sex
+salicylic acid
+undifferentiated sarcoma
+C57BL/6J
+embryonic antennal sense organ
+phenothiazine antipsychotic drug
+synovial sarcoma
+CS57737
+SUM44PE
+BDC2.5/NOD
+genetic modification
+stem
+well-differentiated_sarcoma
+basal plate
+hatching gland
+SALK_037727
+rheumatoid arthritis
+respiratory system
+cyclooxygenase inhibitor
+adult segment
+AU565
+myelodysplastic syndrome
+CS57785
+megakaryocyte
+HMEC184
+kidney
+lung
+MDAMB468
+placenta
+RNA stability design
+MDAMB415
+cochlear hair cell
+meter
+sigmoid colon
+antilipemic drug
+replicate design
+compound treatment design
+disease state
+diaphragm
+CS57850
+CS57628
+consortium member
+C57BL/6
+agrochemical
+plant growth regulator
+CS57904
+derived unit
+frontal lobe
+pancreas
+bone marrow MMHCC
+lateral line system
+femtomolar
+infant
+ventral nerve cord
+azathioprine
+linoleic acids
+picomolar
+cyfluthrin
+CS57714
+fat body sensu amphibia
+cervical neck region
+SUM149PT
+length unit
+hermaphrodite gonad
+Caco-2
+corneal epithelium
+pineal gland
+left
+myxoid liposarcoma
+week
+root cap
+extraocular muscle
+muscarinic antagonist
+GM12234
+H720
+3&apos;,5&apos;-cyclic AMP
+software variation design
+organism part
+role
+GM12006
+IB3-1
+myoblast
+vascular tissue
+CS57722
+ethene
+CS57826
+morbid obesity
+cyclooxygenase 2 inhibitor
+cadmium compounds
+cell type comparison design
+flower bud
+ductal carcinoma in situ
+Fischer 344
+mutagen
+colon adenocarcinoma
+follicle cell
+in preparation
+tepal
+MMHCC part
+facioscapulohumeral muscular dystrophy
+toxin
+dermal neurofibroma
+unspecified peripheral T-cell lymphoma
+placode
+caudal ganglionic eminence
+ZF4
+CEM-c1
+arm
+juvenile days 30-44
+dorsal ectoderm primordium
+CS57644
+chromosomal aberration
+antiseptic drug
+B6.Cg-Tg(SOD1-G93A)1Gur/J
+hypothalamus
+skeletal muscle
+bronchial epithelium
+thiopurines
+GM12761
+ganglion
+pharyngeal arch
+CS57710
+troglitazone
+subthalamic nucleus
+5-aza-2&apos;-deoxycytidine
+large cell neuroendocrine carcinoma
+antioxidant
+uninfected
+multiple myeloma
+blood component
+ethyl nitrosourea
+ecotype
+platelet
+brown fat
+geometric modifier
+cleavage 16-cell
+amyotrophic lateral sclerosis
+sporadic amyotrophic lateral sclerosis
+part_of
+is_a
+develops_from
+familial amyotrophic lateral sclerosis
+anal pad specific anlage
+amnioserosa anlage in statu nascendi
+CS57622
+amygdala
+CS57620
+amnioserosa
+anti-inflammatory drug
+proteomic profiling
+oesophagus
+chondromyxoid fibroma
+jejunum
+media
+axilla
+dorsal metathoracic disc
+U87
+lacrimal gland
+preeclampsia
+gametophyte
+TBP-71Q-16
+CS57627
+cisplatin
+dedifferentiated chondrosarcoma
+lisinopril
+shoot apex
+protein kinase C inhibitor
+estrogen
+HMT3522S1
+tissue modifier
+colon
+hypoblast
+CS57810
+sampling time
+luminous intensity unit
+disease free survival
+antimetabolite
+osmotic diuretic
+period of infection
+generation
+nanomole
+sap
+acetylcholinesterase inhibitor
+myositis
+HIV-1
+sucrose
+primordial germ cell
+Met5A
+cleavage 8-cell
+CS57890
+optimization design
+HEK293
+thorax
+GM07000
+corpus uteri
+(+)-abscisic acid
+microsecond
+testis
+RKO
+mediastinal lymph node
+raloxifene
+phospholipase A2 inhibitor
+rosiglitazone
+AACOCF3
+entorhinal cortex
+basal
+medulla oblongata
+lung carcinoma
+anatomy basic component
+antigen profiling
+derived temperature unit
+GM12760
+normal
+ileum
+embryonic central brain surface glia
+SALK_049497
+129S6
+cervix
+corpus striatum
+pulmonary arterial hypertension
+chemical role
+abdomen
+duration
+all pairs
+unfertilized egg
+medullary thymic epithelial cell
+reference design
+neurofibroma
+family based study
+mesalamine
+larval stage
+adult
+systemic scleroderma
+T cell acute lymphoblastic leukemia
+gastrocnemius
+267B1
+glial cell
+retinoic acid
+uterus
+pentamidine
+essential thrombocythemia
+larval day 4
+CS57699
+Beta-adrenergic agonist
+vulva
+HS578T
+embryonic central brain mushroom body
+HBL100
+diabetes mellitus
+CS57705
+sensory system
+male germ cell
+site
+smooth muscle
+hematological neoplasm
+cellular modification
+N-nitrosodimethylamine
+joint
+cell cycle design
+bronchus
+CS8581
+cell property
+androgen
+1-naphthyl isothiocyanate
+CS57671
+gastrointestinal stromal tumor
+carcinoma
+non ionic surfactant
+neurohemal organ
+(+)-alpha-tocopherol
+HCC1500
+colon mucinous adenocarcinoma
+inner ear
+study design
+basal ganglion
+CS57896
+mitochondrial NADH:ubiquinone reductase inhibitor
+mesangial phagocyte
+mixed sex population
+follicular thyroid carcinoma
+abscisic acid
+clear cell adenocarcinoma
+plant developmental tissue
+compound based treatment
+caecum
+wood parenchyma
+CS57621
+CS57618
+CS57619
+CS57615
+CS57616
+anterior endoderm anlage
+CS57606
+CS57610
+antennal primordium1
+antennal primordium2
+CS57603
+angioimmunoblastic T-cell lymphoma
+anlage in statu nascendi
+adult eye primordium
+CS57598
+adult foregut precursor
+CS57601
+adult hindgut precursor
+Malpighian tubule
+CS57587
+CS57591
+CS57595
+CS57596
+alveolar rhabdomyosarcoma
+CS57580
+Alzheimer&apos;s disease
+CS57581
+CS57583
+CS57586
+adult midgut precursor
+adult muscle precursor primordium
+age
+aicardi syndrome
+astrocytic tumor
+CS57560
+astrocytoma
+CS57563
+CS57551
+asthma
+CS57556
+atrial fibrillation
+CS57572
+atrioventricular node
+atmosphere
+CS57569
+atopic eczema
+CS57570
+azoospermia
+atrium
+autoimmune pancreatitis
+CS57548
+CS57549
+CS57544
+CS57511
+CS57512
+anterior endoderm anlage in statu nascendi
+CS57515
+anterior endoderm primordium
+CS57520
+anterior midgut primordium
+CS57521
+anterior spiracle specific anlage
+CS57537
+antibody
+CS57541
+aorta
+CS57543
+aortic stenosis
+apical meristem
+apoptotic amnioserosa
+GM12874
+bipolar disorder
+hyperplasia
+fat body sensu invertebrata
+Syracuse High Avoidance
+glucosamine
+submitted
+sarcoidosis
+head disease
+yeast strain
+hair
+nanometer
+cardiovascular system
+Brown-Norway
+anatomical modifier
+segmentation 5-9 somites
+GM12044
+CS57859
+ductal adenocarcinoma
+thalamus
+pectoral girdle
+endothelial cell
+haloperidol
+S2
+circular visceral mesoderm primordium
+serotonergic antagonist
+adenohypophysis
+embryonic ganglion mother cell
+acinar cell carcinoma
+tonsil
+curator
+chromium
+inner cell mass
+pregnenolone 16alpha-carbonitrile
+replicate
+unit
+epithelial cell derived cell line
+millimolar
+porphyria
+GM11882
+17beta-estradiol
+emphysema
+ochratoxin A
+liver heptocellular carcinoma
+mesothelioma
+autopod
+timepoint
+GLI72
+pelvic girdle
+nectar
+invertebrate limb
+GM07022
+medullary breast carcinoma
+nifedipine
+sex hormone
+germ cell tumor
+Epstein-Barr virus infection
+diabetic nephropathy
+129/Sv
+data set
+skin
+intercostal muscle
+WKY
+chronic lymphocytic leukemia
+family history
+microliter
+mesothelial cell
+pathogenicity design
+signet ring cell carcinoma
+substance unit
+vitamin
+Kin-S49
+CS57822
+streptozotocin
+micromolar
+Rett syndrome
+seed coat
+embryonic foregut sensory structure
+immunosuppressive agent
+GM12751
+ploidy
+proximal
+trichostatin A
+genetic factor
+classifier prediction
+size
+microglial cell
+CS57732
+arachidonic acid
+rofecoxib
+macrophage
+precursor T lymphoblastic leukemia
+IMR-90
+skin disease
+surfactant
+CS57901
+stomatal complex
+hydrostatic pressure
+Pseudomonas aeruginosa CF5 infection
+investigator
+gill
+chronic myeloid leukemia
+adenohypophyseal placode
+cholinergic antagonist
+host
+quality
+sweetening agent
+dorsal ridge
+time to development of distant metastases
+progeria syndrome
+tyrosine kinase inhibitor
+thyroid
+MELAS syndrome
+volume
+uniconazole-P
+temperature
+female
+embryonic corpus allatum
+papillary cystadenocarcinoma
+prostate carcinoma
+SKGT4
+B-cell acute lymphoblastic leukemia
+HCC38
+funder
+jasmonic acid
+kidney derived cell line
+mono-2-ethylhexyl phthalate
+pharyngula prim-25
+islet of Langerhans
+Wistar
+type II diabetes mellitus
+sensory system disease
+hardware variation design
+clotrimazole
+cystic fibrosis
+GM07357
+HCC1007
+caudal fin
+array design
+experimental factor
+mucoid ductal carcinoma
+GM12239
+treatment
+gastric adenocarcinoma
+light
+juvenile dermatomyositis
+gram
+Kaposi&apos;s sarcoma cell
+floor of mouth
+GM11832
+prostate adenocarcinoma
+femtomole
+sickle cell disease
+imprinting design
+Copenhagen
+CB6F1
+skin cell
+dorsal
+calpainopathy
+bladder mucosa
+CS57706
+myeloid cell
+isoflurane
+plant growth retardant
+U373
+MALT lymphoma
+corneal limbus
+sedative drug
+event distant metastases
+behavioural disease
+blood vessel endothelial cell
+environmental stress
+protocol
+ascending colon
+ZR751
+MDAMB-157
+overall survival
+vastus lateralis
+anticoagulant
+bucladesine
+loop design
+natural killer cell
+cornea
+hatching pec-fin
+CSBwt-rescued fibroblasts
+bis(2-chloroethyl) sulfide
+GM12057
+haltere
+adenocarcinoma
+wing disc
+embryonic central brain glia
+butyrate
+CNS brain cerebellum MMHCC
+CS57874
+monophasic synovial sarcoma
+MDAMB453
+prednisolone
+HeLa
+hepatocellular adenoma
+phenotype
+lateral root meristem
+GM12763
+infertility
+milligram
+GM12249
+stylopod
+head capsule
+pharyngula stage
+CS57883
+femtometer
+obesity
+laryngopharynx
+glutamatergic neuron
+pirinixic acid
+HT-29
+derived mass unit
+hypopharynx
+RNA assay
+candela
+A/J
+GABAergic neuron
+larval day 5
+endometrioid carcinoma
+creatine
+congestive heart failure
+phyllid
+malignant peripheral nerve sheath tumor
+apical shoot meristem
+thymus
+diffuse gastric adenocarcinoma
+translational bias design
+telencephalon
+adrenal gland pheochromocytoma
+TBP-105Q
+published
+thigh
+glaucoma
+CS57886
+phytogenic insecticide
+feature extraction
+craniofacial skeleton bone
+glutamine
+gastric carcinoma
+GM12005
+Wilms&apos; tumor
+vertebrate limb
+virus strain
+liver and biliary system
+glial cell (sensu Vertebrata)
+dorsal apodeme specific anlage
+observation
+hippocampus
+disease state design
+plexiform neurofibroma
+Pectobacterium carotovorum infection
+embryonic dorsal epidermis
+quality control testing design
+antineoplastic drug
+ventral
+CS57825
+segmentation 10-13 somites
+data transformation
+CS57637
+micrometer
+stria vascularis
+caudate putamen
+conjunctival epithelium
+chronic obstructive pulmonary disease
+digestive system disease
+embryonic stem cell
+re-sequencing
+U937
+GM11881
+clinical history design
+limb bone
+tuber
+hematopoietic stem cell
+CS57664
+CS57750
+Dahl salt-sensitive
+oligomycin A
+nocodazole
+phenobarbital
+stage I endometrioid carcinoma
+ciclosporin A
+pharyngeal nervous system
+GM12043
+washing
+ischemic cardiomyopathy
+cerebrospinal fluid
+quercetin
+gastric intestinal type adenocarcinoma
+sodium chloride
+Down syndrome
+CS57641
+129P1/ReJ
+volume unit
+nanomolar
+enzyme inhibitor
+chondrocyte
+GM12154
+pathogen test
+GM12003
+GM12056
+valproic acid
+intravenous anaesthetic
+growth condition
+GM12814
+SUM159PT
+GM12812
+antenna
+PC12
+GM12145
+R46
+GM06994
+cataract
+ganglioneuroblastoma
+invasive lobular carcinoma
+BALB/cByJ
+dermis
+flower
+adrenergic antagonist
+CS57719
+genotype
+intervertebral disc
+indole-3-acetic acid
+oviduct
+CS57717
+schizophrenia
+asbtestos
+CS57789
+R18
+humerus
+genotype design
+embryonic central brain pars intercerebralis
+vertebra
+post-traumatic stress disorder
+lipopolysaccharide
+bone marrow
+600MPE
+gastrula 90%-epiboly
+Duchenne muscular dystrophy
+SKBR3
+GM12004
+dorsal ectoderm anlage in statu nascendi
+human granulocytic anaplasmosis
+CS57924
+monoclonal gammopathy
+paired fin skeleton
+methylation profiling
+C57BL/10
+lapatinib
+encephalomyelitis
+B-precursor acute lymphoblastic leukemia
+secreted protein identification design
+dose response design
+year
+sulforaphane
+somatosensory cortex
+storage organ
+brain structure
+non-narcotic analgesic
+THP-1
+extraction protocol
+CS57905
+HCC1428
+hour
+A549
+data analyst
+AIDS
+topoisomerase I inhibitor
+animal reproductive system
+GM11830
+glucose
+renal clear cell carcinoma
+phytohormone
+lipoxin A4
+midbrain
+CFT-2
+common variable immunodeficiency
+squamous cell lung carcinoma
+tolbutamide
+protein
+caudate nucleus
+eye
+segmentation 20-25 somites
+fludrocortisone
+IMR-32
+prognostic subgroup
+CS57624
+multipotent stem cell
+isoflavone
+CS57827
+familial combined hyperlipidemia
+soleus muscle
+consultant
+RNA
+oligodendroglioma
+chronic granulomatous disease
+self vs self design
+mercury dichloride
+CS57655
+Drosophila C virus
+adrenal medulla
+mercaptopurines
+intestine
+GM06985
+growth hormone
+twin study
+nutraceutical
+immature B cell
+B6C3F1
+GM12873
+cell component comparison design
+embryonic dorsal apodeme
+nose
+ChIP-Chip
+nanogram
+nutrient
+stomach
+MOLT-4
+invasive ductal carcinoma
+hydrogen peroxide
+phloem
+kilogram
+uvula
+tumor
+pituitary
+acute promyelocytic leukemia
+exposure
+molar
+NIH3T3-L1
+day
+RNAi profiling
+ductal breast carcinoma
+cambium
+embryonic anal pad
+mitochondrial respiratory-chain inhibitor
+fungicide
+taxol
+dendritic cell
+inhalation anaesthetic
+T cell
+parasitic Infection
+HC toxin
+population based study
+tiling path
+ankle
+cardiac atrium
+vomeronasal organ
+temporal measurement
+PAC2
+connective tissue
+RAW264.7
+area unit
+pertussis
+folate deficiency
+CS57646
+metastatic prostate cancer
+corpus allatum
+staurosporine
+tuberculoid leprosy
+neuroblast (sensu Vertebrata)
+embryonic gastric caecum
+hereditary spastic paraplegia
+HIV
+HCC1569
+gastrula germ-ring
+TERV-ST
+blastula 256-cell
+embryonic frontal ganglion
+strain factor
+beta cell
+mouse strain
+plant reproductive system
+larval day 14-20
+ex vivo design
+GM11993
+UACC812
+Wistar-Furth
+trifluoperazine
+muscular system
+clozapine
+HEK-293H
+apical
+choroid plexus
+cleavage stage
+diethylhexyl phthalate
+wing
+CS57777
+plasma cell
+Coronary Heart Disease
+forelimb
+inhibitor
+hindbrain
+control spike calibration
+malignant pleural mesothelioma
+urethra
+endocardium
+basal breast tumor
+lymphatic system
+submitter
+stem cell
+liposarcoma
+mole
+fetus
+4-hydroxy-2-nonenal
+polyp
+293T
+female accessory gland
+liver disease
+HCC1954
+circular visceral muscle fibers
+acetylsalicylic acid
+S-[2,3-bis(palmitoyloxy)propyl]-Cys-Ser-Lys-Lys-Lys-Lys
+colon carcinoma
+halothane
+seminal vesicle
+segmentation 26+ somites
+pyrethroid ester insecticide
+cell line
+leaf vascular tissue
+body ganglion
+antipyretic
+acute monoblastic leukaemia
+polymorphonuclear leukocyte
+cervical adenocarcinoma
+genotyping
+stamen
+central nervous system
+tomatine
+assay
+adenoid cystic carcinoma
+vertebral column
+267B1 Ki-ras
+lymphoblastic leukemia MOLT-4
+pollen tube
+respiratory system disease
+chordoma
+U266
+breast tumor luminal
+aspirin
+psychiatric disorder
+GM12146
+CS57824
+fisetin
+gastrula shield
+angiotensin-converting enzyme inhibito
+Whipple&apos;s disease
+Vanadium
+bladder carcinoma
+milligram per milliliter
+protein kinase inhibitor
+MCF7
+lymphoma
+fulvestrant
+Leiomyosarcoma
+genetic modification design
+anticonvulsant
+large intestine
+colchicine
+dexamethasone
+array manufacturer
+non-steroidal anti-inflammatory drug
+Daudi Burkitt&apos;s lymphoma cell line
+embryonic central brain
+CS57704
+GM07056
+ampere
+pericardium
+ventricle
+abdominal skin
+protein assay
+CC531
+osteoblast
+Arabidopsis thaliana strain
+apratoxin A
+hypertension
+time before disease progression
+psoriasis
+clypeo-labral primordium
+cleavage 64-cell
+cross sectional study
+placebo
+blood
+C3H/HeJ
+survival probability
+celiac disease
+rectum
+CS57752
+behaviour
+millimole
+hip
+R28
+carbon monoxide
+development or differentiation design
+sperm
+HCC1143
+male inflorescence
+129xC57BL/6
+Syracuse Low Avoidance
+Hibiscus chlorotic ringspot virus
+DP thymocyte
+mesodermal cell
+umbilical vein
+metabolism disease
+plant component
+pollen
+GLI56
+MDAMB435
+CS57812
+3T3-L1
+congestive cardiomyopathy
+cleavage 2-cell
+excitatory amino acid agonist
+species design
+rapamycin
+epithelial cell
+cirrhosis of liver
+concentration unit
+array platform variation design
+CS57847
+Hexadecanoic acid
+129 mouse strain
+comparative genomic hybridization
+GM12750
+oxamic acid
+ductus deferens
+UBOC1
+organism
+acute myelomonocytic leukemia
+deltoid
+case control study
+adrenal cortex
+formaldehyde
+benzenetriols
+adenoma
+temporal lobe
+CS57677
+somatic nervous system
+esophageal adenocarcinoma
+anlage
+metabolomic profiling
+metformin
+blastula high
+experimental autoimmune encephalomyelitis
+seminiferous tubules
+colorectal adenocarcinoma
+injury
+cardiac muscle
+parathyroid
+propofol
+head
+larval day 7-13
+aldosterone
+material property
+ganglioneuroma
+acute lymphocytic leukemia
+papillary renal cell carcinoma
+diclofenac sodium
+sensillum
+oral squamous cell carcinoma
+strain
+meningitis
+centimeter
+cancer cell line
+blastula 1k-cell
+Dahl salt-resistant
+GM12813
+foreskin
+masseter muscle
+CS57779
+GM11995
+blastula 30%-epiboly
+HCC2157
+lymph vessel
+pathogen
+small intestine
+control
+neural crest cell
+race
+NIH3T3
+biopsy site
+embryonal rhabdomyosarcoma
+artery
+LY2
+cranium
+age-related macular degeneration
+invasive ductal and lobular carcinoma
+dorsal histoblast nest abdominal
+process
+analyte
+distal
+schwannoma
+apical root meristem
+lipoma
+delivery method
+tetraethylenepentamine
+feather
+antipsychotic drug
+hyperglycemia
+FUM1
+ischaemia
+GM12717
+dermatomyositis
+polar aprotic solvent
+Wistar-Kyoto
+pulmonary artery
+lymph
+crystal cell specific anlage
+scale
+GM12156
+alpha-D-glucose
+CS57828
+CS57770
+operon identification design
+dilated cardiomyopathy
+epithalamus
+malaria
+dimethyl sulfoxide
+prochlorperazine
+ZR75B
+virus
+milliliter
+keratinizing squamous cell carcinoma
+B-cell lymphoma
+umbilical cord blood
+vagina
+bulb
+cultivar
+segmentation stage
+sex design
+Zinc
+embryonic esophagus
+femur
+function
+ectoderm anlage in statu nascendi
+C57BL/6J
+sarcoma
+GLI60
+Sprague Dawley
+CS57842
+oligoastroglioma
+canrenoate
+Hodgkin&apos;s lymphoma
+tibialis anterior muscle
+myocardium
+small cell lung carcinoma
+regulatory T-cell
+shoot component
+mating type
+genital system disease
+peripheral nervous system
+MM1
+osteosarcoma
+drug
+electric current unit
+dye swap design
+trigeminal nerve
+event free survival time
+HCC3153
+leukocyte
+gene knock out
+injury design
+dopaminergic antagonist
+Bacteria
+granulocyte
+Leydig cell
+digestive system component
+spleen
+adenosquamous lung carcinoma
+methamphetamine
+hatching stage
+Vitamin D3
+disease state design
+derived time unit
+HepaRG
+benign prostatic hyperplasia
+idiopathic pulmonary fibrosis
+cingulate cortex
+Emery-Dreifuss muscular dystrophy
+duodenum
+mature B cell
+lepromatous leprosy
+cololrectal tumor
+Aeromonas hydrophila infection
+hepatocyte
+blastula dome
+fruit
+CS57740
+dinitrophenol
+estrogen receptor antagonist
+carpel
+antinematodal drug
+aerial part
+morphology
+antirheumatic drug
+neuroblastoma
+brain tumor glioblastoma
+hereditary leiomyomatosis and renal cell cancer
+dorsal epidermis primordium
+fibroblast derived cell line
+gastrula bud
+bladder MMHCC
+pons
+anal region
+methanol
+BY5251
+follicular thyroid adenoma
+trunk
+dorsal pharyngeal muscle primordium
+synovial membrane
+gall tissue
+dalton
+information entity
+hypoglycemic drug
+embryo
+Canton S
+tuberculosis
+neck
+capillary
+cardiac mesoderm primordium
+folic acid reductase inhibitor
+pioglitazone
+Lewis
+alkylating agent
+CS57666
+fibroblast
+DNA
+juvenile stage
+somatic nervous system
+square meter
+cyclooxygenase 1 inhibitor
+hypocotyl
+corpus cardiacum
+972h-
+GM11829
+seedhead
+keratinocyte
+CS57813
+degree fahrenheit
+extra-adrenal sympathetic paraganglioma
+periodontitis
+plant sperm
+time of survival
+desferrioxamine B
+seed
+carotid artery
+behavioural stimulus
+insulin-sensitizing drug
+accumbens nucleus
+scapula
+adrenal gland
+compatible osmolytes
+adipose tissue
+pre-B cell
+alpha-adrenergic antagonist
+CS57625
+bud
+epidermis
+MCF 10A
+dermatologic drug
+temporal lobe epilepsy
+CS57769
+CS57884
+genetic disorder
+Goto-Kakizaki
+vasodilator agent
+CS57709
+spiracle
+sympathetic nervous system
+primordium
+papillary thyroid carcinoma
+nerve cell
+endosperm
+blastocyst
+submandibular gland
+male reproductive system
+disposition
+pharyngula prim-15
+epigenetic factor
+type I diabetes mellitus
+cerebral cortex
+animal component
+CAMA1
+forskolin
+picometer
+transfect
+MDAMB175VII
+spindle cell tumor
+SUM1315MO2
+chronic gastritis
+neuron
+biceps femoris
+operator variation
+degree celsius
+cardiovascular disease
+back
+portal hypertension
+CS57626
+squamous cell carcinoma
+CS57751
+lobular breast carcinoma
+developmental stage
+Burkitt&apos;s lymphoma
+CS57742
+integumental system
+cancer
+stage II endometrioid carcinoma
+CS57823
+central nervous system cancer
+genotyping design
+in vitro design
+SUM185PE
+cell factor
+tectum
+antibiotic
+MCF12A
+TERV-AntiSenseB56
+nevus
+temperature unit
+deafness
+somatic cell
+HCC2185
+CS57776
+hypertrophic cardiomyopathy
+R43
+chemical compound
+CS57871
+deciliter
+shoot
+gefitinib
+L3055
+lung adenocarcinoma
+immunoprecipitate
+CS57663
+scott syndrome
+cochlea
+CS57803
+megaspore
+GM12236
+plant embryo
+thioridazine
+meninges
+nutritional disorder
+pterygium
+influenza
+clinical treatment
+skeleton
+instrument design
+hypopituitarism
+cranial ganglion
+monocyte
+5-fluorouracil
+dorsal mesothoracic disc
+invertebrate ganglion
+ethnic group
+cancer site
+epithelial cell of lung
+leprosy
+cutaneous melanoma
+nanoliter
+CS57758
+CS57811
+BT549
+childhood acute myeloid leukemia
+corpus callosum
+human papilloma virus
+segmentation 14-19 somites
+lateral
+BY4741
+kaposi&apos;s sarcoma
+sciatic nerve
+acute lymphoblastic leukemia
+H209
+http://www.ebi.ac.uk/efo/has_input
+http://www.ebi.ac.uk/efo/EFO_0001377
+obsolete_accumbens nucleus
+http://www.ebi.ac.uk/efo/derives_from
+obsolete_adipose tissue brown MMHCC
+http://www.ebi.ac.uk/efo/part_of
+obsolete_B-lymphocyte
+obsolete_biomaterial factor
+http://www.ebi.ac.uk/efo/EFO_0001697
+alt_id
+obsolete_compound factor
+obsolete_clinical history age
+obsolete_clinical factor
+obsolete_clinical information
+obsolete_CNS brain striatum MMHCC
+obsolete_CNS brain hippocampus MMHCC
+obsolete_caudate nucleus
+obsolete_B lymphocyte
+obsolete_CTL sensitivity
+http://www.ebi.ac.uk/efo/contained_in
+obsolete_malignant peripheral nerve sheath tumor class
+obsolete_infiltrating lobular carcinoma
+obsolete_infiltrating ductal carcinoma
+http://www.ebi.ac.uk/efo/has_role
+obsolete_bone marrow
+obsolete_environment
+obsolete_experiment type
+obsolete_experimental design
+obsolete_digit
+obsolete_dorsal root ganglion
+obsolete_material type
+obsolete_brain tumor glioblastoma
+obsolete_individual genetic characteristic
+obsolete_individual
+obsolete_hemopoietic progenitor cell
+narrow
+related
+obsolete_sample factor
+exact
+disjoint_from
+obsolete_phenotypic factor
+obsolete_platform
+obsolete_percent oxygen concentration
+obsolete_percent oxygen
+obsolete_protocol
+obsolete_protocol factor
+obsolete_pretreatment
+obsolete_organism status
+obsolete_nucleic acid extracted
+obsolete class
+obsolete_thymus
+obsolete_test result
+obsolete_white blood cell
+obsolete_Beas2B
+synonym
+mesonephros
+midgut
+acute quadriplegic myopathy
+blood vessel
+CS57727
+pool
+sampling site
+TERV
+gland
+N-benzyladenine
+endocarditis
+BALB/c
+adductor mandibulae complex
+anthrax
+conventional clear cell renal carcinoma
+estradiol
+aortic aneurysm
+second
+spinal cord
+C2C12
+CS57753
+doxorubicin
+root nodule
+CS57820
+time series design
+MDAMB436
+chromophobe renal cell carcinoma
+breast adenocarcinoma
+antimanic drug
+N-acetyl-L-cysteine
+genistein
+antiatherogenic agent
+ectoderm
+cerebellum
+nail
+CS57629
+pulmonary hypertension
+endocrine system disease
+muscle
+dentate gyrus
+larynx
+kainic acid
+taste system
+renal system
+mating type a
+CS57648
+bark
+GM11992
+animal fluid
+GM06993
+sodium pyruvate
+BY4741
+insulinoma
+memory impairment
+293TsiLL
+Barrett&apos;s esophagus
+CS57660
+erythrocyte
+pharyngula high-pec
+vehicle
+taproot
+tegmentum
+17alpha-estradiol
+chitin
+stroke
+heart
+columnar neuron
+animal body part
+Drosophila melanogaster strain
+CS57743
+insecticide
+broad
+globus pallidus
+antifungal drug
+olmesartan
+axial skeleton
+rat strain
+appendage
+hindlimb muscle
+colorectal carcinoma
+bacterial disease
+diffuse scleroderma
+S49
+forebrain
+limb bone
+gall bladder
+dorsal imaginal precursor
+BT20
+GM11994
+bone
+pharyngula prim-5
+cytochalasin B
+CS57731
+chlorpyrifos
+chondrosarcoma
+CS57867
+measurement
+attomole
+sepal
+fin
+data coder
+all-trans-retinoic acid
+embryonic central brain neuron
+Enterococcus faecalis infection
+tongue
+experiment performer
+CS57631
+glutathione
+T-cell lymphoblastic lymphoma
+nervous system developmental tissue
+hardware manufacturer
+brain structure developmental tissue
+conjunctiva
+methotrexate
+xylem
+gastrula stage
+embryonic esophageal ganglion
+irritable bowel syndrome
+olfactory lobe
+insulin
+phyllodes tumor
+DEL cells
+damage intensity
+R8
+zeugopod
+visual cortex
+CS57870
+metabolic syndrome
+blastula sphere
+mesenchymal stem cell
+smooth muscle cell
+cotyledon
+software manufacturer
+parietal lobe
+femtogram
+oligomycins
+SUM225CWN
+kelvin
+epiblast cell
+GM07034
+disease factor
+_temp bin organism part
+viral disease
+dorsal prothoracic pharyngeal muscle
+dorsal trunk specific anlage
+translation profiling
+copper(2+) sulfate
+spondyloarthropathy
+xenobiotic
+CS57630
+plasma cell leukemia
+TERV-ST110
+syndrome
+labelling
+fertilized egg stage
+narcolepsy
+operator variation design
+camptothecin
+parasympathetic nervous system
+superior cervical ganglion
+postcentral gyrus
+embryonic brain
+MDAMB231
+uterine fibroid
+BEAS-2B
+HMEC
+selenium
+liter
+cartilage
+distant metastasis free survival
+glioblastoma
+GM12872
+muscle cell
+Okamoto-Aoki
+root
+BT474
+salivary gland
+classical Hodgkin&apos;s lymphoma
+normalization testing design
+B cell derived cell line
+CS57843
+HCC70
+jasmonic acids
+animal ovary
+lymphoblast
+melanoma
+parietal cell
+novobiocin
+lymphocyte
+CS57836
+juvenile days 45-89
+larval day 21-29
+micromole
+neoplasia
+antiemetic
+paracetamol
+in vivo design
+spermathecum
+histamine antagonist
+CS57858
+CS57783
+vein
+femtoliter
+GM07055
+segmentation 1-4 somites
+fetal growth restriction
+biomaterial provider
+CS57835
+cytomegalovirus
+CS57790
+embryonic gonadal ridge
+tomatidine
+129S1/SvImJ
+prostate
+mononuclear cell
+urine
+strain or line design
+root hair
+Archaea
+lithium chloride
+thallus
+vitamin B12 deficiency
+pronephros
+anticholesteremic drug
+rotenone
+GM12891
+CS57716
+petal
+plasmacytoid dendritic cell
+CS57807
+sjogren syndrome
+diffuse large B-cell lymphoma
+129X1/SvJ
+lymph node
+renal cell carcinoma
+HEK293T
+microRNA profiling
+cholinesterase inhibitor
+CS57816
+CS57840
+flavone
+CS57873
+plant fluid
+acute erythroid leukemia
+milliliter per liter
+calcium channel blocker
+month
+cockayne syndrome
+right
+mammary gland
+organ of corti
+environmental factor
+hydroxyurea
+picoliter
+female reproductive system
+microspore
+HCC202
+breast carcinoma
+endometrium
+CS57908
+risk status
+GM11839
+genetic trait
+myocardial infarction
+plant ovary
+cubic centimeter
+1-(2,4-dichlorobenzyl)-1H-indazole-3-carboxylic acid
+embryonic epipharynx
+bone density conservation agent
+precursor
+2,3,7,8-tetrachlorodibenzodioxine
+embryonic corpus cardiacum
+density unit
+number of injections
+micronutrient
+transverse colon
+bladder
+cervical carcinoma
+unit of molarity
+instrument
+adaxial cells
+pneumococos infection
+GM12762
+estrogen receptor modulator
+well-differentiated_liposarcoma
+epilepsy
+time
+leukemia
+clofibrate
+retina
+growth condition design
+B-cell chronic lymphocytic leukemia
+fat tissue
+superior temporal gyrus
+CS57692
+institution
+GM12892
+umbilical cord
+SUM52PE
+amphiprotic solvent
+GM12248
+exposure temperature
+cardiotonic drug
+plant egg
+SUM190PT
+chordotonal organ
+glioma
+auxin
+GM12144
+GM07345
+congenital bilateral absence of the vas deferens
+GM12815
+CS57854
+borderline leprosy
+time unit
+subarachnoid hemorrhage
+CS57735
+topoisomerase II inhibitor
+all-cis-docosa-4,7,10,13,16,19-hexaenoic acid
+gynoecium
+Becker&apos;s muscular dystrophy
+CS57715
+gastrula 50%-epiboly
+epigenetic status
+pars intercerebralis
+chlorpromazine
+bronchoalveolar adenocarcinoma
+puberty
+MDAMB361
+unclassified
+BJABK3
+GM12716
+motexafin gadolinium
+embryonic central nervous system
+occipital lobe
+embryonic structure
+minute
+blastula 128-cell
+caudal
+head and neck squamous cell carcinoma
+cardiovascular drug
+damage response
+cytokinins
+clear cell renal carcinoma
+transcription profiling
+fibromatosis
+exoskeleton
+cardiomyopathy
+lateral shoot meristem
+CS57733
+HMEC S1
+Ewing family tumor
+cardiac myocyte
+hindlimb
+sepsis
+Peyer&apos;s patch
+Huntington&apos;s disease
+disease staging
+trigeminal ganglion
+immune system disease
+knock in expression
+mixed lobular and ductal breast carcinoma
+6alpha-methylprednisolone
+BL41K3
+testosterone
+haemopoietic system
+endometriosis
+descending colon
+tooth
+simian immunodeficiency virus
+gum
+digit
+indomethacin
+electrical current
+area
+HCC1187
+picomole
+inflorescence
+acute myeloid leukemia
+CS57834
+articular cartilage
+cortex
+megakaryocyte progenitor cell
+interneuron
+bleomycin A2
+pigment
+male
+phyllid
+limb-girdle muscular dystrophy
+cervix epithelium
+brain ventricle
+embryonic foregut
+CS57876
+cleavage 4-cell
+chondroblastoma
+bisphenol A
+clear cell sarcoma of the kidney
+dopamine
+idiopathic cardiomyopathy
+blood plasma
+family history design
+glucitol
+CS57923
+CS57701
+nervous system disease
+mass unit
+polycystic ovary syndrome
+medial
+sulindac
+corm
+exercise
+actinomycin D
+nervous system
+trachea
+diencephalon
+MDAMB134VI
+NCI-H929
+CS57691

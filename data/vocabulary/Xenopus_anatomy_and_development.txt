@@ -1,0 +1,774 @@
+otic region
+dermatocranium
+mandibular arch
+lower jaw
+neurocranium
+olfactory region
+branchial arch skeleton 3
+orbital region
+Meckel&apos;s cartilage
+chondrocranium
+develops_from
+branchial arch skeleton 2
+branchial arch skeleton
+branchial arch skeleton 1
+dorsal hyoid arch skeleton
+sphenoid region
+braincase and otic capsule skeleton
+upper jaw
+vertebral column
+sacral vertebra
+caudal vertebra
+cervical vertebra
+presacral vertebra
+postcranial axial skeleton
+transverse process
+urostyle
+hind epipodium
+fore propodium
+hind metapodium
+hind limb skeleton
+hind digit
+femur
+metatarsus
+tibia-fibula
+tarsus
+forelimb skeleton
+humerus
+radio-ulna
+carpus
+fore digit
+metacarpus
+pelvic girdle
+pectoral girdle
+skeletal system
+appendicular skeleton
+hind propodium
+hind limb bud
+hind limb
+forelimb bud
+forelimb
+fore mesopodium
+fore epipodium
+cranial nerve VI
+cranial nerve V
+germ cell
+equatorial belt
+germ line cell
+lymphocyte
+zygote
+B cell
+blastomere
+germ plasm
+embryo
+animal blastomere
+fibroblast
+thymocyte
+vegetal hemisphere
+myoblast
+perivitelline space
+oocyte
+vitelline membrane
+vegetal yolk mass
+polar body
+cortex
+mitochondrial aggregate
+podocyte
+sperm entry point
+animal hemisphere
+germinal vesicle
+anatomical entity in vitro
+activin-induced ectoderm
+disaggregated/reaggregated ectoderm treated with activin
+anatomical system
+roof plate
+olfactory system
+sensory system
+hematological system
+hypophysis
+blood vessel
+adrenal gland
+alimentary system
+capillary
+immune system
+forebrain
+cardiovascular system
+respiratory system
+rectal diverticulum
+vein
+semicircular canal
+gustatory system
+early distal tubule
+urethra
+blood
+endocrine system
+musculoskeletal system
+urogenital system
+telencephalon
+larval immune system
+pronephric nephron
+basilar papilla
+adrenal cortex
+pineal gland
+utricle
+nervous system
+vestibuloauditory system
+diencephalon
+dermal system
+lagena
+visual system
+circulatory system
+inner ear
+external ear
+brain
+thymus
+middle ear
+adult immune system
+lymphatic system
+lateral line system
+adrenal medulla
+midbrain
+esophagus
+artery
+amphibian papilla
+liver and biliary system
+spinal cord
+ureter
+vestibule
+sacculus
+central nervous system
+tympanum
+peripheral nervous system
+trachea
+membranous labyrinth
+bone marrow
+auditory ossicle
+bronchus
+sympathetic chain
+late proximal tubule
+Stirnorgan
+osseous labyrinth
+late distal segment
+auditory tube
+medulla oblongata
+hindbrain
+urinary system
+floor plate
+early proximal tubule
+anatomical group
+joint
+anatomical cluster
+anatomical structure
+acellular anatomical structure
+female organism
+whole organism
+basal lamina
+male organism
+unspecified
+anatomical space
+blastocoel
+blastocoel roof
+medial
+anatomical region
+hindlimb region
+marginal zone (sensu neural)
+tail region
+trunk region
+head region
+ventricular zone
+forelimb region
+distal
+proximal
+anatomical direction
+vegetal
+lateral
+ventro-lateral
+dorsal
+animal
+ventral
+superficial
+deep
+dorso-lateral
+fore metapodium
+hind mesopodium
+death
+end_stage
+secondary vessel
+narrow
+olfactory apparatus
+archencephalic region
+ear placode
+deuterencephalic region
+superficial (epithelial) layer
+neural fold
+pronephric nephron segment S1
+start_stage
+preceded_by
+renal proximal convoluted tubule
+renal distal convoluted tubule
+loop of Henle
+prometamorphosis
+NF stage 57
+NF stage 55
+NF stage 56
+climax
+NF stage 61
+NF stage 63
+NF stage 59
+NF stage 62
+NF stage 66
+NF stage 64
+NF stage 60
+NF stage 65
+NF stage 58
+NF stage 32
+NF stage 33 and 34
+NF stage 35 and 36
+NF stage 37 and 38
+NF stage 39
+NF stage 40
+NF stage 41
+NF stage 42
+NF stage 43
+NF stage 44
+NF stage 45
+NF stage 46
+NF stage 47
+NF stage 48
+NF stage 52
+NF stage 53
+NF stage 51
+NF stage 50
+NF stage 49
+NF stage 54
+metamorphosing tadpole
+juvenile
+premetamorphosis
+unfertilized egg
+unspecified stage
+late tailbud
+NF stage 31
+NF stage 29 and 30
+embryonic stage
+NF stage 5 (16-cell)
+NF stage 11
+NF stage 1
+blastula
+gastrula
+NF stage 21
+tailbud stage
+cleavage
+NF stage 10
+NF stage 26
+NF stage 8
+NF stage 17
+NF stage 28
+NF stage 7
+NF stage 15
+early tailbud
+NF stage 12
+NF stage 6 (32-cell)
+NF stage 6.5
+NF stage 22
+NF stage 10.5
+NF stage 10.25
+NF stage 19
+NF stage 2-
+NF stage 25
+NF stage 3 (4-cell)
+NF stage 2 (2-cell)
+NF stage 24
+NF stage 13
+NF stage 23
+NF stage 20
+NF stage 4 (8-cell)
+NF stage 11.5
+NF stage 12.5
+NF stage 18
+NF stage 9
+NF stage 14
+neurula
+NF stage 27
+NF stage 16
+adult
+tadpole
+Xenopus anatomical entity
+anatomical site
+Xenopus developmental stage
+pronephric capsule
+pronephros
+deep (mesenchymal) layer
+synonym
+cranial nerve IV
+cranial nerve III
+cranial nerve X
+cranial nerve IX
+cranial nerve VIII
+cranial nerve VII
+fourth ventricle
+exact
+cerebellum
+sucker
+larynx
+seminiferous tubule
+cranial nerve
+cranial nerve II
+cranial nerve I
+cephalic nerve
+multi-tissue structure
+compound organ component
+simple organ
+digit
+nostril
+viscus
+pancreas
+heart
+Islets of Langerhans
+liver
+left atrium
+spleen
+endocardium
+small intestine
+bladder
+intestine
+stomach
+large intestine
+epicardium
+pyloric sphincter
+lung
+ileum
+liver parenchyme
+duodenum
+cardiac ventricle
+gall bladder
+capillary system of liver
+myocardium
+right atrium
+colon
+rectum
+exocrine pancreas
+claw
+mouth
+oral cavity
+oral epithelium
+limb
+surface structure
+outer fin
+skin
+ciliated cell
+external gill
+unicellular gland
+inner fin
+dorsal fin
+lower eyelid
+fin
+cement gland
+epidermis outer layer
+melanophore
+cornea
+epidermis inner layer
+limb bud
+appendage
+xanthophore
+iridophore
+epidermis
+dermis
+pigment cell
+trunk
+trunk somite 8
+glomerus
+trunk somite 13
+mesonephric late proximal tubule
+trunk somite 1
+trunk somite 5
+mesonephric kidney
+primary oogonium
+trunk somite 17
+glomerulus
+trunk somite 11
+trunk somite 10
+mesonephric early distal tubule
+mesonephric tubule
+trunk somite
+mesonephric collecting duct
+follicle layer
+trunk somite 12
+trunk somite 4
+trunk somite 16
+follicle cell
+trunk somite 6
+trunk somite 14
+primary spermatogonium
+mesonephric early proximal tubule
+trunk somite 2
+trunk somite 7
+mesonephric nephron
+mesonephric late distal segment
+trunk somite 15
+ovary
+trunk somite 9
+trunk somite 3
+gonad
+testis
+tail
+tail somite
+neuron
+Rohon-Beard neuron
+head
+sclera
+iris
+retina
+pigment layer
+ciliary marginal zone
+pharyngeal arch
+lens
+choana
+branchial arch 3
+tongue
+globe
+branchial arch 4
+pupil
+retinal layer
+branchial arch 2
+eye
+branchial arch 1
+conjunctiva
+branchial arch
+ciliary body
+hyoid arch
+spinal cord neuron
+secondary spermatogonium
+spermatocyte
+spermatid
+spermatozoon
+stem cell
+hematopoietic stem cell
+anterior
+posterior
+larval structure
+fat body
+dorsal lateral plate region
+oviduct
+Keller explant
+epithelium
+pharyngeal epithelium
+larval aorta
+hepatic vein
+arterial endothelium
+notochordal epithelium
+venous endothelium
+gastric vein
+mesentery
+internal jugular
+occipitovertebral artery
+anterior cardinal vein
+arteria mesenterica posterior
+posterior vena cava
+lateral postcardinal vein
+anterior lymph sac
+peritoneum
+mesonephric sinus
+musculoabdominal vein
+pulmonary vein
+dental epithelium
+anterior palatine artery
+dorsal aorta
+omphalomesenteric vein
+cardinal vein
+vascular endothelium
+tail vein
+internal carotid artery
+caudal artery
+arteria iliaca communis
+medial cardinal vein
+dorsal lymph space
+coelomic epithelium
+pronephric sinus
+gut epithelium
+portal vein
+interrenal vein
+posterior lymph heart
+arteria subclavia
+coeliaco-mesenteric artery
+duct of Cuvier
+lymph vessel
+cerebral artery
+posterior cardinal vein
+anterior lymph heart
+caudal vein
+medial abdominal vein
+subinterstitial vein
+opthalmic artery
+external jugular
+mesenchyme
+primordium
+ventral pancreatic bud
+second pancreatic bud
+dorsal pancreatic bud
+eye primordium
+thyroid primordium
+thyroid
+gill primordium
+infraorbital lateral line primordium
+hypophyseal primordium
+posterior palatine artery
+mouth primordium
+endocardial tube
+fused heart primordium
+right spleen primordium
+aortic arch 1
+external carotid artery
+stomodeal-hypophyseal primordium
+aortic arch 4
+infraorbital lateral line
+first pancreatic bud
+aortic arch 3
+lung primordium
+ventral aorta
+cement gland primordium
+aortic arch
+choroid fissure
+hyomandibular lateral line
+Rathke&apos;s pouch
+aortic arch 2
+aortic arch 6
+left channel of ventral aorta
+left spleen primordium
+right channel of ventral aorta
+eye vesicle
+aortic arch 5
+optic stalk
+endomesoderm
+adipose tissue
+nerve
+spinal nerve
+peripheral nerve
+egg
+compound organ
+solid compound organ
+cavitated compound organ
+embryonic structure
+head somite 4
+myotome of trunk somite 3
+visceral pouch
+cardiac mesoderm
+marginal zone
+visceral pouch 4
+myotome of trunk somite 13
+ventral marginal zone
+trigeminal placode
+proctodeum
+myotome of trunk somite 7
+foregut
+dermatome
+head somite 1
+lower blastopore lip
+sclerotome of trunk somite 10
+myotome of trunk somite 11
+visceral pouch 6
+visceral pouch 5
+animal cap inner layer
+epithelial body
+anterior neural fold
+epibranchial placode
+neurocoel
+myotome of trunk somite 4
+primary germ layer
+sclerotome of trunk somite 4
+myotome of trunk somite 17
+olfactory organ
+axial mesoderm
+sclerotomal cartilage
+trunk placode
+trigeminal ganglion
+tendon
+otic placode
+myotome of head somite 2
+nasal pit
+hatching gland
+sclerotome of trunk somite 1
+pronephric mesenchyme
+sclerotome of trunk somite 16
+sclerotome of trunk somite 15
+visceral pouch 3
+female genitalia
+sclerotome of trunk somite 6
+sclerotome of trunk somite 14
+myotome of trunk somite 14
+hindgut
+neuroectoderm
+myotome
+hyoid crest
+skeletal muscle
+notochord
+non-involuting marginal zone
+myotome of trunk somite 12
+myotome of trunk somite 1
+dorsal marginal zone
+sclerotome of trunk somite 3
+intermediate mesoderm
+myotome of trunk somite 16
+sclerotome of trunk somite 2
+myotome of trunk somite 15
+male genitalia
+oral evagination
+circumblastoporal collar
+sclerotome of trunk somite 13
+somite
+lens placode
+involuted dorsal mesoderm
+involuted ventral mesoderm
+hepato-pancreatic duct
+myotome of trunk somite 5
+paraxial mesoderm
+biliary tree
+parathyroid
+neural groove
+elastica externa
+middle lateral line
+posterior neural tube
+occipital lateral line
+olfactory placode
+ectoderm
+myotome of trunk somite 6
+prechordal plate
+anterior neural tube
+Mullerian duct
+tail bud
+supraorbital lateral line
+neuroectoderm inner layer
+myotome of trunk somite 9
+head somite 3
+myotome of trunk somite 2
+sclerotome of trunk somite 9
+blood island
+animal cap outer layer
+chordal neural plate
+myotome of head somite 1
+sclerotome of trunk somite 17
+lateral line placode
+profundus ganglion
+involuting marginal zone epithelial layer
+dorso-lateral marginal zone
+mesonephric duct
+myotome of trunk somite 8
+head somite
+mesoderm
+splanchnic layer of lateral plate mesoderm
+branchial crest
+liver diverticulum
+sclerotome of trunk somite 8
+bile duct
+myotome of head somite 3
+caudal lateral line
+visceral pouch 1
+sclerotome
+myotome of trunk somite 10
+vegetal part, early involuting
+sclerotome of trunk somite 11
+sclerotome of trunk somite 5
+sclerotomal mesenchyme
+head mesoderm
+involuting marginal zone mesenchymal layer
+myotome of head somite 4
+involuting marginal zone
+sensorial layer of neurectoderm
+hypochord
+head endoderm
+animal part, late involuting
+gasserian ganglion
+dorsal lateral line
+visceral pouch 2
+posterior wall of NEC
+taste bud
+cranial placode
+presomitic mesoderm
+pre-chordal neural plate
+mesonephric mesenchyme
+genital system
+chordoneural hinge
+dorsolateral placode
+animal cap
+notoplate
+sclerotome of trunk somite 7
+smooth muscle
+neural plate
+endoderm
+midgut
+head somite 2
+cranial neural crest
+neural tube
+pronephric kidney
+notochordal sheath
+trunk neural crest
+genital ridge
+otic vesicle
+sensorial layer
+archenteron roof
+neuroectoderm outer layer
+glomus
+broad
+part_of
+cranium
+related
+tooth
+suspensorium
+branchial arch skeleton 4
+hyoid arch skeleton
+splanchnocranium
+is_a
+ventral hyoid arch skeleton
+occipital region
+central endoderm
+pronephric duct
+post-anal gut
+Jacobson&apos;s organ
+blastopore lip
+auditory apparatus
+ultimobranchial body
+cloaca
+neural crest
+hypobranchial placode
+sclerotome of head somite 4
+ventro-lateral marginal zone
+ventral lateral line
+somatic layer of lateral plate mesoderm
+tendon fibroblast
+bottle cell
+midbrain-hindbrain boundary
+lateral plate mesoderm
+upper blastopore lip
+pharyngeal cavity
+glomeral mesenchyme
+myocoelic slit
+trunk lateral line
+sclerotome of trunk somite 12
+archenteron
+coelomic filter chamber
+blastopore
+mandibular crest
+nephrostome
+archenteron floor
+portion of tissue
+cartilage
+ganglion
+chondrocyte
+portion of connective tissue
+spinal ganglion
+facial muscle
+bone
+muscle
+cranial ganglion
+alt_id
+aorta
+organism subdivision
+cell
+natural killer cell
+primordial germ cell
+fasciculated network of fibrils
+abdominal myoblast
+T cell
+secondary oogonium
+gamete
+vegetal blastomere
+blastocoel anlage

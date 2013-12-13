@@ -1,0 +1,301 @@
+alt_id
+fermentative growth
+anaerobic growth
+respiratory growth
+growth in exponential phase
+growth in post-diauxic phase
+cell death
+apoptosis
+develops_from
+part_of
+necrotic cell death
+is_a
+endomembrane system morphology
+endoplasmic reticulum morphology
+vacuolar morphology
+Golgi morphology
+nucleolar morphology
+peroxisomal morphology
+nuclear morphology
+endoplasmic reticulum distribution
+vesicle distribution
+Golgi distribution
+narrow
+related
+exact
+synonym
+broad
+nutrient uptake
+respiratory metabolism
+petite
+mitochondrial genome maintenance
+oxidative phosphorylation
+petite-negative
+mitochondrial rho- mutation frequency
+fermentative metabolism
+respiratory growth rate
+vegetative growth
+survival rate in stationary phase
+growth rate in post-diauxic phase
+growth rate in exponential phase
+nuclear export
+peroxisomal transport
+protein transport
+protein secretion
+mitochondrial transport
+nuclear import
+nuclear transport
+vacuolar transport
+recovery from pheromone-induced cell cycle arrest
+pheromone-induced cell cycle arrest
+utilization of phosphorus source
+actin cytoskeleton morphology
+bud direction
+cell cycle arrest in M phase
+nuclear position
+other mutant type
+normal
+normal duration
+normal rate
+large-scale survey
+homozygous diploid, large-scale survey
+heterozygous diploid, competitive growth
+heterozygous diploid, systematic mutation set
+heterozygous diploid, large-scale survey
+homozygous diploid, competitive growth
+competitive growth
+homozygous diploid, systematic mutation set
+systematic mutation set
+other method
+inviable
+viable
+competitive fitness
+viability
+systematic repressible mutation set
+heat sensitivity
+cold sensitivity
+protein/peptide accumulation
+cell cycle arrest in G0 (stationary phase)
+critical cell size at START (G1 cell-size checkpoint)
+critical cell size at G2/M (cryptic G2/M cell size checkpoint)
+chromosome/plasmid maintenance
+mitotic recombination
+mutation frequency
+chromosome segregation
+telomere length
+silencing
+transposable element transposition
+cell cycle arrest in early anaphase
+cell cycle arrest in mid anaphase
+cell cycle arrest at the metaphase - anaphase transition
+cell cycle arrest in anaphase
+cell cycle arrest in late anaphase
+cell cycle arrest in telophase
+RNA localization
+cell cycle arrest in metaphase
+small molecule transport
+protein/peptide modification
+Biochemical Activity
+Affinity Capture-Western
+interactions
+Synthetic Haploinsufficiency
+Affinity Chromatography
+Affinity Capture-RNA
+Co-fractionation
+Far Western
+genetic interactions
+Co-purification
+Phenotypic Suppression
+Dosage Growth Defect
+Phenotypic Enhancement
+Reconstituted Complex
+Co-localization
+Synthetic Growth Defect
+PCA
+Co-crystal Structure
+physical interactions
+Biochemical Assay
+Synthetic Rescue
+Purified Complex
+Protein-peptide
+FRET
+Affinity Precipitation
+Affinity Capture-MS
+Synthetic Lethality
+Dosage Rescue
+Dosage Lethality
+Two-hybrid
+Epistatic MiniArray Profile
+Protein-RNA
+multiple
+hyphal growth
+haploinsufficient
+null heterozygous diploid
+null homozygous diploid
+utilization of iron source
+fermentative growth rate
+biofilm formation
+culture appearance
+colony size
+colony color
+colony sectoring
+colony appearance
+liquid culture appearance
+flocculation
+colony shape
+mating type switching
+chitin deposition
+phenotype assays
+classical genetics
+heterozygous diploid
+homozygous diploid
+resistance to enzymatic treatment
+ionizing radiation resistance
+X ray resistance
+gamma ray resistance
+UV resistance
+mating projection morphology
+chemical compound excretion
+RNA accumulation
+cell cycle arrest in S phase
+subcellular morphology
+cytoskeleton morphology
+lipid particle morphology
+spindle morphology
+septum formation
+mitochondrial morphology
+cell wall morphology
+position of spindle pole body
+dominant negative
+utilization of sulfur source
+bud morphology
+anaerobic growth rate
+redox state
+size of nucleus
+essentiality
+fitness
+toxin resistance
+killer toxin resistance
+anaerobic metabolism
+protein/peptide distribution
+ionic stress resistance
+hyperosmotic stress resistance
+homozygous diploid
+heterozygous diploid
+acid pH resistance
+budding pattern
+bipolar budding pattern
+axial budding pattern
+hypoosmotic stress resistance
+alkaline pH resistance
+cell cycle progression in anaphase
+cell cycle progression in late anaphase
+cell cycle progression in early anaphase
+cell cycle progression in mid anaphase
+cell cycle progression in metaphase
+cell cycle progression in telophase
+cell cycle progression in S phase
+entry into G0 (stationary phase)
+exit from G0 (stationary phase)
+cell cycle progression through the G1/S phase transition
+arrested
+cell cycle progression
+cell cycle progression through the G2/M phase transition
+cell cycle progression in G1 phase
+cell cycle passage through START
+cell cycle progression in G2 phase
+cell cycle passage through the metaphase-anaphase transition
+cell cycle progression in M phase
+premature
+mitophagy
+freeze-thaw resistance
+increased duration
+delayed
+decreased rate
+increased rate
+decreased duration
+pexophagy
+cell cycle arrest at the G2/M phase transition
+vacuolar distribution
+organelle distribution
+mitochondrial distribution
+peroxisomal distribution
+prion loss
+prion state
+prion formation
+prion inheritance
+RNA modification
+protein activity
+development
+virulence
+meiotic recombination
+pheromone production
+sporulation
+pheromone sensitivity
+haploid invasive growth
+mating efficiency
+lifespan
+spore wall formation
+budding
+filamentous growth
+sexual cycle
+sporulation efficiency
+spore germination
+pseudohyphal growth
+meiosis
+cell fusion
+nuclear fusion during mating
+sterile
+budding index
+mating response
+shmoo formation
+null
+repressible
+gain of function
+unspecified
+not yet recorded
+reduction of function
+conditional
+systematic null mutation set
+observable
+nutrient utilization
+cellular morphology
+metabolism and growth
+radiation resistance
+resistance to chemicals
+cellular processes
+mitotic cell cycle
+temperature sensitive growth
+autophagy
+oxidative stress resistance
+auxotrophy
+bud neck morphology
+utilization of nitrogen source
+cell shape
+osmotic stress resistance
+morphology
+metal resistance
+intracellular transport
+chemical compound accumulation
+cytokinesis
+stress resistance
+endocytosis
+cell size
+thermotolerance
+starvation resistance
+utilization of carbon source
+experiment_type
+qualifier
+increased
+decreased
+abnormal
+absent
+mutant_type
+misexpression
+activation
+overexpression
+drug resistance
+cell cycle arrest
+cell cycle arrest at START
+cell cycle arrest at G2 phase
+cell cycle arrest in G1 phase

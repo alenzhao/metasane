@@ -1,0 +1,37 @@
+vehicle-borne medical
+related
+tick borne
+develops_from
+mosquito borne
+Anopheles gambiae borne
+is_a
+part_of
+arthropod borne
+flea borne
+insect borne
+arachnid borne
+vehicle-borne
+vehicle-borne fomite
+vehicle-borne ingestion
+droplet spread
+vector-borne
+Dracunculus medinensis borne
+vector-borne bite
+vector-borne gastro-intestinal
+copepod borne
+mechanical
+undocumented
+contact
+placental
+direct
+congenital
+exact
+alt_id
+narrow
+airborne
+synonym
+unknown
+broad
+transmission process
+indirect
+not curated

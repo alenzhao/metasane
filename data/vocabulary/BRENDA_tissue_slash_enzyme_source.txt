@@ -1,0 +1,2525 @@
+Morris hepatoma 7777 cell
+neutrophil
+polymorphonuclear leukocyte
+develops_from
+part_of
+is_a
+skin fibroblast cell line
+mesonephron
+related
+metanephron
+DRV
+malpighian tubule
+chorioallantois
+yolk sac cancer cell
+harderian gland
+neuroblastoma cell
+ganglioneuroma cell
+ganglioglioma cell
+ganglioneurofibroma cell
+neuroblastoma cell line
+corpus cavernosum
+corpus cavernosum penis
+corpus cavernosum clitoridis
+gill
+gill raker sieve
+gill filament
+gill raker
+acute myeloid leukemia cell line
+ML-2 cell
+NB-4 cell
+ML-1 cell
+mitral cell
+longissimus
+longissimus capitis
+longissimus cervicis
+longissimus thoracis
+longissimus lumborum
+endocuticle
+smooth muscle
+stomach smooth muscle
+umbilical vein epithelium
+tracheal smooth muscle
+detrusor
+aorta thoracica smooth muscle
+umbilical smooth muscle
+iris smooth muscle
+iris dilator muscle
+urinary bladder smooth muscle
+arterial smooth muscle
+respiratory smooth muscle
+gizzard smooth muscle
+myometrium
+intestinal muscle
+umbilical artery endothelium
+vascular smooth muscle cell
+umbilical artery
+myenteron
+aortic smooth muscle
+iris sphincter muscle
+vascular smooth muscle
+leiomyosarcoma cell
+intersegmental muscle
+gall bladder
+gall bladder epithelium
+bile
+REL
+venom sac
+adipose tissue
+preadipocyte
+fat pad
+fat body
+adipose
+brown adipose tissue
+white adipose tissue
+adipocyte
+liver cancer cell
+Novikoff ascites tumor cell
+hepatoblastoma cell
+Morris hepatoma cell
+Morris hepatoma 7316A cell
+hepatoma ascites cell
+Novikoff hepatoma cell
+hepatoma cell
+Morris hepatoma 3924A cell
+subcutis
+peritubular cell
+vestimentum
+NC37 cell
+SGS cell
+HR-3Y1 cell
+EAhy 926 cell
+CACO-2 cell
+eye
+chamber of the eye
+tear gland
+retinal cone
+ocellus
+vitreous humor
+mesenchymal epithelium
+extraocular muscle
+reticulum trabeculare
+compound eye
+ciliary epithelium
+lens nucleus
+iris
+lens
+corneal epithelium
+ciliary muscle
+ommatidium
+sclera
+lens epithelium
+interphotoreceptor matrix
+retinal rod
+ciliary body
+lens fiber
+retina
+vitreous chamber of the eye
+anterior chamber of the eye
+lens cortex
+retinal ganglion cell
+posterior chamber of the eye
+photoreceptor
+cornea
+choroid
+retinal pigment epithelium
+tapetum lucidum
+optic nerve
+CEM cell
+lung cancer cell
+lung cell line
+Pt-K2 cell
+PG-BE1 cell
+oral cancer cell
+kidney tumor cell
+midgut cell line
+amniotic fluid
+archenteron
+DON cell
+urothelial cell line
+LLC-RK1 cell
+synonym
+venom
+cytotrophoblastic cell
+fibroblastoma cell
+Krebs ascites cell
+Krebs II ascites cell
+HUVEC cell
+bronchoalveolar lavage
+gastrointestinal cancer cell
+H9c2 cell
+fibroma cell
+CF-203 cell
+PK-15 cell
+feces
+kidney cell line
+Pt-K1 cell
+HEK-293T cell
+MDCK cell
+MDBK cell
+KMST-6 cell
+KMST-6/T cell
+rosette
+PG-CL3 cell
+myoblast cell line
+plant
+cell suspension culture
+logarithmic phase culture
+mycorrhiza
+death phase culture
+culture fluid
+other source
+growth phase culture
+macroplasmodium
+sorocarp
+ectomycorrhiza
+culture medium
+myotube
+urine
+midgut secretion
+pharyngeal cell line
+bronchial cancer cell
+water vascular system
+ampulla
+osteogenic cell line
+anaplastic large cell lymphoma cell
+P-1798 cell
+HUT-78 cell
+L-5178-Y cell
+U-937 cell
+DHL-9 cell
+S49 cell
+SAKRTLS 12.1 cell
+thymus lymphoma cell line
+EL4 cell
+BW/T200- cell
+Burkitt lymphoma cell line
+gastric juice
+NIH-3T3-G185 cell
+meningioma cell
+BL-60 cell
+lymphoma cell
+tetrad of microspores
+JURKAT E-6.1 cell
+rectal cell line
+rectal cancer cell
+broad
+WIL-2 cell
+WIL2-S cell
+WIL2-NS cell
+lymphoblastoma cell
+digestive juice
+milk fat
+neurofibrillary tangles
+HT-29-MTX cell
+3T3-F442A cell
+mesothelioma cell
+B-lymphocyte cell line
+BM-1604 cell
+pancreatic beta cell line
+CX-1 cell
+Pro-5 cell
+CHO-K1 cell
+Lewis lung carcinoma cell
+breast cell line
+myeloid cell line
+histiocytic lymphoma cell
+B-cell lymphoma cell
+neuronal cell line
+pre-B-lymphocyte cell line
+wart
+dermal papilla
+NRK cell
+NRK-49F cell
+YZI-1S cell
+vascular endothelial cell line
+HPEC cell
+KS-IMM cell
+HTC cell
+leukemia cell
+myelomonocytic leukemia cell
+monocytic leukemia cell
+eosinophilic leukemia cell
+pre-B leukemia cell
+lymphocytic leukemia cell
+hairy cell leukemia cell
+myelocytic leukemia cell
+rhabdomyosarcoma cell line
+HTB-82 cell
+osteomalacia cell
+oncogenic osteomalacia cell
+senile osteomalacia cell
+renal tubular osteomalacia cell
+HLE B-3 cell
+alphaTN4-1 cell
+germ cell cancer cell
+embryoid body
+allantoic fluid
+CAL-33 cell
+colostrum
+bone cell line
+hemocyte cell line
+CEM-VLB100 cell
+ileal lavage
+syncytiotrophoblast
+CHRB30 cell
+medulloepithelioma cell
+laryngeal cell line
+urinary bladder cancer cell line
+T-24 cell
+J-82 cell
+anaplastic astrocytoma cell
+Schwann cell line
+hepatoma cell line
+Yoshida AH-66 cell
+hepatoma ascites cell line
+FAZA cell
+Hep-G2 cell
+M22 cell
+McA-RH7777 cell
+MH-7777A cell
+H35 cell
+AS-30D cell
+MH1C1 cell
+HuH-7 cell
+HuH-6 cell
+Reuber H-35 cell
+HEP-3B cell
+JTC-15 cell
+MH134 cell
+HLE cell
+H-II-E-C3 cell
+N1-S1 cell
+Yoshida ascites hepatoma cell line
+hepatoblastoma cell line
+MEL-HO cell
+PPC-1 cell
+esophageal cancer cell
+hatching liquid
+Burkitt lymphoma cell
+aorta cell line
+adrenocortical carcinoma cell
+ink
+pancreatic ductal carcinoma cell
+carcinoid cell
+ileal carcinoid cell
+neuroendocrine tumor cell
+ascites tumor cell
+YMB-1 cell
+nasal polyp
+adrenal cortex cell line
+macrophage
+histiocyte
+peritoneal macrophage
+macrophage cell line
+glioma cell
+blastula
+cytotrophoblast
+trophoblast
+extravillous trophoblast
+gastrula
+LLC-PK1 cell
+CHO cell
+sputum
+IDH4 cell
+keratinocyte cell line
+HaCaT cell
+NHK cell
+choriocarcinoma cell
+chorionic cell line
+gastric cancer cell
+protoxylem
+protophloem
+fibre tract
+NT2/D1 cell
+dorsal lip
+spermatid
+breast cancer cell
+Ehrlich tumor carcinoma cell
+breast cancer cell line
+abalone digestive gland cell line
+tongue cell line
+XD-6 cell
+Oc cell
+nectar
+honey
+mesothelioma cell line
+MSTO-211H cell
+GLC-4/MITO cell
+GLC-4/CDDP cell
+GLC-4/ADR cell
+HS-68 cell
+tongue cancer cell line
+CAL-27 cell
+FAO cell
+endophytic retinoblastoma cell
+retinoblastoma cell
+exophytic retinoblastoma cell
+A3 cell
+MEL-JUSO cell
+megakaryocytic cell line
+LOX cell
+Dami cell
+blastomere
+morula
+brain cancer cell
+deciduoma cell
+plasmacytoma cell
+plasmacytoma cell line
+MOPC-315 cell
+N-27 cell
+astrocytoma cell
+medulloblastoma cell
+pilocytic astrocytoma cell
+FM3A cell
+Y-1 cell
+ND-1 cell
+prostate cancer cell line
+NRP-154 cell
+DU-145 cell
+LNCAP cell
+ALVA-41 cell
+15PC3 cell
+PC-12 cell
+RPMI-7931 cell
+RKO-E6 cell
+intestinal juice
+digestive gland cell line
+MDA-MB-453 cell
+CEM-VCR R cell
+Colo-720L cell
+amniotic cell line
+WISH cell
+DAUDI cell
+excretion
+teratocarcinoma cell
+Mel Wei cell
+PNT-2 cell
+endothelial cell line
+prostate epithelium cell line
+lymphoblastoid cell line
+duodenal juice
+MOPC-104E cell
+floor plate
+blastopore
+hybridoma cell
+T-lymphocyte cell line
+pitcher secretion
+Mel Ei cell
+NR-6 cell
+RAJI cell
+electroplax
+myoma cell
+milk
+testicular cancer cell
+testicular cancer cell line
+blood clot
+blood cancer cell
+IC-21 cell
+BHK cell
+BHK-21 cell
+BHK 165-23 cell
+PG-LH7 cell
+PBMC cell line
+cytotoxic T-lymphocyte cell line
+neural tube
+neural crest
+C-127 cell
+BT-474 cell
+BT-20 cell
+LLC-WRC 256 cell
+MDA-MB-468 cell
+MRK-nu-1 cell
+CAL-51 cell
+MOPC-173 cell
+HS-294 cell
+RKO-AS-45-1 cell
+melanoma cell line
+HT-144 cell
+MEB-4 cell
+Mel Im cell
+Mel Ju cell
+rectal cancer cell line
+HRT-18 cell
+mucinous cystadenoma cell
+C-33A cell
+CHOP cell
+skeletal muscle cancer cell
+liver cell line
+OC/CDE22 cell
+BRL cell
+pancreatic cancer cell line
+MiaPaCa-2 cell
+MiaPaCa cell
+B-lymphoblastoid cell line
+SKW6.4 cell
+pericardium
+preadipocyte cell line
+C2C12 cell
+XLT-15 cell
+fibroblast cell line
+L-929 cell
+L-cell
+PC-12D cell
+saliva
+juxtaglomerular tumor cell
+melanoma cell
+Alzheimer specific cell type
+skin cancer cell
+colorectal cancer cell
+colorectal cell line
+hemangioendothelioma cell
+bronchogenic carcinoma cell
+synovia
+cervical cancer cell line
+BPH-1 cell
+eccrine sweat gland
+alveolar cell type II
+medial septum
+blastocyst
+primitive endoderm
+germinal disc
+ectoplacental cone
+preputial gland tumor cell
+laryngeal cancer cell
+pons
+apocrine gland
+scent gland
+apocrine sweat gland
+apocrine cell
+culture condition:cytosine-grown cell
+MFM-223 cell
+sympathetic ganglion
+superior cervical ganglion
+cervical ganglion
+middle cervical ganglion
+inferior cervical ganglion
+vertebral ganglion
+stellate ganglion
+thoracic ganglion
+Mono-Mac-6 cell
+marrow cell
+erythroblast
+germ layer
+endoderm
+mesoderm
+ectoderm
+neural plate
+myotome
+somite
+mesenchyme
+culture condition:2,5-dihydroxybenzoate-grown cell
+culture condition:light-grown cell
+carcinoma cell line
+breast adenocarcinoma cell line
+CMT93/69 cell
+HeLa cell
+AsPC-1 cell
+adenocarcinoma cell line
+KLN205 cell
+GLC-4 cell
+giant cell carcinoma cell line
+CAOV-3 cell
+AGS cell
+RAG cell
+lung squamous cell carcinoma cell line
+SU.86.86 cell
+H69 cell
+OVCAR-5 cell
+PG cell
+A-549 cell
+lung cancer cell line
+NCI-H661cell
+Lewis lung carcinoma cell line
+95D cell
+MKN-45 cell
+BxPC-3 cell
+NCI-H157 cell
+MDA-MB-231 cell
+HMCB cell
+chorionic villus
+B-16 cell
+culture condition:formate-grown cell
+pituitary gland tumor cell
+adenohypophysis tumor cell
+epithelioma cell
+colonic adenocarcinoma cell
+nasopharynx carcinoma cell
+Brown Pearce carcinoma cell
+pancreatic cancer cell
+insulinoma cell
+Ehrlich Lettre ascites carcinoma cell
+renal cell carcinoma cell
+adenocarcinoma cell
+gastric adenocarcinoma cell
+duodenal adenocarcinoma cell
+bronchioalveolar carcinoma cell
+papilloma cell
+colorectal adenocarcinoma cell
+carcinoma cell
+giant cell carcinoma cell
+prostate adenocarcinoma cell
+glucagonoma cell
+medullary carcinoma cell
+lung adenocarcinoma cell
+breast carcinoma cell
+culture condition:succinate-grown cell
+fetus
+amniochorion
+pes anserinus
+iliopsoas muscle
+adductor longus
+flexor
+twitch muscle
+columnella muscle
+flexor digitorum longus
+skeletal muscle fiber
+slow muscle
+thigh muscle
+abdominal muscle
+fast twitch muscle fiber
+head muscle
+soleus
+slow twitch muscle fiber
+adductor
+extensor digitorum brevis
+tendon sheath
+foot muscle
+tibialis anterior
+myocardium
+extensor
+byssus
+masseter
+cardiac Purkinje fiber
+cardiac Purkinje cell
+tibialis
+tail muscle
+gluteal muscle
+extensor digitorum longus
+synovium
+semitendinosus
+tail fin
+culture condition:citrate-grown cell
+bronchial epithelial cell line
+HBE-1 cell
+pancreatic PP cell
+culture condition:acetylacetone-grown cell
+spleen
+dendritic cell
+splenocyte
+HB611 cell
+epicuticle
+basal cell carcinoma cell
+sweat gland
+sweat
+GFSHR-17 cell
+culture condition:L-ribose-grown cell
+T-cell leukemia cell
+acute lymphoblastic leukemia cell
+B-cell acute lymphoblastic leukemia cell
+pre-B acute lymphoblastic leukemia cell
+T-cell acute lymphoblastic leukemia cell
+chronic lymphocytic leukemia cell
+alveolar bone
+CCP-8 cell
+cardia
+MPC-11 cell
+fungus form
+slug stage
+prespore
+aggregation stage
+microplasmodium
+claw
+bud
+lung bud
+tail bud
+limb bud
+bronchial bud
+vascular bud
+liver bud
+ureteric bud
+submandibular gland
+leg
+fibula
+tube foot
+thigh
+foot
+secondary root
+umbilical vein endothelial cell line
+red bone marrow
+ATDC-5 cell
+P-19 cell
+BA/F3 cell
+pre-B leukemia cell line
+vascular system
+pericyte
+vascular cancer cell
+T-lymphoblastic leukemia cell line
+MOLT-3 cell
+CCRF-CEM cell
+PEER cell
+allantois
+vomeronasal nerve
+chorion
+amniotic cavity
+umbilical vein
+amnion
+umbilical cord
+fetal membrane
+amniocyte
+MOLT-4 cell
+RPMI-8402 cell
+MOLT-4F cell
+JURKAT cell
+peptic chief cell
+exodermis
+Lec15.1 CHO cell
+nose
+olfactory organ
+nasal vestibule
+olfactory gland
+microspore
+pollen
+WEGLI18 cell
+aerial root
+PR cell
+vascular smooth muscle cell line
+TX3868 cell
+P-388 cell
+culture condition:L-serine-grown cell
+teratocarcinoma cell line
+F9 cell
+NTERA-2 cell
+shoot tip
+tela submucosa tracheae
+siphon
+gut
+posterior midgut
+hindgut
+anterior midgut
+hepatopancreas
+midgut
+myeloblast
+myelocyte
+IMR-90 cell
+BSC-40 cell
+3T3-L1 cell
+laticifer
+adenoid
+INS-1 cell
+Kc cell
+hepatic osteomalacia cell
+RBL-2H3 cell
+metatarsal bone
+bacteroid
+tissue culture
+kidney tumor cell line
+OS-RC-2 cell
+glottis
+culture condition:p-toluate-grown cell
+intraocular melanoma cell
+NRK-52E cell
+osteosarcoma cell line
+SAOS-2 cell
+HuO-3N1 cell
+HOS-TE85 cell
+B16-F10 cell
+pancreatic islet cancer cell
+gastrinoma cell
+tetrad of pollen
+basophilic leukemia cell line
+culture condition:myoinositol-grown cell
+MDA-MB-435 cell
+T-98G cell
+head
+ear
+salivary gland
+cephalothorax
+dental pulp
+incisor
+cheek pouch
+sublingual gland
+external ear
+tongue
+hypopharynx
+labial gland
+mandibular organ
+mandibular incisor
+stria vascularis
+cheek
+crop
+pharyngeal cavity
+palpus
+invertebrate mandible
+saccule
+vestibular labyrinth
+pharyngeal mucosa
+parotid gland
+tooth enamel
+antler
+lip
+antenna
+vallate papilla
+eyelid
+radula
+cochlear duct
+molaris
+spiral organ
+inner ear
+palate
+mouth
+antennal gland
+modiolus
+nasopharynx
+pharynx
+gingiva
+periodontal ligament
+periodontium
+tentacle
+odontoblast
+cochlea
+proboscis
+tooth
+Aristotle&#65533;s lantern
+utricle
+middle ear
+CTLL-2 cell
+reticuloendothelial system
+bone marrow cell line
+CCP-7 cell
+FDCP-Mix cl.A4 cell
+FDCP-1 cell
+megakaryotic cell line
+C6 cell
+T-47D cell
+F28-7 cell
+HS776T cell
+intestine
+colon sigmoideum
+colon transversum
+intestinal gland
+rectum
+small intestine
+cecum
+ileocecum
+anal canal
+left colon
+intestinal wall
+colorectum
+colon
+duodenal mucosa
+duodenum
+crypt
+ileal mucosa
+intestinal mucosa
+duodenal gland
+rectal gland
+colon descendens
+ink gland
+cecum mucosa
+ileum
+Peyer&apos;s gland
+vermiform appendix
+large intestine
+type II intestinal metaplasia specific cell type
+intestinal cancer cell
+metacestode
+protoscolex
+A10 cell
+calcaneal bone
+ovary cancer cell line
+PA-1 cell
+culture condition:alkane-grown cell
+style
+spike
+spadix
+cob
+spikelet
+culture condition:beta-aminoisobutyrate-grown cell
+acute myeloid leukemia cell
+promyelocytic leukemia cell
+dental plaque
+sebaceous gland
+sebum
+culture condition:cyclohexanol-grown cell
+C81-61 cell
+exocuticle
+culture condition:4-hydroxyphenylacetate-grown cell
+Tay-Sachs disease specific cell type
+HT-29 G cell
+culture condition:veratryl alcohol-grown cell
+culture condition:anaerobically-grown cell
+3Y1-B clone 1 cell
+SR-3Y1 cell
+blastema
+hematopoietic cell
+Th2-cell
+myeloid cell
+thymocyte
+peripheral blood mononuclear cell
+pre-B-lymphocyte
+Kurloff cell
+phagocyte
+pre-T-lymphocyte
+cytotoxic T-cell
+T-lymphocyte
+Th1-cell
+mononuclear cell
+erythrocyte
+ghost
+megakaryocyte
+leukocyte
+T-lymphoblast
+B-lymphocyte
+hemocyte
+reticulocyte
+lymphoblast
+lymphocyte
+B-lymphoblast
+hematopoietic cell line
+gastric cell line
+gastric cancer cell line
+SGC-7901 cell
+KATO-III cell
+EBTr (NBL-4) cell
+mbn-2 cell
+berry
+non-small cell lung cancer cell
+large cell carcinoma cell
+plant tumor tissue
+hybridoma cell line
+peritoneal dialysis fluid
+AR4-2J cell
+primary cell line
+GLHR-15 cell
+POGRS-1 cell
+granulosa cell line
+POGS-5 cell
+COS-1 cell
+distal tubule
+aerial part
+culture condition:collagen-grown cell
+bladder
+urinary bladder
+bladder wall
+urothelium
+urinary bladder epithelium
+cholangiocarcinoma cell
+nauplius
+secondary spermatocyte
+PC-3 cell
+culture condition:sulfate-grown cell
+chondroclast
+MCF-10A cell
+colonocyte
+MM46 cell
+nerve plexus
+peripheral blood
+glioma cell line
+HS-683 cell
+U-251 MG cell
+sporangiospore
+HMEpC cell
+184B5 cell
+embryonic cell line
+embryonic carcinoma cell line
+embryonic fibroblast cell line
+HEK-293 cell
+WI-38 cell
+BALB/3T12-3 cell
+BALB/3T3 cell
+SCHNEIDER-2 cell
+MC3T3-E1 cell
+KMS-6 cell
+embryonic stem cell line
+A7r5 cell
+IIC9 cell
+EUE cell
+REF-52 cell
+whole plant
+shoot
+root
+inflorescence meristem
+idioblast
+sapling
+floret
+hypanthium
+shoot base
+root cap
+meristem
+stamen
+achene
+corolla
+sporocarp
+plant collar
+plant epidermis
+twig
+stipe
+endocarp
+calyx
+tassel
+caryopsis
+nectary
+stigma
+disc
+carpel
+fruit capsule
+sarcocarp
+silique
+microsporangium
+pollen mother cell
+corona
+fruit peduncle
+anther
+fruit
+haustorium
+sclerenchyma
+inflorescence
+mesocarp
+primary root
+floral primordium
+flavedo
+plant ovary
+floral meristem
+sporangiophore
+petal
+haustorial mother cell
+albedo
+gynoecium
+lupulin gland
+tapetum
+perianth
+tepal
+exocarp
+sepal
+pericarp
+culture condition:L-rhamnose-induced cell
+pancreatic islet
+lymphoid tissue
+osteocyte
+dorsum
+bile duct
+visceral mass
+yellow bone marrow
+myofibroblast
+kidney
+dermis
+soft body part
+renal inner medulla
+connective tissue
+gastric pit
+telson muscle
+renal medulla
+gastric corpus
+tela submucosa recti
+trabecula
+submandibular lymph node
+body wall muscle
+urethra
+renal outer medulla
+megakaryoblast
+exocrine gland
+medial cuneiform bone
+ureter
+interrenal gland
+osseous plate
+3T3 cell
+ES-D3 cell
+3T6-Swiss albino cell
+pre-B acute lymphoblastic leukemia cell line
+K-562 cell
+Friend erythroleukemia cell line
+697 cell
+M-1 cell
+UT-7 cell
+erythroleukemia cell line
+lymphocytic leukemia cell line
+L-1210 cell
+myelocytic leukemia cell line
+LK63 cell
+KM-3 cell
+REH cell
+acute lymphoblastic leukemia cell line
+H9 cell
+HPB-ALL cell
+lymphoblastic leukemia cell line
+HL-60 cell
+promyelocytic leukemia cell line
+BALL-1 cell
+Chang cell
+I-cell
+visceral hump
+culture condition:heme-grown cell
+basidiocarp
+basidium
+thyroid cell line
+SW-1736 cell
+FRTL-5 cell
+follicular thyroid cancer cell line
+tuberous root
+storage tissue
+flower
+root tip
+sporangium
+flower stalk
+juice vesicle
+pulp
+root nodule
+plant cell line
+culture condition:sulfite-grown cell
+coelom
+coelomic fluid
+culture condition:3-methylcrotonoyl-CoA-grown cell
+Detroit 562 cell
+free-living state
+mast cell line
+HMC-1 cell
+ABFTL-6 cell
+G-361 cell
+culture condition:mandelate-grown cell
+culture condition:pentanoate-grown cell
+P-388D1 cell
+P-388D1(IL-1) cell
+L-428 cell
+HEL cell
+cartilage
+tibial cartilage
+epiphyseal growth plate
+articular cartilage
+sternal cartilage
+meniscus
+chondroblastoma cell
+fibrosarcoma cell line
+organism form
+pharate pupa
+pronephron
+corpus cardiacum
+retrocerebral complex
+trunk
+genital mucosa
+lamina propria
+zona glomerulosa
+crystalline style
+spinal column
+gastric corpus mucosa
+stomach
+tela submucosa intestini crassi
+nephron
+scapula
+bone marrow
+digestive gland
+cardiovascular system
+endocrine gland
+renal cortex
+mantle cavity
+lymph vessel
+arm
+heart ventricle
+pancreatic acinar cell
+alimentary canal
+cuboid bone
+subarachnoid space
+heart
+osteogenic cell
+gizzard
+SF-767 cell
+oligodendrocytic cell line
+oligodendroglioma cell
+B5/589 cell
+squamous cell carcinoma cell line
+oral squamous cell carcinoma cell line
+SiHa cell
+cervical squamous cell carcinoma cell line
+SCC12b cell
+SCC13 cell
+PANC-3 cell
+pheochromocytoma cell
+pheochromocytoma cell line
+pharyngeal cancer cell line
+SW-1353 cell
+chondrosarcoma cell line
+DC-3F cell
+DC-3F/ADX cell
+puerperal osteomalacia cell
+urinary bladder cell line
+urinary bladder cancer cell
+B-lymphoma cell line
+WEHI-231 cell
+BJAB cell
+A20 cell
+RNK-16 cell
+culture condition:N-acetyl-D-mannosamine-grown cell
+cleistothecium
+molting fluid
+trophectoderm
+HSDM1C1 cell
+HT-1080 cell
+Tsu-Pr1 cell
+sporophore
+adrenal gland cancer cell
+culture condition:selenium-grown cell
+choriocarcinoma cell line
+BeWo cell
+JEG-3 cell
+pancreatic juice
+OLN-93 cell
+RT4-D6P2T cell
+prepupa
+second instar larva
+yeast
+embryonic stem cell
+neurula
+larva
+adult
+oocyst
+ascidian
+cardiomyoblast
+tadpole
+primordium
+worm
+embryo
+erythrocytic stage
+branchial arch
+molting gland
+myoblast
+larval integument
+scolex
+zygote
+genital primordium
+white prepupa
+heart primordium
+nematode
+pupa
+sporulated oocyst
+cestode
+neural arch
+elementary body
+nuchal ligament
+tubercle
+tarsal bone
+gastrointestinal endocrine cell
+urinary tract
+renal corpuscle
+thorax
+synovial tissue
+integument
+renal tubule
+tonsil
+interventricular septum
+osteoblast
+corpus allatum
+pancreatic alpha cell
+mucosa
+lymph node
+pancreas
+anus
+lateral cuneiform bone
+alkaline gland
+lymph
+N20.1 cell
+alveolar sac
+SK-MEL cell
+SK-MEL-3 cell
+SK-MEL-28 cell
+gleba
+brain cell line
+astrocytoma cell line
+U-87MG cell
+LN-229 cell
+LN-319 cell
+CN1.4 cell
+A-172 cell
+medulloblastoma cell line
+GOTO cell
+brain cancer cell line
+A-1235 cell
+brain cortex cell line
+BC3H1 cell
+A-1207 cell
+glial cell line
+LN-18 cell
+U-138MG cell
+SW-1088 cell
+prostate cell line
+prostate cancer cell
+pancreatic cell line
+amelanotic melanoma cell
+amelanotic melanoma cell line
+culture condition:dihyrouracil-grown cell
+culture condition
+culture condition:galactose-grown cell
+culture condition:cellobiose-grown cell
+culture condition:arabinose-grown cell
+culture condition:trans-aconitate-grown cell
+culture condition:(NH4)2SO4-grown cell
+culture condition:fructose-grown cell
+culture condition:-grown cell
+culture condition:ammonium malate-grown cell
+culture condition:L-threonine-grown cell
+culture condition:nicotinic acid-grown cell
+culture condition:porcine gastric mucin-grown cell
+culture condition:N-acetyl-D-glucosamine-grown cell
+culture condition:dimethylamine-grown cell
+culture condition:cyclohexane-1,2-diol-induced cell
+culture condition:D-mandelate-grown cell
+culture condition:D-ribose-grown cell
+culture condition:taurine-grown cell
+culture condition:antigen-presenting cell
+culture condition:pyridoxine-grown cell
+culture condition:2-butyne-1,4-diol-grown cell
+culture condition:4-chlorophenol-grown cell
+culture condition:propanediol-grown cell
+culture condition:deoxyribonucleoside-induced cell
+culture condition:cellulose-grown cell
+culture condition:chlorobenzoate-grown cell
+culture condition:H2/CO2-grown cell
+culture condition:mannuronate-grown cell
+culture condition:fluorene-grown cell
+culture condition:arabitol-grown cell
+culture condition:D-xylose-grown cell
+cyst
+astroblast
+neuroblast
+ring gland
+imago
+embryonic structure
+exoerythrocytic stage
+neonate
+nymph
+lateral hypodermal chord
+notochord
+wing disc
+placental cell line
+esophagial squamous cell carcinoma cell line
+KYSE-150 cell
+photophore
+alt_id
+RL-19 cell
+culture condition:alpha-pinene-grown cell
+proventriculus
+colonic cancer cell
+animal
+skin
+plume
+hematopoietic system
+holocrine gland
+melanophore
+periosteum
+proximal tubule
+mast cell
+marrow
+liver
+left ventricle
+zona reticulata
+stromal cell
+skeletal system
+oxyntic cell
+electric organ
+thymus
+tibia
+adrenal gland
+right ventricle
+fibroblast
+merocrine gland
+honey sac
+aorta
+aorta thoracica
+cuticle
+mantle
+zona fasciculata
+mesangium
+exocrine pancreas
+pancreatic beta cell
+limb
+cardiac stomach
+throat
+mucous gland
+neck
+culture condition:butyrate-grown cell
+culture condition:fluoride-grown cell
+culture condition:D-ribose-induced cell
+culture condition:dihydrothymine-grown cell
+culture condition:2-chloropropionate-grown cell
+culture condition:cyclopentanol-grown cell
+culture condition:glycerol-grown cell
+culture condition:L-phenylalanine-grown cell
+culture condition:phenylacetic acid-grown cell
+culture condition:D-arabinose-induced cell
+culture condition:quinaldine-grown cell
+culture condition:3-nitrophenol grown-cell
+culture condition:D-galactose-grown cell
+culture condition:2,4-dichlorophenoxyaceate-grown cell
+culture condition:L-tyrosine-grown cell
+culture condition:phosphonoacetate-grown cell
+culture condition:trehalose-grown cell
+culture condition:L-glucose-grown cell
+culture condition:thymine-grown cell
+culture condition:propionate-grown cell
+culture condition:phthalate-grown cell
+culture condition:hydroxyproline-induced cell
+culture condition:uracil-grown cell
+culture condition:gene expression
+culture-condition:L-arginine-grown cell
+culture condition:glycine-grown cell
+culture condition:p-cresol-grown cell
+culture condition:2-aminobenzoate grown-cell
+culture condition:chlorobenzene-induced cell
+culture condition:dulcitol-grown cell
+culture condition:galactonate-grown cell
+culture condition:lactate-grown cell
+culture condition:xylan-grown cell
+culture condition:dark-grown cell
+culture condition:geranoic acid-induced cell
+culture condition:dihydroxyacetone-grown cell
+culture condition:D-lyxose-grown cell
+culture condition:terephthalate-grown cell
+culture condition:xylose-grown cell
+culture condition:oleate-grown cell
+culture condition:mannose-grown cell
+culture condition:3-hydroxybenzoate-grown cell
+culture condition:4-hydroxybenzoate-grown cell
+culture condition:L-idonate-grown cell
+culture condition:cyclohexan-1,2-diol grown cell
+culture condition:aniline-grown cell
+culture condition:DL-5-methyltryptophan-grown cell
+culture condition:inositol-deficient-grown cell
+culture condition:beta-L-alanine-grown cell
+culture condition:DL-mandelate-grown cell
+culture condition:1,4-dichlorobenzene-grown cell
+culture condition:-induced cell
+culture condition:2-chloroacrylate-grown cell
+culture condition:phenylglyoxylate-grown cell
+culture condition:3-chlorobenzoate-grown cell
+culture condition:L-fucose-induced cell
+culture condition:methanol-grown cell
+culture condition:naphthalene-grown cell
+culture condition:4-(methoxymethyl)phenol-grown cell
+culture condition:4-methylmuconolactone-grown cell
+culture condition:L-lyxose-induced cell
+culture condition:long-chain fatty acid-grown cell
+M5076 cell
+lung fibroblast cell line
+MRC-5 cell
+V-79 cell
+HA22T/VGH cell
+viscus
+rennet
+hemolymph
+gastric antrum
+tail
+laryngeal muscle
+epiphysis
+gastric gland
+tela submucosa esophagi
+bursa of Fabricius
+intermediate cuneiform bone
+endocrine pancreas
+interrenal cell
+nephridium
+plasma cell
+telson
+salt gland
+whole body
+pyloric stomach
+sternum
+sense organ
+anal sac
+adrenal cortex
+collecting duct
+sensillum
+tela submucosa pharyngis
+cancellous bone
+tela submucosa tubae uterinae
+posterior silk gland
+gland
+hindlimb
+forearm
+silk gland
+parathyroid gland
+pancreatic duct
+navicular bone
+blood
+nape
+esophagus
+femur
+bone
+adrenal medulla
+osteoclast
+mesangial cell
+pelvis
+renal glomerulus
+pyloric cecum
+serous gland
+tela submucosa bronchiorum
+myenteric plexus
+gastric mucosa
+ventriculus
+aorta smooth muscle cell line
+leukemia cell line
+KG-1 cell
+KU-812 cell
+small cell lung cancer cell
+HIT-T15 cell
+cervical cell line
+cervical mucus
+MIN-6 cell
+ascocarp
+gymnothecium
+apothecium
+perithecium
+ascus
+neuroepithelioma cell
+BRL-3A cell
+BW-5147 cell
+uterine lavage
+uterine cancer cell
+parathyroid gland cancer cell
+sarcoma cell line
+WM-266-4 cell
+narrow
+aorta thoracica smooth muscle cell line
+T/G HA-VSMC cell
+ependymoma cell
+brenda source tissue ontology
+fruitbody
+plasmodium
+axenic culture
+cell culture
+commercial preparation
+mycobiont
+lag phase culture
+infected cell
+solid substrate culture
+pileus
+Koji culture
+fungus
+immobilized cell
+culture filtrate
+electrocyte
+renal glomerular capsule
+submucosa
+thyroid gland
+body wall
+preosteoblast
+tela submucosa gastris
+nematocyst
+anterior silk gland
+joint
+carapace
+skin fibroblast
+vena cava
+pars recta
+endocardium
+lymphoid cell
+hypodermis
+gastric fundus
+forelimb
+pyloric region
+chromaffin cell
+exocrine acinar cell
+excretory gland
+gastrointestinal tract
+larynx
+abomasum
+enteric plexus
+parenchymal cell
+neural retina
+eye cancer cell
+culture condition:L-rhamnose-grown cell
+culture condition:acetate-grown cell
+CV-1 cell
+atrium
+atrial appendage
+right atrium
+left atrium
+hepatocyte
+bone cancer cell
+fibrosarcoma cell
+Yoshida sarcoma cell
+osteochondroma cell
+osteoblastoma cell
+carcinosarcoma cell
+lymphosarcoma cell
+Ewing&apos;s sarcoma cell
+osteoclastoma cell
+chondrosarcoma cell
+Rous sarcoma cell
+Yoshida ascites sarcoma cell
+sarcoma cell
+synovial sarcoma cell
+Kaposi&apos;s sarcoma cell
+rhabdomyosarcoma cell
+osteosarcoma cell
+Walker carcinoma 256 cell
+bone cancer cell line
+mononuclear phagocyte
+monocyte
+culture condition:D-mannose-grown cell
+U-1568 cell
+blastoderm
+forestomach
+rumen
+reticulum
+omasum
+T-cell lymphoma cell
+adult T-cell lymphoma cell
+BG-1 cell
+184A1N4 cell
+stem
+bark
+stem cortex
+corm
+rhizophore
+lacquer
+stolon
+scape
+node
+branch
+plant pedicel
+rind
+apical meristem
+stem nodule
+apical bud
+procambium
+ground meristem
+tuber
+A-431 cell
+U-1285 cell
+SK-BR-3 cell
+95C cell
+large cell lung cancer cell line
+small cell lung cancer cell line
+BEN cell
+pancreatic adenocarcinoma cell line
+MKN-7 cell
+C 108 cell
+LL/2(LLc1) cell
+MCF-7 cell
+MKN-28 cell
+OVCAR-3 cell
+SW-626 cell
+SKOV-3 cell
+ovary adenocarcinoma cell line
+NCI-H460 cell
+SK-MES-1 cell
+Calu-6 cell
+MCS-2 cell
+MCF-7/2a cell
+NCI-H292 cell
+MKN-1 cell
+gastric adenocarcinoma cell line
+EFO-27 cell
+MKN-74 cell
+NCI-H660 cell
+wing
+elytron
+flight muscle
+fibrillar flight muscle
+feather calamus
+feather
+megakaryocytic leukemia cell line
+CMK cell
+lantern muscle
+fetal cell line
+meconium
+hair root
+umbilical cord cell line
+granulocyte
+basophil
+eosinophil
+gonadotrophic cell
+culture condition:benzoate-grown cell
+colleterial gland
+HuMMEC cell
+MH-3924 cell
+yolk sac
+yolk sac erythroid cell
+chemostat culture
+U-1285dox cell
+H69AR cell
+monocytic leukemia cell line
+THP-1 cell
+WEHI-3 cell
+RAW 264.7 cell
+vascular tissue
+wing bud
+culture condition:D-phenylglycine-grown cell
+endectomycorrhiza
+blast cell
+hematopoietic stem cell
+lymphoid cell line
+lymphoma cell line
+culture condition:5-methylcytosine-grown cell
+U-251 cell
+endochondral bone
+ceratobranchial
+gill arch
+trophosome tissue
+colon ascendens
+JAR cell
+70Z/3 cell
+parotid acinar cell
+juice
+emulsin
+stationary phase culture
+serum
+fetal serum
+blood serum
+SW-403 cell
+colorectal mucosa
+culture condition:benzoylformate-grown cell
+BY-2 cell
+RINm5F cell
+tooth germ
+enamel organ
+dental papilla
+dental follicle
+enamel epithelium
+ameloblast
+intestinal cell line
+IEC-6 cell
+LS-180 cell
+HTC-116 cell
+WiDr cell
+SW-1417 cell
+LIM1863 cell
+colorectal adenocarcinoma cell line
+colonic adenocarcinoma cell line
+SW-480 cell
+SW-1116 cell
+fiber
+axillary bud
+internode
+stolon tip
+plant bud
+tuber cortex
+dormant eye
+rhizome
+COS-7 cell
+amoeba
+amoebocyte
+tela submucosa vesicae urinariae
+median nucleus of thalamus
+nucleus reuniens
+posterior paraventricular nucleus
+nucleus parataenialis
+anterior paraventricular nucleus
+paraventricular nucleus
+rhomboid nucleus
+h&#65533;lle cell
+lens epithelial cell line
+tooth bud
+gut cavity
+gut mucosa
+gastrodermis
+gut juice
+Rcho-1 cell
+thorax muscle
+diaphragm
+pectoral muscle
+carotid body
+PAP-HT25 cell
+culture condition:mannitol-grown cell
+chondrocyte
+tibial chondrocyte
+endomycorrhiza
+eyestalk
+synovial fibroblast
+adenoma cell
+fibroadenoma cell
+colorectal adenoma cell
+Yoshida AH-130 cell
+culture condition:p-hydroxyphenylacetic acid-grown cell
+myocyte
+cardiac myocyte
+myocytoma cell
+endometrioid carcinoma cell
+CA-46 cell
+S-180 cell
+culture condition:L-allo-threonine-grown cell
+alveolar macrophage
+colonic mucosa
+right colon mucosa
+ECV304 cell
+mastocytoma cell line
+P-815 cell
+MST cell
+nervous system
+lateral tuberal nucleus
+macroglial cell
+oligodendroglia
+leptomeninx
+infundibular nucleus
+medulla oblongata
+myelin sheath
+pia mater
+brain stem
+maxillary nerve
+hypobranchial
+epibranchial
+pharyngobranchial
+spinal fluid
+plant form
+thallus
+sporophyte
+spore
+blastospore
+oocyte
+germ
+prothallium
+plantlet
+callus
+microgametophyte
+vitelline membrane
+zoospore
+rootlet
+spermatogonium
+protonema
+bulb
+primary spermatocyte
+heterotroph
+myxospore
+phycobiont
+seedling
+basidiospore
+autotroph
+uredospore
+ascospore
+chloronema
+spermatocyte
+HT-29 cell
+colonic cancer cell line
+LIM1215 cell
+HCT-116 cell
+intestine 407 cell
+SW-948 cell
+SW-620 cell
+LS174T cell
+SW-48 cell
+colonic cell line
+Colo-678 cell
+HCT-15 cell
+LIM2412 cell
+Colo-320 cell
+DLD-1 cell
+Colo-206F cell
+RKO cell
+T-84 cell
+small intestine cell line
+Colo-205 cell
+LoVo cell
+colorectal cancer cell line
+HCT-8 cell
+intestinal cancer cell line
+cell property
+sclerotium
+stellate cell
+supporting cell
+dried cell
+hypha
+appressorium
+somatic cell
+immature cell
+heterotrophic cell
+mitotic cell
+resting cell
+Sertoli cell
+aerial mycelium
+conidiophore
+PANC-1 cell
+latex
+protozoan
+kinetoplastid
+trophozoite
+trypomastigote
+schizont
+sporozoan
+amastigote
+bloodstream form
+metacyclic form
+trypanosome
+flagellate
+procyclic form
+ring stage
+epimastigote
+tachyzoite
+promastigote
+bradyzoite
+sporozoite
+merozoite
+pituitary gland cell line
+AtT-20 cell
+pituitary gland tumor cell line
+GH3 cell
+glial cell
+pleural ganglion
+glia
+astrocyte
+trigeminal ganglion
+spinal cord
+lateral ventricle
+cerebral gray matter
+pineal gland
+pars intermedia
+Schwann cell
+ventral nerve cord
+inferior olivary complex
+neuron
+cerebellum
+neural lobe
+hypothalamic nucleus
+medial dorsal nucleus of thalamus
+sympathetic chain
+midbrain
+melanotroph
+neurohypophysis
+ventral lateral complex of thalamus
+ventrobasal complex of thalamus
+posterior paraventricular nucleus of thalamus
+bag cell neuron
+root hair
+gametophyte
+germ cell
+heterocyst
+filament
+caulonema
+digitum minimus pedis
+renal medulla cell line
+oral cancer cell line
+HSC-3 cell
+HSC-4 cell
+scalp
+culture condition:ethanol-grown cell
+SK-MEL-1 cell
+foregut
+peritrophic membrane
+LN-428 cell
+lobular carcinoma cell
+SK-MEL-5 cell
+HEp-2 cell
+crown gall
+ECV-304 cell
+NRP-152 cell
+mastocytoma cell
+reproductive system
+fallopian tube
+blastodisc
+shell gland
+vulva
+epididymis
+mycelial felt
+pachytene cell
+zygotene cell
+mycelium
+primary cell
+sporulating cell
+vegetative cell
+meiotic cell
+autotrophic cell
+satellite cell
+mature cell
+mycelial cord
+conidium
+telencephalon
+neocortex
+neostriatal neuron
+cerebral hemisphere
+caudate putamen
+basal telencephalon
+external plexiform layer
+cerebral cortex
+caudate nucleus
+mitral cell layer
+cerebral lobe
+olfactory lobe
+amygdala
+anterior commissure
+Meynert&apos;s basal nucleus
+mesenteric artery
+superior mesenteric artery
+inferior mesenteric artery
+J-774 cell
+J774A.1 cell
+J774.2 cell
+U-373MG cell
+gut wall
+enteric nervous system
+cranium
+mandibular ramus
+jaw
+mandibular condyle
+mandible
+calvarium
+reticulate body
+male reproductive gland
+gonad
+testis sheath
+seminiferous tubule
+nurse cell
+prostate gland lobe
+testis
+preputial gland
+coagulating gland
+bulbourethral gland
+Leydig cell
+prostate gland ventral lobe
+prostate gland
+ovotestis
+olfactory tubercle
+posterior hypothalamic nucleus
+posterior lobe
+sciatic nerve
+infundibulum
+anterior lobe
+microglia
+ventral nucleus of thalamus
+gitter cell
+nerve
+posterior spinal root
+corpora quadrigemina
+trigeminal nucleus
+oligodendrocyte
+pinealocyte
+epithalamus
+centrum semiovale
+locus ceruleus
+parietal ganglion
+spinal ganglion
+posterior periventricular nucleus
+mandibular nerve
+portio vaginalis cervicis
+albumen gland
+cervical mucosa
+prostasome
+cauda epididymis
+mammary gland
+seminal vesicle
+breast
+placenta
+egg
+female reproductive system
+sperm flagellum
+eggshell
+oviduct
+uterine cervix
+vagina
+egg yolk
+decidua
+decidua parietalis
+pheromone gland
+seminal vesicle fluid
+egg white
+seminal plasma
+uterus
+male reproductive system
+semen
+corpus epididymis
+portio supravaginalis cervicis
+Dogiel&apos;s corpuscle
+hippocampal pyramidal layer
+subthalamic nucleus
+fasciolar gyrus
+substantia nigra
+dentate gyrus
+nucleus lentiformis
+cerebral gyrus
+granule cell layer
+corpus callosum
+olfactory bulb
+temporal lobe
+internal plexiform layer
+paleostriatum
+visual cortex
+frontal lobe
+olfactory cortex
+occipital pole
+basal ganglion
+hippocampus
+lewy body
+insular cortex
+globus pallidus lateralis
+prostate gland dorsolateral lobe
+ovary
+mature ovarian follicle
+ovarian follicle
+ovarian cumulus cell
+corpus luteum
+granulosa cell
+immature ovarian follicle
+ovary cancer cell
+ovary cell line
+endometrial cell line
+HMB-2 cell
+peripheral nerve
+sensory cell
+medullary breast carcinoma cell
+J-96 cell
+culture supernatant
+bone marrow cancer cell
+paramyeloblast
+erythroleukemia cell
+multiple myeloma cell
+myeloma cell
+SK-MEL-30 cell
+liver reticuloendothelial system
+Kupffer cell
+G-402 cell
+retinal pigment epithelium cell line
+ARPE-19 cell
+paneth cell
+pseudoplasmodium
+penis
+prepuce
+pericardial fluid
+uterine adenocarcinoma cell
+cervical carcinoma cell
+tanycyte
+parasympathetic ganglion
+meninx
+tectum mesencephali
+thalamic nucleus
+diencephalon
+sympathetic nervous system
+brain myelin
+thalamus
+limbic system
+metencephalon
+median eminence
+perivascular astrocyte
+paraventricular nucleus of hypothalamus
+cerebral ganglion
+abdominal ganglion
+phrenic nerve
+submandibular ganglion
+spinal root
+urophysis
+motor trigeminal nucleus
+arachnoid mater
+dorsal hypothalamic nucleus
+anterior spinal root
+ganglion
+ejaculatory duct
+uterine endometrium
+vas deferens
+nipple
+gametocyte
+female reproductive gland
+caput epididymis
+clitoris
+roe
+spermatozoon
+spermatheca
+atrial gland
+genitalia
+hatching gland
+natural killer cell
+natural killer cell line
+juvenile pilocytic astrocytoma cell
+myeloma cell line
+U-266 cell
+P3X63Ag8 cell
+NS-1 cell
+SP2/0-AG14 cell
+multiple myeloma cell line
+NCI-H929 cell
+RPMI-8226 cell
+RBL-1 cell
+toe
+digitus secundus pedis
+digitus quartis pedis
+digitus tertius pedis
+embryonic blood
+quadriceps
+corpus striatum
+globus pallidus medialis
+globus pallidus
+glomerular layer
+parietal lobe
+cerebrovascular endothelial cell
+lamina medullaris medialis corporis striati
+occipital lobe
+neostriatum
+thyroid cancer cell
+medullary thyroid carcinoma cell
+follicular thyroid cancer cell
+thyroid cancer cell line
+seed
+leaf collar
+cambium
+mesocotyl
+companion cell
+leaf tip
+myrosin cell
+plant ovule
+chalazal cell
+lower epidermis
+megasporangium
+trichome
+sieve cell
+embryonic axis
+leaf base
+leaf lamina
+vascular bundle
+heart valve
+blood vessel
+jugular vein
+capillary
+femoral artery
+saphenous vein
+coronary artery
+pulmonary vein
+portal vein
+carotid artery
+renal artery
+blood vessel endothelium
+vein
+artery
+pulmonary artery
+artery wall
+arteriole
+tunica externa vasorum
+tunica intima vasorum
+tunica media vasorum
+urogenital ridge
+ophthalmic nerve
+nasal nerve
+tongue muscle
+flexor digitorum profundus
+MDA-MB-361 cell
+cone
+female cone
+male cone
+Vero cell
+arachnoid trabecula
+diagonal band
+basal forebrain
+subesophagial ganglion
+central nervous system
+nuceus ventralis posterolateralis thalamus
+ventral medial complex of thalamus
+anterior hypothalamic nucleus
+hindbrain
+brain
+cerebrospinal fluid
+cerebral white matter
+adenohypophysis
+endopeduncular nucleus
+posterior nuclear complex of thalamus
+microglial cell
+pars distalis
+nerve trunk
+optic lobe
+cranial ganglion
+pars tuberalis
+neurohemal organ
+dura mater
+myelencephalon
+autonomic nervous system
+vastus lateralis
+rectus femoris
+epidermis
+basal cell
+hair follicle
+stratum lucidum
+stratum spinosum
+Langerhans cell
+stratum granulosum
+melanocyte
+keratinocyte
+hair
+cnidoblast
+corneocyte
+stratum germinativum
+epidermal cell
+stratum corneum
+jejunum
+jejunal mucosa
+culture condition:aerobically-grown cell
+thymic cancer cell
+thymoma cell
+thymic carcinoma cell
+SF-21 cell
+SF-9 cell
+somatic embryo
+primary leaf
+xylem
+stoma
+fiddlehead
+phloem
+scutellum
+frond tip
+stipule
+pitcher
+cotyledon
+leaflet
+endosperm
+trapping leaf
+abscission zone
+upper epidermis
+perisperm
+pod
+petiole
+sieve tube
+seed coat
+radicle
+pith
+epicotyl
+bract
+leaf epidermis
+stele
+parenchyma
+mesophyll
+plant embryo
+megagametophyte
+aleurone layer
+paraveinal mesophyll
+bundle sheath
+needle
+abdomen
+hip
+venom duct
+psoas minor
+loin
+gas bladder
+psoas major
+mesenteric lymph node
+venom gland
+hip joint
+swim bladder
+psoas
+peritoneal cavity
+pleopod
+peritoneum
+venom apparatus
+wax gland
+mesentery
+stinger
+ascites
+eosinophilic leukemia cell line
+EoL-1 cell
+flower bud
+sprout
+spear
+glioblastoma cell
+glioblastoma multiforme cell
+glioblastoma cell line
+U2-OS cell
+cochlear ganglion
+hilum nuclei olivaris inferioris
+subdural space
+parasympathetic nervous system
+myelin membrane
+dorsal raphe nucleus
+anterior paraventricular nucleus of thalamus
+ventromedial hypothalamic nucleus
+nerve cord
+ventral anterior nucleus of thalamus
+subcommissural organ
+arachnoid barrier layer
+ventral intermediate nucleus of thalamus
+nucleus accumbens
+motoneuron
+peripheral nervous system
+perisympathetic organ
+nucleus ventralis posteromedialis thalamus
+hypophysis
+myelin
+brain ventricle
+cranial nerve
+preoptic area
+trigeminal nerve
+dorsomedial nucleus of intermediate hypothalamus
+blood plasma
+blood platelet
+epiglottis
+pollen tube
+respiratory system
+bronchoalveolar system
+trachea
+bronchial mucosa
+bronchus
+bronchiole
+alveolus
+respiratory mucosa
+pleura
+lung
+lung fibroblast
+tracheal mucosa
+nasal cavity
+tear
+MDA-MB-436 cell
+BW-5147.3 cell
+tela submucosa intestini tenuis
+culture condition:phenol-grown cell
+culture condition:L-phenylglycine-grown cell
+uropygial gland
+exact
+squamous cell carcinoma cell
+small intestine mucosa
+PLC/PRF/5 cell
+JTC-27 cell
+pedal muscle
+MG-63 cell
+KB cell
+HeLa-S3 cell
+frond
+kernel
+hypocotyl
+guard cell
+plumule
+pinnule
+palisade parenchyma
+coleoptile
+bundle sheath cell
+tendril
+ray cell
+pulvinus
+husk
+leaf
+leaf axil
+cauline leaf
+mesosperm
+endodermis
+pericycle
+plant cuticle
+cotton fiber
+epithelium
+intestinal epithelium
+squamous epithelium
+cervical epithelium
+prostate epithelium
+umbilical vein endothelium
+lung epithelium
+esophageal epithelium
+taste bud
+jejunal epithelium
+enterocyte
+pulmonary artery endothelial cell
+neuroepithelium
+rumen epithelium
+aorta endothelium
+olfactory epithelium
+receptacle
+lung adenocarcinoma cell line
+NCI-H441 cell
+NCI-H596 cell
+SK-LU-1 cell
+culture condition:L-mandelate-grown cell
+B95-8 cell
+pancreatic delta cell
+perilymphatic space
+clove
+culture condition:pullulan-grown cell
+lignifying cell
+cerebellar cortex
+cerebellar Purkinje cell
+NEURO-2A cell
+LAN5 cell
+Neuro-2a cell
+IMR-32 cell
+NG 108-15 cell
+SK-N-SH cell
+N1E-115 cell
+SH-SY5Y cell
+C-1300 cell
+N18TG2 cell
+alveolar cell
+alveolar cell type I
+asynchronous muscle
+tympanum
+substantia innominata
+peripheral ganglion
+suprachiasmatic nucleus
+dorsal nerve cord
+pedal ganglion
+forebrain
+corticotropic cell
+neurosecretory cell
+hypothalamus
+choroid plexus
+oliva
+spinal nerve
+mushroom
+CCP-2 cell
+Ehrlich ascites carcinoma cell
+C127I cell
+Dunn cell
+CH12.LX cell
+foreskin fibroblast cell line
+hallux
+primary culture
+primary meristem
+right colon
+nasal glioma cell
+culture condition:2-aminobenzenesulfonate-grown cell
+talus
+chronic myeloid leukemia cell
+muscular system
+invertebrate muscular system
+gracilis muscle
+vertebrate muscular system
+leg muscle
+intermediate muscle fiber
+cardiac muscle
+skeletal muscle
+epitrochlearis
+muscle
+extensor digitorum communis
+adductor brevis
+sacrospinalis
+tibialis posterior
+fast muscle
+muscle fibre
+adductor magnus
+pharyngeal muscle
+cardiac muscle fiber
+tendon
+sartorius
+gastrocnemius
+mantle muscle
+forelimb muscle
+radular muscle
+epithelial cell
+gastric epithelium
+bronchial epithelium
+thymic epithelium
+small intestine epithelium
+gut epithelium
+ependymal epithelium
+myoepithelium
+pavement epithelium
+vaginal epithelium
+myoepithelial cell
+pulmonary artery endothelium
+vascular endothelial cell
+mesothelium
+capsular epithelium
+endothelial cell
+tracheal epithelium
+oviduct epithelium
+bile duct epithelium
+cerebrovascular endothelium
+seminiferous epithelium
+colonic epithelium
+breast epithelium
+biliary epithelium
+goblet cell
+tongue epithelium
+endothelium
+nasal mucosa
+ependymocyte
+mammary epithelium
+olfactory neuron
+renal epithelium
+glomerular epithelium
+respiratory epithelium
+mammary myoepithelium
+vascular endothelium
+stratified epithelium
+oral epithelium
+biliary epithelial cell
+podocyte
+mammary myoepithelial cell
+liver sinusoidal endothelial cell
+columnar cell
+epithelial cell line
