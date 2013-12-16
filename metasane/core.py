@@ -7,7 +7,7 @@ from glob import glob
 from os.path import basename, join, splitext
 
 class MetadataTable(object):
-    OntologyDelimiter = ':'
+    VocabDelimiter = ':'
 
     @classmethod
     def fromFile(cls, fp, delimiter='\t'):
@@ -19,20 +19,57 @@ class MetadataTable(object):
         self.FieldNames = reader.fieldnames
         self._table = [row for row in reader]
 
-    def candidateOntologyColumns(self, vocab=None):
-        ont_cols = defaultdict(set)
+    def candidateControlledFields(self, known_vocabs=None):
+        cols = defaultdict(set)
 
         for row in self._table:
-            for field, value in row.items():
-                split_val = value.split(self.OntologyDelimiter, 1)
+            for field, cell_value in row.items():
+                vocab_id, value = self._extract_vocab_id(cell_value)
 
-                if len(split_val) > 1:
-                    ont_id = split_val[0]
+                if vocab_id is not None:
+                    if known_vocabs is None or vocab_id in known_vocabs:
+                        cols[field].add(vocab_id)
 
-                    if vocab is None or ont_id in vocab:
-                        ont_cols[field].add(ont_id)
+        return cols
 
-        return ont_cols
+    def validateControlledFields(self, known_vocabs):
+        cont_fields = self.candidateControlledFields(known_vocabs=known_vocabs)
+
+        field_to_vocab_id = {}
+        for field, vocab_ids in cont_fields.items():
+            if len(vocab_ids) > 1:
+                raise MultipleVocabulariesError("A controlled field should "
+                        "only reference a single vocabulary. The field '%s' "
+                        "references %d vocabularies." % (field,
+                                                         len(vocab_ids)))
+            else:
+                (vocab_id,) = vocab_ids
+                field_to_vocab_id[field] = vocab_id
+
+        # Can remove this second pass though the file, but not important for
+        # this first iteration.
+        field_results = defaultdict(set)
+        for row in self._table:
+            for field, vocab_id in field_to_vocab_id.items():
+                cell_value = row[field]
+                vocab_id, value = self._extract_vocab_id(cell_value)
+
+                if (vocab_id is None or vocab_id not in known_vocabs or
+                    value.lower() not in known_vocabs[vocab_id]):
+                    field_results[field].add(cell_value)
+
+        return field_results
+
+    def _extract_vocab_id(self, cell_value):
+        split_val = cell_value.split(self.VocabDelimiter, 1)
+
+        if len(split_val) == 1:
+            vocab_id = None
+            value = split_val[0]
+        else:
+            vocab_id, value = split_val
+
+        return vocab_id, value
 
 class VocabularySet(object):
     Wildcard = '*.txt'
@@ -49,7 +86,7 @@ class VocabularySet(object):
                     line = line.strip()
 
                     if line:
-                        vocab.add(line)
+                        vocab.add(line.lower())
 
             self._vocabs[vocab_id] = vocab
 
@@ -58,3 +95,6 @@ class VocabularySet(object):
 
     def __getitem__(self, key):
         return self._vocabs[key]
+
+class MultipleVocabulariesError(Exception):
+    pass
