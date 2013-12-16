@@ -9,6 +9,11 @@ from os.path import basename, join, splitext
 class MetadataTable(object):
     OntologyDelimiter = ':'
 
+    @classmethod
+    def fromFile(cls, fp, delimiter='\t'):
+        with open(fp, 'U') as f:
+            return cls(f, delimiter=delimiter)
+
     def __init__(self, metadata_f, delimiter='\t'):
         reader = DictReader(metadata_f, delimiter=delimiter)
         self.FieldNames = reader.fieldnames
