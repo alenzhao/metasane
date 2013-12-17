@@ -15,13 +15,26 @@ vocabs = VocabularySet(vocab_dir)
 
 controlled_fields = md_table.candidateControlledFields(vocabs)
 validation_results = md_table.validateControlledFields(vocabs)
+discrep_results = md_table.findDiscrepancies()
 
 print "The following fields appear to reference controlled vocabularies:\n"
-for field, vocab_matches in controlled_fields.items():
+for field, vocab_matches in controlled_fields.iteritems():
     print "%s\t%s" % (field, list(vocab_matches)[0])
 print
 
 print("The following values do not match the fields' controlled vocabularies "
       "(case-insensitive matching was used):\n")
-for field, invalid_values in validation_results.items():
+for field, invalid_values in validation_results.iteritems():
     print "%s\t%s" % (field, ', '.join(list(invalid_values)))
+print
+
+print("The following fields have discrepancies related to leading/trailing "
+      "whitespace, whitespace usage, and/or capitalization:\n")
+for field, discreps in discrep_results.iteritems():
+    print "%s:" % field
+
+    for discrep_name, discrep_vals in discreps.iteritems():
+        print "\t%s:" % discrep_name
+
+        for discrep_val in discrep_vals:
+            print "\t\t%s" % ' vs. '.join(map(repr, discrep_val))

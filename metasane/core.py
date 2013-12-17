@@ -8,6 +8,10 @@ from os.path import basename, join, splitext
 
 class MetadataTable(object):
     VocabDelimiter = ':'
+    DiscrepancyRemovers = {'capitalization': lambda e: e.lower(),
+                           'hanging whitespace': lambda e: e.strip(),
+                           'whitespace': lambda e: ''.join(e.split())
+    }
 
     @classmethod
     def fromFile(cls, fp, delimiter='\t'):
@@ -60,55 +64,22 @@ class MetadataTable(object):
 
         return field_results
 
-    def findCapitalizationDiscrepancies(self):
-        """
-
-        Currently checks all fields.
-        """
-        field_results = {}
+    def findDiscrepancies(self):
+        """Currently checks all fields."""
+        field_results = defaultdict(dict)
 
         for field, values in self.fieldValues().iteritems():
-            equal_values = defaultdict(set)
+            for discrep_name, discrep_remover in \
+                    self.DiscrepancyRemovers.iteritems():
+                equal_values = defaultdict(set)
 
-            for value in values:
-                equal_values[value.lower()].add(value)
+                for value in values:
+                    equal_values[discrep_remover(value)].add(value)
 
-            discreps = [e for e in equal_values.values() if len(e) > 1]
+                discreps = [e for e in equal_values.values() if len(e) > 1]
 
-            if discreps:
-                field_results[field] = discreps
-
-        return field_results
-
-    def findHangingWhitespaceDiscrepancies(self):
-        field_results = {}
-
-        for field, values in self.fieldValues().iteritems():
-            equal_values = defaultdict(set)
-
-            for value in values:
-                equal_values[value.strip()].add(value)
-
-            discreps = [e for e in equal_values.values() if len(e) > 1]
-
-            if discreps:
-                field_results[field] = discreps
-
-        return field_results
-
-    def findWhitespaceDiscrepancies(self):
-        field_results = {}
-
-        for field, values in self.fieldValues().iteritems():
-            equal_values = defaultdict(set)
-
-            for value in values:
-                equal_values[''.join(value.split())].add(value)
-
-            discreps = [e for e in equal_values.values() if len(e) > 1]
-
-            if discreps:
-                field_results[field] = discreps
+                if discreps:
+                    field_results[field][discrep_name] = discreps
 
         return field_results
 
