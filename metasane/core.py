@@ -23,8 +23,8 @@ class MetadataTable(object):
         cols = defaultdict(set)
 
         for row in self._table:
-            for field, cell_value in row.items():
-                vocab_id, value = self._extract_vocab_id(cell_value)
+            for field in row:
+                vocab_id, value = self._extract_vocab_id(row[field])
 
                 if vocab_id is not None:
                     if known_vocabs is None or vocab_id in known_vocabs:
@@ -36,7 +36,7 @@ class MetadataTable(object):
         cont_fields = self.candidateControlledFields(known_vocabs=known_vocabs)
 
         field_to_vocab_id = {}
-        for field, vocab_ids in cont_fields.items():
+        for field, vocab_ids in cont_fields.iteritems():
             if len(vocab_ids) > 1:
                 raise MultipleVocabulariesError("A controlled field should "
                         "only reference a single vocabulary. The field '%s' "
@@ -50,7 +50,7 @@ class MetadataTable(object):
         # this first iteration.
         field_results = defaultdict(set)
         for row in self._table:
-            for field, vocab_id in field_to_vocab_id.items():
+            for field in field_to_vocab_id:
                 cell_value = row[field]
                 vocab_id, value = self._extract_vocab_id(cell_value)
 
@@ -60,15 +60,14 @@ class MetadataTable(object):
 
         return field_results
 
-    def findDiscrepancies(self):
+    def findCapitalizationDiscrepancies(self):
         """
 
-        Currently checks all fields. Only looks at capitalization
-        discrepancies.
+        Currently checks all fields.
         """
         field_results = {}
 
-        for field, values in self.fieldValues().items():
+        for field, values in self.fieldValues().iteritems():
             equal_values = defaultdict(set)
 
             for value in values:
@@ -85,8 +84,8 @@ class MetadataTable(object):
         field_values = defaultdict(set)
 
         for row in self._table:
-            for field, cell_value in row.items():
-                field_values[field].add(cell_value)
+            for field in row:
+                field_values[field].add(row[field])
 
         return field_values
 
