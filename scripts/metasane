@@ -10,12 +10,12 @@ if len(sys.argv) != 3:
     sys.exit(1)
 
 md_fp, vocab_dir = sys.argv[1:]
-md_table = MetadataTable.fromFile(md_fp)
+md_table = MetadataTable.from_file(md_fp)
 vocabs = VocabularySet(vocab_dir)
 
-controlled_fields = md_table.candidateControlledFields(vocabs)
-validation_results = md_table.validateControlledFields(vocabs)
-discrep_results = md_table.findDiscrepancies()
+controlled_fields = md_table.candidate_controlled_fields(vocabs)
+validation_results = md_table.validate_controlled_fields(vocabs)
+discrep_results = md_table.find_discrepancies()
 
 print "The following fields appear to reference controlled vocabularies:\n"
 for field, vocab_matches in controlled_fields.iteritems():

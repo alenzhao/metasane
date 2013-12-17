@@ -7,14 +7,15 @@ from glob import glob
 from os.path import basename, join, splitext
 
 class MetadataTable(object):
-    VocabDelimiter = ':'
-    DiscrepancyRemovers = {'capitalization': lambda e: e.lower(),
-                           'hanging whitespace': lambda e: e.strip(),
-                           'whitespace': lambda e: ''.join(e.split())
+    vocab_delimiter = ':'
+    discrepancy_removers = {
+            'capitalization': lambda e: e.lower(),
+            'hanging whitespace': lambda e: e.strip(),
+            'whitespace': lambda e: ''.join(e.split())
     }
 
     @classmethod
-    def fromFile(cls, metadata_fp, delimiter='\t'):
+    def from_file(cls, metadata_fp, delimiter='\t'):
         with open(metadata_fp, 'U') as metadata_f:
             return cls(metadata_f, delimiter=delimiter)
 
@@ -22,7 +23,7 @@ class MetadataTable(object):
         reader = DictReader(metadata_f, delimiter=delimiter)
         self._table = [row for row in reader]
 
-    def candidateControlledFields(self, known_vocabs=None):
+    def candidate_controlled_fields(self, known_vocabs=None):
         cols = defaultdict(set)
 
         for row in self._table:
@@ -35,8 +36,9 @@ class MetadataTable(object):
 
         return cols
 
-    def validateControlledFields(self, known_vocabs):
-        cont_fields = self.candidateControlledFields(known_vocabs=known_vocabs)
+    def validate_controlled_fields(self, known_vocabs):
+        cont_fields = self.candidate_controlled_fields(
+                known_vocabs=known_vocabs)
 
         field_to_vocab_id = {}
         for field, vocab_ids in cont_fields.iteritems():
@@ -63,13 +65,13 @@ class MetadataTable(object):
 
         return field_results
 
-    def findDiscrepancies(self):
+    def find_discrepancies(self):
         """Currently checks all fields."""
         field_results = defaultdict(dict)
 
-        for field, values in self.fieldValues().iteritems():
+        for field, values in self.field_values().iteritems():
             for discrep_name, discrep_remover in \
-                    self.DiscrepancyRemovers.iteritems():
+                    self.discrepancy_removers.iteritems():
                 equal_values = defaultdict(set)
 
                 for value in values:
@@ -82,17 +84,17 @@ class MetadataTable(object):
 
         return field_results
 
-    def fieldValues(self):
-        field_values = defaultdict(set)
+    def field_values(self):
+        field_vals = defaultdict(set)
 
         for row in self._table:
             for field in row:
-                field_values[field].add(row[field])
+                field_vals[field].add(row[field])
 
-        return field_values
+        return field_vals
 
     def _extract_vocab_id(self, cell_value):
-        split_val = cell_value.split(self.VocabDelimiter, 1)
+        split_val = cell_value.split(self.vocab_delimiter, 1)
 
         if len(split_val) == 1:
             vocab_id = None
@@ -103,12 +105,15 @@ class MetadataTable(object):
         return vocab_id, value
 
 class VocabularySet(object):
-    Wildcard = '*.txt'
+    wildcard = '*.txt'
+
+    #@classmethod
+    #def from_dir(cls, vocab_dir):
 
     def __init__(self, vocab_dir):
         self._vocabs = {}
 
-        for vocab_fp in glob(join(vocab_dir, self.Wildcard)):
+        for vocab_fp in glob(join(vocab_dir, self.wildcard)):
             vocab_id = splitext(basename(vocab_fp))[0]
             vocab = set()
 
