@@ -14,13 +14,12 @@ class MetadataTable(object):
     }
 
     @classmethod
-    def fromFile(cls, fp, delimiter='\t'):
-        with open(fp, 'U') as f:
-            return cls(f, delimiter=delimiter)
+    def fromFile(cls, metadata_fp, delimiter='\t'):
+        with open(metadata_fp, 'U') as metadata_f:
+            return cls(metadata_f, delimiter=delimiter)
 
     def __init__(self, metadata_f, delimiter='\t'):
         reader = DictReader(metadata_f, delimiter=delimiter)
-        self.FieldNames = reader.fieldnames
         self._table = [row for row in reader]
 
     def candidateControlledFields(self, known_vocabs=None):
@@ -28,7 +27,7 @@ class MetadataTable(object):
 
         for row in self._table:
             for field in row:
-                vocab_id, value = self._extract_vocab_id(row[field])
+                vocab_id, _ = self._extract_vocab_id(row[field])
 
                 if vocab_id is not None:
                     if known_vocabs is None or vocab_id in known_vocabs:
@@ -109,12 +108,12 @@ class VocabularySet(object):
     def __init__(self, vocab_dir):
         self._vocabs = {}
 
-        for fp in glob(join(vocab_dir, self.Wildcard)):
-            vocab_id = splitext(basename(fp))[0]
+        for vocab_fp in glob(join(vocab_dir, self.Wildcard)):
+            vocab_id = splitext(basename(vocab_fp))[0]
             vocab = set()
 
-            with open(fp, 'U') as f:
-                for line in f:
+            with open(vocab_fp, 'U') as vocab_f:
+                for line in vocab_f:
                     line = line.strip()
 
                     if line:
@@ -127,6 +126,9 @@ class VocabularySet(object):
 
     def __getitem__(self, key):
         return self._vocabs[key]
+
+    def __len__(self):
+        return len(self._vocabs)
 
 class MultipleVocabulariesError(Exception):
     pass
