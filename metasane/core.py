@@ -80,6 +80,38 @@ class MetadataTable(object):
 
         return field_results
 
+    def findHangingWhitespaceDiscrepancies(self):
+        field_results = {}
+
+        for field, values in self.fieldValues().iteritems():
+            equal_values = defaultdict(set)
+
+            for value in values:
+                equal_values[value.strip()].add(value)
+
+            discreps = [e for e in equal_values.values() if len(e) > 1]
+
+            if discreps:
+                field_results[field] = discreps
+
+        return field_results
+
+    def findWhitespaceDiscrepancies(self):
+        field_results = {}
+
+        for field, values in self.fieldValues().iteritems():
+            equal_values = defaultdict(set)
+
+            for value in values:
+                equal_values[''.join(value.split())].add(value)
+
+            discreps = [e for e in equal_values.values() if len(e) > 1]
+
+            if discreps:
+                field_results[field] = discreps
+
+        return field_results
+
     def fieldValues(self):
         field_values = defaultdict(set)
 
