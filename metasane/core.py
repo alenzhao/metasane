@@ -60,6 +60,27 @@ class MetadataTable(object):
 
         return field_results
 
+    def findDiscrepancies(self):
+        """
+
+        Currently checks all fields. Only looks at capitalization
+        discrepancies.
+        """
+        field_results = {}
+
+        for field, values in self.fieldValues().items():
+            equal_values = defaultdict(set)
+
+            for value in values:
+                equal_values[value.lower()].add(value)
+
+            discreps = [e for e in equal_values.values() if len(e) > 1]
+
+            if discreps:
+                field_results[field] = discreps
+
+        return field_results
+
     def fieldValues(self):
         field_values = defaultdict(set)
 
