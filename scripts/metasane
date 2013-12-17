@@ -11,7 +11,7 @@ if len(sys.argv) != 3:
 
 md_fp, vocab_dir = sys.argv[1:]
 md_table = MetadataTable.from_file(md_fp)
-vocabs = VocabularySet(vocab_dir)
+vocabs = VocabularySet.from_dir(vocab_dir)
 
 controlled_fields = md_table.candidate_controlled_fields(vocabs)
 validation_results = md_table.validate_controlled_fields(vocabs)

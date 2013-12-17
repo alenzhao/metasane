@@ -105,24 +105,35 @@ class MetadataTable(object):
         return vocab_id, value
 
 class VocabularySet(object):
-    wildcard = '*.txt'
+    @classmethod
+    def from_dir(cls, vocab_dir, wildcard='*.txt'):
+        vocab_files = {}
+        files_to_close = []
 
-    #@classmethod
-    #def from_dir(cls, vocab_dir):
+        for vocab_fp in glob(join(vocab_dir, wildcard)):
+            vocab_id = splitext(basename(vocab_fp))[0]
+            vocab_f = open(vocab_fp, 'U')
+            vocab_files[vocab_id] = vocab_f
+            files_to_close.append(vocab_f)
 
-    def __init__(self, vocab_dir):
+        vocab_set = cls(vocab_files)
+
+        for file_handle in files_to_close:
+            file_handle.close()
+
+        return vocab_set
+
+    def __init__(self, vocab_files):
         self._vocabs = {}
 
-        for vocab_fp in glob(join(vocab_dir, self.wildcard)):
-            vocab_id = splitext(basename(vocab_fp))[0]
+        for vocab_id, vocab_f in vocab_files.iteritems():
             vocab = set()
 
-            with open(vocab_fp, 'U') as vocab_f:
-                for line in vocab_f:
-                    line = line.strip()
+            for line in vocab_f:
+                line = line.strip()
 
-                    if line:
-                        vocab.add(line.lower())
+                if line:
+                    vocab.add(line.lower())
 
             self._vocabs[vocab_id] = vocab
 
