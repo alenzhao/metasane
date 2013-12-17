@@ -60,6 +60,15 @@ class MetadataTable(object):
 
         return field_results
 
+    def fieldValues(self):
+        field_values = defaultdict(set)
+
+        for row in self._table:
+            for field, cell_value in row.items():
+                field_values[field].add(cell_value)
+
+        return field_values
+
     def _extract_vocab_id(self, cell_value):
         split_val = cell_value.split(self.VocabDelimiter, 1)
 
