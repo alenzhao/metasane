@@ -2,32 +2,62 @@
 from __future__ import division
 
 from unittest import TestCase, main
-from metasane.core import MetadataTable, VocabularySet
+from metasane.core import (MetadataTable, MultipleVocabulariesError,
+                           VocabularySet)
 
 class MetadataTableTests(TestCase):
     def setUp(self):
         """Initialize data used in the tests."""
         self.md_table = MetadataTable(METADATA_1.split('\n'))
-        self.vocabs = {
+        self.vocabs_1 = VocabularySet({
                 'vocab_1': VOCAB_1.split('\n'),
                 'vocab_2': VOCAB_2.split('\n')
-        }
+        })
+
+        self.vocabs_2 = VocabularySet({
+                'vocab_1': VOCAB_1.split('\n'),
+                'vocab_3': VOCAB_2.split('\n')
+        })
 
     def test_candidate_controlled_fields(self):
         """Test finding fields that look like they use controlled vocabs."""
         obs = self.md_table.candidate_controlled_fields()
         self.assertEqual(obs, {'Baz': {'vocab_1', 'vocab_3'}})
 
-        obs = self.md_table.candidate_controlled_fields(self.vocabs)
+        obs = self.md_table.candidate_controlled_fields(self.vocabs_1)
         self.assertEqual(obs, {'Baz': {'vocab_1'}})
+
+    def test_validate_controlled_fields(self):
+        """Test validating fields that look like they use controlled vocabs."""
+        obs = self.md_table.validate_controlled_fields(self.vocabs_1)
+        self.assertEqual(obs, {'Baz': {'na', 'vocab_3:baz', 'vocab_1:foobar'}})
+
+        with self.assertRaises(MultipleVocabulariesError):
+            _ = self.md_table.validate_controlled_fields(self.vocabs_2)
+
+    def test_find_discrepancies(self):
+        """Test finding discrepancies in fields."""
+        exp = {
+                'Foo': {
+                        'hanging whitespace': [{'NO ', ' NO'}],
+                        'capitalization': [{'Yes', 'yes'}],
+                        'whitespace': [{'NO ', ' NO'}]
+                },
+                
+                'Bar': {
+                        'whitespace': [{'foo bar', 'foobar', ' foo  bar '}]
+                }
+        }
+        obs = self.md_table.find_discrepancies()
+        self.assertEqual(obs, exp)
 
     def test_field_values(self):
         """Test collecting all values in each field."""
         exp = {
                 '#ID': {'A', 'B', 'C', 'D', 'E'},
-                'Foo': {'Yes', 'yes', 'nO ', ' NO'},
+                'Foo': {'Yes', 'yes', 'NO ', ' NO'},
                 'Bar': {'foobar', 'foo bar', 'baz', ' foo  bar '},
-                'Baz': {'vocab_1:foo', 'vocab_1:bar', 'vocab_3:baz', 'na'}
+                'Baz': {'vocab_1:foobar', 'vocab_1:BAr', 'vocab_3:baz', 'na'}
         }
         obs = self.md_table.field_values()
         self.assertEqual(obs, exp)
@@ -92,9 +122,9 @@ class VocabularySetTests(TestCase):
 
 METADATA_1 = """#ID\tFoo\tBar\tBaz
 A\tYes\tfoo bar\tna
-B\t NO\tfoobar\tvocab_1:bar
-C\tyes\tbaz\tvocab_1:foo
-D\tnO \t foo  bar \tna
+B\t NO\tfoobar\tvocab_1:BAr
+C\tyes\tbaz\tvocab_1:foobar
+D\tNO \t foo  bar \tna
 E\tyes\t foo  bar \tvocab_3:baz
 """
 
