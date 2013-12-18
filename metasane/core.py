@@ -37,8 +37,7 @@ class MetadataTable(object):
         return cols
 
     def validate_controlled_fields(self, known_vocabs):
-        cont_fields = self.candidate_controlled_fields(
-                known_vocabs=known_vocabs)
+        cont_fields = self.candidate_controlled_fields(known_vocabs)
 
         field_to_vocab_id = {}
         for field, vocab_ids in cont_fields.iteritems():
