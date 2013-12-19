@@ -11,7 +11,18 @@ class MetadataTable(object):
     discrepancy_removers = {
             'capitalization': lambda e: e.lower(),
             'hanging whitespace': lambda e: e.strip(),
-            'whitespace': lambda e: ''.join(e.split())
+            'whitespace': lambda e: ''.join(e.split()),
+            # Not exactly thrilled about this... can define a helper function
+            # to generate these lambdas, but not worth the effort right now.
+            'pipe': lambda e: e.replace('|', ''),
+            'underscore': lambda e: e.replace('_', ''),
+            'hyphen': lambda e: e.replace('-', ''),
+            'forward slash': lambda e: e.replace('/', ''),
+            'backslash': lambda e: e.replace('\\', ''),
+            'period': lambda e: e.replace('.', ''),
+            'single quote': lambda e: e.replace('\'', ''),
+            'double quote': lambda e: e.replace('"', ''),
+            'ampersand': lambda e: e.replace('&', '')
     }
 
     @classmethod
