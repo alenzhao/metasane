@@ -2,6 +2,8 @@
 
 *A tool to validate metadata sanity*
 
+[![Build Status](https://travis-ci.org/clemente-lab/metasane.png?branch=master)](https://travis-ci.org/clemente-lab/metasane)
+
 metasane is currently under active development and thus its API should be
 considered highly unstable.
 
