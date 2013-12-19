@@ -19,11 +19,10 @@ file for more details.
 
 The easiest way to install is via ```pip```:
 
-```pip install .```
+    pip install .
 
 ## Testing
 
 To run the unit tests:
 
-```nosetests```
-
+    nosetests
