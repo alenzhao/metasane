@@ -26,3 +26,4 @@ The easiest way to install is via ```pip```:
 To run the unit tests:
 
 ```nosetests```
+
