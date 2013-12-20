@@ -45,20 +45,26 @@ class MetadataTableTests(TestCase):
 
     def test_find_discrepancies(self):
         """Test finding discrepancies in fields."""
-        exp = ({'hanging whitespace': 1, 'capitalization': 1, 'whitespace': 2},
-               {
+        exp_0 = {
+                'hanging whitespace': [1, 2],
+                'capitalization': [1, 3],
+                'whitespace': [2, 6]
+        }
+
+        exp_1 = {
                 'Foo': {
-                        'hanging whitespace': [{'NO ', ' NO'}],
-                        'capitalization': [{'Yes', 'yes'}],
-                        'whitespace': [{'NO ', ' NO'}]
+                        'hanging whitespace': [['NO ', ' NO']],
+                        'capitalization': [['Yes', 'yes']],
+                        'whitespace': [['NO ', ' NO']]
                 },
                 
                 'Bar': {
-                        'whitespace': [{'foo bar', 'foobar', ' foo  bar '}]
+                        'whitespace': [['foo bar', 'foobar', ' foo  bar ']]
                 }
-        })
+        }
         obs = self.md_table.find_discrepancies()
-        self.assertEqual(obs, exp)
+        self.assertEqual(obs[0], exp_0)
+        self.assertEqual(obs[1], exp_1)
 
     def test_field_values(self):
         """Test collecting all values in each field."""

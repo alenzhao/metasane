@@ -19,11 +19,19 @@ discrep_results = md_table.find_discrepancies()
 
 print "Summary stats:\n"
 
+print "Total number of cells: %d" % md_table.size
 print "Number of fields that use controlled vocabularies: %d" % len(controlled_fields)
 
-print "Number of unique discrepancy occurrences:"
+print "Number of discrepancies:"
 for discrep_name, discrep_count in discrep_results[0].iteritems():
-    print "\t%s\t%d" % (discrep_name, discrep_count)
+    print "\t%s\t%d (%.2f%%)" % (discrep_name, discrep_count[0],
+                                 (discrep_count[1] / md_table.size) * 100)
+
+print("In the above output, the first number is the number of *unique* "
+      "discrepancy occurrences (e.g., 'foo' vs. 'FOO', 'bar' vs. 'BAR' vs. "
+      "'bAr' would be two distinct occurrences, ignoring the number of "
+      "affected cells). The second number is the percentage of cells in the "
+      "table that are affected by the discrepancy type.")
 print
 
 print "The following fields appear to reference controlled vocabularies:\n"

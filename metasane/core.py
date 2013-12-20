@@ -82,24 +82,32 @@ class MetadataTable(object):
 
     def find_discrepancies(self):
         """Currently checks all fields."""
-        unique_discreps = Counter()
-        field_results = defaultdict(dict)
+        # discrep name -> [unique discrep count, total discrep cell count]
+        discrep_counts = defaultdict(lambda: [0, 0])
+
+        # field name -> discrep name -> [['foo', 'FOO'], ['bar', 'bAr']]
+        field_results = defaultdict(lambda: defaultdict(list))
 
         for field, values in self.field_values().iteritems():
             for discrep_name, discrep_remover in \
                     self.discrepancy_removers.iteritems():
-                equal_values = defaultdict(set)
+                equal_values = defaultdict(Counter)
 
-                for value in values:
-                    equal_values[discrep_remover(value)].add(value)
+                for value, value_count in values.iteritems():
+                    equal_values[discrep_remover(value)][value] += value_count
 
                 discreps = [e for e in equal_values.values() if len(e) > 1]
 
                 if discreps:
-                    unique_discreps[discrep_name] += len(discreps)
-                    field_results[field][discrep_name] = discreps
+                    discrep_counts[discrep_name][0] += len(discreps)
 
-        return unique_discreps, field_results
+                    for discrep in discreps:
+                        discrep_counts[discrep_name][1] += \
+                                sum(discrep.values())
+                        field_results[field][discrep_name].append(
+                                discrep.keys())
+
+        return discrep_counts, field_results
 
     def field_values(self):
         field_vals = defaultdict(Counter)
