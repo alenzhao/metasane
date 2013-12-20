@@ -33,6 +33,11 @@ class MetadataTable(object):
     def __init__(self, metadata_f, delimiter='\t'):
         reader = DictReader(metadata_f, delimiter=delimiter)
         self._table = [row for row in reader]
+        self.shape = len(self._table), len(reader.fieldnames)
+
+    @property
+    def size(self):
+        return self.shape[0] * self.shape[1]
 
     def candidate_controlled_fields(self, known_vocabs=None):
         cols = defaultdict(set)

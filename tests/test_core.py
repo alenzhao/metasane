@@ -19,6 +19,14 @@ class MetadataTableTests(TestCase):
                 'vocab_3': VOCAB_2.split('\n')
         })
 
+    def test_shape(self):
+        """Test that shape can properly be retrieved."""
+        self.assertEqual(self.md_table.shape, (5, 4))
+
+    def test_size(self):
+        """Test that number of elements can be retrieved."""
+        self.assertEqual(self.md_table.size, 20)
+
     def test_candidate_controlled_fields(self):
         """Test finding fields that look like they use controlled vocabs."""
         obs = self.md_table.candidate_controlled_fields()

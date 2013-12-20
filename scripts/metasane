@@ -17,6 +17,11 @@ controlled_fields = md_table.candidate_controlled_fields(vocabs)
 validation_results = md_table.validate_controlled_fields(vocabs)
 discrep_results = md_table.find_discrepancies()
 
+print "Summary stats:\n"
+
+print "Number of fields that use controlled vocabularies: %d" % len(controlled_fields)
+print
+
 print "The following fields appear to reference controlled vocabularies:\n"
 for field, vocab_matches in controlled_fields.iteritems():
     print "%s\t%s" % (field, list(vocab_matches)[0])
