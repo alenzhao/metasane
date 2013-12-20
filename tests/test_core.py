@@ -63,10 +63,10 @@ class MetadataTableTests(TestCase):
     def test_field_values(self):
         """Test collecting all values in each field."""
         exp = {
-                '#ID': {'A', 'B', 'C', 'D', 'E'},
-                'Foo': {'Yes', 'yes', 'NO ', ' NO'},
-                'Bar': {'foobar', 'foo bar', 'baz', ' foo  bar '},
-                'Baz': {'vocab_1:foobar', 'vocab_1:BAr', 'vocab_3:baz', 'na'}
+                '#ID': {'A': 1, 'B': 1, 'C': 1, 'D': 1, 'E': 1},
+                'Foo': {'Yes': 1, 'yes': 2, 'NO ': 1, ' NO': 1},
+                'Bar': {'foobar': 1, 'foo bar': 1, 'na': 1, ' foo  bar ': 2},
+                'Baz': {'vocab_1:foobar': 1, 'vocab_1:BAr': 1, 'vocab_3:baz': 1, 'na': 2}
         }
         obs = self.md_table.field_values()
         self.assertEqual(obs, exp)
@@ -132,7 +132,7 @@ class VocabularySetTests(TestCase):
 METADATA_1 = """#ID\tFoo\tBar\tBaz
 A\tYes\tfoo bar\tna
 B\t NO\tfoobar\tvocab_1:BAr
-C\tyes\tbaz\tvocab_1:foobar
+C\tyes\tna\tvocab_1:foobar
 D\tNO \t foo  bar \tna
 E\tyes\t foo  bar \tvocab_3:baz
 """

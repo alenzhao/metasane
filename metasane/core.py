@@ -2,7 +2,7 @@
 from __future__ import division
 
 from csv import DictReader
-from collections import defaultdict
+from collections import Counter, defaultdict
 from glob import glob
 from os.path import basename, join, splitext
 
@@ -82,7 +82,7 @@ class MetadataTable(object):
 
     def find_discrepancies(self):
         """Currently checks all fields."""
-        unique_discreps = defaultdict(int)
+        unique_discreps = Counter()
         field_results = defaultdict(dict)
 
         for field, values in self.field_values().iteritems():
@@ -102,11 +102,11 @@ class MetadataTable(object):
         return unique_discreps, field_results
 
     def field_values(self):
-        field_vals = defaultdict(set)
+        field_vals = defaultdict(Counter)
 
         for row in self._table:
             for field in row:
-                field_vals[field].add(row[field])
+                field_vals[field][row[field]] += 1
 
         return field_vals
 
