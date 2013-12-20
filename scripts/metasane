@@ -20,6 +20,10 @@ discrep_results = md_table.find_discrepancies()
 print "Summary stats:\n"
 
 print "Number of fields that use controlled vocabularies: %d" % len(controlled_fields)
+
+print "Number of unique discrepancy occurrences:"
+for discrep_name, discrep_count in discrep_results[0].iteritems():
+    print "\t%s\t%d" % (discrep_name, discrep_count)
 print
 
 print "The following fields appear to reference controlled vocabularies:\n"
@@ -35,7 +39,7 @@ print
 
 print("The following fields have discrepancies related to leading/trailing "
       "whitespace, whitespace usage, and/or capitalization:\n")
-for field, discreps in discrep_results.iteritems():
+for field, discreps in discrep_results[1].iteritems():
     print "%s:" % field
 
     for discrep_name, discrep_vals in discreps.iteritems():

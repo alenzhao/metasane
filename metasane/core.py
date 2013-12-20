@@ -82,6 +82,7 @@ class MetadataTable(object):
 
     def find_discrepancies(self):
         """Currently checks all fields."""
+        unique_discreps = defaultdict(int)
         field_results = defaultdict(dict)
 
         for field, values in self.field_values().iteritems():
@@ -95,9 +96,10 @@ class MetadataTable(object):
                 discreps = [e for e in equal_values.values() if len(e) > 1]
 
                 if discreps:
+                    unique_discreps[discrep_name] += len(discreps)
                     field_results[field][discrep_name] = discreps
 
-        return field_results
+        return unique_discreps, field_results
 
     def field_values(self):
         field_vals = defaultdict(set)
