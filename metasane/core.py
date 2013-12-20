@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from __future__ import division
 
+import re
 from csv import DictReader
 from collections import Counter, defaultdict
 from glob import glob
@@ -22,7 +23,9 @@ class MetadataTable(object):
             'period': lambda e: e.replace('.', ''),
             'single quote': lambda e: e.replace('\'', ''),
             'double quote': lambda e: e.replace('"', ''),
-            'ampersand': lambda e: e.replace('&', '')
+            'ampersand': lambda e: e.replace('&', ''),
+            'comma': lambda e: e.replace(',', ''),
+            'brackets': lambda e: re.sub('[(){}<>\[\]]', '', e)
     }
 
     @classmethod
