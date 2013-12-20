@@ -8,8 +8,8 @@ from glob import glob
 from os.path import basename, join, splitext
 
 class MetadataTable(object):
-    vocab_delimiter = ':'
-    discrepancy_removers = {
+    _vocab_delimiter = ':'
+    _discrepancy_removers = {
             'capitalization': lambda e: e.lower(),
             'hanging whitespace': lambda e: e.strip(),
             'whitespace': lambda e: ''.join(e.split()),
@@ -27,6 +27,7 @@ class MetadataTable(object):
             'comma': lambda e: e.replace(',', ''),
             'brackets': lambda e: re.sub('[(){}<>\[\]]', '', e)
     }
+    _numeric_ignore_list = ['na', 'n/a', 'none']
 
     @classmethod
     def from_file(cls, metadata_fp, delimiter='\t'):
@@ -36,17 +37,34 @@ class MetadataTable(object):
     def __init__(self, metadata_f, delimiter='\t'):
         reader = DictReader(metadata_f, delimiter=delimiter)
         self._table = [row for row in reader]
-        self.shape = len(self._table), len(reader.fieldnames)
+        self.field_names = reader.fieldnames
+        self.shape = len(self._table), len(self.field_names)
 
     @property
     def size(self):
         return self.shape[0] * self.shape[1]
 
-    def candidate_controlled_fields(self, known_vocabs=None):
-        cols = defaultdict(set)
+    def numeric_fields(self):
+        """Order is *not* guaranteed!"""
+        num_fields = defaultdict(list)
 
         for row in self._table:
             for field in row:
+                num_fields[field].append(self._is_numeric(row[field]))
+
+        return set([field for field in num_fields if all(num_fields[field])])
+
+    def categorical_fields(self):
+        """Order is *not* guaranteed!"""
+        return set(self.field_names) - self.numeric_fields()
+
+    def candidate_controlled_fields(self, known_vocabs=None):
+        """Ignores numeric fields."""
+        cols = defaultdict(set)
+        cat_fields = self.categorical_fields()
+
+        for row in self._table:
+            for field in cat_fields:
                 vocab_id, _ = self._extract_vocab_id(row[field])
 
                 if vocab_id is not None:
@@ -86,16 +104,23 @@ class MetadataTable(object):
         return field_results, invalid_count
 
     def find_discrepancies(self):
-        """Currently checks all fields."""
+        """
+
+        Ignores numeric fields. Checks all remaining fields, including those
+        with controlled vocabularies.
+        """
+        # These native python data structures are getting a little complicated
+        # for my tastes. Will refactor into proper classes later on.
+
         # discrep name -> [unique discrep count, total discrep cell count]
         discrep_counts = defaultdict(lambda: [0, 0])
 
         # field name -> discrep name -> [['foo', 'FOO'], ['bar', 'bAr']]
         field_results = defaultdict(lambda: defaultdict(list))
 
-        for field, values in self.field_values().iteritems():
+        for field, values in self.categorical_field_values().iteritems():
             for discrep_name, discrep_remover in \
-                    self.discrepancy_removers.iteritems():
+                    self._discrepancy_removers.iteritems():
                 equal_values = defaultdict(Counter)
 
                 for value, value_count in values.iteritems():
@@ -114,17 +139,31 @@ class MetadataTable(object):
 
         return discrep_counts, field_results
 
-    def field_values(self):
+    def categorical_field_values(self):
         field_vals = defaultdict(Counter)
+        cat_fields = self.categorical_fields()
 
         for row in self._table:
-            for field in row:
+            for field in cat_fields:
                 field_vals[field][row[field]] += 1
 
         return field_vals
 
+    def _is_numeric(self, cell_value):
+        is_numeric = False
+
+        try:
+            _ = float(cell_value)
+        except ValueError:
+            if cell_value.strip().lower() in self._numeric_ignore_list:
+                is_numeric = True
+        else:
+            is_numeric = True
+
+        return is_numeric
+
     def _extract_vocab_id(self, cell_value):
-        split_val = cell_value.split(self.vocab_delimiter, 1)
+        split_val = cell_value.split(self._vocab_delimiter, 1)
 
         if len(split_val) == 1:
             vocab_id = None

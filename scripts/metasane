@@ -9,17 +9,22 @@ if len(sys.argv) != 3:
                      "<controlled vocabularies directory>\n")
     sys.exit(1)
 
+header_line = "################################################################################"
+
 md_fp, vocab_dir = sys.argv[1:]
 md_table = MetadataTable.from_file(md_fp)
 vocabs = VocabularySet.from_dir(vocab_dir)
 
+numeric_fields = md_table.numeric_fields()
 controlled_fields = md_table.candidate_controlled_fields(vocabs)
 validation_results = md_table.validate_controlled_fields(vocabs)
 discrep_results = md_table.find_discrepancies()
 
+print header_line
 print "Summary stats:\n"
 
 print "Total number of cells: %d" % md_table.size
+print "Number of fields that are numeric: %d" % len(numeric_fields)
 print "Number of fields that use controlled vocabularies: %d" % len(controlled_fields)
 print("Percentage of cells that are in controlled fields and do not match "
       "their controlled vocabulary: %.2f%%" %
@@ -35,6 +40,12 @@ print("In the above output, the first number is the number of *unique* "
       "'bAr' would be two distinct occurrences, ignoring the number of "
       "affected cells). The second number is the percentage of cells in the "
       "table that are affected by the discrepancy type.")
+print header_line
+print
+
+print "The following fields appear to be numeric:\n"
+for field in numeric_fields:
+    print field
 print
 
 print "The following fields appear to reference controlled vocabularies:\n"

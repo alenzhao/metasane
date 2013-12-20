@@ -21,11 +21,21 @@ class MetadataTableTests(TestCase):
 
     def test_shape(self):
         """Test that shape can properly be retrieved."""
-        self.assertEqual(self.md_table.shape, (5, 4))
+        self.assertEqual(self.md_table.shape, (5, 5))
 
     def test_size(self):
         """Test that number of elements can be retrieved."""
-        self.assertEqual(self.md_table.size, 20)
+        self.assertEqual(self.md_table.size, 25)
+
+    def test_numeric_fields(self):
+        """Test finding fields that are numeric."""
+        obs = self.md_table.numeric_fields()
+        self.assertEqual(obs, {'Num'})
+
+    def test_categorical_fields(self):
+        """Test finding fields that are categorical."""
+        obs = self.md_table.categorical_fields()
+        self.assertEqual(obs, {'Bar', 'Foo', 'Baz', '#ID'})
 
     def test_candidate_controlled_fields(self):
         """Test finding fields that look like they use controlled vocabs."""
@@ -67,16 +77,35 @@ class MetadataTableTests(TestCase):
         self.assertEqual(obs[0], exp_0)
         self.assertEqual(obs[1], exp_1)
 
-    def test_field_values(self):
-        """Test collecting all values in each field."""
+    def test_categorical_field_values(self):
+        """Test collecting all values in each categorical field."""
         exp = {
                 '#ID': {'A': 1, 'B': 1, 'C': 1, 'D': 1, 'E': 1},
                 'Foo': {'Yes': 1, 'yes': 2, 'NO ': 1, ' NO': 1},
                 'Bar': {'foobar': 1, 'foo bar': 1, 'na': 1, ' foo  bar ': 2},
-                'Baz': {'vocab_1:foobar': 1, 'vocab_1:BAr': 1, 'vocab_3:baz': 1, 'na': 2}
+                'Baz': {'vocab_1:foobar': 1, 'vocab_1:BAr': 1,
+                        'vocab_3:baz': 1, 'na': 2}
         }
-        obs = self.md_table.field_values()
+        obs = self.md_table.categorical_field_values()
         self.assertEqual(obs, exp)
+
+    def test_is_numeric_true(self):
+        """Test checking cell values that are numeric."""
+        self.assertTrue(self.md_table._is_numeric('1'))
+        self.assertTrue(self.md_table._is_numeric('1.0'))
+        self.assertTrue(self.md_table._is_numeric('-1.0'))
+        self.assertTrue(self.md_table._is_numeric('-1e-12'))
+        self.assertTrue(self.md_table._is_numeric('na'))
+        self.assertTrue(self.md_table._is_numeric('NA'))
+        self.assertTrue(self.md_table._is_numeric('N/A'))
+        self.assertTrue(self.md_table._is_numeric('None'))
+        self.assertTrue(self.md_table._is_numeric('  \tn/a'))
+        self.assertTrue(self.md_table._is_numeric('nonE   '))
+
+    def test_is_numeric_false(self):
+        """Test checking cell values that are not numeric."""
+        self.assertFalse(self.md_table._is_numeric('abc'))
+        self.assertFalse(self.md_table._is_numeric(''))
 
     def test_extract_vocab_id(self):
         """Test extracting vocabulary ID from a cell value."""
@@ -136,12 +165,12 @@ class VocabularySetTests(TestCase):
         """Test retrieving the number of vocabs."""
         self.assertEqual(len(self.multi_vocab_inst), 2)
 
-METADATA_1 = """#ID\tFoo\tBar\tBaz
-A\tYes\tfoo bar\tna
-B\t NO\tfoobar\tvocab_1:BAr
-C\tyes\tna\tvocab_1:foobar
-D\tNO \t foo  bar \tna
-E\tyes\t foo  bar \tvocab_3:baz
+METADATA_1 = """#ID\tFoo\tBar\tBaz\tNum
+A\tYes\tfoo bar\tna\t0.001
+B\t NO\tfoobar\tvocab_1:BAr\t NA
+C\tyes\tna\tvocab_1:foobar\t-1e-2
+D\tNO \t foo  bar \tna\t N/A
+E\tyes\t foo  bar \tvocab_3:baz\t36.446
 """
 
 VOCAB_1 = """foo
