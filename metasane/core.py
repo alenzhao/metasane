@@ -69,6 +69,7 @@ class MetadataTable(object):
         # Can remove this second pass though the file, but not important for
         # this first iteration.
         field_results = defaultdict(set)
+        invalid_count = 0
         for row in self._table:
             for field in field_to_vocab_id:
                 cell_value = row[field]
@@ -77,8 +78,9 @@ class MetadataTable(object):
                 if (vocab_id is None or vocab_id not in known_vocabs or
                     value.lower() not in known_vocabs[vocab_id]):
                     field_results[field].add(cell_value)
+                    invalid_count += 1
 
-        return field_results
+        return field_results, invalid_count
 
     def find_discrepancies(self):
         """Currently checks all fields."""

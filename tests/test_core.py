@@ -38,7 +38,8 @@ class MetadataTableTests(TestCase):
     def test_validate_controlled_fields(self):
         """Test validating fields that look like they use controlled vocabs."""
         obs = self.md_table.validate_controlled_fields(self.vocabs_1)
-        self.assertEqual(obs, {'Baz': {'na', 'vocab_3:baz', 'vocab_1:foobar'}})
+        self.assertEqual(obs,
+                         ({'Baz': {'na', 'vocab_3:baz', 'vocab_1:foobar'}}, 4))
 
         with self.assertRaises(MultipleVocabulariesError):
             _ = self.md_table.validate_controlled_fields(self.vocabs_2)

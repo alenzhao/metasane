@@ -21,6 +21,9 @@ print "Summary stats:\n"
 
 print "Total number of cells: %d" % md_table.size
 print "Number of fields that use controlled vocabularies: %d" % len(controlled_fields)
+print("Percentage of cells that are in controlled fields and do not match "
+      "their controlled vocabulary: %.2f%%" %
+      ((validation_results[1] / md_table.size) * 100))
 
 print "Number of discrepancies:"
 for discrep_name, discrep_count in discrep_results[0].iteritems():
@@ -41,7 +44,7 @@ print
 
 print("The following values do not match the fields' controlled vocabularies "
       "(case-insensitive matching was used):\n")
-for field, invalid_values in validation_results.iteritems():
+for field, invalid_values in validation_results[0].iteritems():
     print "%s\t%s" % (field, ', '.join(list(invalid_values)))
 print
 
