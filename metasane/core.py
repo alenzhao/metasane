@@ -1,14 +1,15 @@
 #!/usr/bin/env python
 from __future__ import division
 
+import re
 from csv import DictReader
-from collections import defaultdict
+from collections import Counter, defaultdict
 from glob import glob
 from os.path import basename, join, splitext
 
 class MetadataTable(object):
-    vocab_delimiter = ':'
-    discrepancy_removers = {
+    _vocab_delimiter = ':'
+    _discrepancy_removers = {
             'capitalization': lambda e: e.lower(),
             'hanging whitespace': lambda e: e.strip(),
             'whitespace': lambda e: ''.join(e.split()),
@@ -22,8 +23,11 @@ class MetadataTable(object):
             'period': lambda e: e.replace('.', ''),
             'single quote': lambda e: e.replace('\'', ''),
             'double quote': lambda e: e.replace('"', ''),
-            'ampersand': lambda e: e.replace('&', '')
+            'ampersand': lambda e: e.replace('&', ''),
+            'comma': lambda e: e.replace(',', ''),
+            'brackets': lambda e: re.sub('[(){}<>\[\]]', '', e)
     }
+    _numeric_ignore_list = ['na', 'n/a', 'none']
 
     @classmethod
     def from_file(cls, metadata_fp, delimiter='\t'):
@@ -33,12 +37,34 @@ class MetadataTable(object):
     def __init__(self, metadata_f, delimiter='\t'):
         reader = DictReader(metadata_f, delimiter=delimiter)
         self._table = [row for row in reader]
+        self.field_names = reader.fieldnames
+        self.shape = len(self._table), len(self.field_names)
 
-    def candidate_controlled_fields(self, known_vocabs=None):
-        cols = defaultdict(set)
+    @property
+    def size(self):
+        return self.shape[0] * self.shape[1]
+
+    def numeric_fields(self):
+        """Order is *not* guaranteed!"""
+        num_fields = defaultdict(list)
 
         for row in self._table:
             for field in row:
+                num_fields[field].append(self._is_numeric(row[field]))
+
+        return set([field for field in num_fields if all(num_fields[field])])
+
+    def categorical_fields(self):
+        """Order is *not* guaranteed!"""
+        return set(self.field_names) - self.numeric_fields()
+
+    def candidate_controlled_fields(self, known_vocabs=None):
+        """Ignores numeric fields."""
+        cols = defaultdict(set)
+        cat_fields = self.categorical_fields()
+
+        for row in self._table:
+            for field in cat_fields:
                 vocab_id, _ = self._extract_vocab_id(row[field])
 
                 if vocab_id is not None:
@@ -64,6 +90,7 @@ class MetadataTable(object):
         # Can remove this second pass though the file, but not important for
         # this first iteration.
         field_results = defaultdict(set)
+        invalid_count = 0
         for row in self._table:
             for field in field_to_vocab_id:
                 cell_value = row[field]
@@ -72,39 +99,71 @@ class MetadataTable(object):
                 if (vocab_id is None or vocab_id not in known_vocabs or
                     value.lower() not in known_vocabs[vocab_id]):
                     field_results[field].add(cell_value)
+                    invalid_count += 1
 
-        return field_results
+        return field_results, invalid_count
 
     def find_discrepancies(self):
-        """Currently checks all fields."""
-        field_results = defaultdict(dict)
+        """
 
-        for field, values in self.field_values().iteritems():
+        Ignores numeric fields. Checks all remaining fields, including those
+        with controlled vocabularies.
+        """
+        # These native python data structures are getting a little complicated
+        # for my tastes. Will refactor into proper classes later on.
+
+        # discrep name -> [unique discrep count, total discrep cell count]
+        discrep_counts = defaultdict(lambda: [0, 0])
+
+        # field name -> discrep name -> [['foo', 'FOO'], ['bar', 'bAr']]
+        field_results = defaultdict(lambda: defaultdict(list))
+
+        for field, values in self.categorical_field_values().iteritems():
             for discrep_name, discrep_remover in \
-                    self.discrepancy_removers.iteritems():
-                equal_values = defaultdict(set)
+                    self._discrepancy_removers.iteritems():
+                equal_values = defaultdict(Counter)
 
-                for value in values:
-                    equal_values[discrep_remover(value)].add(value)
+                for value, value_count in values.iteritems():
+                    equal_values[discrep_remover(value)][value] += value_count
 
                 discreps = [e for e in equal_values.values() if len(e) > 1]
 
                 if discreps:
-                    field_results[field][discrep_name] = discreps
+                    discrep_counts[discrep_name][0] += len(discreps)
 
-        return field_results
+                    for discrep in discreps:
+                        discrep_counts[discrep_name][1] += \
+                                sum(discrep.values())
+                        field_results[field][discrep_name].append(
+                                discrep.keys())
 
-    def field_values(self):
-        field_vals = defaultdict(set)
+        return discrep_counts, field_results
+
+    def categorical_field_values(self):
+        field_vals = defaultdict(Counter)
+        cat_fields = self.categorical_fields()
 
         for row in self._table:
-            for field in row:
-                field_vals[field].add(row[field])
+            for field in cat_fields:
+                field_vals[field][row[field]] += 1
 
         return field_vals
 
+    def _is_numeric(self, cell_value):
+        is_numeric = False
+
+        try:
+            _ = float(cell_value)
+        except ValueError:
+            if cell_value.strip().lower() in self._numeric_ignore_list:
+                is_numeric = True
+        else:
+            is_numeric = True
+
+        return is_numeric
+
     def _extract_vocab_id(self, cell_value):
-        split_val = cell_value.split(self.vocab_delimiter, 1)
+        split_val = cell_value.split(self._vocab_delimiter, 1)
 
         if len(split_val) == 1:
             vocab_id = None

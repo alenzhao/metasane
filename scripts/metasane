@@ -9,13 +9,44 @@ if len(sys.argv) != 3:
                      "<controlled vocabularies directory>\n")
     sys.exit(1)
 
+header_line = "################################################################################"
+
 md_fp, vocab_dir = sys.argv[1:]
 md_table = MetadataTable.from_file(md_fp)
 vocabs = VocabularySet.from_dir(vocab_dir)
 
+numeric_fields = md_table.numeric_fields()
 controlled_fields = md_table.candidate_controlled_fields(vocabs)
 validation_results = md_table.validate_controlled_fields(vocabs)
 discrep_results = md_table.find_discrepancies()
+
+print header_line
+print "Summary stats:\n"
+
+print "Total number of cells: %d" % md_table.size
+print "Number of fields that are numeric: %d" % len(numeric_fields)
+print "Number of fields that use controlled vocabularies: %d" % len(controlled_fields)
+print("Percentage of cells that are in controlled fields and do not match "
+      "their controlled vocabulary: %.2f%%" %
+      ((validation_results[1] / md_table.size) * 100))
+
+print "Number of discrepancies:"
+for discrep_name, discrep_count in discrep_results[0].iteritems():
+    print "\t%s\t%d (%.2f%%)" % (discrep_name, discrep_count[0],
+                                 (discrep_count[1] / md_table.size) * 100)
+
+print("In the above output, the first number is the number of *unique* "
+      "discrepancy occurrences (e.g., 'foo' vs. 'FOO', 'bar' vs. 'BAR' vs. "
+      "'bAr' would be two distinct occurrences, ignoring the number of "
+      "affected cells). The second number is the percentage of cells in the "
+      "table that are affected by the discrepancy type.")
+print header_line
+print
+
+print "The following fields appear to be numeric:\n"
+for field in numeric_fields:
+    print field
+print
 
 print "The following fields appear to reference controlled vocabularies:\n"
 for field, vocab_matches in controlled_fields.iteritems():
@@ -24,13 +55,13 @@ print
 
 print("The following values do not match the fields' controlled vocabularies "
       "(case-insensitive matching was used):\n")
-for field, invalid_values in validation_results.iteritems():
+for field, invalid_values in validation_results[0].iteritems():
     print "%s\t%s" % (field, ', '.join(list(invalid_values)))
 print
 
 print("The following fields have discrepancies related to leading/trailing "
       "whitespace, whitespace usage, and/or capitalization:\n")
-for field, discreps in discrep_results.iteritems():
+for field, discreps in discrep_results[1].iteritems():
     print "%s:" % field
 
     for discrep_name, discrep_vals in discreps.iteritems():

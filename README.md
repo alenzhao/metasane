@@ -14,12 +14,12 @@ to the respective ontology authors.
 
 ## License
 
-metasane is licensed under the BSD (3-Clause) license. Please see the LICENSE
-file for more details.
+metasane is licensed under the BSD (3-Clause) license. Please see the
+```LICENSE``` file for more details.
 
 ## Installing
 
-The easiest way to install is via ```pip```:
+The easiest way to install metasane is via ```pip```:
 
     pip install .
 
