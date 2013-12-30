@@ -67,7 +67,8 @@ class MetadataTable(object):
     def categorical_fields(self):
         """Order is *not* guaranteed!"""
         if not hasattr(self, '_categorical_fields'):
-            self._categorical_fields = ((set(self.field_names) - self.numeric_fields) - self.timestamp_fields)
+            self._categorical_fields = ((set(self.field_names) -
+                    self.numeric_fields) - self.timestamp_fields)
 
         return self._categorical_fields
 
