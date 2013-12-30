@@ -50,36 +50,26 @@ class MetadataTable(object):
     def numeric_fields(self):
         """Order is *not* guaranteed!"""
         if not hasattr(self, '_numeric_fields'):
-            num_fields = defaultdict(list)
-
-            for row in self._table:
-                for field in row:
-                    num_fields[field].append(self._is_numeric(row[field]))
-
-            self._numeric_fields = set([field for field in num_fields if all(num_fields[field])])
-
+            self._numeric_fields = self._validate_fields(self.field_names,
+                                                         self._is_numeric)
         return self._numeric_fields
 
     @property
     def timestamp_fields(self):
         """Order is *not* guaranteed!"""
         if not hasattr(self, '_timestamp_fields'):
-            ts_fields = defaultdict(list)
             nonnumeric_fields = set(self.field_names) - self.numeric_fields
-
-            for row in self._table:
-                for field in nonnumeric_fields:
-                    ts_fields[field].append(self._is_timestamp(row[field]))
-
-            self._timestamp_fields = set([field for field in ts_fields if all(ts_fields[field])])
-
+            self._timestamp_fields = self._validate_fields(nonnumeric_fields,
+                                                           self._is_timestamp)
         return self._timestamp_fields
 
     @property
     def categorical_fields(self):
         """Order is *not* guaranteed!"""
-        return ((set(self.field_names) - self.numeric_fields) -
-                self.timestamp_fields)
+        if not hasattr(self, '_categorical_fields'):
+            self._categorical_fields = ((set(self.field_names) - self.numeric_fields) - self.timestamp_fields)
+
+        return self._categorical_fields
 
     def candidate_controlled_fields(self, known_vocabs=None):
         """Ignores numeric fields."""
@@ -172,6 +162,15 @@ class MetadataTable(object):
 
         return field_vals
 
+    def _validate_fields(self, fields, validator):
+        results = defaultdict(list)
+
+        for row in self._table:
+            for field in fields:
+                results[field].append(validator(row[field]))
+
+        return set([field for field in results if all(results[field])])
+
     def _is_numeric(self, cell_value):
         return self._validate_cell(cell_value, float, (ValueError,))
 
@@ -181,11 +180,11 @@ class MetadataTable(object):
         return self._validate_cell(cell_value, dateutil.parser.parse,
                                    (OverflowError, TypeError, ValueError))
 
-    def _validate_cell(self, cell_value, validation_fn, error_types):
+    def _validate_cell(self, cell_value, validator, error_types):
         is_valid = False
 
         try:
-            _ = validation_fn(cell_value)
+            _ = validator(cell_value)
         except error_types:
             if cell_value.strip().lower() in self._ignore_list:
                 is_valid = True
