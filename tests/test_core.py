@@ -37,17 +37,17 @@ class MetadataTableTests(TestCase):
 
     def test_numeric_fields(self):
         """Test finding fields that are numeric."""
-        obs = self.md_table.numeric_fields()
+        obs = self.md_table.numeric_fields
         self.assertEqual(obs, {'Num'})
 
     def test_timestamp_fields(self):
         """Test finding fields that contain timestamps."""
-        obs = self.md_table.timestamp_fields()
+        obs = self.md_table.timestamp_fields
         self.assertEqual(obs, {'Timestamp'})
 
     def test_categorical_fields(self):
         """Test finding fields that are categorical."""
-        obs = self.md_table.categorical_fields()
+        obs = self.md_table.categorical_fields
         self.assertEqual(obs, {'Bar', 'Foo', 'Baz', '#ID'})
 
     def test_candidate_controlled_fields(self):

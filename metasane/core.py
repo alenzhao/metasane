@@ -46,36 +46,45 @@ class MetadataTable(object):
     def size(self):
         return self.shape[0] * self.shape[1]
 
+    @property
     def numeric_fields(self):
         """Order is *not* guaranteed!"""
-        num_fields = defaultdict(list)
+        if not hasattr(self, '_numeric_fields'):
+            num_fields = defaultdict(list)
 
-        for row in self._table:
-            for field in row:
-                num_fields[field].append(self._is_numeric(row[field]))
+            for row in self._table:
+                for field in row:
+                    num_fields[field].append(self._is_numeric(row[field]))
 
-        return set([field for field in num_fields if all(num_fields[field])])
+            self._numeric_fields = set([field for field in num_fields if all(num_fields[field])])
 
+        return self._numeric_fields
+
+    @property
     def timestamp_fields(self):
         """Order is *not* guaranteed!"""
-        ts_fields = defaultdict(list)
-        nonnumeric_fields = set(self.field_names) - self.numeric_fields()
+        if not hasattr(self, '_timestamp_fields'):
+            ts_fields = defaultdict(list)
+            nonnumeric_fields = set(self.field_names) - self.numeric_fields
 
-        for row in self._table:
-            for field in nonnumeric_fields:
-                ts_fields[field].append(self._is_timestamp(row[field]))
+            for row in self._table:
+                for field in nonnumeric_fields:
+                    ts_fields[field].append(self._is_timestamp(row[field]))
 
-        return set([field for field in ts_fields if all(ts_fields[field])])
+            self._timestamp_fields = set([field for field in ts_fields if all(ts_fields[field])])
 
+        return self._timestamp_fields
+
+    @property
     def categorical_fields(self):
         """Order is *not* guaranteed!"""
-        return ((set(self.field_names) - self.numeric_fields()) -
-                self.timestamp_fields())
+        return ((set(self.field_names) - self.numeric_fields) -
+                self.timestamp_fields)
 
     def candidate_controlled_fields(self, known_vocabs=None):
         """Ignores numeric fields."""
         cols = defaultdict(set)
-        cat_fields = self.categorical_fields()
+        cat_fields = self.categorical_fields
 
         for row in self._table:
             for field in cat_fields:
@@ -155,7 +164,7 @@ class MetadataTable(object):
 
     def categorical_field_values(self):
         field_vals = defaultdict(Counter)
-        cat_fields = self.categorical_fields()
+        cat_fields = self.categorical_fields
 
         for row in self._table:
             for field in cat_fields:

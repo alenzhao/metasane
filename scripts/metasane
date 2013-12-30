@@ -15,8 +15,8 @@ md_fp, vocab_dir = sys.argv[1:]
 md_table = MetadataTable.from_file(md_fp)
 vocabs = VocabularySet.from_dir(vocab_dir)
 
-numeric_fields = md_table.numeric_fields()
-ts_fields = md_table.timestamp_fields()
+numeric_fields = md_table.numeric_fields
+ts_fields = md_table.timestamp_fields
 controlled_fields = md_table.candidate_controlled_fields(vocabs)
 validation_results = md_table.validate_controlled_fields(vocabs)
 discrep_results = md_table.find_discrepancies()
