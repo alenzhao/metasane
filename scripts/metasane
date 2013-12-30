@@ -16,6 +16,7 @@ md_table = MetadataTable.from_file(md_fp)
 vocabs = VocabularySet.from_dir(vocab_dir)
 
 numeric_fields = md_table.numeric_fields()
+ts_fields = md_table.timestamp_fields()
 controlled_fields = md_table.candidate_controlled_fields(vocabs)
 validation_results = md_table.validate_controlled_fields(vocabs)
 discrep_results = md_table.find_discrepancies()
@@ -45,6 +46,12 @@ print
 
 print "The following fields appear to be numeric:\n"
 for field in numeric_fields:
+    print field
+print
+
+print("The following fields appear to contain timestamps (dates, times, or "
+      "datetimes):\n")
+for field in ts_fields:
     print field
 print
 

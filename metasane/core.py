@@ -7,6 +7,8 @@ from collections import Counter, defaultdict
 from glob import glob
 from os.path import basename, join, splitext
 
+import dateutil.parser
+
 class MetadataTable(object):
     _vocab_delimiter = ':'
     _discrepancy_removers = {
@@ -27,7 +29,7 @@ class MetadataTable(object):
             'comma': lambda e: e.replace(',', ''),
             'brackets': lambda e: re.sub('[(){}<>\[\]]', '', e)
     }
-    _numeric_ignore_list = ['na', 'n/a', 'none']
+    _ignore_list = ['', 'na', 'n/a', 'none']
 
     @classmethod
     def from_file(cls, metadata_fp, delimiter='\t'):
@@ -54,9 +56,21 @@ class MetadataTable(object):
 
         return set([field for field in num_fields if all(num_fields[field])])
 
+    def timestamp_fields(self):
+        """Order is *not* guaranteed!"""
+        ts_fields = defaultdict(list)
+        nonnumeric_fields = set(self.field_names) - self.numeric_fields()
+
+        for row in self._table:
+            for field in nonnumeric_fields:
+                ts_fields[field].append(self._is_timestamp(row[field]))
+
+        return set([field for field in ts_fields if all(ts_fields[field])])
+
     def categorical_fields(self):
         """Order is *not* guaranteed!"""
-        return set(self.field_names) - self.numeric_fields()
+        return ((set(self.field_names) - self.numeric_fields()) -
+                self.timestamp_fields())
 
     def candidate_controlled_fields(self, known_vocabs=None):
         """Ignores numeric fields."""
@@ -150,17 +164,26 @@ class MetadataTable(object):
         return field_vals
 
     def _is_numeric(self, cell_value):
-        is_numeric = False
+        return self._validate_cell(cell_value, float, (ValueError,))
+
+    def _is_timestamp(self, cell_value):
+        # OverflowError occurs with stuff like 1843:2915940910 (example taken
+        # from American Gut metadata).
+        return self._validate_cell(cell_value, dateutil.parser.parse,
+                                   (OverflowError, TypeError, ValueError))
+
+    def _validate_cell(self, cell_value, validation_fn, error_types):
+        is_valid = False
 
         try:
-            _ = float(cell_value)
-        except ValueError:
-            if cell_value.strip().lower() in self._numeric_ignore_list:
-                is_numeric = True
+            _ = validation_fn(cell_value)
+        except error_types:
+            if cell_value.strip().lower() in self._ignore_list:
+                is_valid = True
         else:
-            is_numeric = True
+            is_valid = True
 
-        return is_numeric
+        return is_valid
 
     def _extract_vocab_id(self, cell_value):
         split_val = cell_value.split(self._vocab_delimiter, 1)
