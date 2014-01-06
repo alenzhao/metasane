@@ -120,8 +120,8 @@ class MetadataTable(object):
     def find_discrepancies(self):
         """
 
-        Ignores numeric fields. Checks all remaining fields, including those
-        with controlled vocabularies.
+        Ignores numeric and timestamp fields. Checks all remaining fields,
+        including those with controlled vocabularies.
         """
         # These native python data structures are getting a little complicated
         # for my tastes. Will refactor into proper classes later on.
