@@ -44,5 +44,6 @@ setup(name='metasane',
       url='https://github.com/clemente-lab/metasane',
       packages=['metasane'],
       scripts=glob('scripts/*'),
+      install_requires=['python-dateutil'],
       extras_require={'test': ['nose']},
       classifiers=classifiers)

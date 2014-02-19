@@ -19,22 +19,35 @@ class MetadataTableTests(TestCase):
                 'vocab_3': VOCAB_2.split('\n')
         })
 
+        def fail_all(e):
+            raise ValueError
+        self.fail_all_fn = fail_all
+
+        def pass_all(e):
+            pass
+        self.pass_all_fn = pass_all
+
     def test_shape(self):
         """Test that shape can properly be retrieved."""
-        self.assertEqual(self.md_table.shape, (5, 5))
+        self.assertEqual(self.md_table.shape, (5, 6))
 
     def test_size(self):
         """Test that number of elements can be retrieved."""
-        self.assertEqual(self.md_table.size, 25)
+        self.assertEqual(self.md_table.size, 30)
 
     def test_numeric_fields(self):
         """Test finding fields that are numeric."""
-        obs = self.md_table.numeric_fields()
+        obs = self.md_table.numeric_fields
         self.assertEqual(obs, {'Num'})
+
+    def test_timestamp_fields(self):
+        """Test finding fields that contain timestamps."""
+        obs = self.md_table.timestamp_fields
+        self.assertEqual(obs, {'Timestamp'})
 
     def test_categorical_fields(self):
         """Test finding fields that are categorical."""
-        obs = self.md_table.categorical_fields()
+        obs = self.md_table.categorical_fields
         self.assertEqual(obs, {'Bar', 'Foo', 'Baz', '#ID'})
 
     def test_candidate_controlled_fields(self):
@@ -95,17 +108,41 @@ class MetadataTableTests(TestCase):
         self.assertTrue(self.md_table._is_numeric('1.0'))
         self.assertTrue(self.md_table._is_numeric('-1.0'))
         self.assertTrue(self.md_table._is_numeric('-1e-12'))
-        self.assertTrue(self.md_table._is_numeric('na'))
-        self.assertTrue(self.md_table._is_numeric('NA'))
-        self.assertTrue(self.md_table._is_numeric('N/A'))
-        self.assertTrue(self.md_table._is_numeric('None'))
-        self.assertTrue(self.md_table._is_numeric('  \tn/a'))
-        self.assertTrue(self.md_table._is_numeric('nonE   '))
 
     def test_is_numeric_false(self):
         """Test checking cell values that are not numeric."""
         self.assertFalse(self.md_table._is_numeric('abc'))
-        self.assertFalse(self.md_table._is_numeric(''))
+        self.assertFalse(self.md_table._is_numeric('three'))
+
+    def test_is_timestamp_true(self):
+        """Test checking cell values that are timestamps."""
+        self.assertTrue(self.md_table._is_timestamp('2013-12-30'))
+        self.assertTrue(self.md_table._is_timestamp('12/30/2013'))
+        self.assertTrue(self.md_table._is_timestamp('08:30 AM'))
+        self.assertTrue(self.md_table._is_timestamp('08:30PM'))
+        self.assertTrue(self.md_table._is_timestamp('12/30/2013 8:30 AM'))
+
+    def test_is_timestamp_false(self):
+        """Test checking cell values that are not timestamps."""
+        self.assertFalse(self.md_table._is_timestamp('abc'))
+        self.assertFalse(self.md_table._is_timestamp('now'))
+
+    def test_validate_cell_pass(self):
+        """Test validating cell values (pass)."""
+        self.assertTrue(self.md_table._validate_cell('foo',
+                self.pass_all_fn, (ValueError,)))
+
+    def test_validate_cell_fail(self):
+        """Test validating cell values (fail)."""
+        self.assertFalse(self.md_table._validate_cell('foo',
+                self.fail_all_fn, (ValueError,)))
+
+    def test_validate_cell_ignore(self):
+        """Test validating cell values that have valid ignore values."""
+        for ignore_val in ['', ' ', 'na', 'NA', 'N/A', 'None', '  \tn/a',
+                           'nonE']:
+            self.assertTrue(self.md_table._validate_cell(ignore_val,
+                    self.fail_all_fn, (ValueError,)))
 
     def test_extract_vocab_id(self):
         """Test extracting vocabulary ID from a cell value."""
@@ -165,12 +202,12 @@ class VocabularySetTests(TestCase):
         """Test retrieving the number of vocabs."""
         self.assertEqual(len(self.multi_vocab_inst), 2)
 
-METADATA_1 = """#ID\tFoo\tBar\tBaz\tNum
-A\tYes\tfoo bar\tna\t0.001
-B\t NO\tfoobar\tvocab_1:BAr\t NA
-C\tyes\tna\tvocab_1:foobar\t-1e-2
-D\tNO \t foo  bar \tna\t N/A
-E\tyes\t foo  bar \tvocab_3:baz\t36.446
+METADATA_1 = """#ID\tFoo\tBar\tBaz\tNum\tTimestamp
+A\tYes\tfoo bar\tna\t0.001\tNone
+B\t NO\tfoobar\tvocab_1:BAr\t NA\t1:55 PM
+C\tyes\tna\tvocab_1:foobar\t-1e-2\tna
+D\tNO \t foo  bar \tna\t N/A\t2013-12-30
+E\tyes\t foo  bar \tvocab_3:baz\t36.446\t1:55PM
 """
 
 VOCAB_1 = """foo
